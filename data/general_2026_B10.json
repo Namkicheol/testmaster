@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "id": "general_2026_B10",
+    "year": 2026,
+    "number": "B-10",
+    "subject": "general",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "summary writing",
+      "sport and environment",
+      "golf course",
+      "noise pollution",
+      "sustainability"
+    ],
+    "parse_source": "2026_전공B_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Write a summary following the guidelines below.\n<Guidelines>\n∙Summarize the passage above in one paragraph.\n∙Provide a topic sentence, two supporting ideas, and a concluding sentence based on the passage.\n∙Do NOT copy more than FOUR consecutive words from the passage.",
+    "passage": "From children kicking a ball on a playground to the stars at a basketball court, sport is ubiquitous. Regardless of one's age, gender, or background, it is an important activity that not only improves physical health but also provides a recreational outlet for many people. Despite these advantages, the field of sport is under pressure due to its negative impacts on the environment.\n\nThe sport event itself is seen as environmentally challenging. The artificialization of the sport environment has an adverse effect on nature and the landscape in many ways. For instance, the rapid spread of golf courses into the green belts that encircle the major cities of the world increases many concerns. While many people, especially golfers, consider a well-manicured course a thing of beauty, its development has an environmental cost. Part of the natural landscape is destroyed, as the courses are built. In addition, huge amounts of chemical fertilizer are put into the soil to develop and then maintain the courses.\n\nIt is not solely sporting pursuits that have an impact on the environment. Major spectator sports and the associated stadia create problems in the adjacent area. Hundreds and thousands of plastic waste from bottles and food containers are generated in the stadium from crowd consumption and the concession stands nearby. Furthermore, noise emission from the arrival and departure of spectators puts a lot of strain in the area. In the case of football and rugby, the excessive cheering from the spectators and the loud music from the amplified speakers make an enormous amount of noise which lowers the environmental quality of the sport facilities in public spaces.\n\nCollectively, these issues raise concerns in maintaining a sustainable environment in the world of sport. Sport organizations should be more proactive to overcome these difficulties by pursuing policies to reduce the side effects on the environment. This will protect the long term viability and sustainability of sport.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "요약 쓰기 과제 — 지침 구조 확인 필수: topic sentence + 2개 supporting ideas + concluding sentence로 구성된 한 단락 작성. 4개 이상 연속 인용 금지.\n- 지침에 구조가 명시됨: topic sentence → supporting idea 1 → supporting idea 2 → concluding sentence\n- 한 단락(one paragraph)으로 작성\n- 4개 이상 연속 단어 인용 금지 — 핵심 내용을 자신의 언어로 재진술\n- 지문 밖 내용 추가 금지 — passage-bound 원칙",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'단락 1: sport is ubiquitous … negative impacts on the environment' [paraphrase]\n→ Topic sentence: 스포츠의 광범위한 혜택에도 불구하고 환경에 부정적 영향을 미침\n\n'단락 2: golf courses — landscape destruction + chemical fertilizer' [paraphrase]\n→ Supporting idea 1: 스포츠 시설 개발(골프장)이 자연 경관 파괴 및 토양 오염 유발\n\n'단락 3: plastic waste + noise emission from spectator sports' [paraphrase]\n→ Supporting idea 2: 관중 스포츠 행사에서 플라스틱 폐기물과 소음 공해 발생\n\n'단락 4: sport organizations … proactive … sustainability' [paraphrase]\n→ Concluding sentence: 스포츠 단체가 환경 정책을 적극 추진해 지속가능성을 확보해야 함",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- sport은 건강에 좋다 (topic sentence 후보): ✗ (지문 단락 1에서 건강 혜택은 도입부 배경 정보에 불과. 지문 전체 주제는 '스포츠의 환경적 부정 영향'이므로 topic sentence로 부적절.)\n- 지속가능성만을 supporting idea로 사용: ✗ (지속가능성은 지문 마지막 단락의 결론에 해당. supporting idea가 아니라 concluding sentence 내용.)\n- 골프장 + 관중 스포츠를 각각 별도 단락으로 작성: ✗ (지침이 '한 단락(one paragraph)'으로 명시. 여러 단락으로 나누면 지침 위반.)",
+        "key_terms": []
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: 4-sentence summary paragraph\n\n[content] Topic sentence 근거: 단락 1 마지막 문장 'the field of sport is under pressure due to its negative impacts on the environment'가 전체 주제를 제시함.\n→ 근거: \"the field of sport is under pressure due to its negative impacts on the environment\"\n\n[content] Supporting idea 1 근거: 단락 2에서 골프장 확산이 자연 경관 파괴와 화학 비료 사용으로 이어진다고 구체적으로 서술.\n→ 근거: \"Part of the natural landscape is destroyed … huge amounts of chemical fertilizer are put into the soil\"\n\n[content] Supporting idea 2 근거: 단락 3에서 관중 스포츠가 플라스틱 폐기물 및 소음 공해를 유발한다고 서술.\n→ 근거: \"Hundreds and thousands of plastic waste … noise emission from the arrival and departure of spectators\"\n\n[context_flow] Concluding sentence 근거: 단락 4에서 스포츠 단체의 선제적 환경 정책 추진과 지속가능성 보호를 촉구함.\n→ 근거: \"Sport organizations should be more proactive … This will protect the long term viability and sustainability of sport\"",
+        "key_terms": [
+          "4-sentence summary paragraph"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① 지침 구조 우선 확인: topic sentence / supporting ideas 개수 / concluding sentence 여부를 먼저 파악하고 작성 틀을 고정한다.\n② 단락 수 = 요약문 구성요소 수 대응 원칙: 지문의 각 단락이 요약문의 각 구성요소(TS, SI1, SI2, CS)와 대응하는 경우가 많다. 단락별 핵심 문장을 먼저 표시한다.\n③ 4단어 연속 인용 금지 준수: 핵심 내용은 동의어·paraphrase로 재진술. 고유명사(golf courses, plastic waste 등)는 그대로 사용 가능.\n③ Topic sentence는 지문 전체 주제를 포괄해야 한다 — 한 단락의 내용만 반영하면 감점.\n③ Concluding sentence는 단순 반복이 아닌 시사점 또는 해결 방향을 포함해야 한다.\n\n함정:\n- 도입부 배경 정보(스포츠의 건강 혜택)를 topic sentence로 삼는 오류 — 지문 전체 주제와 불일치\n- supporting idea를 3개 이상 나열하거나 concluding sentence를 생략하는 지침 위반\n- 지문 문장을 4단어 이상 그대로 옮기는 오류 — 채점 기준 위반\n- 지문에 없는 외부 정보(예: 기후변화, 탄소 배출)를 추가하는 오류",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [
+      {
+        "word": "ubiquitous",
+        "pos": "adj.",
+        "definition_ko": "어디에나 있는, 편재하는",
+        "example": "sport is ubiquitous"
+      },
+      {
+        "word": "artificialization",
+        "pos": "n.",
+        "definition_ko": "인공화, 인위적 변형",
+        "example": "The artificialization of the sport environment"
+      },
+      {
+        "word": "manicured",
+        "pos": "adj.",
+        "definition_ko": "잘 다듬어진",
+        "example": "a well-manicured course"
+      },
+      {
+        "word": "concession stand",
+        "pos": "n.",
+        "definition_ko": "매점",
+        "example": "the concession stands nearby"
+      },
+      {
+        "word": "proactive",
+        "pos": "adj.",
+        "definition_ko": "선제적인, 적극적인",
+        "example": "be more proactive to overcome these difficulties"
+      },
+      {
+        "word": "adjacent",
+        "pos": "adj.",
+        "definition_ko": "인접한, 인근의",
+        "example": "problems in the adjacent area"
+      },
+      {
+        "word": "viability",
+        "pos": "n.",
+        "definition_ko": "실행 가능성, 지속 가능성",
+        "example": "the long term viability and sustainability of sport"
+      }
+    ],
+    "translation": "놀이터에서 공을 차는 아이들부터 농구 코트의 스타 선수들까지, 스포츠는 어디에나 존재한다. 나이, 성별, 배경에 관계없이, 스포츠는 신체 건강을 향상시킬 뿐만 아니라 많은 사람들에게 여가 활동의 출구를 제공하는 중요한 활동이다. 이러한 장점에도 불구하고, <span class=\"trans-hl\">스포츠 분야는 환경에 미치는 부정적인 영향으로 인해 압박을 받고 있다.</span>\n\n스포츠 행사 자체가 환경적으로 문제가 되는 것으로 여겨진다. 스포츠 환경의 인공화는 여러 면에서 자연과 경관에 악영향을 미친다. 예를 들어, 세계 주요 도시들을 둘러싸고 있는 녹지대로 골프 코스가 빠르게 확산되는 것은 많은 우려를 증가시킨다. 많은 사람들, 특히 골퍼들은 잘 관리된 코스를 아름다운 것으로 여기지만, 그 개발에는 환경적 비용이 따른다. <span class=\"trans-hl\">코스가 건설되면서 자연 경관의 일부가 파괴된다.</span> 또한, <span class=\"trans-hl\">코스를 개발하고 유지 관리하기 위해 토양에 막대한 양의 화학 비료가 투입된다.</span>\n\n환경에 영향을 미치는 것이 스포츠 활동만은 아니다. 주요 관중 스포츠와 관련 경기장들은 인근 지역에 문제를 일으킨다. 관중들의 소비와 인근 매점에서 발생하는 <span class=\"trans-hl\">병과 식품 용기에서 나온 수십만 개의 플라스틱 폐기물이 경기장에서 생성된다.</span> 게다가 관중들의 입퇴장으로 인한 소음 배출이 그 지역에 상당한 부담을 준다. 축구와 럭비의 경우, 관중들의 과도한 응원과 앰프 스피커에서 나오는 큰 음악이 엄청난 양의 소음을 만들어 공공장소의 스포츠 시설의 환경 질을 낮춘다.\n\n이러한 문제들은 전체적으로 스포츠 세계에서 지속 가능한 환경을 유지하는 데 대한 우려를 제기한다. <span class=\"trans-hl\">스포츠 단체들은 환경에 대한 부작용을 줄이는 정책을 추구함으로써 이러한 어려움을 극복하기 위해 더 적극적으로 나서야 한다.</span> 이는 스포츠의 장기적인 생존 가능성과 지속가능성을 보호할 것이다."
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Although sport is widely enjoyed and promotes physical well-being, it poses significant environmental challenges. First, the development of facilities such as golf courses damages natural landscapes and requires large amounts of chemical fertilizers. Second, spectator sports generate substantial plastic waste and noise pollution in surrounding areas. Therefore, sport organizations must adopt proactive environmental policies to ensure the long-term sustainability of sport.",
+      "scoring_criteria": [
+        {
+          "criterion": "topic sentence: 스포츠의 환경적 부정 영향 포함",
+          "points": 1
+        },
+        {
+          "criterion": "supporting idea 1: 골프장/스포츠 시설 → 경관 파괴/화학 비료",
+          "points": 1
+        },
+        {
+          "criterion": "supporting idea 2: 관중 스포츠 → 폐기물/소음",
+          "points": 1
+        },
+        {
+          "criterion": "concluding sentence: 환경 정책/지속가능성 언급",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Despite its many benefits, sport creates serious environmental problems. The construction of golf courses destroys green belts and pollutes soil through heavy fertilizer use. Spectator sports also harm the environment by producing plastic waste and excessive noise near stadiums. Sport organizations should therefore implement stronger environmental measures to preserve sustainability."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "Sport, while beneficial to health and recreation, has notable negative effects on the environment. One concern is the environmental cost of sport facilities, particularly golf courses that destroy landscapes and depend on chemical fertilizers. Another is the waste and noise generated by large sporting events and their spectators. Consequently, sport bodies must pursue active policies to mitigate environmental damage."
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "요약 쓰기 구조: Topic sentence(주제문) + Supporting ideas(뒷받침) + Concluding sentence(결론). 4개 이상 연속 인용 금지 → 핵심 내용을 자신의 언어로 재진술. 지문 각 단락의 핵심 문장을 파악하고 이를 요약 구성요소에 대응시키는 것이 핵심 전략."
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  }
+}

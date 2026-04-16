@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "education_2010_X28",
+    "year": 2010,
+    "number": "X-28",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "28. Read <A> and <B> and follow the directions. [1.5점]\n<A>\nSentences in (1) and (2) exemplify prepositional verbs\nof the structure ‘V NP P NP.’ (1) and (2), however, are\n1 2\nin (1) can be the subject of a different in that NP\n2\nin (2) cannot. passivized sentence, but NP\n2\nMary. (1) a. They took good care of\nwas taken good care of. b. Mary\n(2) a. They deprived Jenny of the land.\nb.*The land was deprived Jenny of.\n(‘*’ indicates that the sentence is ungrammatical.)\n영 어 (14면\n<B>\na. I have made a mess of our friendship.\nb. We thanked Mr. Brown for the presentation.\nc. Two men robbed Jack of all his possessions.\nd. They took advantage of his passion.\ne. He blamed me for the failure of the project.\nf. The children paid attention to the teacher.\nChoose all the sentences in <B> where NP CANNOT be\n2\nthe subject of a passivized sentence.\n① a, c, d ② b, c, e\n③ b, d, f ④ c, d, e\n⑤ c, e, f",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2010_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2010_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2010_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2010_X_p07.png",
+        "image_count": 1
+      },
+      {
+        "page": 8,
+        "file": "images/img_2010_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2010_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2010_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2010_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2010_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2010_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2010_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

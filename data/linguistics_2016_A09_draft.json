@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2016_A09",
+    "year": 2016,
+    "number": "A-9",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nA little lamp with a white china shade stood upon the\ntable and its light fell over a photograph which was\nenclosed in a frame of crumpled horn. It was Annie’s\nphotograph. Little Chandler looked at it, pausing at the thin\ntight lips. She wore the pale blue summer blouse which he\nhad brought her home as a present one Saturday. It had\ncost him ten and elevenpence; but what an agony of\nnervousness it had cost him! How he had suffered that day,\nwaiting at the shop door until the shop was empty, standing\nat the counter and trying to appear at his ease while the girl\npiled ladies’ blouses before him, paying at the desk and\nforgetting to take up the odd penny of his change, being\ncalled back by the cashier, and finally, striving to hide his\nblushes as he left the shop by examining the parcel to see\nif it was securely tied. When he brought the blouse home\nAnnie kissed him and said it was very pretty and stylish;\nbut when she heard the price she threw the blouse on the\ntable and said it was a regular swindle to charge ten and\nelevenpence for it. At first she wanted to take it back, but\nwhen she tried it on she was delighted with it, especially\nwith the make of the sleeves, and kissed him and said he\nwas very good to think of her.\nHm! ...\nHe looked coldly into the eyes of the photograph and\nthey answered coldly. Certainly they were pretty and the\nface itself was pretty. But he found something mean in it.\nWhy was it so unconscious and ladylike? The composure\nof the eyes irritated him. They repelled him and defied\nhim: there was no passion in them, no rapture. He thought\nof what Gallaher had said about rich Jewesses. Those dark\nOriental eyes, he thought, how full they are of passion, of\nvoluptuous longing! ... Why had he married the eyes in\nthe photograph?\nHe caught himself up at the question and glanced\nnervously round the room. He found something mean in the\npretty furniture which he had bought for his house on the\nhire system. Annie had chosen it herself and it reminded\nhim of her. It too was prim and pretty. A dull resentment\nagainst his life awoke within him. Could he not escape\nfrom his little house? Was it too late for him to try to live\nbravely like Gallaher? Could he go to London? There was\nthe furniture still to be paid for. If he could only write a\nbook and get it published, that might open the way for him.\nExplain what the underlined words mean. Then write ONE\nword from the passage that best describes the emotional state\nof the main character in his home.\n5\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

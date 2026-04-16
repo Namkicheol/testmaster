@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "general_2015_B04",
+    "year": 2015,
+    "number": "B-4",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage in <A> and the sentences in <B>, and\nfollow the directions.【5 points】\n<A>\nPreverbal adverbs sometimes behave differently in terms\nof scope. The sentence in (1a) with the adverb usually can\nbe paraphrased into (1b) and (1c). One can represent the\ntwo paraphrases using the schemata in (2a) and (2b),\nrespectively.\n(1) a. John usually comes late for class.\nb. It is usual that John comes late for class.\nc. It is usually the case that John comes late for class.\nthat Y . (2) a. It be X\nb. It be X the case that Y .\nIn (2a), X stands for the adjective form of the adverb, and\nY for the rest of the original sentence. In (2b), X stands\nfor the adverb, and Y for the rest of the original sentence.\nIn the meantime, sentences with a preverbal adverb such as\ncarefully cannot be so paraphrased as illustrated in (3).\n(3) a. John carefully drives his car in winter.\nb.*It is careful that John drives his car in winter.\nc.*It is carefully the case that John drives his car in winter.\nNote:* indicates that the sentence is ungrammatical.\n<B>\n(ⅰ) John rarely talks with philosophers.\n(ⅱ) The fish slowly swims.\nBased on the discussion of the two types of adverbs in <A>,\na usually type and a carefully type, identify the type of the\nunderlined adverbs in <B>. Then verify their type by writing\nthe paraphrases of (ⅰ) and (ⅱ), using the schemata in (2).\n3\n중 면)\n\n【1~2】 논술형",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_B_p03.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

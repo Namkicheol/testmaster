@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2022_A11",
+    "year": 2022,
+    "number": "A-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and follow the directions.【4 points】\nMany species of octopus and squid are known to exhibit a\nparticularly effective behavior that enables them to escape\nfrom predators. In the region of their intestines the animals\nhave a special sac-like organ. In the wall of this sac there is a\ngland which secretes a brown or black liquid rich in the\npigment melanin, this is ink. When threatened the animal has\nthe ability to compress the ink sac and squirt a jet of the liquid\nfrom its anus. It is thought that the cloud of ink hanging in the\nwater forms a dummy squid termed a pseudomorph, which\nattracts and holds the attention of the predator allowing the\nanimal to dart away to safety. The is made all the\nmore effective because long thin species produce long thin\npseudomorphs and more round species produce rounder\nclouds of ink.\nSquid and octopus are molluscs, taxonomic relatives of the\ngarden slug and snail. Can you imagine a slug squirting out\nink to leave a pseudomorph hanging in the air to decoy a bird\npredator while the slug made its escape? Of course you can’t,\nfor the simple reason that this behavioral strategy can only\nwork when the animal is surrounded by a medium that will\nsupport the ink cloud for a sufficient period to allow the\nescape. In water this works, but in the less dense medium of\nair it would not.\nSome species of octopus and squid are inhabitants of the\nocean depths. Here light penetration from the surface is\nminimal or zero and the seawater is a constant inky black.\nObviously the ink-dummy strategy would be no more\neffective here than it would be in air. The pseudomorph would\nhang in the water column, but it is unlikely that such\ndeception would be successful against the inky-black\nbackdrop. In this situation species such as the deep-water\nsquid Heteroteuthis secrete a luminescent ink, creating a brief\nflash of light which is thought to confuse a potential predator\njust long enough for an escape to be affected.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, using evidence from the passage, explain why the\nink-dummy tactic would not likely succeed in the air and the\ndeep sea, respectively. Do NOT copy more than FOUR\nconsecutive words from the passage.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

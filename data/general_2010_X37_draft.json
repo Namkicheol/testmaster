@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "general_2010_X37",
+    "year": 2010,
+    "number": "X-37",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "37. Read the following and answer the question. [2.5점]\nAs a discipline English was designed to give\nschoolchildren a sense of a national culture. Literary texts\nwere used to instil this sense. Consequently, although\nEnglish literature was often presented as a proper study in\nitself, the way it was taught was often designed,\nparticular consciously or unconsciously, to encourage a\n(1) . The study of Shakespeare has always been\ncentral to English studies and to some constructions of\nEnglish identity. Traditionally, in English studies,\nShakespeare’s plays and Shakespeare’s language have been\npresented as the essence of (2) . They have been\nmade to serve as the defining features of a homogeneous\nand unchanging culture. Because of the connection\nbetween Shakespeare and national identity the position of\n영 어 (14면\nthese plays in schools has become an important issue. The\nargument is put forward that children must read\nShakespeare in order to learn English and Englishness.\nShakespeare’s plays become valued over and above other\nforms of cultural production. As a result the teaching of\npart of Shakespeare, and English history, was also a\ncolonialism’s (3) .\nWhich of the following best fits in the blanks above?\n(1) (2) (3)\n① colonialism history cultural diversity\n② provincialism culture national project\n③ national identity Englishness cultural project\n④ provincialism literature cultural diversity\n⑤ British diversity tradition constructive project",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2010_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2010_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2010_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2010_X_p07.png",
+        "image_count": 1
+      },
+      {
+        "page": 8,
+        "file": "images/img_2010_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2010_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2010_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2010_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2010_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2010_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2010_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

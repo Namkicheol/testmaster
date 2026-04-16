@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2021_A05",
+    "year": 2021,
+    "number": "A-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the poem and follow the directions.【4 points】\nUp into the cherry tree\nWho should climb but little me?\nI held the trunk with both my hands\nAnd looked abroad on foreign lands.\nI saw the next door garden lie,\nAdorned with flowers before my eye,\nAnd many pleasant places more\nThat I had never seen before.\nI saw the dimpling river pass\nAnd be the sky’s blue looking-glass;\nThe dusty roads go up and down\nWith people tramping in to town.\nIf I could find a higher tree\nFarther and farther I should see,\nTo where the grown-up river slips\nInto the sea among the ships,\nTo where the roads on either hand\nLead onward into fairy land,\nWhere all the children dine at five,\nAnd all the playthings come alive.\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the poem. Then, explain what\nthe underlined part means.\n<Commentary>\nMetaphor can in one way be defined as a figure of speech in\nwhich a word or phrase is applied to an object or action that it\ndoes not literally denote in order to imply a resemblance.\nAccording to this definition, the word “ ” in the\npoem is a metaphor for the river, the sight of which the\nspeaker enjoys.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

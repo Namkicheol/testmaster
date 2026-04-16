@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2017_A13",
+    "year": 2017,
+    "number": "A-13",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "13. Read the passage and follow the directions.【4 points】\nIt was once assumed that reading comprehension could be\nunderstood as a kind of serial processing—that is, reading\ncomprehension entails processing discrete units of words and\nsentences sequentially. This was one of the main assumptions\nbehind the phonics approach.\nHowever, F. Smith explained that the serial processing\noperations underlying the phonics approach are contradicted\nby the fact that it is often impossible to make decisions about\nthe sound of upcoming letters and words until the context\n(e.g., such as a word context or a sentence context)\nsurrounding the item has been understood. When decoding an\nisolated word starting with ‘ho-’, for example, it would be\nvalue to ‘o’ impossible to assign a(n)\nuntil one knew whether the whole word was ‘house’,\n‘horse’, ‘hot’, or ‘hoot’. In the same way, when decoding the\nword ‘read’ at the sentence level, it is impossible to assign\na(n) value to the vowel sequence ‘ea’ until\nit is known whether the sentence containing the word ‘read’\nrefers to the past or the present.\nFill in both blanks with the ONE most appropriate word from\nthe passage. (Use the SAME word.) Then write the main idea of\nthe passage. Do NOT copy more than FOUR consecutive words\nfrom the passage.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_A01",
+    "year": 2022,
+    "number": "A-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read a teacher’s and a student’s journal entries and follow the\ndirections.【2 points】\nMs. Ahn’s Journal\nI think I need to change my approach to teaching\nspeaking skills. In my conversation class, I usually have\nmy students listen to dialogues and then practice the main\nexpressions using pattern drills, which I thought would\nhelp them speak with both accuracy and fluency. However,\nwhen I assessed their speaking performance last week,\nmost students had difficulties speaking fluently. They\nfrequently had long pauses in their speech, but were quite\naccurate. In order to address this issue, I’m going to add\nmore fluency activities such as discussion, role-plays, and\ninformation-gap activities.\nNayun’s Journal\nToday, I got my final exam results. Compared to the\nmid-term exam, my score has improved a lot. I’m very\nproud of myself because I studied a lot for the test. My\nEnglish teacher usually includes lots of reading\ncomprehension questions on exams, so this time I read all\nthe reading texts in the textbook multiple times and took\nmany practice tests. However, I’m a bit disappointed with\nthe test in a way. I really want to improve my English\nwriting skills, but I just don’t have time to practice them.\nWell... I don’t know.... I want to change how I’m studying,\nbut I can’t give up on getting good English test scores.\nFill in the blank with the ONE most appropriate word.\nThe above two journal entries demonstrate effect\nin that the teacher and the student each write about what they\ndo for their teaching and studying with regard to tests.\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n12문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2014_A08",
+    "year": 2014,
+    "number": "A-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the interaction between a teacher and a student, and\nfollow the directions.【2 points】\n(The teacher asks her student, Dongho, what he did over\nthe weekend.)\nT: Hi, Dongho, how was your weekend?\nS: Hello, uh, have, had fun.\nT: You had fun, oh, good. Did you go anywhere?\nS: Yeah, uh, I go, go, went to uncle, uncle’s home.\nT: What did you do there? Did you do something interesting?\nS: I play, played with childs. Uncle have childs, three childs.\nT: Your uncle has three children?\nS: Yeah, uh, one boy and two girls. So three childs.\nT: Do you like them?\nS: Yeah. They’re fun. They’re good to me.\n*T=teacher, S=student\n영 어 (8면\nComplete the comments on the interaction by filling in the\nblank with ONE word.\nLanguage errors may occur as a result of discrepancies\nbetween the learner’s interlanguage and the target language.\n, one One main source of such errors is called\nexample of which is seen in the student’s use of childs in\nthe given interaction.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "education_2010_X03",
+    "year": 2010,
+    "number": "X-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. The following is a conversation extract from a communication-oriented middle school English classroom. They are\ndiscussing the demographic statistics of Asian countries. Examine the extract and follow the directions below.【35 points】\nTeacher: What happened to the birth rate in Korea over the last few years?\nStudent A: It was │fallen by 2.4%.\nStudent B: │It was dropped.\nTeacher: Okay. Then, what about the birth rate in Singapore?\nStudent A: The rate was also dropped.\nTeacher:\n3-1. It has been said that intransitive verbs are grouped into two classes. Verbs like fall and drop in the above extract\ndiffer from verbs like work and swim. Providing appropriate examples, explain how these two types of verbs differ in\nterms of the possibility of a resultative reading exemplified by a sentence like John painted the wall black, where the\nresultative phrase black denotes the state achieved by the referent of the wall as a result of the action denoted by the\nverb painted. Then, explain why Student B’s utterance It was dropped in the extract is not acceptable even if we assume\nthat it is a passive sentence derived from the transitive verb drop. Answer in well-formed paragraphs. [15 points]\n3-2. Suppose that you are the teacher in the conversation. You have decided to react to the students’ errors by providing\ncorrective feedback. First, write example utterances of two different types of feedback that you think are appropriate as\nyour responses to Student A’s utterance The rate was also dropped. Then, define each feedback type and give theoretical\njustifications for your choices in relation to this particular context. Answer in well-formed paragraphs. [20 points]\n2\n영 어 (3면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2021_A11",
+    "year": 2021,
+    "number": "A-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and follow the directions.【4 points】\n“Palette” is a homophone for the term “palate,” signifying\nboth the roof of the mouth and the sense of taste. While the\npalette is both the board on which the paint is placed and the\npaint itself, the palate is only juxtaposed to the canvas for\ngustatory compositions, unless one considers that the palate－\nas in the sense of taste－is the tongue which generates flavor\nby crushing the food mass and the taste buds on to the hard\nroof of the mouth, a rich analogue to the application of paint\nto canvas. Receptor cells on the tongue are responsible for\nsensing particular flavors, the primary ones being bitter,\nsweet, salt, and sour. The stimuli from these cells in\ncombination with saliva and the olfactory sense generate\ntaste. Just as the primary hues generate all others in the color\nspectrum, the four taste cells blend to create all flavors. Thus\nthe palate is the palette for the chef’s creative endeavors.\nCrushing the tongue against the roof of the mouth drives the\nfood mass into the taste buds, and this clamping or sucking\nmotion intensifies and prolongs the flavor.\nHowever, taste also requires the intervention of the\nwhich must recognize, evaluate, and categorize\nthe stimuli from the mouth and nasal passages. The evaluative\nquality of taste or the recognition and judgment of flavor can\nbe processed only in the brain, and, as with the visual imagery\nof painting, the quality of taste is assessed in relationship to a\nhistory of tastes, and the pleasure or revulsion generated\nrelates in large part to the familiarity of the flavor. The tasting\nsubject frequently judges the outcome of the experience in\nopposition to or alliance with previous experiences of the\nsame or similar tastes. This process might be defined as the\n“semiotics” of taste.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

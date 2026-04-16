@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2018_B05",
+    "year": 2018,
+    "number": "B-5",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read Ms. Lee’s opinions about the grammar lesson in <A> and\nthe sample lesson plan in <B>, and follow the directions.\n【4 points】\n<A>\nI think teachers should keep in mind that the ultimate goal\nof any grammar lesson is to build up communicative ability.\nIn order to achieve this goal, I believe that classroom\nactivities should not focus on practicing structures and\npatterns in a meaningless way. Instead, they should be\ndesigned to involve students in real communication. By\ndoing so, grammar lessons will be able to encourage the\nstudents’ interest in learning and elicit more active and\nmeaningful interaction with others in the classroom.\n<B>\nHigh School\n1st-year Subject Students students\nEnglish\nLesson 9\nTitle Date Nov. 24th\nMy Dream\n∙Students will familiarize themselves with the\nexpression “If I were ... .” Objec-\ntives ∙Students will be able to communicate using\nthe expression “If I were ... .”\nTeaching-Learning Activities\n∙T and Ss exchange greetings. Greeting &\nRoll-call ∙T checks if all the Ss are present.\n∙T reviews materials from the Introduc-\nReview\ntion previous lesson.\n∙T introduces the objective of the Stating the\nObjectives lesson.\n∙T hands out a text that contains\nseveral instances of “If I were ... .”\n∙Ss scan the text and highlight all\nthe sentences including “If I\nwere ... .” Activity 1\n∙Ss check the ones they highlighted\nwith T.\n∙T tells Ss to pay attention to the\nDevelop-\nverb form “were.”\nment\n∙T tells Ss that she is going to\nread a passage on “My Dream.”\n∙T explains difficult words in the\npassage.\nActivity 2\n∙T reads the passage at a normal\npace.\n∙Ss jot down the key words in the\npassage as T reads.\n영 어 [전공B]\n∙Ss reconstruct the passage\nindividually.\n∙T hands out the original text to\nSs.\n∙T has Ss form groups of three.\n∙T asks Ss to think of a job that\nthey would like to have in the\nfuture.\n∙Ss use “If I were ... ” to share\ntheir opinions about their future\ndream jobs.\nActivity 3\n∙Assuming that their dreams come\ntrue, two Ss take a reporter’s role\nand interview the other S asking\nhow he or she feels about his or\nher job.\n∙Ss take turns and continue the\nactivity.\n∙T hands out a worksheet.\n∙Ss put together sentence fragments\nto form complete sentences.\n∙T reads out complete sentences\nActivity 4 and each S checks their own\nanswers.\n∙T writes three more sentences\nusing “If I were ... ” on the board.\n∙T asks Ss to read the sentences.\nReview ∙T reviews what Ss learned.\nConsoli- ∙T hands out homework and\ndation\nClosure announces the next lesson.\n∙T says goodbye to Ss.\nNote: T=teacher, S=student\nBased on <A>, choose the ONE most appropriate activity in the\ndevelopment stage that reflects Ms. Lee’s opinions. Then,\nsupport your choice with evidence from <B>. Do NOT copy\nmore than FOUR consecutive words from the passage.\n4\n(6면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_B_p05.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2023_A11",
+    "year": 2023,
+    "number": "A-11",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and follow the directions.【4 points】\nLanguage consumes a large proportion of time within a day\nwhile activating regions across the entire brain. Ellen\nBialystok and her team tested the theory that bilingualism can\nincrease cognitive reserve and thus delay the age of onset of\nAlzheimer’s disease symptoms in elderly patients. Their study\ninvestigates conversion times from mild cognitive impairment to\nAlzheimer’s disease in monolingual and bilingual patients.\nAlthough bilingualism delays the onset of symptoms,\nBialystok says, once diagnosed, the decline to full-blown\nAlzheimer’s disease is much faster in bilingual people than in\nmonolingual people because the disease is more severe.\nImagine sandbags holding back the floodgates of a river. At\nThe sturdiness of the some point the river is going to win.\nsandbag barrier is holding back the flood and at the point\nwhen they are diagnosed with mild cognitive impairment they\nalready have severe pathology but there has been no evidence\nof it because they have been able to function thanks to their\nhigh cognitive reserve. Even the most resilient people have\ntheir limits. When they can no longer resist, the floodgates get\ncompletely washed out. As a result, they crash faster.\nIn the five-year study, researchers followed 158 patients\nwho had been diagnosed with mild cognitive impairment. For\nthe study, they classified bilingual people as having high\ncognitive reserve and monolingual people as having low\ncognitive reserve. Patients were matched on age, education,\nand cognitive level at the time of their diagnosis of mild\ncognitive impairment. The researchers followed their six-month\ninterval appointments at a hospital memory clinic to see the\npoint at which diagnoses changed from mild cognitive\nimpairment to Alzheimer’s disease. The conversion time for\nbilinguals, 1.8 years after initial diagnosis, was significantly\nfaster than it was for monolinguals, who took 2.6 years to\nconvert to Alzheimer’s disease. This difference suggests that\nbilingual patients had more severe neuropathology at the time\nthey were diagnosed with mild cognitive impairment than the\nmonolinguals, even though they showed the same level of\ncognitive function.\nThese results contribute to the growing body of evidence\ndemonstrating that bilinguals are more in dealing\nwith neurodegeneration than monolinguals. They operate at a\nhigher level of cognition because of their cognitive reserves,\nwhich means that many of these individuals will withstand the\nneuropathology longer. This study adds new evidence by\nshowing that the decline is steeper once a clinical threshold\nhas been crossed, presumably because there is more disease\nalready in the brain.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means. Do NOT\ncopy more than FOUR consecutive words from the passage.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2023_B07",
+    "year": 2023,
+    "number": "B-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the conversation in <A> and the two writing drafts in\n<B>, and follow the directions.【4 points】\n<A>\n(Mr. Min, a middle school English teacher, is talking with his\nstudent, Jinhee, about her writing.)\nT: Jinhee, I think you put a lot of effort into this first draft.\nS: Yeah. But I think I made many mistakes.\nT: Don’t worry. I’ll give you some comments on the\ncategories you need to improve so that you can revise your\ndraft. Can you do that?\nS: Yes.\nT: Great. Let’s begin with content. I like your story, but it’ll\nbe better if you add more details here. Do you remember\nthat we discussed how to use supporting details last week?\nS: Yes, I do.\nT: Good. I also saw that you had problems with organization.\nS: You’re right. Many events are popping up in my mind, but\nI can’t put them logically.\nT: One way to solve the problem is to use linking words such\nas and, so, but, however, then, thus, and so on, in order to\nshow a logical sequence of events.\nS: I see.\nT: Two more categories are vocabulary and grammar. These\ntwo expressions here need to be changed. Look up the\nappropriate expressions in a dictionary. In addition, swimed\nhere and very not much here are not correct. Think about\nhow you can correct them.\nS: Okay.\nT: If you have any questions, just let me know. I’m looking\nforward to reading your second draft.\nS: Thank you.\nNote: T = teacher, S = student\n<B>\n<First draft>\nI went to a game park with my family last weekend.\nWhen we arrived, we ate delicious snacks. I swimed in the\npool. My father did not swim. My mother did it very not\nmuch. We went on the rides. It was very funny and smily.\nWe were very tired. We took a taxi to come home.\n<Second draft>\nI went to a game park with my family last weekend.\nWhen we arrived, we ate delicious snacks. Both my\nbrother and I love sweets. My brother got three cups of ice\ncream and I got strawberry cake. I swimed in the pool, but\nmy father did not swim. My mother did it very not much.\nThen, we went on the rides. It was very funny and smily.\nWe were very tired, so we took a taxi to come home.\n영 어 [전공B]\nIdentify the TWO categories Jinhee revised in the second draft\nbased on Mr. Min’s comments in <A>. Then, explain how she\nrevised the categories, respectively, with evidence from <B>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

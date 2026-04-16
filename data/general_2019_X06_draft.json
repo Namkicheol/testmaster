@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2019_X06",
+    "year": 2019,
+    "number": "X-6",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the excerpt from a play and follow the directions.\n【2 points】\nPARRITT: What do they do for a living?\nLARRY: As little as possible. Once in a while one of them\nmakes a successful touch somewhere, and some of them\nget a few dollars a month from connections at home who\npay it on condition they never come back. For the rest,\nthey live on free lunch and their old friend, Harry Hope,\nwho doesn’t give a damn what anyone does or doesn’t\ndo, as long as he likes you.\nPARRITT: It must be a tough life.\nLARRY: It’s not. Don’t waste your pity. They wouldn’t\nthank you for it. They manage to get drunk, by hook or\ncrook, and keep their pipe dreams, and that’s all they ask\nof life. I’ve never known more contented men. It isn’t\noften that men attain the true goal of their heart’s desire.\nThe same applies to Harry himself and his two cronies at\nthe far table. He’s so satisfied with life he’s never set\nfoot out of this place since his wife died twenty years\nago. He has no need of the outside world at all. This\nplace has a fine trade from the Market people across the\nstreet and the waterfront workers, so in spite of Harry’s\nthirst and his generous heart, he comes out even. He\nnever worries in hard times because there’s always old\nfriends from the days when he was a jitney Tammany\npolitician, and a friendly brewery to tide him over. Don’t\nask me what his two pals work at because they don’t.\nExcept at being his lifetime guests.\nComplete the commentary below by filling in the blank with the\nTWO most appropriate consecutive words from the passage.\n<Commentary>\nThe different types of characters mentioned in Larry and\nParritt’s conversation in Harry Hope’s bar dwell on\n. They sentimentally reminisce about their\nglory days while loafing around doing nothing. It is\nself-delusion rather than self-knowledge that sustains them.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

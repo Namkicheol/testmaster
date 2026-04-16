@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2017_A09",
+    "year": 2017,
+    "number": "A-9",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nMr. Lee wants to determine how well the scores from the\nCollege Entrance Exam (CEE) predict academic success in\ncollege. The scatter plot below includes high school seniors’\nCEE scores from 2014 and their college Grade Point\nAverages (GPAs) in the fall of 2016. Their CEE scores are\nplaced on the horizontal axis and their college GPAs on the\nvertical axis.\n(r=.91)\nNote: r=correlation coefficient\nStudents CEE (Fall 2014) GPA (Fall 2016)\nA 389 4.43\nB 246 2.58\nC 304 3.15\nD 322 3.27\nE 211 2.10\nF 328 3.62\nG 314 3.18\nH 288 2.83\nI 372 4.00\nJ 368 3.85\n․ ․ ․\n․ ․ ․\n․ ․ ․\nBased on the information in the passage, identify the type of\nvalidity within the context of criterion-related validation and\nexplain it with evidence.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

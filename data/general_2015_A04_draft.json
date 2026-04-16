@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2015_A04",
+    "year": 2015,
+    "number": "A-4",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage in <A> and the sentence in <B>, and\nfollow the directions.【5 points】\n<A>\nLinguistic expressions are often ambiguous, and\nhomonymy is one source of ambiguity. Homonyms are\nwords that have different meanings but are pronounced the\nsame, and may or may not be spelled the same. Another\nsource of ambiguity is structure. Sometimes, homonymy\ncreates even more ambiguity in combination with different\nstructures.\n(1) John admires intelligent professors and students.\n(2) They are pitchers from America.\n(3) Mary observed the man at the bank.\nThe ambiguity in (1) is created by different structures. The\nsource of the ambiguity in (2) is homonymy, whereas (3)\nis ambiguous due to different structures and homonymy.\n<B>\nMary saw John’s nose ring.\nIdentify the source(s) of the ambiguity of the sentence in <B>.\nThen explain why the sentence is ambiguous and write the two\nreadings of the sentence.\n<수고하셨습니다.>\n7\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_A_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2015_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2015_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2015_A_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "general_2013_X39",
+    "year": 2013,
+    "number": "X-39",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "39. Read the following and answer the question. [2.5점]\nA country woman (Mrs. Wright) is suspected of killing her\nhusband in their isolated farmhouse. The county attorney,\nthe sheriff, and a neighbor return to the scene of the crime,\nattempting to collect evidence. Mrs. Hale and Mrs. Peters\naccompany them to gather belongings for Mrs. Wright. In\nthe course of the action, the two women accidentally turn\nup the evidence (a dead bird) which the men seek in vain.\nMRS HALE: She [Mrs Wright/Minnie Foster] liked the\nbird. She was going to bury it in that pretty box.\ngirl―my MRS PETERS: (in a whisper) When I was a\nkitten―there was a boy took a hatchet, and before my\neyes―and before I could get there―(covers her face an\ninstant) If they hadn’t held me back I would have―\n(catches herself, looks upstairs where steps are heard,\nfalters weakly)―hurt him.\nMRS HALE: (with a slow look around her) I wonder how\nit would seem never to have had any children around.\n(pause) No, Wright wouldn’t like the bird―a thing that\nsang. She used to sing. He killed that, too.\nMRS PETERS: (moving uneasily) We don’t know who\nkilled the bird.\nMRS HALE: I knew John Wright.\nMRS PETERS: It was an awful thing was done in this\nhouse that night, Mrs Hale. Killing a man while he slept,\nslipping a rope around his neck that choked the life out\nof him.\nMRS HALE: His neck. Choked the life out of him. (Her\nhand goes out and rests on the bird-cage.)\nMRS PETERS: (with rising voice) We don’t know who\nkilled him. We don’t know.\nMRS HALE: (her own feeling not interrupted) If there’d\nbeen years and years of nothing, then a bird to sing to\nyou, it would be awful―still, after the bird was still.\nMRS PETERS: (something within her speaking) I know\nwhat stillness is. When we homesteaded in Dakota, and\nmy first baby died―after he was two years old, and me\nwith no other then―\nMRS HALE: (moving) How soon do you suppose they’ll\nbe through, looking for the evidence?\nMRS PETERS: I know what stillness is. (pulling herself\nback) The law has got to punish crime, Mrs Hale.\nMRS HALE: (not as if answering that) I wish you’d seen\nMinnie Foster when she wore a white dress with blue\nribbons and stood up there in the choir and sang. (a look\naround the room) Oh, I wish I’d come over here once in\na while! That was a crime! That was a crime! Who’s\ngoing to punish that?\nMRS PETERS: (looking upstairs) We mustn’t―take on.\n영 어 (15면\nWhich of the following is LEAST likely to be inferred from\nthe scene?\nMrs. Peters sympathizes with Mrs. Wright through ①\nrecollection of her own memories.\nMrs. Hale reflects Mrs. Wright’s husband would not have ②\nliked a thing that sang.\nMrs. Hale remembers the young, singing Minnie Foster and ③\nregrets not visiting her.\nMrs. Hale regrets maintaining a relationship with Mrs. ④\nWright, who is suspected of a homicide.\nMrs. Peters recalls the stillness of her old homestead after ⑤\nher first baby died and relates it to Mrs. Wright’s solitude.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2013_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2013_X_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2013_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2013_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2013_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2013_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2013_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2013_X_p11.png",
+        "image_count": 2
+      },
+      {
+        "page": 12,
+        "file": "images/img_2013_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2013_X_p13.png",
+        "image_count": 2
+      },
+      {
+        "page": 14,
+        "file": "images/img_2013_X_p14.png",
+        "image_count": 1
+      },
+      {
+        "page": 15,
+        "file": "images/img_2013_X_p15.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

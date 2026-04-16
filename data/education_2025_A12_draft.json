@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_A12",
+    "year": 2025,
+    "number": "A-12",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nconsidered Metacognitive awareness of reading strategies is\na conscious procedure utilized by readers to enhance text\ncomprehension and encourage active reading.\nUnderstanding its importance, Ms. Yu, a high school\nEnglish teacher, used the Metacognitive Awareness of Reading\nStrategy Questionnaire to measure students’ awareness on\nthree categories of reading strategies. These include Global\nReading Strategies (GLOB), Support Reading Strategies\n(SUP), and Problem-Solving Strategies (PROB). She also\ninterviewed her students after the survey.\nThe Metacognitive Awareness of Reading Strategy Questionnaire\nCategory Item 1 2 3 4 5\nG1.I have a purpose in mind when I read.\nG2.I think about what I know to help me\nunderstand what I read.\nG3.While reading, I decide what to read\nGLOB\nand what to ignore.\nG4.I take an overall view of the text to see\nwhat it is about before reading it.\n… …\nS1.I paraphrase what I read to better\nunderstand it.\nS2.I take notes while reading to help me\nunderstand what I read.\nSUP S3.While reading, I translate from English\ninto my native language.\nS4.I use reference materials (e.g., a dictionary)\nto help me understand what I read.\n… …\nP1.When the text is unclear, I re-read it to\nincrease my understanding.\nP2.I try to guess the meaning of unknown\nwords or phrases.\nPROB P3.I adjust my reading speed according to\nwhat I am reading.\nP4.I try to visualize information to help\nunderstand what I read.\n… …\nNote: 1=never, 2=occasionally, 3=sometimes, 4=usually, 5=always\n영 어 [전공A]\n<B>\nBased on the survey results, Ms. Yu conducted interviews\nwith the students who reported low ratings in the survey. Parts\nof the interview excerpts are below. One of the interview\nquestions was “Do you feel challenged while reading?” After\nthe interview, Ms. Yu identified reading strategies that\nstudents need to promote their active reading skills.\nInterview Excerpts\nS1: “I thought reading was just about understanding the\nwords. When I don’t understand something, I tend to\nskip over it. I think if I try to draw a picture in my mind\nwhen I’m not sure, I’ll understand texts much better.”\nS2: “I usually analyze texts sentence-by-sentence until I\nfully understand them. After checking my low ratings\non the questionnaire, I found that reading selectively\nmay help me become a more efficient reader.”\nNote: S = student\nIdentify the TWO items of reading strategies in <A> that Ms. Yu\nmay apply to her reading instruction in relation to <B>. Then,\nexplain your answers, respectively, with evidence from <B>.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

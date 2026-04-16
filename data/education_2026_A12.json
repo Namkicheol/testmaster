@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "id": "education_2026_A12",
+    "year": 2026,
+    "number": "A-12",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "suprasegmental features",
+      "sentence stress",
+      "intonation",
+      "pronunciation teaching"
+    ],
+    "parse_source": "2026_전공A.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Identify the TWO most appropriate activities in <B> that help Mr. Park address the issue in <A>. Then explain your answers with evidence from <A> and <B>.",
+    "passage": "<A>\nA few weeks into the new semester, Mr. Park noticed that his first-year middle school students are quite good at perceiving and producing individual English sounds but not suprasegmental features of connected speech which are considered more likely to affect communication. In particular, they pay little attention to sentence stress, rhythm, intonation, and voice qualities and how they are used to convey meaning, emotion, and attitude in communication.\n\nReflecting on his teaching in the previous semester, he realized that he had placed almost no emphasis on the above mentioned suprasegmental aspects in his class. To address the issue, Mr. Park developed several activities which he believes can help his students raise their awareness of these aspects and understand the effect they could have on communication.\n\n<B>\n<Activity 1>\n- Listen to the following sentences, and underline the word that is emphasized in each sentence.\n- Explain the meaning of each sentence in the blank.\n1) Michael wanted to buy the red shirt. (not the red jumper)\n2) Michael wanted to buy the red shirt. (not the red jumper)\n3) Michael wanted to buy the red shirt. (not the red jumper)\n4) Michael wanted to buy the red shirt. (not the red jumper)\n5) Michael wanted to buy the red shirt. (not the red jumper)\n\n<Activity 2>\n- Work in groups.\n- Think of five words you have learned from the reading, and write them below.\n- Discuss how many syllables each word has and which syllable is emphasized when pronounced.\n- Make 'word statues' by standing or sitting as in the examples.\n[Example A: exercise — 1 stand, 2 sit / Example B: photographer — 2nd syllable stressed]\n\n<Activity 3>\n- Work in pairs.\n- Say the following sentences aloud, and think about what happens to the sound in the underlined parts.\n1) I'll have some of those apples, please.\n2) I saw a fantastic movie last night.\n3) Your computer was a good buy.\n4) An old man lives next door.\n\n<Activity 4>\n- Listen to the short dialogues. In each dialogue, you will hear someone respond with the word 'really'.\n- Guess whether the second speaker is interested, surprised, or bored.\nDialogue 1: B: Really? (surprised)\nDialogue 2: B: Really? (bored)\nDialogue 3: B: Really? (interested)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "발문 및 핵심 조건 확인",
+        "explanation": "<A>의 문제: 학생들이 초분절음(suprasegmental features) — 특히 sentence stress, rhythm, intonation — 에 주의를 기울이지 않음. 이것이 의미·감정·태도 전달에 영향을 미침. 활동 선택 기준: 초분절음 인식(awareness)을 높이고, 의사소통에 미치는 영향을 이해시키는 활동.",
+        "key_terms": [
+          "suprasegmental features",
+          "sentence stress",
+          "intonation",
+          "awareness"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "Activity 1 분석",
+        "explanation": "같은 문장에서 강조 위치가 달라질 때 의미가 달라짐('not the red jumper' → 강조 이동). 학생들이 강조된 단어를 찾고(underline) 의미 변화를 설명. Sentence stress가 의미 전달에 미치는 영향 직접 인식 → <A> 조건 충족 ✓",
+        "key_terms": [
+          "sentence stress",
+          "contrastive stress",
+          "meaning change"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "Activity 2 분석",
+        "explanation": "단어의 음절 수와 강세 위치 파악 → word-level stress 연습. Word stress는 초분절음이지만 <A>가 명시한 sentence stress, rhythm, intonation이 아님. 또한 의사소통에서의 의미·감정·태도 전달과 직접 연결되지 않음 → <A> 조건에 부분적으로만 해당 ✗",
+        "key_terms": [
+          "word stress",
+          "syllable",
+          "segmental vs suprasegmental"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "Activity 3 분석",
+        "explanation": "밑줄 친 부분에서 발생하는 음성 변화 확인 → linking(연음), assimilation(동화), reduction(약화) 등 connected speech 현상. 이는 rhythm과 연결된 초분절 특성. 그러나 의미·감정·태도 '전달'보다는 connected speech의 '음성 현상' 인식이 주 목적 → <A>의 핵심 의사소통 효과와 간접 연결",
+        "key_terms": [
+          "connected speech",
+          "linking",
+          "assimilation",
+          "rhythm"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "Activity 4 분석 및 최종 선택",
+        "explanation": "'Really?'를 같은 단어로 발화하지만 억양에 따라 태도(surprised / bored / interested)가 달라짐 → intonation이 감정·태도 전달에 미치는 영향 직접 인식. <A>의 'intonation conveys emotion and attitude' 조건과 정확히 대응 ✓. 최종 선택: Activity 1(sentence stress → 의미), Activity 4(intonation → 감정·태도).",
+        "key_terms": [
+          "intonation",
+          "attitude",
+          "emotion",
+          "same word different meaning"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Suprasegmental Features",
+        "definition_en": "Phonological properties that extend beyond individual segments (phonemes), including stress, rhythm, tone, and intonation. These features operate at the level of syllables, words, and phrases and are known to significantly affect communicative intelligibility.",
+        "definition_ko": "초분절음 — 개별 음소를 초월하는 음운적 특성. 강세·리듬·성조·억양 포함. 음절·단어·구 수준에서 작용하며 의사소통 이해도에 큰 영향을 미침.",
+        "source_author": "Celce-Murcia, Brinton & Goodwin",
+        "source_year": 2010,
+        "related_terms": [
+          "segmental features",
+          "prosody",
+          "sentence stress",
+          "intonation"
+        ],
+        "exam_usage": "<A>에서 학생들이 취약한 영역으로 제시; 활동 선택 기준"
+      },
+      {
+        "term": "Sentence Stress (Contrastive Stress)",
+        "definition_en": "The relative prominence given to certain words within a sentence to highlight meaning or contrast. Shifting stress to different words in the same sentence alters the communicative focus and can change the meaning entirely.",
+        "definition_ko": "문장 강세(대조 강세) — 문장 내 특정 단어에 상대적 두드러짐을 부여해 의미나 대조를 부각. 강세 위치 이동으로 동일 문장의 의미가 바뀔 수 있음.",
+        "source_author": "Brazil",
+        "source_year": 1994,
+        "related_terms": [
+          "suprasegmental features",
+          "information focus",
+          "nuclear stress"
+        ],
+        "exam_usage": "Activity 1의 핵심 초분절 특성; 강조 이동에 따른 의미 변화 인식 활동"
+      },
+      {
+        "term": "Intonation",
+        "definition_en": "The patterns of pitch change across an utterance used to convey grammatical structure, discourse organization, and — crucially — speaker attitude, emotion, and pragmatic meaning. The same words with different intonation can signal entirely different communicative intentions.",
+        "definition_ko": "억양 — 발화에 걸친 음높이 변화 패턴. 문법 구조·담화 구성, 그리고 화자의 태도·감정·화용적 의미를 전달. 동일 단어도 억양에 따라 다른 의사소통 의도를 나타냄.",
+        "source_author": "Ladd",
+        "source_year": 2008,
+        "related_terms": [
+          "suprasegmental features",
+          "tone",
+          "attitude",
+          "pragmatic meaning"
+        ],
+        "exam_usage": "Activity 4에서 'Really?'의 억양 변화로 감정·태도 구별 훈련"
+      },
+      {
+        "term": "Pronunciation Awareness",
+        "definition_en": "A pedagogical goal in which learners develop conscious attention to phonological features — including suprasegmentals — and their communicative effects, as a precondition for production improvement.",
+        "definition_ko": "발음 인식 — 학습자가 음운적 특성(초분절음 포함)과 그 의사소통 효과에 의식적 주의를 기울이게 되는 교육적 목표. 발화 향상의 선행 조건.",
+        "source_author": "Celce-Murcia, Brinton & Goodwin",
+        "source_year": 2010,
+        "related_terms": [
+          "noticing",
+          "form-focused instruction",
+          "suprasegmental features"
+        ],
+        "exam_usage": "<A>에서 Mr. Park이 목표로 하는 것: students raise their awareness"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "suprasegmental",
+        "pos": "adj.",
+        "definition_ko": "초분절적 — 개별 음소 이상의 단위(강세·리듬·억양)에 관한",
+        "example": ""
+      },
+      {
+        "word": "sentence stress",
+        "pos": "n.",
+        "definition_ko": "문장 강세 — 문장 내 특정 단어 강조",
+        "example": ""
+      },
+      {
+        "word": "intonation",
+        "pos": "n.",
+        "definition_ko": "억양 — 음의 높낮이 패턴",
+        "example": ""
+      }
+    ],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Activities 1 and 4 best address Mr. Park's issue.\n\nActivity 1 addresses sentence stress: students listen to the same sentence with different emphasized words and explain how the meaning changes, directly raising awareness of how sentence stress conveys meaning as noted in <A>.\n\nActivity 4 addresses intonation: students guess the speaker's attitude (interested, surprised, or bored) from the intonation of a single word 'really,' which directly trains students to understand how intonation conveys emotion and attitude as stated in <A>.",
+      "scoring_criteria": [
+        {
+          "criterion": "Activity 1 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Activity 1 근거: sentence stress가 의미 전달에 미치는 영향",
+          "points": 1
+        },
+        {
+          "criterion": "Activity 4 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Activity 4 근거: intonation으로 태도/감정 전달",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Activities 1 and 4 are most appropriate. Activity 1 develops awareness of sentence stress by having students notice how shifting emphasis changes meaning. Activity 4 develops intonation awareness by requiring students to interpret the speaker's emotional stance from the same word spoken with different intonation patterns."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "Activity 1 focuses on sentence stress — students identify emphasized words and explain how stress shifts alter meaning, matching the issue in <A>. Activity 4 focuses on intonation — students infer emotional attitudes from the same utterance, which directly addresses how intonation conveys attitude and emotion in communication."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Celce-Murcia, M., Brinton, D. & Goodwin, J.",
+        "title": "Teaching Pronunciation: A Course Book and Reference Guide (2nd ed.)",
+        "year": 2010,
+        "publisher": "Cambridge University Press",
+        "pages": "Ch. 10–12",
+        "excerpt": "<span class=\"ref-hl\">Suprasegmental features</span> — <span class=\"ref-hl\">stress, rhythm, and intonation</span> — are more likely than segmental errors to interfere with communication and should receive explicit instructional attention."
+      }
+    ],
+    "concept_explanation": "Suprasegmental features are phonological properties operating above the level of individual sounds: sentence stress (prominence that shifts meaning focus), rhythm (the stress-timed beat of English), and intonation (pitch patterns signaling emotion, attitude, and discourse structure). Unlike segmental errors, suprasegmental mismatches frequently cause communicative breakdown.\n  (초분절음은 개별 음소 이상에서 작용하는 음운적 특성: 문장 강세(의미 초점 이동), 리듬(영어의 강세 박자), 억양(감정·태도·담화 구조를 나타내는 음높이 패턴). 분절음 오류보다 의사소통 실패를 유발하는 경우가 많아 명시적 교수가 필요하다.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

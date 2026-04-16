@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "id": "education_2026_B05",
+    "year": 2026,
+    "number": "B-5",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "speaking assessment",
+      "educational technology",
+      "peer feedback",
+      "ASR"
+    ],
+    "parse_source": "2026_전공B.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Based on <A>, suggest the ONE most appropriate product in <B> that satisfies Ms. Song's needs and the ONE most appropriate product that satisfies Mr. Jung's. Then explain your answers with evidence from <A> and <B>. Do NOT copy more than FOUR consecutive words from the passages.",
+    "passage": "<A>\nMs. Song — Problem: limited peer feedback time, students need online collaboration for speaking.\nExpected outcomes: students reflect and comment on each other's speaking online; teachers provide collaborative environment.\n\nMr. Jung — Problem: current tool only measures accuracy, not fluency.\nExpected outcomes: students get feedback on accuracy AND fluency; students assess based on visual data.\n\n<B>\nProduct 1: Online platform — students record, listen, write reflections. Teachers review logs.\nProduct 2: App — ASR compares pronunciation with native models; instant accuracy feedback with visual waveforms (stress, intonation).\nProduct 3: App — teachers assess rate of speech, frequency of pauses, accuracy; in-depth charts/graphs.\nProduct 4: System — peer scaffolding; students upload recordings, receive peer feedback, self-evaluate, interact synchronously.\nProduct 5: App — speech-to-text; detects grammatical/lexical/discourse errors; teachers annotate transcripts.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "발문 및 조건 확인",
+        "explanation": "각 교사의 문제(problem)와 기대 결과(expected outcomes)를 정확히 파악해야 함. Ms. Song: 피어 피드백 시간 부족 + 온라인 협력 환경 필요. Mr. Jung: 정확성만 측정하는 현재 도구의 한계 → 유창성+정확성 피드백 + 시각 데이터 기반 평가 필요. 각 Product의 기능을 두 조건과 매핑한다.",
+        "key_terms": [
+          "peer feedback",
+          "fluency",
+          "accuracy",
+          "visual data",
+          "CALL"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "Ms. Song → Product 매핑",
+        "explanation": "Ms. Song 조건: ① 학생들이 온라인에서 서로 말하기에 피드백 제공 + 자기성찰, ② 협력 환경 제공. Product 4: 학생들이 녹음 업로드 → 피어 피드백 수신 + 자기평가 + 동기적(synchronously) 상호작용 → 두 조건 모두 충족. Product 1은 자기 성찰(reflection)은 있지만 피어 피드백과 협력 상호작용이 없음 → 탈락.",
+        "key_terms": [
+          "Product 4",
+          "peer scaffolding",
+          "synchronous interaction",
+          "self-evaluation"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "Product 1 vs. Product 4 소거",
+        "explanation": "Product 1: 녹음→청취→자기 반성 작성, 교사 로그 검토 → 피어 피드백 없음, 협력 환경 아님 → Ms. Song 조건 불충족 ✗. Product 4: peer scaffolding + 피어 피드백 + synchronous interaction → Ms. Song 조건 정확히 충족 ✓",
+        "key_terms": [
+          "self-reflection vs. peer feedback",
+          "collaborative environment"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "Mr. Jung → Product 매핑",
+        "explanation": "Mr. Jung 조건: ① 정확성 AND 유창성 피드백, ② 시각 데이터 기반 평가. Product 3: 교사가 발화 속도(speech rate) + 휴지 빈도(pauses) → 유창성 측정, 정확성 포함, 차트/그래프 제공 → 시각 데이터. 두 조건 모두 충족 ✓. Product 2는 정확성 피드백 + 시각 파형 있지만 유창성(속도·휴지) 측정 없음 → 탈락.",
+        "key_terms": [
+          "Product 3",
+          "rate of speech",
+          "frequency of pauses",
+          "charts/graphs",
+          "fluency + accuracy"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "최종 확정",
+        "explanation": "Ms. Song → Product 4: peer feedback + self-evaluation + synchronous collaboration. Mr. Jung → Product 3: fluency(rate, pauses) + accuracy + visual charts. 각 선택이 <A>의 문제와 기대 결과에 항목별로 대응됨을 근거로 제시.",
+        "key_terms": [
+          "Product 4 for Ms. Song",
+          "Product 3 for Mr. Jung"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Peer Feedback (Peer Assessment)",
+        "definition_en": "A formative assessment practice in which learners evaluate and respond to each other's work using specified criteria. Peer feedback enhances both the reviewer's and the reviewee's metalinguistic awareness and reduces dependence on teacher-only evaluation.",
+        "definition_ko": "동료 피드백(동료 평가) — 학습자들이 지정된 기준으로 서로의 결과물을 평가하고 반응하는 형성 평가 방식. 언어적 메타인식을 높이고 교사 평가 의존도를 낮춤.",
+        "source_author": "Liu & Hansen",
+        "source_year": 2002,
+        "related_terms": [
+          "formative assessment",
+          "collaborative learning",
+          "self-assessment"
+        ],
+        "exam_usage": "Ms. Song의 기대 결과: 학생들이 온라인에서 서로 말하기에 피드백 제공"
+      },
+      {
+        "term": "Fluency vs. Accuracy in Speaking Assessment",
+        "definition_en": "Two distinct dimensions of oral proficiency. Fluency refers to the smooth, uninterrupted flow of speech (measured by speech rate, pause frequency, and repair count), while accuracy refers to grammatical and phonological correctness. Balanced assessment addresses both dimensions.",
+        "definition_ko": "유창성 vs. 정확성 — 말하기 능숙도의 두 차원. 유창성은 말의 흐름(발화 속도, 휴지 빈도, 수정 횟수)을, 정확성은 문법·음운 정확도를 의미. 균형 잡힌 평가는 두 차원 모두 측정해야 함.",
+        "source_author": "Skehan",
+        "source_year": 1998,
+        "related_terms": [
+          "speaking assessment",
+          "oral proficiency",
+          "complexity"
+        ],
+        "exam_usage": "Mr. Jung의 문제: 현재 도구가 accuracy만 측정, fluency 미포함"
+      },
+      {
+        "term": "Automatic Speech Recognition (ASR)",
+        "definition_en": "A technology that converts spoken language into text or phonemic output, enabling automated analysis of pronunciation accuracy. ASR-based tools can provide immediate feedback on segmental features but may not capture fluency dimensions such as speech rate or prosody.",
+        "definition_ko": "자동 음성 인식(ASR) — 음성을 텍스트나 음소 출력으로 변환하는 기술. 발음 정확도를 자동 분석해 즉각 피드백 제공 가능. 유창성 지표(속도·운율)는 포착하지 못할 수 있음.",
+        "source_author": "Neri, Cucchiarini & Strik",
+        "source_year": 2002,
+        "related_terms": [
+          "CALL",
+          "pronunciation feedback",
+          "accuracy"
+        ],
+        "exam_usage": "Product 2의 기술 기반; 유창성 미측정으로 Mr. Jung 조건 불충족"
+      },
+      {
+        "term": "CALL (Computer-Assisted Language Learning)",
+        "definition_en": "The application of computers and digital technology to support language learning and teaching. CALL tools range from drill-and-practice software to collaborative online platforms and ASR-based pronunciation trainers.",
+        "definition_ko": "컴퓨터 보조 언어 학습 — 컴퓨터와 디지털 기술을 언어 학습·교수에 활용하는 분야. 반복 연습 소프트웨어부터 협력 온라인 플랫폼, ASR 발음 훈련 도구까지 다양함.",
+        "source_author": "Warschauer & Healey",
+        "source_year": 1998,
+        "related_terms": [
+          "ASR",
+          "peer feedback platform",
+          "educational technology"
+        ],
+        "exam_usage": "<B>의 다양한 Product가 CALL 도구 유형을 예시"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Product 4 best satisfies Ms. Song's needs. It allows students to upload speech recordings and receive feedback from peers online, directly addressing the limited class time for peer feedback. It also enables synchronous interaction, creating the collaborative environment she expects.\n\nProduct 3 best satisfies Mr. Jung's needs. It assesses both fluency (rate of speech, frequency of pauses) and accuracy, and presents results as charts and graphs — the visual data that Mr. Jung requires for more precise assessment.",
+      "scoring_criteria": [
+        {
+          "criterion": "Ms. Song → Product 4 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Product 4 근거: 피어 피드백 + 협력 온라인 환경",
+          "points": 1
+        },
+        {
+          "criterion": "Mr. Jung → Product 3 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Product 3 근거: 유창성+정확성 + 시각 데이터(차트)",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Ms. Song's needs are best met by Product 4, which enables students to share recordings and provide peer feedback online, solving the time limitation. Mr. Jung's needs are best met by Product 3, which measures both accuracy and fluency indicators and presents detailed analysis through visual charts."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "Product 4 suits Ms. Song because it supports peer scaffolding and synchronous interaction online, fulfilling both expected outcomes. Product 3 suits Mr. Jung because it assesses fluency (speech rate, pauses) alongside accuracy and provides visual performance data for teacher assessment."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "paper",
+        "author": "Neri, A., Cucchiarini, C. & Strik, H.",
+        "title": "Feedback in computer-assisted pronunciation training: When technology meets pedagogy",
+        "year": 2008,
+        "publisher": "ISCA",
+        "pages": "",
+        "excerpt": "Effective <span class=\"ref-hl\">CALL speaking tools</span> should provide <span class=\"ref-hl\">feedback</span> not only on segmental accuracy but also on <span class=\"ref-hl\">fluency</span> dimensions such as speech rate and pause distribution."
+      }
+    ],
+    "concept_explanation": "CALL-based speaking assessment tools vary in what they measure and how feedback is delivered. Tools that capture fluency (speech rate, pause frequency) alongside accuracy provide more comprehensive oral proficiency data than accuracy-only systems. Peer feedback platforms add a collaborative dimension by enabling asynchronous or synchronous learner-to-learner evaluation, which is distinct from self-reflection tools.\n  (CALL 기반 말하기 평가 도구는 측정 항목과 피드백 방식이 다양하다. 유창성(발화 속도, 휴지 빈도)과 정확성을 함께 측정하는 도구가 정확성만 측정하는 시스템보다 포괄적인 구어 숙달도 정보를 제공한다. 피어 피드백 플랫폼은 학습자 간 평가를 가능하게 해 자기 성찰 도구와 구별된다.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

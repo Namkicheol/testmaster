@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2021_B10",
+    "year": 2021,
+    "number": "B-10",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage and follow the directions.【4 points】\nThe history of Impressionism is indeed inextricably bound\nup with the quarrels and power struggles that almost\nimmediately threatened the very feasibility of the exhibitions\nfor which, essentially, its members had come together in the\nfirst place. From 1874 to 1886 there were eight exhibitions,\nsix of which revealed the artists’ of cohesion\nand shared ambition. In order to share the costs of organizing\ntheir exhibitions more widely, they were forced to admit\npainters who were less talented or more conservative.\nMoreover, they also had to deal as best they could with the\npersonal ambitions of their members and, although the\nstatutes of 1873 had been carefully drafted so as to give the\npaintings without a salon and without an audience a real\nchance, the experience of each exhibition showed that none of\nthem was really ready for this adventure.\nFrom one Impressionist exhibition to the next, we can trace\nthe relations between the different chapels within the group,\nbut also its capacity to generate new sources of dynamism. In\n1876, Caillebotte emerged. In 1879, Gauguin was introduced by\nPissarro and confirmed by Degas. In 1886 the neo-Impressionists\nbarged in, eating up exhibition space and edging out\nImpressionism itself. Every new arrival, except for Caillebotte\nand Mary Cassatt, was greeted by wailing and the gnashing of\nteeth. But it has to be admitted that these newcomers were\nborn from and because of Impressionism.\nBut then what do these recruits really matter? As of the late\n1870s, the movement was no longer the property of its artists.\nAlready, they were moving away. Cézanne, Renoir, Monet,\nand even Degas, who continued to promote his little realist\nschool, had already chosen their solitary paths. They wanted\nno lack of recognition from the Salon. Also, and above all,\nthey wanted one-person exhibitions where their work could\nbe appreciated in and for itself, where visitors would not get\nlost in comparisons, where critics would not confuse the true\nguest. The Impressionist and true painter with the last-minute\nhistory of Impression would be written by several hands, but\nabove all by individuals.\nFill in the blank with the ONE most appropriate word from the\npassage, and explain what the underlined part means.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

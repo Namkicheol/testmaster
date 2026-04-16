@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2018_A07",
+    "year": 2018,
+    "number": "A-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the dialogue and follow the directions.【2 points】\n(A teacher and a student are talking after seeing a video-clip\nof a baseball game.)\nT: What was happening in the video?\nS: A ball, uh, a ball.\nT: A ball was thrown.\nS: Thrown?\nT: Yes, thrown. A ball was thrown.\nS: A ball thrown.\nT: And who threw the ball?\nS: Pitcher. Thrown pitcher.\nT: Thrown by the pitcher.\nS: By pitcher.\nT: Yes, by the pitcher. A ball was thrown by the pitcher.\nS: Ball thrown by pitcher.\nNote: T=teacher, S=student\nFill in the blank with the FOUR most appropriate words.\nFrom a socio-cultural perspective, effective learning takes\nplace when what a student attempts to learn is within his or\nher . This is the distance between\nwhat a student can do alone and what he or she can do with\nscaffolded help from more knowledgeable others like\nteachers or more capable peers. For learning to be effective,\nsuch help should be provided to a student through\ninteraction like the teacher’s utterances offered to aid the\nstudent in the above dialogue.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

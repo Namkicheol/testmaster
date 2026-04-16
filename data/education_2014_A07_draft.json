@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2014_A07",
+    "year": 2014,
+    "number": "A-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage and follow the directions.【2 points】\nAt a high school English writing contest, contestants\nwere given the instructions in the box and completed their\ncompositions.\nListen to a taped radio interview of Barbara Carrel,\na famous writer, about her adventure to Africa. While\nlistening, take notes. Then using the notes, write a\nstory about her adventure. You will be given 30\nminutes to complete the story.\nEach contestant’s composition was evaluated by two\nEnglish teachers using the same rating scale. Below is part\nof the two teachers’ scoring results.\nRatings of Contestants’ Compositions\nStudents Criteria Teacher A Teacher B\nContent 2 5\nGiho Organization 1 4\nVocabulary 3 4 Lim\nGrammar 2 5\nContent 3 1\nBomi\nOrganization 5 1\nCho\nVocabulary 4 2\n*1=lowest 5=highest ↔\nComplete the comments on the situation above by filling in each\nblank with ONE word. Write your answers in the correct order.\nThe procedure used in the contest exemplifies ①\ntesting in terms of the number of skills assessed. One potential\nproblem with the scoring process is low ②\nreliability, which is most likely due to the subjectivity of the\nraters.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

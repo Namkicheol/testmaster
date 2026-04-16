@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2021_A07",
+    "year": 2021,
+    "number": "A-7",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage and follow the directions.【4 points】\n<A>\n‘Locative inversion’ involves the preposing of a locative\nphrase before the verb and the postposing of the subject after\nthe verb, as illustrated below.\n(1) a. John ran into the house.\nb. Into the house ran John.\n(2) a. A woman stood on the corner.\nb. On the corner stood a woman.\nNote that (1b) can be derived from (1a) by moving the\nlocative phrase into the house to the front of the sentence and\nby inverting the verb ran and the subject John. Likewise, we\ncan derive (2b) from (2a). Meanwhile, there is some\nrestriction with ‘locative inversion.’ Consider the following\nexamples.\n(3) a. My friend Mary seated my mother among the guests of\nhonor.\nb. *Among the guests of honor seated my mother my\nfriend Mary.\nc. *Among the guests of honor seated my friend Mary\nmy mother.\n(4) a. The women danced beautiful dances around the fire.\nb. *Around the fire danced beautiful dances the women.\nc. *Around the fire danced the women beautiful dances.\nAll the examples above clearly show that the basic verb types\naffect the grammaticality of ‘locative inversion.’\nNote: ‘*’ indicates the ungrammaticality of the sentence.\n<B>\n(i) Out of the house came an old lady.\n(ii) Under the bridge lived a troll a good life.\nBased on <A>, state whether or not each sentence in <B> is\ngrammatical. Then, explain why each sentence is grammatical or\nungrammatical on the basis of the description in <A>.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

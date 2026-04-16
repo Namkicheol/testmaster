@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2025_A01",
+    "year": 2025,
+    "number": "A-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the excerpt from a novel and follow the directions.【2 points】\nEvery morning, we drifted from stack to stack, vendor to\nfollow―tables full of vendor. There were no road maps to\nblack market Prell and Colgate were pocketed among\nvegetable stands one day and jars of medicinal herbs the next.\nThe market was randomly organized, and only the mighty and\nexperienced like my mother could navigate its patternless\npaths.\nBut with a sense of neither drama nor calamity, my\nmother’s ability to navigate and decipher simply became\nundone in our new life. She preferred the improvisation of\nhaggling to the conventional certainty of discount coupons,\nthe primordial messiness and fishmongers’ stink of the\nopen-air market to the aroma-free order of individually\nwrapped fillets.\nNow, a mere three and a half years or so after her last call to\nthe sky market, the dreadful truth was simply this: we were\ngoing through life in reverse, and I was the one who would\nhelp my mother through the hard scrutiny of ordinary\nsuburban life. I would have to forgo the luxury of adolescent\nexperiments and temper tantrums, so that I could scoop my\nmother out of harm’s way and give her sanctuary. Now, when\nwe stepped into the exterior world, I was the one who told my\nmother what was acceptable or unacceptable behavior.\nLan Cao, Monkey Bridge\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt.\n<Commentary>\nWhile shopping, the narrator realizes that her mother―a\nfirst-generation immigrant―finds it challenging to navigate\nthrough the orderliness and modernity of the new land on her\nown. The narrator thus accepts the necessity to\nher role from that which was played in their homeland to an\nunfamiliar one.\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n12문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

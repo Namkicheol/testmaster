@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2018_A12",
+    "year": 2018,
+    "number": "A-12",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the passage and follow the directions.【4 points】\nIt is well known that coordinate conjunctions can conjoin\nconstituents of the same grammatical category but cannot\nconjoin constituents of different grammatical categories, as\nexemplified in (1) and (2).\n(1) a. fond of a dog and afraid of a tiger\nb. very slowly and very steadily\nc. a princess of Denmark and a prince of the United\nKingdom\nd. I think that Mary likes poems and Susan novels.\ne. I think that Mary likes poems and that Susan likes\nnovels.\n(2) a. *like a dog and afraid of a tiger\nb. *slowly and the car\nc. *a princess of Denmark and with long hair\nd. *I believe Mary to be honest and that Susan is kind.\ne. *I believe that Mary is honest and Susan to be kind.\nAP can conjoin with another AP, AdvP with another AdvP,\nNP or DP with another NP or DP, TP with another TP, and\nCP with another CP.\nTP, meaning Tense Phrase, is a clause that does not\ninclude a complementizer like Mary likes poems in (3a). CP,\nmeaning Complementizer Phrase, is a clause that includes a\ncomplementizer. The embedded clause of sentence (3a) has\nthe structure in (3b).\n(3) a. I think that Mary likes poems.\nb.\nNote: * indicates the ungrammaticality of the sentence.\nState whether sentence (4) and sentence (5) can be conjoined\nwith the coordinate conjunction but as in sentence (6). Then,\nexplain why, identifying the grammatical category of sentence\n(4) and that of sentence (5).\n(4) I am feeling thirsty.\n(5) Should I save my last cola till later?\n(6) I am feeling thirsty but should I save my last cola till\nlater?\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_B11",
+    "year": 2020,
+    "number": "B-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the excerpt from a play and follow the directions.\n【4 points】\nsappers* The have already mapped most of the area.\nYOLLAND’s official task, which OWEN is now doing, is to\ntake [. . .]—every hill, stream, rock, even every patch of\nground which possessed its own distinctive Irish name—and\nAnglicize it, either by changing it into its approximate\nEnglish sound or by translating it into English words. [. . .]\nOWEN’s official function as translator is to pronounce each\nname in Irish and then provide the English translation.\nOWEN: Now. Where have we got to? Yes—the point where\nthat stream enters the sea—that tiny little beach there.\nGeorge!\nYOLLAND: Yes. I’m listening. What do you call it? Say\nthe Irish name again?\nOWEN: Bun na hAbhann.\nYOLLAND: Again.\nOWEN: Bun na hAbhann.\nYOLLAND: Bun na hAbhann.\nOWEN: That’s terrible, George.\nYOLLAND: I know. I’m sorry. Say it again.\nOWEN: Bun na hAbhann.\nYOLLAND: Bun na hAbhann.\nOWEN: That’s better. Bun is the Irish word for bottom. And\nAbha means river. So it’s literally the mouth of the river.\nYOLLAND: Let’s leave it alone. There’s no English\nequivalent for a sound like that.\nOWEN: What is it called in the church registry?\n[Only now does YOLLAND open his eyes.]\nYOLLAND: Let’s see . . . Banowen.\nOWEN: That’s wrong. [Consults text.] The list of freeholders\ncalls it Owenmore—that’s completely wrong: [. . .] And\nin the grand jury lists it’s called—God!—Binhone!—\nwherever they got that. I suppose we could Anglicize it to\nBunowen; but somehow that’s neither fish nor flesh.\n[YOLLAND closes his eyes again.]\nYOLLAND: I give up.\nOWEN: [At map.] Back to first principles. What are we\ntrying to do?\nYOLLAND: Good question.\nOWEN: We are trying to denominate and at the same time\ndescribe that tiny area of soggy, rocky, sandy ground\nwhere that little stream enters the sea, an area known\nlocally as Bun na hAbhann . . . Burnfoot! What about\nBurnfoot!\nYOLLAND: [Indifferently.] Good, Roland. Burnfoot’s good.\nOWEN: George, my name isn’t . . .\nYOLLAND: B-u-r-n-f-o-o-t?\nOWEN: I suppose so. What do you think?\n영 어 [전공B]\nYOLLAND: Yes.\nOWEN: Are you happy with that?\nYOLLAND: Yes.\nOWEN: Burnfoot it is then. [He makes the entry into the\nName-Book.] [. . .]\nYOLLAND: You’re becoming very skilled at this.\nOWEN: We’re not moving fast enough.\nYOLLAND: [Opens eyes again.] Lancey lectured me again\nlast night.\nOWEN: When does he finish here?\nYOLLAND: The sappers are pulling out at the end of the\nweek. The trouble is, the maps they’ve completed can’t\nbe printed without these names. So London screams at\nLancey and Lancey screams at me. But I wasn’t\nintimidated. [. . .] ‘I’m sorry, sir,’ I said, ‘But certain\ntasks demand their own tempo. You cannot rename a\nwhole country overnight.’ Your Irish air has made me\nbold.\n* Soldiers whose job involves digging, building, and map-making\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt. Then, regarding\nthe underlined part, explain what Owen thinks of the word\n“Bunowen.”\n<Commentary>\nYolland has been commissioned to remap Ireland with\nAnglicized place-names. For some reason, however, he\nshows little concern about finishing the mission on time. He\neven ignores his superior officer Lancey’s order to increase\n. his\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_B07",
+    "year": 2020,
+    "number": "B-7",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the poem and follow the directions.【4 points】\nIn summer’s mellow midnight,\nA cloudless moon shone through\nOur open parlor window\nAnd rosetrees wet with dew.\nI sat in silent musing,\nThe soft wind waved my hair:\nIt told me Heaven was glorious,\nAnd sleeping Earth was fair.\nI needed not its breathing\nTo bring such thoughts to me,\nBut still it whispered lowly,\n“How dark the woods will be!\n“The thick leaves in my murmur\nAre rustling like a dream,\nAnd all their myriad voices\nInstinct* with spirit seem.”\nI said, “Go, gentle singer,\nThy wooing voice is kind,\nBut do not think its music\nHas power to reach my mind.\n“Play with the scented flower,\nThe young tree’s supple bough,\nAnd leave my human feelings\nIn their own course to flow.”\nThe wanderer would not leave me;\nIts kiss grew warmer still—\n“O come,” it sighed so sweetly,\n“I’ll win thee ’gainst thy will.\n“Have we not been from childhood friends?\nHave I not loved thee long?\nAs long as thou hast loved the night\nWhose silence wakes my song.\n“And when thy heart is laid at rest\nBeneath the church-yard stone\nI shall have time enough to mourn\nAnd thou to be alone.”\n* Infused\n영 어 [전공B]\nComplete the commentary below by filling in each blank with\nthe ONE most appropriate word from the poem, respectively.\nThen, explain what the underlined part in the poem means.\n<Commentary>\nPersonification gives the attributes of a human being to an\nanimal, an object, or a concept. In the poem, the “wind” is\npersonified as a(n) “ ” and a(n) “ .”\nThis use of personification offers clues to understanding the\nspeaker’s relationship with nature.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

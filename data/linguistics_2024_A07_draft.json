@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2024_A07",
+    "year": 2024,
+    "number": "A-7",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nPassive predicates are known to have no external\narguments (i.e., subject arguments). Therefore, the passive\nsentences in (1) are interpretable but ungrammatical. This is\nbecause every sentence requires an overt subject.\n(1) a. * ___ is believed that the team will win.\nb. * ___ is believed the team to win.\nIn this context, the expletive it, as a meaningless\nplaceholder, can make (1a) grammatical as shown in (2a).\nDespite insertion of it, however, (2b) still remains\nungrammatical. The only difference between (2a) and (2b) is\nwhether the complement clause is finite or non-finite.\n(2) a. It is believed that the team will win.\nb. *It is believed the team to win.\nMoreover, the same pattern holds in raising predicates as\nin (3). Note that raising predicates have no external arguments.\n(3) a. It seems that the team will win.\nb. *It seems the team to win.\nThe unexpected parallelism between passive and raising\npredicates can be accounted for by the empirically-attested\nobservation, which states that a predicate which has no\nexternal argument cannot assign accusative/objective\n(acc/obj) Case. Accordingly, the ungrammaticality of (2b) and\n(3b) indicates that the NP the team is Case-less because the\npassive and raising predicates are unable to assign acc/obj\nCase to it.\nThis Case-less NP problem can be solved by moving it to\nthe Case-assigned position, such as the subject position of a\nfinite clause or the object position of a transitive verb, without\nan it-insertion:\n(4) a. The team is believed to win.\nb. The team seems to win.\nNote: ‘*’ indicates the ungrammaticality of the sentence.\n<B>\na. The detective was thought to have destroyed the evidence.\nb. It was told the students that they should pass the exam.\nc. It is likely that the mirror should not have been broken.\nd. It appeared to be required the students to read two books.\ne. The experiment proved to be successful.\nBased on <A>, identify the TWO ungrammatical sentences\ncontaining a Case-less NP in <B>. Then explain the common\nproblem with the sentences you chose and its solution without\nchanging the (non-)finiteness of the embedded clauses.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

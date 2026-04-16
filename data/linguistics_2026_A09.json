@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "id": "linguistics_2026_A09",
+    "year": 2026,
+    "number": "A-9",
+    "subject": "linguistics",
+    "linguistics_domain": "semantics",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "lexical aspect",
+      "Vendler",
+      "achievement",
+      "iteration",
+      "progressive",
+      "for-phrase"
+    ],
+    "parse_source": "2026_linguistics_A.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Based on <A>, identify the TWO examples in <B> that have the meaning of iteration (repetition), and explain your answers. Make sure to identify the kinds of verbs used in the examples you have chosen.",
+    "passage": "<A>\nEnglish verbs can be divided into the following four kinds based on their inherent lexical aspect: state, activity, accomplishment, and achievement. State verbs describe states or situations rather than actions, as in (1):\n(1) Mary hated ice cream.\n\nActivity verbs are atelic, whereas accomplishment and achievement verbs are telic. The word telic basically means \"having a natural completion or an end point.\" Activity verbs, thus, express actions that go on for a potentially indefinite period of time, as in (2):\n(2) Sean was running.\n\nLike activity verbs, accomplishment verbs are also durative. An accomplishment verb, however, has a well-defined end point, when the particular action described in the verb phrase is, or is not, completed, as in (3):\n(3) Harry wrote a book.\n\nAchievement verbs also have a well-defined end point, but they have no duration as they describe actions that occur instantaneously, as in (4):\n(4) John kicked a tire.\n\n<B>\na. She was hitting a sandbag.\nb. She was drawing a big house.\nc. She swam in the pool for an hour.\nd. She bounced the ball for 10 minutes.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "의미론(semantics) 영역. Vendler(1957) 어휘상(lexical aspect) 4분류 중 'achievement verb'와 iteration(반복 해석) 관계 문제. 발문 조건: (1) iteration 의미 가진 예문 2개 선택, (2) 동사 유형 반드시 명시, (3) 이유 설명. iteration 발생 조건: achievement 동사(순간적·punctual) + progressive 또는 for-phrase → 단일 사건으로 지속 불가 → 반복 해석 강제.",
+        "key_terms": [
+          "lexical aspect",
+          "achievement verb",
+          "iterative reading",
+          "progressive",
+          "for-phrase"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응 — Vendler 4분류 ↔ <B> 동사 분석",
+        "explanation": "<A> 4분류 ↔ <B> 동사 대응:\nState: [-dynamic, -telic] — 예: hate, know\nActivity: [+dynamic, +durative, -telic] — 예: run, swim\nAccomplishment: [+dynamic, +durative, +telic] — 예: write a book, draw a house\nAchievement: [+dynamic, -durative, +telic] — 예: kick, hit, bounce\n\n<B> 동사 분류:\n(a) hit: 발로 치는 순간적 행위 → achievement ✓\n(b) draw a big house: 완성점 있고 지속적 → accomplishment ✓\n(c) swim: 지속적, 종결점 없음 → activity ✓\n(d) bounce: 공을 튀기는 순간적 행위 → achievement ✓",
+        "key_terms": [
+          "hit = achievement",
+          "draw = accomplishment",
+          "swim = activity",
+          "bounce = achievement"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "후보 소거 — iteration 아닌 예문 제거",
+        "explanation": "(b) draw a big house + progressive:\n→ draw = accomplishment(지속적·telic). Progressive + accomplishment = 단순 진행 중 해석 가능('She was in the process of drawing'). Iteration 아님.\n\n(c) swim + for an hour:\n→ swim = activity(비완결적·지속적). Activity + for-phrase = 자연스러운 지속 기간 표현. 반복 강제 아님.\n\n→ iteration = achievement 동사일 때만 발생.",
+        "key_terms": [
+          "accomplishment + progressive ≠ iteration",
+          "activity + for-phrase ≠ iteration"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — (a),(d) iteration 근거",
+        "explanation": "(a) She was hitting a sandbag:\nhit = achievement verb(순간적 사건). Progressive 'was hitting'은 단일 순간 사건을 지속할 수 없음 → 반복된 hitting 사건들의 연속 = iterative reading 강제.\n\n(d) She bounced the ball for 10 minutes:\nbounce = achievement verb(순간적). 'for 10 minutes'는 지속 시간 표시 → 단일 bounce는 순간적이므로 10분 동안 지속 불가 → 반복된 bounce 사건들 = iterative reading 강제.",
+        "key_terms": [
+          "hit = achievement + progressive → iteration",
+          "bounce = achievement + for-phrase → iteration"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "어휘상 iteration 출제 패턴:\n① 동사 유형 먼저 분류(4분류) → achievement 동사 특정.\n② achievement + progressive or for-phrase = iteration 강제 조건 확인.\n③ accomplishment + progressive ≠ iteration (단순 진행), activity + for-phrase ≠ iteration (정상 지속) 구별.\n서술 순서: 예문 2개 명시 → 동사 유형(achievement) 명시 → progressive/for-phrase 이유 → iterative reading 도출.",
+        "key_terms": [
+          "achievement verb identification",
+          "coercion to iterative reading"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Lexical aspect (Aktionsart)",
+        "definition_en": "The inherent temporal/dynamic properties of a verb or verb phrase, classified by Vendler (1957) into four types: state, activity, accomplishment, and achievement.",
+        "definition_ko": "어휘상 — 동사 자체에 내재된 시간적·역동적 속성. Vendler(1957) 4분류: 상태, 활동, 완성, 달성.",
+        "source_author": "Vendler",
+        "source_year": 1957,
+        "related_terms": [
+          "telic",
+          "atelic",
+          "durative",
+          "punctual",
+          "iterative"
+        ],
+        "exam_usage": "지문 <A>의 4분류 기준 제공 — iteration 분석의 전제"
+      },
+      {
+        "term": "Achievement verb",
+        "definition_en": "A verb denoting an instantaneous (punctual), telic event with no inherent duration. When combined with progressive or for-phrases, an iterative reading is forced.",
+        "definition_ko": "달성 동사 — 순간적(punctual)이고 완결적인 사건. Progressive나 for-phrase와 결합 시 반복 해석 강제.",
+        "source_author": "Vendler",
+        "source_year": 1957,
+        "related_terms": [
+          "telic",
+          "punctual",
+          "iterative",
+          "progressive coercion"
+        ],
+        "exam_usage": "hit, bounce = achievement verb → progressive/for-phrase → iteration"
+      },
+      {
+        "term": "Iterative reading",
+        "definition_en": "An interpretation in which a single punctual event is understood as being repeated multiple times. Forced when achievement verbs co-occur with progressive aspect or for-duration phrases.",
+        "definition_ko": "반복 해석 — 단일 순간 사건이 여러 번 반복되는 것으로 해석됨. Achievement 동사 + progressive or for-phrase 조합에서 강제 발생.",
+        "source_author": "Saeed",
+        "source_year": 2016,
+        "related_terms": [
+          "achievement verb",
+          "coercion",
+          "aspectual composition"
+        ],
+        "exam_usage": "(a) was hitting → iterative; (d) bounced for 10 minutes → iterative"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "telic",
+        "pos": "adj.",
+        "definition_ko": "완결적 — 자연적인 종결점을 가진 사건",
+        "example": "write a book (has an endpoint: finished)"
+      },
+      {
+        "word": "atelic",
+        "pos": "adj.",
+        "definition_ko": "비완결적 — 내재적 종결점이 없는 사건",
+        "example": "run, swim (no inherent endpoint)"
+      },
+      {
+        "word": "durative",
+        "pos": "adj.",
+        "definition_ko": "지속적 — 일정 시간 동안 진행되는 사건",
+        "example": "was running (ongoing process)"
+      },
+      {
+        "word": "instantaneous / punctual",
+        "pos": "adj.",
+        "definition_ko": "순간적 — 지속 시간 없이 순간에 발생하는 사건",
+        "example": "kick, hit, bounce"
+      },
+      {
+        "word": "iterative",
+        "pos": "adj.",
+        "definition_ko": "반복적 — 동일 사건이 여러 번 반복되는 해석",
+        "example": "was hitting = repeated hitting events"
+      }
+    ],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Examples (a) and (d) have the meaning of iteration. Hit in (a) and bounce in (d) are achievement verbs, which describe instantaneous events. In (a), the progressive aspect forces an iterative reading since a single punctual event cannot be ongoing. In (d), the for-phrase for 10 minutes requires the punctual event to be repeated.",
+      "scoring_criteria": [
+        {
+          "criterion": "(a), (d) 정확히 식별",
+          "points": 1
+        },
+        {
+          "criterion": "hit, bounce = achievement verb 명시",
+          "points": 1
+        },
+        {
+          "criterion": "(a) progressive → iterative 이유 설명",
+          "points": 1
+        },
+        {
+          "criterion": "(d) for-phrase → iterative 이유 설명",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Sentences (a) and (d) have an iterative meaning. The verbs hit and bounce are achievement verbs, denoting instantaneous events. In (a), the progressive aspect cannot hold over a single punctual event, so a repeated-event reading is forced. In (d), the for-phrase for 10 minutes requires the event to be repeated since a single bounce has no duration."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "(a) and (d) show iteration. Since hit and bounce are achievement verbs (instantaneous, punctual), combining them with progressive or a for-phrase forces a repeated-event reading: a single instantaneous event cannot extend over time."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "paper",
+        "author": "Vendler, Z.",
+        "title": "Verbs and Times",
+        "year": 1957,
+        "publisher": "The Philosophical Review, 66(2)",
+        "pages": "pp. 143–160",
+        "excerpt": "<span class=\"ref-hl\">Achievement verbs</span> differ from all others in that they <span class=\"ref-hl\">do not have a continuous stretch of time</span> in which they take place. They mark a <span class=\"ref-hl\">single moment</span>."
+      },
+      {
+        "type": "textbook",
+        "author": "Saeed, J. I.",
+        "title": "Semantics (4th ed.)",
+        "year": 2016,
+        "publisher": "Wiley-Blackwell",
+        "pages": "pp. 132–145",
+        "excerpt": "When <span class=\"ref-hl\">achievement verbs</span> are used with the <span class=\"ref-hl\">progressive</span> or with <span class=\"ref-hl\">for-phrases</span>, a repetition or <span class=\"ref-hl\">iterative reading</span> is imposed: She was reaching the top means she reached it again and again."
+      }
+    ],
+    "concept_explanation": "Vendler (1957) four-way lexical aspect classification:\n  (Vendler 4분류 어휘상:)\n\n  State     [-dynamic, -telic, +stative]: hate, know, believe\n  Activity  [+dynamic, +durative, -telic]: run, swim, push\n  Accomplishment [+dynamic, +durative, +telic]: write a book, draw a house\n  Achievement [+dynamic, -durative, +telic]: hit, kick, bounce, reach\n\nIteration (coercion):\nAchievement verbs are punctual (no duration). When forced into a durative context, an iterative reading results.\n  (달성 동사는 순간적. 지속 맥락과 결합 시 반복 해석 강제.)\n\n  Achievement + progressive → repeated events:\n    She was hitting a sandbag = she hit repeatedly.\n  Achievement + for-phrase → repeated events:\n    She bounced the ball for 10 min = she bounced it many times.\n\nContrast:\n  Accomplishment + progressive = single ongoing event (NOT iteration).\n  Activity + for-phrase = natural duration (NOT iteration)."
+  },
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "linguistics_2022_B06",
+        "year": 2022,
+        "number": "B-6",
+        "subject": "linguistics",
+        "connection_type": "same_concept",
+        "connection_note": "Vendler 어휘상 4분류 동일 주제. 동사 유형 식별 + 상적 해석 분석.",
+        "shared_keywords": [
+          "lexical aspect",
+          "achievement",
+          "Vendler",
+          "telic"
+        ]
+      }
+    ]
+  }
+}

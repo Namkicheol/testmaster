@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "education_2010_X15",
+    "year": 2010,
+    "number": "X-15",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "15. Read the following and answer the question. [1.5점]\nIn today's English class, Minji and her partner were\nasked to read a newspaper article and retell the story to\neach other. Their performance was video-recorded. Minji\nwrote the following in her learning log after watching the\nvideo.\nMinji’s Learning Log\nMistakes and difficulties I had during the task\nThe newspaper article had a lot of new words that\nI’ve never seen before. I was worried if I could\naccurately retell the story.\nStrategies I used to complete the task\nSince I didn’t have time to look up words in the\ndictionary, I had to guess their meanings based on\nthe context. I thought I understood the story. When I\ndidn’t have enough words to describe it, I simply\nused Korean words.\nOverall assessment of my performance on today’s task\nI paused a lot without speaking while I was telling\nthe story because I didn’t know what to say in\nEnglish. When I was listening, I didn’t understand my\npartner’s story clearly. But I didn’t ask her to repeat\nit because I wasn’t sure if it was okay.\nStrategies I will practice\nIn the past, I wrote down new words at least ten\ntimes to memorize them. It didn’t work very well, but\nI don’t know how else I can remember the words. I\nwill try to read more so I can learn more new words.\nWhich of the following is correct about Minji’s strategy use?\n① She did not use code-switching during speaking.\n② She used memory strategies effectively to learn the vocabulary.\n③ She appealed for help to overcome her limited speaking\nability.\n④ She used metacognitive strategies in evaluating her learning\nprocess.\nunderstood during ⑤ She used social strategies to make herself\nthe pair-work.\n영 어 (14면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2010_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2010_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2010_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2010_X_p07.png",
+        "image_count": 1
+      },
+      {
+        "page": 8,
+        "file": "images/img_2010_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2010_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2010_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2010_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2010_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2010_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2010_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

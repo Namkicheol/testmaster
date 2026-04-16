@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2025_B09",
+    "year": 2025,
+    "number": "B-9",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nExcessive selflessness leads to an inability to say no. We\nlive in fear of appearing rude and upsetting or offending\npeople. One might believe that putting oneself first could be\nconsidered an act of selfishness―however, it actually leads to\nmultiple benefits.\nA total disregard for others’ feelings isn’t always necessary\nwhen it comes to putting yourself first. For example, a friend\nasks you to go shopping and you say yes because you don’t\nwant to let her down. Consequently, you’re stressed before\nyou’ve even stepped foot inside a shop; you spend the entire\ntrip stressed for being dragged along. What would the\noutcome have been if you’d said no? She might initially feel\nsomewhat put out, but she wouldn’t have to put up with a\ngrumpy, stressed-out shopping companion!\nPutting yourself first can also lead to happiness all around.\nA growing body of research suggests that when people put\nthemselves first they feel happier than when they prioritize\nothers’ needs. In turn, they are able to share that happiness\nwith others. Taking time out from the kids might feel like an\nindulgence but if a one-hour bubble bath is what you want,\nyour kids are going to be much happier with a relaxed parent\nthan one who is trying to do everything for everyone, and not\ngiving themselves a well-earned break.\nIf you don’t start putting yourself first, you may ultimately\nbecome a negative force both for yourself and for others. In\nthe long run, putting yourself first can often benefit everyone\nmay―in many cases―also involved. In that sense, selfishness\nbecome an act of selflessness. Therefore, don’t be afraid to\njust say no the next time you’re asked to do something\ndifficult.\nWrite a summary following the guidelines below.\n<Guidelines>\nSummarize the passage above in one paragraph.\nProvide a topic sentence, two supporting ideas, and a concluding\nsentence based on the passage.\nDo NOT copy more than FOUR consecutive words from the\npassage.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

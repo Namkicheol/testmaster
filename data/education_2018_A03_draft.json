@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2018_A03",
+    "year": 2018,
+    "number": "A-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the dialogue and follow the directions.【2 points】\nT1: There’s no doubt that young children beginning school\nneed the basics of reading, writing, and math.\nT2: I agree, but the big problem is determining the best way\nfor them to get it. I think the classic mode of a teacher\nat the chalkboard, and books and homework is\noutdated.\nT1: True. That’s why I have been looking at some teaching\nliterature based on the ideas Jonathan Bergman and\nAaron Sams came up with.\nT2: What do they suggest?\nT1: Well, they have reconsidered the role of the traditional\nclassroom and home. So home becomes a classroom,\nand vice versa in this way of learning. Students view\nlecture materials, usually in the form of videos, as\nhomework before class.\nT2: That’s interesting. What’s the focus in class?\nT1: That’s the best part. Class time is reserved for activities\nsuch as interactive discussions or collaborative work\nsupervised by the teacher.\nT2: I like it. But how does it benefit the students?\nT1: They can study the lectures at home at their own pace,\nor re-watch the videos, if needed, or even skip parts\nthey already understand.\nT2: Right. And then, in class the teacher is present when\nthey apply new knowledge. What about traditional\nhomework?\nT1: That can be done in class, too. So, the teacher can gain\ninsights into whatever concepts, if any, their students\nare struggling with and adjust the class accordingly.\nT2: What does the literature say about its effectiveness?\nT1: Amazingly, according to one study, 71% of teachers\nwho have tried this approach in their classes noticed\nimproved grades, and 80% reported improved student\nattitudes, as well.\nT2: That’s fantastic. Let me read that when you’re done. I\nwant to look further into this.\nNote: T=teacher\nFill in the blank with the ONE most appropriate word.\nThe teaching approach discussed by the two teachers is\nknown technically as learning in educational\nsettings.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

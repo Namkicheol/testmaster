@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2018_A13",
+    "year": 2018,
+    "number": "A-13",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "13. Read the dialogue and follow the directions.【4 points】\nT: Come here, Sumin. How was your vacation?\nS: Pretty good. Thank you, Ms. Kim. Actually, I’m so\nhappy to be taking English classes from you this year.\nT: Good! You’re really welcome in my class. Okay, then,\nlet’s talk about the test you had.\nS: You mean the reading test you gave us in the first class?\nActually, I was wondering why you gave us a test\ninstead of going directly into the textbook.\nT: Right, your class hasn’t had a lesson yet. It was mainly\nto see how much you are ready for this semester and\ngive you individual attention for any strong and weak\npoints you have.\nS: I see. So, how were the results?\nT: Hmm ... . Overall, you did quite well. Especially, you did\nwell on the grammar questions. But it appears you had a\nbit of trouble with some words in the reading texts.\nS: You’re right. Some words are really hard to memorize\nalthough I keep trying.\nT: I understand. Well, why don’t you try to learn them\nthrough a context particularly relevant to you? That will\nbe helpful, I believe.\nS: Thank you for your advice, Ms. Kim.\nNote: T=teacher, S=student\nFill in the blank with the ONE most appropriate word. Then,\nsupport your answer with evidence from the dialogue.\nTests can be categorized according to the purposes for which\nthey are carried out. In this respect, the test that Ms. Kim\nand Sumin are talking about is an example of a(n)\ntest.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

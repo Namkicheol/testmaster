@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "id": "education_2026_B08",
+    "year": 2026,
+    "number": "B-8",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "mixed-ability",
+      "differentiated instruction",
+      "scaffolding",
+      "cognitive skills"
+    ],
+    "parse_source": "2026_전공B.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Identify the ONE instructional tip in <A> that Ms. Choi applied to Activity 1 in <B> and the ONE instructional tip in <A> to Activity 2 in <B>. Then explain your answers with evidence from <B>.",
+    "passage": "<A>\n<Instructional tips>\n1. Offer students varying levels of content.\n2. Give students different levels of support in the materials.\n3. Provide early finishers with extension activities.\n4. Assign different roles according to students' abilities in the activities.\n5. Have students apply different cognitive skills to do the activities.\n\n<B>\n<Activity 1>\nFor low-level students: Fill in the blanks — first letter of each word given as hint.\nFor intermediate-level students: Fill in the blanks — no hints, just a word box.\n\n<Activity 2>\nFor low-level students: Match the pictures with the descriptions.\nFor intermediate-level students: Match the pictures with the descriptions, THEN arrange them in the correct order.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "발문 및 조건 확인",
+        "explanation": "각 Activity에서 어느 Tip이 적용되었는지 찾아야 함. 핵심 판단 기준: ① 두 수준 간 '무엇이 다른가'를 정확히 파악하고, ② 그 차이가 Tip 1~5 중 어느 정의와 대응하는지 매핑. Tip 1(내용 수준 차이), Tip 2(자료 지원 수준 차이), Tip 3(일찍 끝낸 학생 활동), Tip 4(역할 배분), Tip 5(인지 기술 수준 차이).",
+        "key_terms": [
+          "differentiated instruction",
+          "mixed-ability",
+          "Bloom's taxonomy"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "Activity 1 차이점 분석",
+        "explanation": "두 수준 모두 같은 '빈칸 채우기' 과제 + 같은 단어 박스(word box). 차이: 저수준은 각 단어의 첫 글자 힌트 제공, 중간수준은 힌트 없음. 과제 내용(content)은 동일, 역할도 없음. 차이는 오직 '지원(support)' 수준 — 첫 글자 힌트 = scaffold 제공 여부. → Tip 2 적용 ✓",
+        "key_terms": [
+          "scaffolding",
+          "first-letter hint",
+          "support level",
+          "Tip 2"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "Activity 1 다른 Tip 소거",
+        "explanation": "Tip 1(내용 차이): 두 수준 모두 같은 빈칸 채우기 → 내용 차이 없음 ✗. Tip 4(역할 배분): 개인 과제, 역할 없음 ✗. Tip 5(인지 기술 차이): 두 수준 모두 빈칸 채우기(recall/recognition) → 같은 인지 과정 ✗. → Tip 2만 해당.",
+        "key_terms": [
+          "elimination",
+          "same task different support"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "Activity 2 차이점 분석",
+        "explanation": "저수준: 사진-설명 매칭(matching). 중간수준: 매칭 + 순서 배열(ordering). 같은 자료, 같은 역할, 지원 수준 같음. 차이: 중간수준에는 추가 과제(ordering)가 있고 이는 더 높은 인지적 요구(sequencing/analysis). 매칭 = recognition/understanding, 순서 배열 = analysis(Bloom). 다른 인지 기술 적용 → Tip 5 ✓",
+        "key_terms": [
+          "cognitive skills",
+          "matching vs. ordering",
+          "Bloom's taxonomy",
+          "Tip 5"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "최종 확정",
+        "explanation": "Activity 1 → Tip 2: 같은 과제와 자료에서 힌트(첫 글자) 유무로 지원 수준 차별화. Activity 2 → Tip 5: 저수준은 매칭(이해 수준 인지), 중간수준은 매칭+순서 배열(분석 수준 인지) — 다른 인지 기술 요구. 각각 지문 증거로 뒷받침.",
+        "key_terms": [
+          "Tip 2 for Activity 1",
+          "Tip 5 for Activity 2"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Differentiated Instruction",
+        "definition_en": "A teaching approach in which educators proactively plan varied approaches to content, process, and product in response to students' differing readiness levels, interests, and learning profiles. Differentiation ensures that all students have access to appropriately challenging tasks.",
+        "definition_ko": "수준별 수업(차별화 교수) — 학생의 준비도·흥미·학습 양식 차이에 맞게 내용·과정·산출물을 사전에 다양화하는 교수 접근법. 모든 학생이 적절히 도전적인 과제에 접근할 수 있도록 보장함.",
+        "source_author": "Tomlinson",
+        "source_year": 2001,
+        "related_terms": [
+          "mixed-ability",
+          "scaffolding",
+          "zone of proximal development"
+        ],
+        "exam_usage": "<A>의 5가지 Instructional Tips가 차별화 교수 전략의 구체적 방법"
+      },
+      {
+        "term": "Scaffolding (Instructional Support)",
+        "definition_en": "Temporary, adjustable support provided to learners to help them accomplish tasks they could not complete independently. Scaffolding is gradually removed as learners become more proficient, a process called 'fading.' First-letter hints in cloze tasks are a classic form of material-level scaffolding.",
+        "definition_ko": "비계 설정(교수적 지원) — 학습자가 혼자 완수할 수 없는 과제를 수행할 수 있도록 제공되는 임시적·조정 가능한 지원. 학습자 숙달도가 높아지면 점진적으로 제거(fading). 빈칸 과제의 첫 글자 힌트는 자료 수준 비계의 전형적 사례.",
+        "source_author": "Wood, Bruner & Ross",
+        "source_year": 1976,
+        "related_terms": [
+          "ZPD",
+          "differentiated instruction",
+          "fading"
+        ],
+        "exam_usage": "Activity 1에서 Tip 2(different levels of support)의 실현 방식"
+      },
+      {
+        "term": "Bloom's Taxonomy (Cognitive Skills)",
+        "definition_en": "A hierarchical classification of cognitive learning objectives, revised by Anderson & Krathwohl (2001) into: Remember, Understand, Apply, Analyze, Evaluate, Create. Matching tasks correspond to lower-order understanding; sequencing/ordering tasks correspond to higher-order analysis.",
+        "definition_ko": "블룸의 분류법(인지 기술) — 인지적 학습 목표의 위계적 분류. Anderson & Krathwohl(2001) 개정판: 기억·이해·적용·분석·평가·창조. 매칭 과제 = 이해 수준, 순서 배열 = 분석 수준에 해당.",
+        "source_author": "Anderson & Krathwohl",
+        "source_year": 2001,
+        "related_terms": [
+          "higher-order thinking",
+          "HOTS",
+          "differentiated instruction"
+        ],
+        "exam_usage": "Activity 2에서 Tip 5(different cognitive skills) 적용의 이론적 근거"
+      },
+      {
+        "term": "Mixed-Ability Classroom",
+        "definition_en": "A classroom context in which students demonstrate a range of proficiency levels. Effective instruction in mixed-ability settings requires deliberate differentiation of tasks, materials, or processes to meet the needs of both lower- and higher-proficiency learners simultaneously.",
+        "definition_ko": "수준 혼합 학급 — 다양한 숙달도를 보이는 학생들이 함께 학습하는 교실 맥락. 효과적인 수업을 위해 과제·자료·과정의 의도적 차별화가 요구됨.",
+        "source_author": "Ur",
+        "source_year": 1996,
+        "related_terms": [
+          "differentiated instruction",
+          "scaffolding",
+          "ability grouping"
+        ],
+        "exam_usage": "<B>에서 저수준/중간수준으로 구분된 활동 설계의 배경"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Tip 2 is applied to Activity 1. Both low-level and intermediate-level students fill in the same blanks using the same word box, but low-level students receive first-letter hints as additional support, while intermediate students do not. This reflects giving different levels of support in the materials.\n\nTip 5 is applied to Activity 2. Low-level students only match pictures with descriptions, while intermediate students must additionally arrange them in the correct order. The ordering task requires a higher-order cognitive skill (sequencing), whereas matching requires only recognition.",
+      "scoring_criteria": [
+        {
+          "criterion": "Activity 1 → Tip 2 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Tip 2 근거: 같은 과제, 힌트 유무로 지원 수준 차별화",
+          "points": 1
+        },
+        {
+          "criterion": "Activity 2 → Tip 5 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Tip 5 근거: 매칭 vs 매칭+순서배열로 인지적 기술 수준 차이",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Activity 1 reflects Tip 2: both groups use the same word box and task, but low-level students get first-letter hints while intermediate students do not, providing different support levels. Activity 2 reflects Tip 5: low-level students perform matching only, while intermediate students additionally sequence the pictures, requiring a more advanced cognitive skill."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "Tip 2 applies to Activity 1 because the two groups receive different amounts of support — the first-letter hints scaffold low-level students while intermediate students work without guidance. Tip 5 applies to Activity 2 because the tasks differ in cognitive demand: matching (recognition) vs. matching plus ordering (sequencing)."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Tomlinson, C. A.",
+        "title": "The Differentiated Classroom: Responding to the Needs of All Learners (2nd ed.)",
+        "year": 2014,
+        "publisher": "ASCD",
+        "pages": "pp. 13–27",
+        "excerpt": "<span class=\"ref-hl\">Differentiation</span> of process means varying the activities or <span class=\"ref-hl\">scaffolding</span> through which learners access key ideas, applying different levels of support or different cognitive demands as students' <span class=\"ref-hl\">readiness</span> warrants."
+      }
+    ],
+    "concept_explanation": "Differentiated instruction addresses mixed-ability learners by varying content, process, or product. Tip 2 (different levels of support) modifies the degree of scaffolding within the same task — a classic process differentiation strategy. Tip 5 (different cognitive skills) assigns tasks of varying cognitive complexity, grounded in Bloom's taxonomy: lower-order tasks (matching/recall) for less proficient learners and higher-order tasks (sequencing/analysis) for more proficient ones.\n  (차별화 교수는 수준 혼합 학급에서 내용·과정·산출물을 달리하여 학습자 요구에 대응한다. Tip 2(지원 수준 차별화)는 같은 과제 내에서 비계 정도를 조절하는 과정 차별화 전략이다. Tip 5(인지 기술 차별화)는 블룸 분류법에 근거해 숙달도가 낮은 학습자에게는 하위 인지 과제(매칭), 높은 학습자에게는 상위 인지 과제(순서 배열·분석)를 부여한다.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

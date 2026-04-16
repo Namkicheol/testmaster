@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_A09",
+    "year": 2025,
+    "number": "A-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage in <A> and the teacher’s reflection log in\n<B>, and follow the directions.【4 points】\n<A>\nMr. Jeong, an English teacher, was tasked with evaluating\nspeaking assessment items in his students’ final exam.\nReviewing key principles of speaking assessment, he noted\nthe following:\n✔Clarity: Prompts should be straightforward to avoid\nconfusion.\n✔Authenticity: Speaking tasks should mirror real-life\ncommunication, enabling students to demonstrate natural\nlanguage use.\n✔Integrated Skills Assessment: Tasks should assess\nspeaking alongside other skills, such as listening\ncomprehension, to reflect communicative performance.\n✔Practicality: Test items should be feasible and\nmanageable in terms of the time spent in assessment.\n<B>\nTeacher’s Reflection Log\nAfter reviewing the items, I felt that the two items had some\ngood and bad points. Item 1 asked students to describe a\nmemorable experience that they had with a friend, including\ndetails such as when it happened, what they did, and why it\nwas memorable. After observing students’ responses, I realized\nthat this item resembled a conversation topic in real-life\ncontexts. However, I regret that I didn’t set time limits for the\nitem and it took too much time to score it, which made the\nassessment difficult to manage.\nFor Item 2, after looking at a picture of a busy street,\nstudents were asked to describe what they saw. Most of the\nstudents did very well on this task because the item clearly\ndescribed what sort of response was desired. I think this item\nwas effective in assessing pronunciation, one of the criteria\nfor assessing speaking skills. However, next time I want to\nadd some more items such as asking students to listen to a\nshort audio and discuss their opinions. It might be more\nchallenging but I believe I can assess multiple skills in the\ntest.\nBased on <A>, identify the speaking assessment principles\napplied in Item 1 and Item 2 in <B>, respectively. Then, explain\nhow each principle was applied in each item with evidence from\n<B>.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

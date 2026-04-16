@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "education_2014_B02",
+    "year": 2014,
+    "number": "B-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Examine the class observation checklist and notes completed\nby a middle school English teacher after observing a colleague’s\nclass, and follow the directions.【10 points】\nObservation Checklist\nSumi Kim 4. Personal Health Instructor: Unit:\nHow to treat acne Giving advice Topic: Function:\n2/8 Nov. 11 Period: Date:\nAreas Criteria Scale*\n∙have a clearly developed lesson\nplan\nLesson\nPreparation ∙prepare interesting multimedia\nmaterials\n∙give clear directions\n∙use an appropriate grouping Instructional\nstrategy for group activities Strategies\n∙provide level-appropriate activities\n∙create a warm and accepting Affective\natmosphere Aspects\n*1=poor, 2=average, 3=good\nNotes\n-A fun video clip on acne. Ss loved it.\n-T was kind and patient.\n-Group activity (same-ability grouping)\n󰋻Higher-level students did well. Had no problems.\n󰋻Lower-level students had a hard time completing\nthe task. Seemed like they needed some help.\nIn one paragraph, identify one strong point and one weak\npoint of the lesson based on the data above. Support each of\nyour choices with details from both the checklist and the\nnotes. In another paragraph, address the problems the\nlower-level students are experiencing by suggesting two\npossible solutions and supporting them with your rationales.\n<수고하셨습니다.>\n3\n중 면)\n\n이 면은\n여백입니다.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_B_p02.png",
+        "image_count": 6
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_A08",
+    "year": 2021,
+    "number": "A-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage in <A> and the teacher’s log in <B>, and\nfollow the directions.【4 points】\n<A>\nIn an attempt to better understand language development, a\nthree-tiered approach has been proposed, encompassing the\nfollowing components for investigating production changes:\ncomplexity, accuracy, and fluency. Complexity generally\nrefers to the lexical variety and syntactic elaborateness of the\nlearner’s linguistic system. Accuracy involves the correct use\nof the target language, while fluency concerns a focus on\nmeaning, automatization, and real-time processing. These\nthree constructs can be applied to appraise written or spoken\nlanguage skill (i.e., performance) as well as to assess the state\nof the linguistic knowledge that supports this performance\n(i.e., proficiency).\n<B>\nTeacher’s Log\nIn order to evaluate the progress of their speaking ability, I\nusually have my students read a story and then tell about it in\ntheir own words. It’s not easy to measure all aspects of their\nspeech at once. On the part of the students, it’s also not easy to\nfocus on more than one aspect simultaneously. So, I usually\ngive my students two presentation opportunities and ask them\nto pay more attention to one aspect over the others in each\npresentation session. In the first presentation session, I focus\non how naturally and clearly the content is delivered. To that\nend, I evaluate students’ presentations based on the speed of\ntheir talk and the number of pauses and false starts. For the\nsecond presentation session, I record and transcribe the\nstudents’ oral performance for a closer look. At this point, the\npresentation is evaluated especially by calculating the ratio of\nindependent and dependent clauses and tallying the number of\ndifferent verbs used.\nBased on <A>, identify the component that the teacher focuses\non in each presentation session mentioned in <B>, respectively.\nThen, support your answer with evidence from <B>. Do NOT\ncopy more than FOUR consecutive words from <A> and <B>.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "id": "general_2026_B03",
+    "year": 2026,
+    "number": "B-3",
+    "subject": "general",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "short story",
+      "Jhumpa Lahiri",
+      "arranged marriage",
+      "immigrant",
+      "intimacy"
+    ],
+    "parse_source": "2026_전공B_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Complete the commentary below by filling in the blank with the ONE most appropriate word from the excerpt. Then explain why the narrator recalls as described in the underlined part.",
+    "passage": "At the end of August, Mala's passport and green card were ready. I received a telegram with her flight information; my brother's house in Calcutta had no telephone. Around that time I also received a letter from her, written only a few days after we had parted. There was no salutation; addressing me by name would have assumed an intimacy we had not yet discovered. It contained only a few lines. 'I write in English in preparation for the journey. Here I am very much lonely. Is it very cold there. Is there snow. Yours, Mala.'\n\nI was not touched by her words. We had spent only a handful of days in each other's company. And yet we were bound together; for six weeks she had worn an iron bangle on her wrist, and applied vermilion powder to the part in her hair, to signify to the world that she was a bride. In those six weeks I regarded her arrival as I would the arrival of a coming month, or season—something inevitable, but meaningless at the time. So little did I know her that, while details of her face sometimes rose to my memory, I could not conjure up the whole of it.\n\nA few days after receiving the letter, as I was walking to work in the morning, I saw an Indian woman on the other side of Massachusetts Avenue, wearing a sari with its free end nearly dragging on the footpath, and pushing a child in a stroller. An American woman with a small black dog on a leash was walking to one side of her. Suddenly the dog began barking. From the other side of the street I watched as the Indian woman, startled, stopped in her path, at which point the dog leapt up and seized the end of the sari between its teeth. The American woman scolded the dog, appeared to apologize, and walked quickly away, leaving the Indian woman to fix her sari in the middle of the footpath, and quiet her crying child.\n\nShe did not see me standing there, and eventually she continued on her way. Such a mishap, I realized that morning, would soon be my concern. It was my duty to take care of Mala, to welcome her and protect her. I would have to buy her her first pair of snow boots, her first winter coat. I would have to tell her which streets to avoid, which way the traffic came, tell her to wear her sari so that the free end did not drag on the footpath. A five-mile separation from her parents, I recalled with some irritation, had caused her to weep.\n\nJhumpa Lahiri, \"The Third and Final Continent\"\n\n<Commentary>\nThis excerpt encapsulates particular experiences immigrants may have regarding arranged marriages. The narrator spent only a short period of time with his wife before leaving his hometown in India. Despite nuptial ties, the lack of __________ makes him insensitive to his wife's upcoming arrival.",
+    "blanks": [
+      {
+        "label": "빈칸",
+        "context": "the lack of ___ makes him insensitive"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "결혼 관계가 있음에도 아내에게 무감각한 이유 → 두 사람 사이에 아직 없는 것 → 친밀감을 의미하는 명사\n- commentary: 'the lack of ___' — 명사 형태 필요\n- 지문에 직접 등장한 단어여야 함 — passage-bound 규칙\n- 1단락에 'addressing me by name would have assumed an intimacy we had not yet discovered'가 명시적으로 등장",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'addressing me by name would have assumed an intimacy we had not yet discovered' [paraphrase]\n→ the lack of ___ makes him insensitive to his wife's upcoming arrival\n\n'I was not touched by her words. / I could not conjure up the whole of it.' [synonym]\n→ makes him insensitive to his wife's upcoming arrival",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- love: ✗ (지문에 등장하지 않는 단어)\n- connection: ✗ (지문에 등장하지 않는 단어)\n- intimacy: ✓ (정답)",
+        "key_terms": [
+          "intimacy"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: intimacy\n\n[content] 1단락에 'an intimacy we had not yet discovered'가 명시됨. 편지에서 이름을 쓰지 못한 것이 바로 친밀감 부재의 증거\n→ 근거: \"addressing me by name would have assumed an intimacy we had not yet discovered.\"\n\n[context_flow] 2단락의 'I was not touched by her words', 'I could not conjure up the whole of it'도 intimacy의 부재를 일관되게 보여줌\n→ 근거: \"I was not touched by her words.\"",
+        "key_terms": [
+          "intimacy"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① Commentary의 빈칸은 지문 첫 단락에서 직접 찾는다 — 도입부에 정답 단어가 집중되는 패턴\n② 밑줄 설명: 화자가 '짜증스럽게(with some irritation)' 회상하는 이유를 intimacy 부재와 연결\n③ 인물 관계의 감정적 거리를 서술할 때 지문 속 행동(편지 서두 없음, 감동 없음)을 근거로 사용\n\n함정:\n- love, affection, bond 등 지문에 없는 단어로 답하는 오류\n- 밑줄 설명에서 Mala의 심리만 설명하고 화자의 감정적 거리를 빠뜨리는 오류\n- 화자가 의무감(duty)을 느끼는 것을 애정으로 해석하는 오류",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [
+      {
+        "word": "salutation",
+        "pos": "n.",
+        "definition_ko": "인사말, 편지 서두의 호칭"
+      },
+      {
+        "word": "vermilion",
+        "pos": "adj./n.",
+        "definition_ko": "진홍색 (힌두 결혼 표시 sindoor)"
+      },
+      {
+        "word": "conjure up",
+        "pos": "phrasal v.",
+        "definition_ko": "(기억 속에서) 불러내다"
+      },
+      {
+        "word": "mishap",
+        "pos": "n.",
+        "definition_ko": "사고, 불운한 일"
+      },
+      {
+        "word": "nuptial",
+        "pos": "adj.",
+        "definition_ko": "결혼의, 혼례의"
+      },
+      {
+        "word": "bangle",
+        "pos": "n.",
+        "definition_ko": "팔찌 (힌두 결혼 예식용 철 팔찌)"
+      },
+      {
+        "word": "sari",
+        "pos": "n.",
+        "definition_ko": "사리 (인도 여성 전통 의상)"
+      }
+    ],
+    "translation": "8월 말, 말라의 여권과 영주권이 준비되었다. 나는 그녀의 항공편 정보가 담긴 전보를 받았다. 캘커타에 있는 형의 집에는 전화가 없었다. 그 무렵 나는 또한 그녀로부터 편지를 한 통 받았는데, 우리가 헤어진 지 불과 며칠 후에 쓴 것이었다. <span class=\"trans-hl\">편지에는 인사말이 없었다. 내 이름으로 부르는 것은 우리가 아직 발견하지 못한 친밀함을 전제하는 일이 될 터였다.</span> 편지에는 단 몇 줄만이 담겨 있었다. '여정을 준비하며 영어로 씁니다. 여기서 저는 매우 외롭습니다. 그곳은 많이 춥나요. 눈이 내리나요. 당신의, 말라.'\n\n나는 그녀의 말에 감동받지 않았다. 우리는 서로의 곁에서 겨우 며칠을 보냈을 뿐이었다. 그러나 우리는 묶여 있었다. 여섯 주 동안 그녀는 손목에 철 팔찌를 끼고, 자신이 신부임을 세상에 알리기 위해 머리 가름마에 진홍색 가루를 발랐다. <span class=\"trans-hl\">그 여섯 주 동안 나는 그녀의 도착을 다가오는 달이나 계절의 도래처럼 여겼다 — 필연적이지만 그 순간에는 의미 없는 무언가로.</span> 그녀를 너무나 조금밖에 알지 못해서, 때로 그녀의 얼굴의 세부적인 것들이 기억에 떠오르기도 했지만, 전체적인 모습을 불러낼 수는 없었다.\n\n편지를 받고 며칠 후, 아침에 출근길을 걷고 있을 때, 나는 매사추세츠 애비뉴 건너편에서 인도 여성을 한 명 보았다. 그녀는 끝자락이 보도 위에 거의 끌릴 것 같은 사리를 입고 유모차를 밀고 있었다. 목줄에 묶인 작은 검은 개를 데리고 걷던 미국 여성이 그녀 옆을 걷고 있었다. 갑자기 개가 짖기 시작했다. 나는 길 건너편에서 보았다. 깜짝 놀란 인도 여성이 가던 길을 멈추었고, 그 순간 개가 뛰어올라 사리 끝자락을 이빨로 물었다. 미국 여성은 개를 꾸짖고, 사과하는 듯 보이더니, 빠르게 걸어가버렸다. <span class=\"trans-hl\">인도 여성만 남아 보도 한가운데서 사리를 고쳐 입고 우는 아이를 달래야 했다.</span>\n\n그녀는 내가 거기 서 있는 것을 보지 못했고, 결국 자신의 길을 계속 걸어갔다. 그런 사고가 곧 내 일이 될 것임을 그날 아침 나는 깨달았다. <span class=\"trans-hl\">말라를 돌보고, 환영하고, 보호하는 것이 나의 의무였다.</span> 그녀에게 처음으로 방한화를, 처음으로 겨울 코트를 사주어야 할 것이었다. 어떤 길을 피해야 하는지, 교통이 어느 방향으로 오는지 알려주어야 할 것이었고, 사리 끝자락이 보도에 끌리지 않도록 입는 법도 알려주어야 할 것이었다. <span class=\"trans-hl\">부모와 겨우 5마일 떨어진 것만으로도 눈물을 흘렸다는 것을, 나는 약간의 짜증을 느끼며 떠올렸다.</span>"
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "빈칸",
+          "answer": "intimacy"
+        }
+      ],
+      "essay_content": "The narrator recalls the Indian woman's struggle with irritation because the scene reminds him of Mala's vulnerability and dependence. Having spent little time with Mala and feeling no emotional bond, he views her needs as an obligation rather than a concern born of affection. The recollection reflects his emotional detachment from a wife he barely knows.",
+      "scoring_criteria": [
+        {
+          "criterion": "빈칸 — intimacy",
+          "points": 1
+        },
+        {
+          "criterion": "화자가 길거리 인도 여성을 보며 Mala 보호 의무를 느끼는 맥락 설명",
+          "points": 1.5
+        },
+        {
+          "criterion": "친밀감 부재로 인해 의무감은 있지만 감정적 연결이 없다는 내용",
+          "points": 1.5
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "The narrator recalls this detail with irritation because, lacking intimacy with Mala, he views her emotional fragility as an inconvenience rather than something to empathize with. Watching the Indian woman struggle made him think of Mala's dependence, but his emotional distance prevents genuine concern."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "The narrator recalls Mala's weeping over a small separation with irritation because he has no emotional bond with her. The Indian woman's mishap makes him aware of his duty to protect Mala, but this awareness is practical, not emotional — reflecting the lack of intimacy between them."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "short_story",
+        "author": "Lahiri, Jhumpa",
+        "title": "The Third and Final Continent",
+        "year": 1999,
+        "publisher": "Interpreter of Maladies, Houghton Mifflin",
+        "pages": "",
+        "excerpt": ""
+      }
+    ],
+    "concept_explanation": "Jhumpa Lahiri의 「The Third and Final Continent」: 인도에서 영국을 거쳐 미국으로 이민 온 남성 화자가 중매결혼으로 맺어진 아내 말라와 점차 친밀감을 형성해가는 과정을 그린 단편소설. 이 지문은 아직 친밀감이 형성되지 않은 초반부로, 화자가 아내를 감정적 연결이 없는 낯선 사람으로 바라보는 시각을 보여준다.\n\n핵심 구조: 친밀감 부재(lack of intimacy) → 무감각(insensitivity) → 의무감(duty)만 존재\n\n편지의 'no salutation'은 두 사람 사이의 심리적 거리를 상징하는 장치. 인도 여성 에피소드는 화자가 의무를 인식하는 계기이지만, 그 인식이 감정이 아닌 책임감에서 비롯됨을 보여준다."
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  }
+}

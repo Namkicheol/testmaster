@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_A03",
+    "year": 2024,
+    "number": "A-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt from a novel and follow the directions.【2 points】\nMY FATHER WAS, I am sure, intended by nature to be a\ncheerful, kindly man. Until he was thirty-four years old he\nworked as a farmhand for a man named Thomas Butterworth\nwhose place lay near the town of Bidwell, Ohio. He had then a\nhorse of his own and on Saturday evenings drove into town to\nspend a few hours in social intercourse with other farmhands.\nIn town he drank several glasses of beer and stood about in\nBen Head’s saloon―crowded on Saturday evenings with\nvisiting farmhands. Songs were sung and glasses thumped on\nthe bar. At ten o’clock father drove home along a lonely\ncountry road, made his horse comfortable for the night and\nhimself went to bed, quite happy in his position in life. He had\nat that time no notion of trying to rise in the world.\nIt was in the spring of his thirty-fifth year that father\nmarried my mother, then a country schoolteacher, and in the\nfollowing spring I came wriggling and crying into the world.\nSomething happened to the two people. They became\nambitious. The American passion for getting up in the world\ntook possession of them.\nIt may have been that mother was responsible. Being a\nschoolteacher she had no doubt read books and magazines.\nShe had, I presume, read of how Garfield, Lincoln, and other\nAmericans rose from poverty to fame and greatness and as I\nlay beside her―in the days of her lying-in―she may have\ndreamed that I would someday rule men and cities. At any rate\nshe induced father to give up his place as a farmhand, sell his\nhorse and embark on an independent enterprise of his own.\nShe was a tall silent woman with a long nose and troubled\ngrey eyes. For herself she wanted nothing. For father and\nmyself she was incurably .\nSherwood Anderson, “The Egg”\nFill in the blank with the ONE most appropriate word from the\nexcerpt.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

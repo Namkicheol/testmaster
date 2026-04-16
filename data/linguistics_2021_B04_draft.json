@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2021_B04",
+    "year": 2021,
+    "number": "B-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage and follow the directions.【4 points】\n<A>\nIn a number of American English dialects, /oʊ/ is realized\nas a diphthong [oʊ] or a monophthong [o].\n(1) /oʊ/ is realized as [oʊ].\na. Poe [poʊ]\nb. low [loʊ]\nc. hope [hoʊp]\nd. coat [koʊt]\ne. most [moʊst]\nf. flow [floʊ]\n(2) /oʊ/ is realized as [o].\na. pole [pol]\nb. Coletrane [koltreɪn]\nc. hole [hol]\nd. told [told]\ne. mole [mol]\nf. fold [fold]\nObserving the patterns in (1) and (2), one could make a\ngeneralization as in (3).\n(3) /oʊ/ is realized as [o] when it is close to /l/.\nHowever, the generalization in (3) does not always hold for\nthe data above. Moreover, it cannot explain the contrast between\n(4) and (5) below.\n(4) /oʊ/ is realized as [oʊ].\na. low-ly [loʊli]\nb. slow-ly [sloʊli]\nc. low-land-s [loʊləndz]\nd. toe-less [toʊləs]\n(5) /oʊ/ is realized as [o].\na. goal-ie [goli]\nb. roll-ing [rolɪŋ]\nc. bowl-er [bolər]\nd. hole-in-one [holɪnwʌn]\nNote: ‘-’ indicates a morpheme boundary.\n<B>\na. shallowly b. soldier c. oatmeal d. poultry\nIn <B>, identify TWO words where the underlined /oʊ/ is\nrealized as [o] in the dialects of English described in <A>.\nThen, revise the generalization in (3) to account for all the data\nin <A>.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2018_A09",
+    "year": 2018,
+    "number": "A-9",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nThere are expressions that are ambiguous because of\nscope interaction between a quantifier and another quantifier\nor between a quantifier and a negative expression. Consider\nthe following sentences.\n(1) a. Every boy likes a girl.\nb. Every student respects a professor.\nSentence (1a) and sentence (1b) are ambiguous because\nevery boy and every student can have a wide scope over a\ngirl and a professor, and a girl and a professor can have a\nwide scope over every boy and every student, respectively.\n(2) a. Every student has not done their assignment.\nb. I have not eaten all the cookies.\nIn (2a) and (2b), every student and all the cookies can have a\nwide scope over not, and not can have a wide scope over\nevery student and all the cookies.\nSentence (3) below is ambiguous. Write TWO possible\nmeanings of the sentence and state how its ambiguity can be\nexplained in terms of scope interaction.\n(3) Mary refused to visit every city that Tom visited.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

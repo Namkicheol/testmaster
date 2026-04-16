@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2021_A06",
+    "year": 2021,
+    "number": "A-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage and follow the directions.【4 points】\n<A>\n‘Foot’ is a prosodic unit above syllable, which consists of\none obligatory strong syllable and optional weak syllables.\nFeet seem to have many different structures in English. For\nexample, there are feet composed of a single stressed syllable\n{ˈson}) and feet where a stressed syllable is followed by (e.g.,\n{ˈmother}) one stressless syllable (e.g., or by two or more\n{ˈCanada}). Sometimes, a strong stressless syllables (e.g.,\n{deˈmand}, {baˈnana}). syllable appears in the second (e.g.,\nFoot structure can change due to [ə]-deletion. First, the data\nin (1) show that [ə] in an initial stressless syllable can be\ndeleted in fast speech.\n(1) Normal speech Fast speech\n[tʰəˈrantoʊ] [ˈtr˳antoʊ] a. Toronto\n[məˈrinə] [ˈmrinə] b. Marina\nSecond, the data in (2) demonstrate that [ə] in a medial\nstressless syllable can be deleted after a stressed and before a\nstressless syllable in fast speech.\n(2) Normal speech Fast speech\n[ˈapərə] [ˈaprə] a. opera\n[ˈʤɛnərəl] [ˈʤɛnrəl] b. general\nThird, the data in (3) tell us that when two stressless syllables\noccur between two stressed syllables, [ə] in either stressless\nsyllable can be deleted in fast speech.\n(3) Normal speech Fast speech\n[ˈrɛspərəˌtʰɔri] [ˈrɛsprəˌtʰɔri] a. respiratory\n[ˈrɛspərˌtʰɔri] or\n[ˌglɔrəfəˈkʰeɪʃən] [ˌglɔrfəˈkʰeɪʃən] b. glorification\n[ˌglɔrəfˈkʰeɪʃən] or\nHowever, [ə]-deletion cannot occur even in fast speech\nwhen a stressless syllable occurs directly between two\nstressed syllables as in (4).\n(4) Normal speech Fast speech\n[ˌapəˈræɾɪk] [ˌapəˈræɾɪk], a. operatic\n*[ˌapˈræɾɪk]\n[ˌʤɛnəˈræləɾi] [ˌʤɛnəˈræləɾi], b. generality\n*[ˌʤɛnˈræləɾi]\nNote 1: ‘*’ indicates a non-permissible form.\nNote 2: ‘{ }’ indicates foot boundaries.\n<B>\n[ˈrɛspəˌreɪt] [ˈʧakəlɪt] a. respirate b. chocolate\n[ˈnæʃənəˌlaɪz] [ˈglɔrəˌfaɪ] c. nationalize d. glorify\nBased on <A>, identify TWO words in <B> where [ə] can be\ndeleted in fast speech. Then, describe the foot structure that is\nmost preferred in fast speech, based on <A>.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2014_A05",
+    "year": 2014,
+    "number": "A-5",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passage and follow the directions.【4 points】\nThere are two types of derivational suffix -al: the type that\nattaches to nouns and forms adjectives as in central, coastal,\nand musical, and the type that attaches to verbs and forms\nnouns as in refusal, proposal, and recital. The second type,\ncalled a deverbal suffix, can derive well-formed nouns only\nif three requirements are satisfied. One is that the final\nsyllable of the verb it attaches to has stress, and based on\nthis requirement, English lacks nouns like *fidgetal,\n*promisal, and *abandonal. The data in (1) and (2)\nexemplify the other two requirements.\nRequirement 2:\n(1) betrothal, arrival, acquittal\n*rebukal, *impeachal, *detachal\nRequirement 3:\n(2) rental, dispersal, rehearsal\n*acceptal, *resistal, *engraftal\nSome Distinctive Features for Consonants\nDistinctive Dentals/ Palato-\nLabials Velars\nFeatures Alveolars alveolars\n[anterior] ＋ ＋ － －\n[coronal] － ＋ ＋ －\nDistinctive Nasal Liquids/\nOral stops Fricatives\nFeatures stops Glides\n[sonorant] ＋ － － ＋\n[continuant] － － ＋ ＋\nDescribe Requirements 2 and 3 based on the data in (1) and\n(2), respectively. For each requirement, use ONE or TWO\ndistinctive features from the list above.\n7\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

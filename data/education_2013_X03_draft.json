@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "education_2013_X03",
+    "year": 2013,
+    "number": "X-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read <A> and <B> and follow the directions.【25points】\n<A>\nA noun phrase can have one or multiple modifiers. The modifiers can precede or follow the noun, and the modification\ncan be restrictive or nonrestrictive. Restrictive modifiers serve to identify the entity that the noun phrase refers to by\nproviding information to narrow down the reference. On the other hand, nonrestrictive modifiers do not serve for\nidentification, since their head noun is viewed as unique or as a member of a class that has been independently identified.\nThe modifiers simply provide additional information about the head. The relative clauses in (1a) and (1b) are restrictive\nand nonrestrictive, respectively. In formal writing, (1b) is slightly unacceptable, and it is indicated with “#”.\n(1) a. John introduced me to the writer who sat behind me.\nb. #John introduced me to his mother who sat behind me.\n(2) Picture-A Picture-B\n<B>\nTed Baker ①who explored many remote places wrote a lot of travel books. In his ②brilliant last book, he described\nthe lifestyle of the people on an islet ③he visited with his beautiful wife. The islet has an active volcano, and the\npeople deify it. Every year they sacrifice a ④young girl to this volcano ⑤of great value to them. In addition to the\ncherished volcano, since chimpanzees ⑥who share 99 percent of our DNA exhibit behaviors similar to humans, the\nislanders consider them special creatures. Holding the belief ⑦that the creatures are their guardians sent from God,\nthe people revere the chief of the island ⑧who can communicate with chimpanzees.\nNote: Some punctuation marks have intentionally been left out of this passage.\nWrite one paragraph for each of the following three questions. First, explain how restrictive and nonrestrictive\nrelative clauses are distinguished in terms of punctuation and prosodic features. Second, write a sentence to describe\neach picture with five girls in (2). Each sentence should be about who is dancing and begin with The girls followed\nby a relative clause about what they are wearing. Then, explain why each sentence corresponds to its picture. Third,\nidentify all and only the nonrestrictive modifications from the underlined modifiers in <B>, and specify why each of\nthose modifiers is nonrestrictive.\n2\n영 어 (3면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2015_A09",
+    "year": 2015,
+    "number": "A-9",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the excerpt from a play and follow the directions.\n【2 points】\n[PETER reacts scoffingly.]\nJerry: Yes, Peter; friend. That’s the only word for it. I was\nheart-shatteringly et cetera to confront my doggy friend\nagain. I came in the door and advanced, unafraid, to the\ncenter of the entrance hall. The beast was there .. . looking\nat me. And, you know, he looked better for his scrape with\nthe nevermind. I stopped; I looked at him; he looked at me.\nI think .. . I think we stayed a long time that way .. . still,\nstone-statue . . . just looking at one another. I looked more\ninto his face than he looked into mine. I mean, I can\nconcentrate longer at looking into a dog’s face than a dog\ncan concentrate at looking into mine, or into anybody else’s\nface, for that matter. But during that twenty seconds or two\nhours that we looked into each other’s face, we made\ncontact. Now, here is what I had wanted to happen: I loved\nthe dog now, and I wanted him to love me. I had tried to\nlove, and I had tried to kill, and both had been\nunsuccessful by themselves. I hoped . . . and I don’t really\nknow why I expected the dog to understand anything, much\nless my motivations . . . I hoped that the dog would\nunderstand. [PETER seems to be hypnotized.] It’s just . . .\nit’s just that . . . [JERRY is abnormally tense, now.] . . . it’s\njust that if you can’t deal with people, you have to make\na start somewhere. WITH ANIMALS! [Much faster now,\nand like a conspirator] Don’t you see? A person has to\nhave some way of dealing with SOMETHING. If not with\npeople . . . SOMETHING. . . . A dog. It seemed like a\nperfectly sensible idea. Man is a dog’s best friend,\nremember. So: the dog and I looked at each other. I longer\nthan the dog. And what I saw then has been the same ever\nsince. Whenever the dog and I see each other we both stop\nwhere we are. The dog and I have attained a compromise;\nmore of a bargain, really. We neither love nor hurt because\nwe do not try to reach each other. And, was trying to feed\nthe dog an act of love? And, perhaps, was the dog’s\nattempt to bite me not an act of love? If we can so\nmisunderstand, well then, why have we invented the word\nlove in the first place?\n[There is silence. JERRY moves to Peter’s bench and\nsits down beside him. This is the first time Jerry has sat\ndown during the play.]\nThe Story of Jerry and the Dog: the end.\n[PETER is silent.]\n영 어 (7면\nComplete the commentary by filling in the blank with TWO\nconsecutive words from the excerpt. Change the word form(s)\nif necessary.\nCommentary\nJerry is desperate to have a meaningful conversation with\nPeter who lives in ignorance of the world outside his\nwith an animal settled life. Jerry starts to\nfirst in order to deal with Peter.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_A_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2015_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2015_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2015_A_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

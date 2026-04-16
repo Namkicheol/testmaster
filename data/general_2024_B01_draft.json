@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_B01",
+    "year": 2024,
+    "number": "B-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the teacher’s journal and follow the directions.【2 points】\nTeacher’s Journal\nSpeech acts are a minimum unit of communication, which\nI believe are an important aspect of the pragmatic knowledge\nL2 learners need to learn to avoid unsuccessful communication.\nMy students, for instance, have shown quite a few communication\nfailures over time. When I tried to find out what their failures\nhave in common, I realized they did not recognize the fact that\nan utterance may have some hidden intended effects on the\nhearer. Indeed, our communication is in nature in\nthat when we are saying something, we can mean something\nelse.\nI recall a couple of examples in particular. One day, in class,\nI said to my student, “What a wonderful picture you have\ndrawn! I really like it.” The student responded, “Oh, you like\nit? You can have it.” In this case, since I made a compliment, I\nexpected a simple thank-you from the student. Beyond my\nexpectation, he seemed to believe that I wanted to own his\npicture. In a poetry class, I once said to another student of\nmine, “Would you like to read the poem?” The student\nreplied, “No, I wouldn’t.” In the second case, I made a\nrequest, but the student seemed to think I was asking her to\ntell me if she was willing or unwilling to read the poem. In\nboth cases, it is apparent that my students misunderstood the\nacts my utterances performed.\nFill in the blanks with the ONE most appropriate word. Use the\nSAME word in both blanks.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n11문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

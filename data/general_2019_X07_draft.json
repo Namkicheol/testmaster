@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2019_X07",
+    "year": 2019,
+    "number": "X-7",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage and follow the directions.【5 points】\nMelatonin－a hormone naturally produced by the pineal\ngland－is released when darkness falls, signaling to the\nbody that it is time to rest. While it is well known for its\nsleep-inducing properties, now, as a result of growing\nresearch, scientists know that the substance not only induces\nsleep but also keeps the brain in order.\nOne way it does so is as an antidepressant. Seasonal\naffective disorder is a form of depression common during\nwinter months, thought to be the effect of a mismatch\nbetween one’s normal sleep cycle and the shifting light-dark\ncycle. For some people this rhythm mismatch depresses\nmood. However, this disorder can be readily treated with\nmelatonin. Research has shown that low doses of melatonin\nalong with bright light therapy can realign the sleep-wake\ncycle and alleviate symptoms of seasonal affective disorder.\nAnother way it keeps the brain in order is by slowing the\ncognitive impairment associated with age-related diseases\nsuch as Alzheimer’s. Amyloid beta and tau proteins are\ntoxic and they build up in patients with this disease, leading\nto cognitive decline. Melatonin helps to offset the toxic\neffects of these proteins, but people with Alzheimer’s\ndisease produce one fifth the amount of melatonin as\nhealthy young adults. Therefore, melatonin supplements can\nimprove cognitive function in these patients by countering\nthe toxic influence of these two harmful proteins.\nThese promising newly found effects of this hormone\nhave attracted much attention and have stimulated further\nresearch to make humans healthier and happier. What is\nclear is that melatonin is no longer just an alternative to\ncounting sheep.\nWrite a summary following the guidelines below.\n<Guidelines>\n∙Summarize the above passage in one paragraph.\n∙Provide a topic sentence, two supporting ideas, and a\nconcluding sentence based on the passage.\n∙Do NOT copy more than FIVE consecutive words from\nthe passage.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

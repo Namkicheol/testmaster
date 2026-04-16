@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "id": "general_2026_B02",
+    "year": 2026,
+    "number": "B-2",
+    "subject": "general",
+    "linguistics_domain": "",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": [
+      "poetry",
+      "Li-Young Lee",
+      "Eating Alone",
+      "solitude",
+      "grief",
+      "memory"
+    ],
+    "parse_source": "2026_전공B_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Complete the commentary below by filling in the blank with the ONE most appropriate word from the poem.",
+    "passage": "I've pulled the last of the year's young onions.\nThe garden is bare now. The ground is cold,\nbrown and old. What is left of the day flames\nin the maples at the corner of my\neye. I turn, a cardinal vanishes.\nBy the cellar door, I wash the onions,\nthen drink from the icy metal spigot.\n\nOnce, years back, I walked beside my father\namong the windfall pears. I can't recall\nour words. We may have strolled in silence. But\nI still see him bend, that way—left hand braced\non knee, creaky—to lift and hold to my\neye a rotten pear. In it, a hornet\nspun crazily, glazed in slow, glistening juice.\n\nIt was my father I saw this morning\nwaving to me from the trees. I almost\ncalled to him, until I came close enough\nto see the shovel, leaning where I had\nleft it, in the flickering, deep green shade.\n\nWhite rice steaming, almost done. Sweet green peas\nfried in onions. Shrimp braised in sesame\noil and garlic. And my own loneliness.\nWhat more could I, a young man, want.\n\nLi-Young Lee, \"Eating Alone\"\n\n<Commentary>\nWhile harvesting the last vegetables, the speaker's memory blends into the garden and brings to life a scene from the past when he walked there with his father. The poem transforms a moment of __________ into a form of reflection and remembrance, showing how ordinary things—onions, pears, and a shovel—keep emotional connections alive.",
+    "blanks": [
+      {
+        "label": "빈칸",
+        "context": "transforms a moment of ___ into a form of reflection"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "성찰과 추억으로 변환되는 '어떤 순간' → 홀로 있는 상태/고독을 뜻하는 명사\n- commentary: 'a moment of ___' — 명사 형태 필요\n- 지문(시)에 직접 등장한 단어여야 함 — passage-bound 규칙\n- 마지막 연에 'my own loneliness'가 명시적으로 등장",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'And my own loneliness. (마지막 연)' [paraphrase]\n→ transforms a moment of ___ into a form of reflection and remembrance\n\n'혼자 정원에서 채소를 수확하고 혼자 식사를 준비하는 화자' [structural]\n→ Commentary: moment of ___ — 고독한 순간",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- grief: ✗ (지문에 'grief'라는 단어가 직접 등장하지 않음)\n- loneliness: ✓ (정답)\n- solitude: ✓ (정답)",
+        "key_terms": [
+          "loneliness",
+          "solitude"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: solitude\n\n[content] 마지막 연에 'And my own loneliness.'가 명시됨. Commentary의 blank target은 이 감정 상태를 지칭. solitude와 loneliness 모두 시에서 지지되지만, 채점 기준상 solitude가 모범답안\n→ 근거: \"And my own loneliness.\"\n\n[context_flow] 혼자 마지막 채소를 수확하고, 아버지의 환영을 보고, 홀로 식사를 준비하는 전체 맥락이 '고독한 순간'을 구성\n→ 근거: \"I've pulled the last of the year's young onions. / The garden is bare now.\"",
+        "key_terms": [
+          "solitude"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① 시에서 빈칸은 지문(시)에 등장한 단어를 찾는다 — passage-bound 원칙\n② Commentary의 '변환(transforms)' 구조 파악: X → reflection/remembrance. X = 시가 다루는 핵심 감정 상태\n③ 마지막 연에 정답 단서가 집중되는 경우가 많음 — 결말 연 우선 확인\n\n함정:\n- grief, loss, mourning 등 지문에 없는 단어로 답하는 오류\n- loneliness도 정답으로 인정 가능 — 채점 기준 확인 필요",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [
+      {
+        "word": "windfall pears",
+        "pos": "n.",
+        "definition_ko": "바람에 떨어진 배"
+      },
+      {
+        "word": "cardinal",
+        "pos": "n.",
+        "definition_ko": "홍관조 (붉은 새)"
+      },
+      {
+        "word": "spigot",
+        "pos": "n.",
+        "definition_ko": "수도꼭지, 마개"
+      },
+      {
+        "word": "glistening",
+        "pos": "adj.",
+        "definition_ko": "반짝이는"
+      },
+      {
+        "word": "creaky",
+        "pos": "adj.",
+        "definition_ko": "삐걱거리는, 노쇠한 듯한"
+      },
+      {
+        "word": "hornet",
+        "pos": "n.",
+        "definition_ko": "말벌"
+      },
+      {
+        "word": "braise",
+        "pos": "v.",
+        "definition_ko": "약한 불로 천천히 조리다 (braised)"
+      }
+    ],
+    "translation": "나는 올해의 마지막 어린 양파를 뽑아냈다.\n정원은 이제 텅 비었다. 땅은 차갑고,\n갈색으로 낡았다. <span class=\"trans-hl\">하루의 남은 빛이 불꽃처럼</span>\n내 눈 가장자리 단풍나무에 타오른다.\n나는 고개를 돌렸고, 홍관조 한 마리가 사라진다.\n지하실 문 옆에서, 나는 양파를 씻고,\n그러고 나서 차가운 금속 수도꼭지에서 물을 마신다.\n\n한때, 몇 년 전, <span class=\"trans-hl\">나는 아버지 곁에서 걸었다</span>\n바람에 떨어진 배들 사이에서. 우리가 나눈\n말은 기억나지 않는다. 우리는 침묵 속에 거닐었는지도 모른다. 하지만\n나는 여전히 그가 그런 식으로 몸을 굽히는 것을 본다 — 왼손을\n무릎에 짚고, 삐걱거리며 — 썩은 배를 들어\n내 눈앞에 가져다 대기 위해. 그 안에서 말벌 한 마리가\n느리고 반짝이는 즙 속에 유리처럼 굳은 채 미칠 듯이 빙글빙글 돌고 있었다.\n\n오늘 아침 나무들 사이에서 나에게\n손을 흔들던 것은 바로 아버지였다. 나는 거의\n그를 불렀다, 가까이 다가가서야\n삽을 볼 수 있을 때까지. 내가 두고 온 그 삽이\n<span class=\"trans-hl\">흔들리는 짙은 초록 그늘 속에</span> 기대어 서 있었다.\n\n<span class=\"trans-hl\">흰 쌀밥이 김을 올리며, 거의 다 됐다. 달콤한 완두콩이\n양파와 함께 볶아진다. 새우가 참기름과\n마늘에 졸여진다. 그리고 나 자신의 고독.</span>\n젊은 남자인 내가, 이보다 무엇을 더 원할 수 있겠는가."
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "빈칸",
+          "answer": "solitude"
+        }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        {
+          "criterion": "solitude (또는 loneliness)",
+          "points": 2
+        }
+      ]
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [
+      {
+        "type": "poetry",
+        "author": "Lee, Li-Young",
+        "title": "Eating Alone",
+        "year": 1986,
+        "publisher": "Rose, BOA Editions",
+        "pages": "",
+        "excerpt": ""
+      }
+    ],
+    "concept_explanation": "Li-Young Lee의 「Eating Alone」: 혼자 식사를 준비하는 일상적 순간이 돌아가신 아버지에 대한 기억과 애도로 자연스럽게 연결된다. solitude(고독)는 단순한 외로움이 아니라 성찰(reflection)과 추억(remembrance)의 공간이 된다.\n\n시의 구조:\n- 1연: 현재 — 텅 빈 정원, 마지막 양파 수확 → 고독한 현재\n- 2연: 과거 — 아버지와 함께 걷던 기억 → 썩은 배 속의 말벌\n- 3연: 환각/환영 — 아버지의 모습이 삽으로 대체 → 상실의 확인\n- 4연: 현재 — 혼자 식사 준비, '나 자신의 고독' 직접 언급\n\n핵심 이미지: 양파, 썩은 배, 삽 — 평범한 사물들이 감정적 연결을 유지하는 매개체."
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2019_X09",
+    "year": 2019,
+    "number": "X-9",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passages and follow the directions.【4 points】\n<A>\nClausal modifiers of NPs which function as the Subject or\nthe Object can move to the end of the sentence, which is\ncalled ‘extraposition,’ as shown in (1) and (2), respectively.\nThe extraposed CP can be adjoined to VP or TP.\n(1) a. A man [who has red hair] just came in.\nb. A man just came in [who has red hair].\n(2) a. John won’t turn a friend [who needs help] away.\nb. John won’t turn a friend away [who needs help].\nLet’s take a closer examination of the extraposition of the\nCP from the Object position in (2b). As confirmed in (3),\nVP preposing can be further applied to (2b) and the resulting\nsentence is grammatical. This suggests that the extraposed\nCP from the Object position is adjoined to VP, since only\nphrasal constituents can move.\n(3) John said that he wouldn’t turn a friend away who needs\nhelp, and [turn a friend away who needs help] he won’t.\nThe whole process can be represented as in (4): from the\nstructure in (4a) the clausal modifier CP adjoined to VP in\n(4b) and the resulting VP constituent moved to the front of\nthe sentence in (4c).\nJohn won’t [ turn [ a friend [ who needs (4) a. [\nTP VP NP CP\nhelp]] away]]\nb. [ John won’t [ [ turn a friend t away] [ who\nTP VP VP i CP\nneeds help]]]\ni\nc. [[ [ turn a friend away][ who needs help]] [\nVP VP CP j TP\nJohn won’t t]]\nj\nFrom the brief observation, it can be proposed that an\nextraposed CP is adjoined to the first phrasal constituent\ncontaining the NP out of which it is extraposed.\n<B>\n( i ) Few people who knew him would work with John.\ni i\n(ii) Few people would work with John who knew him.\ni i\n(iii) Work with John who knew him few people would.\ni i\nBased on the proposal in <A>, first identify in <B> what\nsyntactic category the extraposed CP in (ii), derived from (i), is\nadjoined to. Second, state whether the preposing in (iii), derived\nfrom (ii), is grammatical or not, and then explain why.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

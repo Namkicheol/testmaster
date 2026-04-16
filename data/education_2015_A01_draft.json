@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "education_2015_A01",
+    "year": 2015,
+    "number": "A-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the lesson procedure and write the TWO lesson\nobjectives. Do NOT copy more than FIVE consecutive words\nfrom the passage.【5 points】\nThe following is a sample lesson plan of culture-integrated\nlanguage learning for 2nd year middle school students.\nLesson Procedure\n(1) Students watch a video clip that shows an experiment,\nwhich is summarized below.\nThe experiment shows that American mothers used\ntwice as many object labels as Japanese mothers\n(“piggie,” “doggie”) and Japanese mothers engaged in\ntwice as many social routines of teaching politeness\nnorms (empathy and greetings). An American mother’s\npattern might go like this: “That’s a car. See the car?\nYou like it? It’s got nice wheels.” A Japanese mother\nmight say: “Here! It’s a vroom vroom. I give it to you.\nNow give this to me. Yes! Thank you.” American\nchildren are learning that the world is mostly a place\nwith objects, Japanese children that the world is mostly\nabout relationships. Relationships usually involve a\nverb. Verbs are more important in Asian languages than\nin English. Asians tend to use an expression like “Drink\nmore?” rather than “More tea?” when they perceive\nthere is a need. Americans are noun-oriented, pointing\nobjects out to their children, naming them, and telling\nthem about their attributes. Nouns denote categories.\n(2) Students share their own experiences about noun-oriented\nexpressions as opposed to verb-oriented ones, and discuss\ndifferent ways of thinking for those expressions.\n(3) Students do Activity 1 in order to learn a variety of noun-\noriented English expressions.\n<Activity 1> Fill in the blanks with appropriate words.\nVerb-Oriented Expressions Noun-Oriented Expressions\nHe works hard. He is a hard worker.\nMy head aches. I .\nHe is very humorous. He has a good .\n. . . . . .\n(4) Students discuss why noun-oriented expressions are more\nfrequently used in English than verb-oriented ones.\n영 어 (7면\n(5) Students engage in the following activity to reinforce\ntheir awareness of the cultural difference between the\nWest and the East.\nwouldn’t Q: If you have a bad cold, which of the following\nyou say?\nA: I’ve got a stuffy nose. ①\nI have a runny nose. ②\nMy nose is sick. ③",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_A_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2015_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2015_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2015_A_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

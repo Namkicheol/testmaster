@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2020_A03",
+    "year": 2020,
+    "number": "A-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the passage in <A> and the conversation between two\nteachers in <B>, and follow the directions.【2 points】\n<A>\nThe way you speak is affected in many ways. For\nexample, how much attention you are paying to your speech\nmay be one factor. When you are not paying much attention\nto the way you are speaking, your speech may be more\ncasual. By contrast, if you are conscious about the way you\nare speaking, your output will be less casual. The social\nposition of the person with whom you are engaging in\nconversation may also affect your language output. It is\nnatural to use more formal language when you speak to\nsomeone whose social position is above yours. The\nsociolinguistic concept of solidarity should also be\nconsidered. If your interlocutor comes from the same speech\ncommunity or shares a similar social or cultural identity\nwith you, you will feel connected to him or her, and this will\naffect the way you deliver your message. In addition, where\nyou are affects the formality of your output. When you are\nin a formal situation, such as a business meeting, you\nnaturally use more formal language, and the opposite is true\nas well. Lastly, the channel or medium of language, that is,\nwhether you deliver your message through speech or\nwriting, can be another critical factor that affects your\nspeech. All of these things need to be considered carefully,\nbecause they constitute what is called pragmatic competence\nwhich relies very heavily on conventional, culturally\nappropriate, and socially acceptable ways of interacting.\n<B>\nT1: What are you writing?\nT2: Oh, this is a recommendation letter for Miri.\nT1: I see. She is very active in school activities, so you\nmust have a lot to write about her.\nT2: Yes, she is a good student, but she doesn’t know how to\nadapt her conversational style when making a request.\nT1: Hmm... what do you mean by that?\nT2: When Miri approached me, she said, “Hi, teacher, can\nyou write me a recommendation letter?”\nT1: Haha... I understand what you mean. Some of my\nstudents also seem to have trouble making their speech\nstyle appropriate to the situation. Miri is just one\nexample.\nT2: Exactly! Still, I feel it’s my responsibility to show them\nhow speech styles differ across various situations. Hey,\nwhy don’t we offer a special lecture on this topic?\nT1: Definitely! We can invite a guest speaker who can show\nthe importance of selecting the appropriate conversational\nof the situation. style to match the\nNote: T = teacher\nFill in the blank in <B> with the ONE most appropriate word\nfrom <A>.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

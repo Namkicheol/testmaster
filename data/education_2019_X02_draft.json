@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2019_X02",
+    "year": 2019,
+    "number": "X-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the conversation between two teachers and follow the\ndirections.【2 points】\nT1: My students are having trouble with plural nouns. I’m\nthinking of trying a new task.\nT2: What’s your idea?\nT1: I’m planning to give a short text where every seventh\nword is blanked out. Students have to guess the correct\nword for each blank to make a complete sentence.\nT2: Well, that might be a bit difficult for beginning level\nstudents. I did a similar activity last semester. I gave a\ntext where I blanked out only plural nouns so that\nstudents could focus on them.\nT1: Oh, I see.\nT2: You can also give students only parts of words in the\nblanks and ask them to restore each word in the text.\nT1: Hmm, that seems interesting. Well, then, for my\nstudents, I’ll try to use only plural nouns in the written\ntext and ask my students to fill in the blanks. Thanks\nfor the suggestion.\nNote: T1=teacher 1, T2=teacher 2\nComplete the comments by filling in the blank with the ONE\nmost appropriate word.\nIn the above dialogue, the two teachers are talking about\nteaching plural nouns through three types of gap-filling\ntasks which require students to read the texts and fill in the\nblanks. The gap-filling described by the teachers here is\n, which can be readily adapted for pedagogical\ntasks in classrooms.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

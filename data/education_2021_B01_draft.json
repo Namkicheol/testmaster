@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_B01",
+    "year": 2021,
+    "number": "B-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the conversation and follow the directions.【2 points】\n(T1 is the head teacher, and T2 is teaching English writing\nthis semester at the school.)\nT1: Good morning, Mr. Lee. How are your writing classes\ngoing?\nT2: Good morning, Ms. Park. They’re going well, but I find\nscoring students’ writing quite challenging.\nT1: What makes you say that?\nT2: I rated my students’ writing assignments last night. But\nwhen I look at them today, I feel I would give different\nscores.\nT1: Why do you think that happened?\nT2: Well, I’m pretty sure it was because I was doing it late at\nnight. I think I was too tired.\nT1: Mmm.... I don’t grade my students’ writing assignments\nwhen I’m tired. That way, I can avoid being inconsistent.\nI just put them away until the next day.\nT2: I bet that would be very helpful with keeping scoring\nreliable.\nT1: Yeah, it helps.\nT2: Another issue is that over time, I tend to stray from the\nrating criteria. I need to find a way to stick to it for\nconsistency in scoring.\nT1: Well, why don’t you go back every once in a while and\ncheck the last few essays you’ve marked to see that\nyou’re still following the rating criteria?\nT2: That’s a good idea. It’ll help keep me on track.\nT1: Exactly.\nT2: Thanks for your advice.\nNote: T = teacher\nFill in the blank with the ONE most appropriate word.\nTeacher 1, the head teacher, is giving advice on the issue of\nreliability that Teacher 2 is facing when\nscoring students’ writing.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n11문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2024_A01",
+    "year": 2024,
+    "number": "A-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the conversation and follow the directions.【2 points】\nT1: Ms. Park, I hear that the provincial office of education is\ngoing to implement an Internet-based interactive English\nspeaking test next year. What do you think?\nT2: I think they’re going in the right direction.\nT1: But, you know, I’m not sure if we have enough human\nand material resources at the moment.\nT2: Right. In order to develop such a large-scale test, we need\nto have test writers, raters, and item banks.\nT1: Well, how would the office of education prepare for this\nin the short time available?\nT2: The good news is that they’re going to roll out pilot\ntesting next month, starting with a small number of\nvoluntary schools.\nT1: Oh, I see. But I’m still wondering how they’ll secure the\nresources necessary for full implementation.\nT2: It seems they’re going to recruit staff and technicians for\nthe test centers while completing several preliminaries.\nT1: Good. I guess in the mean time they can train teachers to\nwrite test items in order to construct the item banks.\nT2: Right. I also heard the office of education has already laid\nout solid plans for that.\nT1: That’s good to know. Then we’ll be able to measure\nstudents’ English speaking ability more effectively from\nnext year.\nT2: For sure. It’s a step forward for all of us working in\nEnglish education.\nNote: T=teacher\nFill in the blank with the ONE most appropriate word.\nIn the above conversation, the two teachers talk about\nfeasibility in the process of developing a large-scale test. The\nissues they discuss are related to one of the principles of\nlanguage assessment or test usefulness, which is technically\ncalled .\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n12문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

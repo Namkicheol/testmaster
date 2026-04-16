@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_B06",
+    "year": 2025,
+    "number": "B-6",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nProject-based learning (PBL) is a teaching method that\nfacilitates students to use an inquiry process with an\nintegrated goal and interrelated subsidiary tasks. One possible\nprocedure for implementing PBL is provided below.\nStudents collaboratively set the goal and scope of the\nproject. This makes students feel in control of their own\nprojects from the beginning. Once the goal is set, students as a\ngroup actively discuss and decide upon what to include in\ntheir project. When collecting information for the project,\nstudents develop integrated language skills in meaningful\nways. Students then create their projects collaboratively with\ntheir group members. Finally, students present their projects\nin class. When assessing student projects, the teacher evaluates\nstudents’ learning progress, focusing on the process as well as\nthe product.\n<B>\nReferring to the procedure as described in <A>, Ms. Park, a\nmiddle school English teacher, implemented PBL into her\nclass over six weeks. Each week, one class session was\nallocated for the PBL project. When each session was over,\nMs. Park briefly wrote a teacher’s log to record events and\nobservations. Some entries of her logs are provided below.\nWeek 1\nI decided on a specific goal for\nthe project and announced it to\nstudents. The goal was to make\ntourist brochures and distribute\nthem to the local communities. I\nassigned students to groups of\nfour. I also provided guidelines\non the project.\nWeek 2\nThe groups explored possible\ndestinations to include in their\nbrochures. Students also searched\nthe Internet for various brochures\nand analyzed the sections within.\nThey found details including\nattractions, activities, and food.\n영 어 [전공B]\nWeek 3\nThe groups conducted a survey on\ntheir classmates’ recommendations\nfor the destination their group\ndecided upon. They did so by\nasking and responding to each\nother. Then they summarized the\nsurvey results.\nWeek 4\n<Seating Arrangement>\nThe students worked closely in a\ngroup to make their brochures.\nUpon completion, they prepared for\na group presentation.\nWeek 5\nEach group gave a ten-minute\npresentation. Students also prepared\nfor distributing the brochures to the\nlocal communities.\nWeek 6\nAs the final step, I evaluated students’\nbrochures based on a rubric, which\nconsisted of vocabulary, grammar,\nand layout.\nIdentify the TWO weeks in <B> that do NOT follow the\nprocedure provided in <A>. Then, explain how the identified\nweeks deviate from the procedure in <A>.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

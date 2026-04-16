@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2020_B09",
+    "year": 2020,
+    "number": "B-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nWhat could be better than studying physics under Albert\nEinstein? A lot, it turns out. While geniuses have done much\nto help society progress and flourish, perhaps they don’t\nbelong in front of the classroom. While logic dictates that the\nbest teachers would be the most capable and accomplished\npeople, there are two other qualities that are more vital than\nintelligence.\nThe first quality of effective teachers is that they had to put\nforth a lot of effort into their studies. While this may seem\ncounterintuitive, it is probably more helpful to be guided by a\nperson who had to work daily to master difficult concepts\nthan by someone for whom learning was a breeze. Students\noften gravitate toward prodigies like Einstein because their\nexpertise seems so effortless, but that’s a mistake. It makes\nmore sense to study under people who had to struggle to\nbecome experts because they’ve gone through the process of\nbuilding their knowledge one concept at a time.\nThe next quality is a little more obvious but is often\noverlooked: being able to explain content clearly. A teacher\nwho has a long list of publications probably isn’t going to\nremember how to methodically explain the basics. In the first\nuniversity course he taught, Einstein wasn’t able to attract\nmuch interest in the esoteric subject of thermodynamics: Just\nthree students signed up, and they were all friends of his. The\nnext semester he had to cancel the class after only one\nstudent enrolled. This example shows how someone who has\ninborn genius may not be able to relate to students’\nignorance to help them understand abstract concepts.\nIt’s often said that those who can’t do teach, yet the reality\nis that the best doers are often the worst teachers. So,\nteachers’ most important qualities are having had the\nexperience of building their knowledge and having the\nability to make content easy to grasp. Being a great physicist\ndoesn’t make one a great physics teacher. Rather than taking\nan introduction to physics class with Einstein, it would be\nmore valuable to learn from his protégé who spent years\nfiguring out how to explain what it would be like to chase a\nbeam of light.\nWrite a summary following the guidelines below.\n<Guidelines>\n∙Summarize the above passage in one paragraph.\n∙Provide a topic sentence, two supporting ideas, and a\nconcluding sentence based on the passage.\n∙Do NOT copy more than FIVE consecutive words from\nthe passage.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

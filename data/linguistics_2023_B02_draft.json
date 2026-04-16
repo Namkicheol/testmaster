@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2023_B02",
+    "year": 2023,
+    "number": "B-2",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passages in <A> and <B>, and follow the directions.\n【2 points】\n<A>\nTraditionally the parts of speech such as adjective, adverb,\nnoun, preposition, or verb have been defined under semantic\ncriteria. For example, nouns are defined as words that denote\npeople, things, animals, and places. In many cases, the\ntraditional definition works well as teachers, tables, cats, and\nschools are all categorized as nouns. However, there are many\nother cases in which the definition does not work. For\ninstance, sincerity, love, and destruction are all nouns but they\ndenote a personality trait, an emotional state, and a process,\nrespectively.\nAs an alternative, syntacticians categorize the parts of\nspeech under distributional criteria. They group words that\ncan fit in the syntactic context and then name the category. In\nthe distributional context in (1), for example, words such as\ndog, child, analysis, or love can fill in the blank, but other\nwords like in, eliminate, or sadly can’t; in other words, no part\nof speech other than a noun can occur in the blank.\nis great. (1) His\nBearing the description above in mind, consider the\nfollowing examples in (2)- (5) that show the distributions of\nthere and fast.\n(2) a. They repaired the car right there.\nb. *They repaired the car right fast.\nc. They repaired the car right in that building.\n(3) a. They repaired the car very fast.\nb. *They repaired the car very there.\nc. They repaired the car fast enough.\nd. *They repaired the car there enough.\n(4) a. The people there are very cheerful.\nb. *The people fast are very cheerful.\nc. The people at work are very cheerful.\n(5) a. The place he drove his car to is in the center.\nb. *The place he drove his car to is fast.\nc. The place he drove his car to is there.\nNote: ‘*’ indicates the ungrammaticality of the sentence.\n<B>\nUnder distributional criteria, we can draw a conclusion that\nthere should be counted as a(n) functioning as ①\nthe head of its own phrase and fast as a(n) ②\nfunctioning as the head of its own phrase.\nFill in the blanks and in <B> each with ONE word from ① ②\n<A>, in the correct order.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

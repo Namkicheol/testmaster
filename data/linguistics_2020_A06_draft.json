@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2020_A06",
+    "year": 2020,
+    "number": "A-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage and follow the directions.【4 points】\n<A>\nThere is a class of words, such as yet and any, called\n‘Negative Polarity Items (NPIs).’ They are allowed in\nsentences containing a negative word such as not, as\nillustrated below.\n(1) a. The defense strategy had not been determined yet.\nb. *The defense strategy had been determined yet.\nHowever, there is an additional structural condition for an\nNPI to be licensed by the negation not. As shown in (2), the\nnegation has to c-command the NPI.\n(2) *Any defense strategy had not been determined.\n(3) A node c-commands its sister nodes and all the daughter\nnodes of its sister nodes.\nIn (2), given the definition of c-command in (3), not does\nnot c-command any. Hence, the sentence is ungrammatical.\nTemporal and locational adverbials can be structurally\nambiguous in that they can modify either a matrix element\nor an embedded element. In (4a) below, yesterday can\nmodify the embedded knew the answer, as illustrated in\n(4b). Let us refer to this reading as ‘embedded reading.’ In\nthe embedded reading, it is asked whether Mark knew the\nanswer yesterday. By contrast, yesterday can also modify the\nmatrix predicate wondered, as shown in (4c). Let us refer to\nthis reading as ‘matrix reading.’ In the matrix reading,\nyesterday is when Celin wondered about Mark.\n(4) a. Celin wondered if Mark knew the answer yesterday.\nb. [Celin wondered [if Mark knew the answer yesterday]]:\nembedded reading\nc. [Celin wondered [if Mark knew the answer] yesterday]:\nmatrix reading\nNote: ‘*’ indicates the ungrammaticality of the sentence.\n<B>\n(i) Mary said that Justin did not sing in any room.\n(ii) Mary did not say that Justin sang in any room.\nFor the sentences in <B>, identify whether each sentence has a\nmatrix reading, embedded reading, or both. Then, explain your\nanswer on the basis of the description in <A>.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

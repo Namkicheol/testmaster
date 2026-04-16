@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2023_B05",
+    "year": 2023,
+    "number": "B-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nCoordination by and, but, and orcan be divided into clausal\nand phrasal coordination types, as demonstrated in (1a) and\n(1b), respectively.\n(1) a. [Jim speaks Spanish poorly] but [he got good scores on\nthe Spanish exam].\nb. Jim speaks [French or German] poorly.\nIn many cases, a phrasal coordination can be expanded into\na logically equivalent clausal one. Compare sentence (2a)\nwith (2b). If (2a) is true, then (2b) is true, and vice versa. The\ntwo sentences are logically equivalent and they can also be\nsaid to share the same truth conditions.\nintroduced me to her [mother and father]. (2) a. Alice\ni i\nb. [Alice introduced me to her mother] and [she introduced\ni i i\nme to her father].\ni\nThere are, however, some pairs of coordination sentences\nthat do not share the same truth conditions. Consider the\nexamples in (3), for instance. Under the condition where Sue\nhad coffee but not tea, (3b) is true but (3a) is false. Sentence\n(3a) is true when it denotes that Sue had neither coffee nor tea.\n(3) a. Sue didn’t have any [coffee or tea].\nb. [Sue didn’t have any coffee] or [she didn’t have any\ni i\ntea].\nNote: The subscript ‘’ indicates coreferentiality.\ni\n<B>\n(4) a.Your car keys are [in your purse or on the dresser].\nb.The [last and most telling] objection concerned the cost.\nc.Fred [noticed but didn’t mention] Bill’s inconsistencies.\nd.[Two perfect and four slightly damaged] copies were\nfound.\nBased on the description in <A>, first, identify the ONE phrasal\ncoordination in the sentences in <B> that shows different truth\nconditions from the clausal coordination, and then change it into\nan appropriate clausal coordination. Second, explain how the\nphrasal coordination you chose and the clausal coordination you\ncreated differ in their truth conditions.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

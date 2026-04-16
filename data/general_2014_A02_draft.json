@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2014_A02",
+    "year": 2014,
+    "number": "A-2",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage in <A> and the conversation in <B>, and\nfollow the directions.【3 points】\n<A>\nA typical conversation organized around making requests\nhas a common overarching sequence of interactional moves:\n∙A greeting exchange\n∙Preliminary moves toward a forthcoming request\n∙Making the request\n∙Short negotiation about the request\n∙Acceptance/Rejection of the request\n∙Closing/Thanking\n<B>\n(A low-proficiency English learner asks her roommate, a\nnative speaker of English, to go buy some bread for her.)\nJisu: Hi, Kelly.\nKelly: Hi, Jisu.\nJisu: Buy me bread, OK?\nKelly: Do you want bread?\nJisu: Yeah.\nKelly: So, there’s no bread in the fridge?\nJisu: Sorry?\nKelly: You don’t have bread?\nJisu: No.\nKelly: So, do you want me to go to the supermarket and\nget some bread for you?\nJisu: What was that?\nKelly: Do you want me to get bread for you?\nJisu: Yeah.\nKelly: Do you want it right now?\nJisu: Tomorrow morning.\nKelly: OK. I’ll get it for you later tonight.\nJisu: OK. Thank you.\n*Jisu=low-proficiency learner, Kelly=native speaker of English\nExplain how the conversation in <B> deviates from the\nsequence of interactional moves in <A>. Then identify the\nstrategy that Jisu uses when she does not understand Kelly.\n6\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

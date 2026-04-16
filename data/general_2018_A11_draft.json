@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2018_A11",
+    "year": 2018,
+    "number": "A-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the poem and follow the directions.【4 points】\nRite of Passage\nAs the guests arrive at my son’s party\nthey gather in the living room—\nshort men, men in first grade\nwith smooth jaws and chins.\nHands in pockets, they stand around\njostling, jockeying for place, small fights\nbreaking out and calming. One says to another\nHow old are you? Six. I’m seven. So?\nThey eye each other, seeing themselves\ntiny in the other’s pupils. They clear their\nthroats a lot, a room of small bankers,\nthey fold their arms and frown. I could beat you\nup, a seven says to a six,\nthe dark cake, round and heavy as a\nturret, behind them on the table. My son,\nfreckles like specks of nutmeg* on his cheeks,\nchest narrow as the balsa* keel of a\nmodel boat, long hands\ncool and thin as the day they guided him\nout of me, speaks up as a host\nfor the sake of the group.\nWe could easily kill a two-year-old,\nhe says in his clear voice. The other\nmen agree, they clear their throats\nlike Generals, they relax and get down to\nplaying war, celebrating my son’s life.\n*nutmeg: a powdered brown spice\n*balsa: a tropical American tree or the wood from this tree\nConsidering the title of the poem, explain why the speaker\ndescribes the guests as “short men” (line 3), not little boys.\nThen, complete the commentary below with the TWO most\nappropriate consecutive words from the poem.\nThe birthday cake shaped like “a turret” juxtaposes\nplayfulness and violence because a birthday cake evokes\nenjoyment, whereas the word “turret” reminds us of a military\nweapon. In a related way, the activity of\ncan be interpreted to symbolize the same contradictory\nelements.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

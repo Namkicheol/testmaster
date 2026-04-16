@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2025_A10",
+    "year": 2025,
+    "number": "A-10",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage and follow the directions.【4 points】\n“Telling stories is as basic to human beings as eating,”\nwrites Richard Kearney. “More so, in fact, for while food makes\nus live, stories are what make our lives worth living.” Or not\nworth living. When one lives on the edge of the abyss, as we\ndo, the answer to the fundamental question about the worthiness\nand meaning of existence depends heavily on the story one\ntells oneself. And since failure lies at the core of who we are,\nthe most important stories we tell about ourselves, as well as\nthose we read about others, are primarily tales of failing. Indeed,\nfrom the Greek tragedies to the latest news reports, there has\nnever been a good story without some degree of failure in it.\nSuch are the narratives that fascinate us. Why would we want\nto read about the inner life of robots? Failure and storytelling\nare intimate friends, always working in cahoots.\nThat’s why the observation that our life has been “a complete\nfailure,” has “no meaning,” or “is not worth the pain” is one\nmany of us may make in the course of our existence. Yet few\nof us choose to end it right then and there in response. This is\nnot because we lack courage (when one wants to die, one finds\nthe courage), but because we feel that the story, failure-filled\nthough it may be, has not run its course. We want to wait and\nsee. And that is telling.\nAt any given moment, we may find our life to be less\nfulfilling and our existence without significance, but we\nknow, at some deeper level, that we are not done yet. Our\nstory is just not over, and it’s frustrating―profoundly,\nviscerally so―to quit a story before the end, whether it’s a\nbook, a film, or your own life. Once we have reached that point,\nwe may decide that there is nothing left to tell, but quitting the\nstory while it is still being told is a violation not just of narrative\nbut of nature. The longed-for meaning may be revealed at the\nvery end, and we will no longer be there to receive the\nrevelation. It is written, after all, that the “pearl” we are\nsupposed to retrieve can only be found at the story’s end.\nCan a story save my life, then? Yes, it can. The truth is, only\na story can redeem our lives. And not just our lives, but life\nitself. That’s the reason why there are so many stories in life.\nWithout stories, we would be .\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means in the\ncontext of the passage. Do NOT copy more than FOUR\nconsecutive words from the passage.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

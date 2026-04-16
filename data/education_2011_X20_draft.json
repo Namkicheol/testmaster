@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "education_2011_X20",
+    "year": 2011,
+    "number": "X-20",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "20. Read <A> and <B> and follow the directions. [2.5점]\n<A>\n(Before the teacher starts his lesson in a middle school\nEnglish class, he asks students questions to warm up,\nstarting with Mina.)\nT: What did you do last weekend, Mina?\nS: I visit my uncle in the hospital.\nT: You visited your uncle in the hospital?\nS: Yes, I visit him.\nT: I see. Did you do anything else?\nS: Yeah. Um, I see a movie.\nT: You saw a movie?\nS: Yes.\nT: Great. What movie did you see?\nS: I see the movie Avatar.\nT: teacher, S: student\n영 어 (14면\n<B>\na. From the perspective of the output hypothesis, the\nstudent’s output reflects her acquisition of past-tense\nrules through pushed output.\nb. From the behaviorist point of view, the student needs\nmore repetition and drill of past-tense forms.\nc. From the viewpoint of the focus-on-form approach,\nmore focused intervention is needed to draw the\nstudent’s attention to proper use of function words.\nd. According to the input hypothesis, the student needs\nmore comprehensible input containing past-tense forms\nwhile her affective filter is kept low.\nChoose all and only the correct statements about the student\nin <A> from the list in <B>.\na, b a, c b, c ① ② ③\nb, d c, d ④ ⑤",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2011_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2011_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2011_X_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2011_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2011_X_p08.png",
+        "image_count": 2
+      },
+      {
+        "page": 9,
+        "file": "images/img_2011_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2011_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2011_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2011_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2011_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2011_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

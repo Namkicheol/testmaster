@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2018_A02",
+    "year": 2018,
+    "number": "A-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage and follow the directions.【2 points】\nFrom the very beginning of school we make books and\nreading a constant source of possible failure and public\nhumiliation. When children are little we make them read\naloud, before the teacher and other children, so that we can\nbe sure they “know” all the words they are reading. This\nmeans that when they don’t know a word, they are going to\nmake a mistake, right in front of the whole class. Instantly\nthey are made to realize that they have done something\nwrong. Perhaps some of the other children will begin to\nwave their hands and say, “Ooooh! O-o-o-oh!” Perhaps they\nwill just giggle, or nudge each other, or make a face.\nPerhaps the teacher will say, “Are you sure?” or ask\nsomeone else what he thinks. Or perhaps, if the teacher is\nkind, she will just smile a sweet, sad smile—often one of the\nmost painful punishments a child can suffer in school. In\nany case, the child who has made the mistake knows he has\nmade it, and feels foolish, stupid, and ashamed, just as any\nof us would in his shoes.\nBefore long many children associate books and reading\nwith mistakes, real or feared, and penalties and humiliation.\nThis may not seem sensible, but it is natural. Mark Twain\nonce said that a cat that sat on a hot stove lid would never sit\nagain—but it would never sit on a cold one either. As on one\ntrue of as of cats. If they, so to speak, sit on a hot\nbook a few times, if books cause them humiliation and pain,\nthey are likely to decide that the safest thing to do is to leave\nall books alone.\nFill in the blank with the ONE most appropriate word from the\npassage.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

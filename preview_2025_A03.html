@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>전공영어 기출마스터 — 2025 A-3 미리보기</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&family=Noto+Serif+KR:wght@400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0d0f18;--surface:#131620;--surface2:#1c2030;--surface3:#242840;
+  --border:#272b3f;--border2:#313656;
+  --accent:#8b9eff;--accent-dim:rgba(139,158,255,.13);
+  --accent2:#5dd6b0;--accent3:#ffb347;--accent4:#ff9eb5;
+  --text:#dde2f5;--text-sub:#8892b8;--text-dim:#4a5070;
+  --blank-bg:rgba(139,158,255,.18);--blank-border:#8b9eff;--blank-text:#c8d0ff;
+  --tab-q:#c4a8ff;--tab-d:#8b9eff;--tab-a:#5dd6b0;--tab-r:#ff9eb5;
+  --radius:14px;--radius-sm:8px;--radius-xs:5px;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html,body{height:100%;}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-serif;font-size:15px;line-height:1.75;display:flex;flex-direction:column;overflow:hidden;}
+.site-header{text-align:center;padding:18px 16px 0;flex-shrink:0;}
+.site-logo{font-size:10px;font-weight:700;letter-spacing:3px;color:var(--text-dim);margin-bottom:3px;}
+.site-title{font-family:'Noto Serif KR',serif;font-size:19px;font-weight:600;}
+.site-title .dot{color:var(--accent);}
+.card-view{flex:1;overflow-y:auto;padding:12px 16px 60px;-webkit-overflow-scrolling:touch;}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);max-width:700px;margin:0 auto;overflow:hidden;box-shadow:0 8px 40px rgba(0,0,0,.45);}
+.card-meta{padding:13px 17px 11px;display:flex;flex-wrap:wrap;gap:5px;align-items:center;border-bottom:1px solid var(--border);}
+.tag{display:inline-flex;align-items:center;padding:2px 8px 3px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap;}
+.tag-year{background:#1c2030;color:#8892b8;border:1px solid var(--border2);}
+.tag-edu{background:#1a1f10;color:#b8d070;border:1px solid #2a3518;}
+.tag-num{background:#0f2018;color:#5dd6b0;}
+.score-badge{margin-left:auto;font-size:11px;color:var(--text-sub);display:flex;align-items:baseline;gap:2px;}
+.score-badge .num{font-size:17px;font-weight:700;color:var(--accent3);line-height:1;}
+.tabs{display:flex;border-bottom:1px solid var(--border);}
+.tab-btn{flex:1;padding:9px 2px;background:none;border:none;border-bottom:3px solid transparent;font-family:inherit;font-size:11.5px;font-weight:700;cursor:pointer;transition:all .18s;white-space:nowrap;color:var(--text-dim);}
+.tab-btn[data-tab="q"].active{color:var(--tab-q);border-bottom-color:var(--tab-q);background:rgba(196,168,255,.08);}
+.tab-btn[data-tab="derive"].active{color:var(--tab-d);border-bottom-color:var(--tab-d);background:rgba(139,158,255,.08);}
+.tab-btn[data-tab="answer"].active{color:var(--tab-a);border-bottom-color:var(--tab-a);background:rgba(93,214,176,.08);}
+.tab-btn[data-tab="related"].active{color:var(--tab-r);border-bottom-color:var(--tab-r);background:rgba(255,158,181,.08);}
+.tab-btn:hover:not(.active){color:var(--text-sub);background:rgba(255,255,255,.03);}
+.tab-panel{display:none;padding:17px 17px 22px;animation:fadeUp .2s ease;}
+.tab-panel.active{display:block;}
+@keyframes fadeUp{from{opacity:0;transform:translateY(4px);}to{opacity:1;transform:translateY(0);}}
+.prob-instruction{font-size:12.5px;color:var(--text-sub);background:var(--surface3);border-radius:var(--radius-xs);padding:8px 12px;margin-bottom:13px;line-height:1.6;}
+.prob-instruction strong{color:var(--text);}
+.prob-passage{background:var(--surface2);border:1px solid var(--border2);border-left:3px solid var(--tab-q);border-radius:var(--radius-sm);padding:17px 19px;font-size:14px;line-height:1.95;}
+.prob-passage p{margin-bottom:11px;}
+.prob-passage p:last-child{margin-bottom:0;}
+.blank{display:inline-flex;align-items:center;background:var(--blank-bg);border:1px solid var(--blank-border);border-radius:4px;padding:0 8px 1px;font-size:12px;font-weight:700;color:var(--blank-text);font-family:'JetBrains Mono',monospace;vertical-align:middle;margin:0 2px;}
+.material-compare{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:12px 0;}
+.mat-box{background:var(--surface3);border-radius:var(--radius-xs);padding:11px 13px;}
+.mat-label{font-size:10px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:var(--text-dim);margin-bottom:8px;}
+.mat-label.adapted{color:var(--accent2);}
+.mat-item{display:flex;gap:8px;align-items:flex-start;margin-bottom:7px;font-size:12.5px;line-height:1.6;}
+.mat-item:last-child{margin-bottom:0;}
+.mat-num{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--accent3);flex-shrink:0;font-size:11px;padding-top:1px;}
+.mat-body{flex:1;}
+.mat-mode{display:inline-block;font-size:10px;padding:1px 6px;border-radius:3px;margin-top:3px;font-weight:600;}
+.mat-mode.indiv{background:rgba(139,158,255,.15);color:var(--accent);}
+.mat-mode.pair{background:rgba(93,214,176,.15);color:var(--accent2);}
+.mat-qs{margin-top:5px;padding-left:8px;font-size:12px;color:var(--text-sub);line-height:1.7;}
+.diff-badge{display:inline-block;font-size:9.5px;background:rgba(255,179,71,.15);color:var(--accent3);border:1px solid rgba(255,179,71,.25);border-radius:3px;padding:0 5px;vertical-align:middle;margin-left:4px;}
+.sec-title{font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--text-dim);margin:14px 0 9px;display:flex;align-items:center;gap:8px;}
+.sec-title::after{content:'';flex:1;height:1px;background:var(--border);}
+.sec-title:first-child{margin-top:0;}
+.steps{display:flex;flex-direction:column;gap:9px;margin-bottom:14px;}
+.step-item{display:flex;gap:11px;align-items:flex-start;}
+.step-num{width:22px;height:22px;flex-shrink:0;background:var(--surface3);border:1px solid var(--border2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:var(--tab-d);font-family:'JetBrains Mono',monospace;margin-top:2px;}
+.step-body{flex:1;}
+.step-label{font-size:11px;font-weight:700;color:var(--accent2);margin-bottom:2px;}
+.step-text{font-size:13.5px;color:var(--text);line-height:1.75;white-space:pre-line;}
+.step-text em{color:var(--accent3);font-style:normal;font-weight:600;}
+.kterms{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;}
+.kterm{background:var(--surface3);border:1px solid var(--border2);border-radius:3px;padding:1px 7px;font-size:11px;color:var(--accent);font-family:'JetBrains Mono',monospace;}
+.answer-box{background:var(--surface2);border:1px solid rgba(93,214,176,.25);border-left:3px solid var(--tab-a);border-radius:var(--radius-sm);padding:13px 15px;margin-bottom:12px;}
+.answer-box-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--tab-a);margin-bottom:9px;}
+.blank-rows{display:flex;flex-direction:column;gap:7px;}
+.blank-row{display:flex;align-items:baseline;gap:9px;font-size:13.5px;}
+.bl{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--blank-text);background:var(--blank-bg);border:1px solid var(--blank-border);border-radius:3px;padding:0 6px 1px;font-size:11.5px;flex-shrink:0;}
+.ba{color:var(--text);font-weight:600;}
+.criteria-box{background:var(--surface3);border:1px solid var(--border2);border-radius:var(--radius-sm);padding:11px 14px;margin-bottom:12px;}
+.criteria-box-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text-dim);margin-bottom:8px;}
+.crit-lines{display:flex;flex-direction:column;gap:0;}
+.crit-line{display:flex;gap:10px;align-items:baseline;padding:5px 0;border-bottom:1px solid var(--border);}
+.crit-line:last-child{border-bottom:none;}
+.crit-pts{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;color:var(--accent3);flex-shrink:0;min-width:30px;}
+.crit-text{font-size:13px;color:var(--text-sub);}
+.variants{display:flex;flex-direction:column;gap:7px;margin-top:12px;}
+.variant{background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 13px;}
+.v-head{display:flex;align-items:center;gap:6px;margin-bottom:5px;}
+.vbadge{font-size:10px;font-weight:700;padding:2px 7px;border-radius:20px;}
+.vb-a{background:rgba(139,158,255,.18);color:var(--accent);}
+.vb-b{background:rgba(255,158,181,.18);color:var(--accent4);}
+.v-text{font-size:13px;color:var(--text);line-height:1.75;white-space:pre-line;}
+.source-divider{margin:18px 0 13px;border:none;border-top:1px solid var(--border);}
+.ref{background:var(--surface2);border:1px solid rgba(255,179,71,.18);border-radius:var(--radius-sm);padding:11px 13px;margin-bottom:8px;}
+.ref-type{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;padding:1px 6px;border-radius:3px;margin-bottom:4px;background:var(--surface3);color:var(--text-sub);border:1px solid var(--border2);}
+.ref-title{font-size:13px;font-weight:600;color:var(--text);margin-bottom:2px;}
+.ref-author{font-size:11.5px;color:var(--text-sub);margin-bottom:1px;}
+.ref-pages{font-size:11px;color:#ffb347;font-family:'JetBrains Mono',monospace;}
+.ref-quote{margin-top:7px;padding:7px 11px;background:var(--surface3);border-left:2px solid #ffb347;border-radius:3px;font-size:12px;color:var(--text-sub);line-height:1.6;font-style:italic;}
+.ref-hl{color:var(--accent);font-style:normal;font-weight:600;}
+.concept{background:var(--surface2);border:1px solid rgba(255,179,71,.18);border-radius:var(--radius-sm);padding:13px 15px;font-size:13px;line-height:1.85;color:var(--text);white-space:pre-line;}
+.concept strong{color:var(--accent2);}
+.rel-card{background:var(--surface2);border:1px solid rgba(255,158,181,.18);border-radius:var(--radius-sm);padding:11px 13px;margin-bottom:7px;display:block;}
+.rel-top{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:5px;align-items:center;}
+.conn{font-size:9.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;padding:1px 6px;border-radius:20px;border:1px solid;}
+.conn-same{color:#8b9eff;border-color:#8b9eff;background:rgba(139,158,255,.1);}
+.conn-strat{color:#5dd6b0;border-color:#5dd6b0;background:rgba(93,214,176,.1);}
+.rel-note{font-size:13px;color:var(--text);line-height:1.6;margin-bottom:5px;}
+.skws{display:flex;flex-wrap:wrap;gap:4px;}
+.skw{background:var(--surface3);border:1px solid var(--border2);border-radius:3px;padding:0 6px;font-size:10.5px;color:var(--text-sub);font-family:'JetBrains Mono',monospace;}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-logo">중등임용</div>
+  <div class="site-title">전공영어 기출마스터 <span class="dot">·</span> 2025 A-3 미리보기</div>
+</header>
+
+<div class="card-view">
+<div class="card">
+  <div class="card-meta">
+    <span class="tag tag-year">2025</span>
+    <span class="tag tag-edu">영어교육론</span>
+    <span class="tag tag-num">전공A · 3번</span>
+    <div class="score-badge"><span class="num">2</span>점</div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="q"       onclick="showTab(this,'q')">문제</button>
+    <button class="tab-btn"        data-tab="derive"  onclick="showTab(this,'derive')">도출과정</button>
+    <button class="tab-btn"        data-tab="answer"  onclick="showTab(this,'answer')">정답</button>
+    <button class="tab-btn"        data-tab="related" onclick="showTab(this,'related')">연결문제</button>
+  </div>
+
+  <!-- 문제 -->
+  <div class="tab-panel active" id="q">
+    <div class="prob-instruction">
+      <strong>Fill in the blank ① with the ONE most appropriate word from the passage.</strong>
+    </div>
+    <div class="prob-passage">
+      <p>Materials can be adapted by using different techniques such as <strong>adding, deleting, modifying, and reordering</strong>. For example, we can add materials when a language item is not covered sufficiently in the original materials. Materials that are too easy or difficult for learners can be deleted. Modifying can be used to make them more relevant to students' interests and backgrounds and to restructure classroom management. Reordering the sequence of activities is another technique, which includes separating items and regrouping them.</p>
+      <p>Consider the original material extracted from a grammar exercise book and its adapted version below. In the adapted version, the original exercise has been adapted by using the <span class="blank">①</span> technique.</p>
+
+      <div class="material-compare">
+        <div class="mat-box">
+          <div class="mat-label">Original Material</div>
+          <div class="mat-item">
+            <span class="mat-num">➊</span>
+            <div class="mat-body">
+              Describe the <strong>man's</strong> routine in four sentences.
+              <div><span class="mat-mode indiv">Individual Work</span></div>
+            </div>
+          </div>
+          <div class="mat-item">
+            <span class="mat-num">➋</span>
+            <div class="mat-body">
+              Answer the following questions.
+              <div><span class="mat-mode indiv">Individual Work</span></div>
+              <div class="mat-qs">
+                What time do you wake up?<br>
+                What do you usually wear <strong>to work</strong>?<br>
+                What do you usually <strong>cook</strong> for dinner?
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="mat-box" style="border:1px solid rgba(93,214,176,.2);">
+          <div class="mat-label adapted">Adapted Material</div>
+          <div class="mat-item">
+            <span class="mat-num">➊</span>
+            <div class="mat-body">
+              Describe the <strong>student's</strong> routine in four sentences. <span class="diff-badge">변경</span>
+              <div><span class="mat-mode indiv">Individual Work</span></div>
+            </div>
+          </div>
+          <div class="mat-item">
+            <span class="mat-num">➋</span>
+            <div class="mat-body">
+              Work in pairs and ask each other the following questions. <span class="diff-badge">변경</span>
+              <div><span class="mat-mode pair">Pair Work</span></div>
+              <div class="mat-qs">
+                What time do you wake up?<br>
+                What do you usually wear <strong>on school days</strong>? <span class="diff-badge">변경</span><br>
+                What do you usually <strong>eat</strong> for dinner? <span class="diff-badge">변경</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 도출과정 -->
+  <div class="tab-panel" id="derive">
+    <div class="sec-title">풀이</div>
+    <div class="steps">
+
+      <div class="step-item">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <div class="step-label">범위 설정 — 발문 조건 확인</div>
+          <div class="step-text">ONE word from the passage 조건. 지문에 열거된 네 기법: adding / deleting / modifying / reordering. 원본-수정본 비교로 적용 기법을 귀속시키는 문제.</div>
+          <div class="kterms"><span class="kterm">adding</span><span class="kterm">deleting</span><span class="kterm">modifying</span><span class="kterm">reordering</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <div class="step-label">원본 ↔ 수정본 차이 분석</div>
+          <div class="step-text">① 'man's routine' → 'student's routine': 학습자 관심사에 맞게 내용 변경.
+② <em>Individual Work</em> → <em>Pair Work</em> (➋): 교실 운영 방식 재구성.
+③ 'wear to work' → 'wear on school days': 학생 배경 반영.
+④ 'cook for dinner' → 'eat for dinner': 표현 조정.
+항목 수 동일. 활동 순서 ➊→➋ 유지.</div>
+          <div class="kterms"><span class="kterm">students' interests</span><span class="kterm">classroom management</span><span class="kterm">content change</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <div class="step-label">후보 검증 — 소거법</div>
+          <div class="step-text">① adding — 항목 수 동일. ✗
+② deleting — 삭제된 항목 없음. ✗
+③ <em>modifying</em> — 학생 관심사·배경 반영 ✓ + Pair Work로 교실 운영 재구성 ✓. 두 기준 동시 충족. ✓
+④ reordering — ➊➋ 순서 유지, 분리·재묶음 없음. ✗</div>
+          <div class="kterms"><span class="kterm">elimination method</span><span class="kterm">two criteria</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">4</div>
+        <div class="step-body">
+          <div class="step-label">확정 근거 — 지문 정의와 수정본 대응</div>
+          <div class="step-text">지문: 'Modifying can be used to make them more relevant to <em>students' interests and backgrounds</em> and to <em>restructure classroom management</em>.'
+수정본: student's/school days = interests·backgrounds 반영.
+Pair Work = classroom management 재구성.
+두 정의 조건이 동시에 확인됨.</div>
+          <div class="kterms"><span class="kterm">modifying</span><span class="kterm">definition match</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">5</div>
+        <div class="step-body">
+          <div class="step-label">전략 — 교재 수정 기법 식별 원칙</div>
+          <div class="step-text">(1) 각 기법 정의 정리 → (2) 원본-수정본 차이 열거 → (3) 정의에 대입·소거 → (4) 생존한 기법 = 정답.
+함정: 내용 변경을 reordering으로 혼동하기 쉬우나, reordering은 <em>순서</em> 변경이지 내용 변경이 아님.</div>
+          <div class="kterms"><span class="kterm">materials adaptation</span><span class="kterm">reordering ≠ modifying</span></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- 정답 -->
+  <div class="tab-panel" id="answer">
+    <div class="answer-box">
+      <div class="answer-box-label">모범답안</div>
+      <div class="blank-rows">
+        <div class="blank-row"><span class="bl">①</span><span class="ba">modifying</span></div>
+      </div>
+    </div>
+    <div class="criteria-box">
+      <div class="criteria-box-label">채점 기준</div>
+      <div class="crit-lines">
+        <div class="crit-line"><span class="crit-pts">2점</span><span class="crit-text">① modifying</span></div>
+      </div>
+    </div>
+    <hr class="source-divider">
+    <div class="sec-title">원전</div>
+    <div class="ref">
+      <span class="ref-type">Textbook</span>
+      <div class="ref-title">Materials Development in Language Teaching (2nd ed.)</div>
+      <div class="ref-author">Tomlinson, B. Ed. (2011) — Cambridge University Press</div>
+      <div class="ref-pages">pp. 45–58</div>
+      <div class="ref-quote">"<span class="ref-hl">Adaptation</span> involves changes to existing materials to make them <span class="ref-hl">more appropriate for a specific group of learners</span>. Techniques include <span class="ref-hl">adding, deleting, modifying, and reordering</span>."</div>
+    </div>
+    <div class="ref">
+      <span class="ref-type">Textbook</span>
+      <div class="ref-title">Materials and Methods in ELT (3rd ed.)</div>
+      <div class="ref-author">McDonough, J., Shaw, C., &amp; Masuhara, H. (2013) — Wiley-Blackwell</div>
+      <div class="ref-pages">pp. 70–82 · Ch. 4</div>
+      <div class="ref-quote">"<span class="ref-hl">Modification</span> refers to internal changes to the methodology or linguistic content, including making activities <span class="ref-hl">more culturally or contextually relevant</span> and <span class="ref-hl">adjusting interaction patterns</span>."</div>
+    </div>
+    <div class="sec-title">개념 정리</div>
+    <div class="concept"><strong>Materials Adaptation Techniques</strong>
+(교재 수정 기법)
+
+① <strong>Adding</strong>: supplementing a language item not covered sufficiently in the original materials
+   (원본에서 충분히 다뤄지지 않은 언어 항목을 보충)
+
+② <strong>Deleting</strong>: removing content that is too easy or too difficult for learners
+   (학습자에게 너무 쉽거나 어려운 내용 제거)
+
+③ <strong>Modifying</strong>: (a) making content more relevant to students' interests and backgrounds; (b) restructuring classroom management
+   (내용을 학습자 관심사·배경에 맞게 변경; 교실 운영 방식 재구성)
+
+④ <strong>Reordering</strong>: changing the sequence of activities, including separating items and regrouping them
+   (활동 순서 변경 — 분리·재묶음 포함)
+
+<strong>Key distinctions in this problem:</strong>
+· Same number of items → adding / deleting excluded (항목 수 동일)
+· Same activity order → reordering excluded (순서 동일)
+· Content studentification + Pair Work = modifying — both criteria satisfied
+  (내용 학생화 + Pair Work 전환 → modifying 두 기준 동시 충족)</div>
+  </div>
+
+  <!-- 연결문제 -->
+  <div class="tab-panel" id="related">
+    <div class="rel-card">
+      <div class="rel-top">
+        <span class="tag tag-year">2021</span>
+        <span class="tag tag-edu">영어교육론</span>
+        <span class="tag tag-num">전공A · 5번</span>
+        <span class="conn conn-same">same concept</span>
+      </div>
+      <div class="rel-note">교재 수정 기법 adding/deleting/modifying/reordering 식별 동일 프레임.</div>
+      <div class="skws"><span class="skw">materials adaptation</span><span class="skw">modifying</span><span class="skw">adding</span><span class="skw">deleting</span></div>
+    </div>
+    <div class="rel-card">
+      <div class="rel-top">
+        <span class="tag tag-year">2018</span>
+        <span class="tag tag-edu">영어교육론</span>
+        <span class="tag tag-num">전공A · 4번</span>
+        <span class="conn conn-strat">same strategy</span>
+      </div>
+      <div class="rel-note">원본-수정본 비교 후 기법 귀속. 소거법 전략 동일.</div>
+      <div class="skws"><span class="skw">materials adaptation</span><span class="skw">classroom management</span><span class="skw">learner relevance</span></div>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<script>
+function showTab(btn, id) {
+  const card = btn.closest('.card');
+  card.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  card.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  card.querySelector('#' + id).classList.add('active');
+}
+</script>
+</body>
+</html>

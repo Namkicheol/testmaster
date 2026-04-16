@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2016_A11",
+    "year": 2016,
+    "number": "A-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and follow the directions.【4 points】\nWhen it comes to climate, what counts is not only what\nhumans do to reduce the buildup of greenhouse gases, but\nalso how the earth responds. Currently half the carbon we\nrelease into the atmosphere gets absorbed by land and sea\n―much of it by plants, which take in carbon dioxide in the\nprocess of photosynthesis.\nThis cycle has the potential to change at any time. At\nissue is the balance between two natural phenomena. One\nis beneficial: as carbon-dioxide levels in the air rise, plants\ngrow more quickly, absorbing more carbon in return.\nScientists can measure this in the lab, but they don’t know\nhow much more fertile the new, carbon-enhanced\nenvironment will be for plants. The other is that as\ntemperatures rise, permafrost, which holds an enormous\namount of carbon from long-dead plants, tends to dry out,\nallowing decay and a release of carbon into the atmosphere.\nIf this phenomenon, called “outgassing,” were to kick in, it\ncould inundate the atmosphere with carbon dioxide, perhaps\ndoubling or tripling the effect of the past century of human\nindustry.\nNobody knows for sure what might trigger outgassing,\nbut preventing a global temperature increase of more than\n2 degrees Celsius is considered essential. To stay below\nthat limit, the consensus is that we should establish a\nmaximum level of carbon in the atmosphere and do\nwhatever is necessary to stay below it. A few years ago,\nscientists thought that a doubling of carbon concentrations\nover preindustrial times, to 550 parts per million, was a\nreasonable line in the sand; in recent years they’ve revised\nthat figure downward, to 450 ppm. But reaching that would\nrequire a drastic 80 percent cut in emissions by midcentury.\nMeanwhile, observations, though not conclusive, have\nbeen pointing in the wrong direction: temperatures are\nrising quickly at the poles, the north polar ice cap is in\nretreat, permafrost is showing troubling signs of change,\nand ocean currents may be weakening the uptake of carbon.\nAs we feel good about driving hybrids and using\nfluorescent bulbs, our fate may be riding on an obscure\nand permafrost. contest between\nFill in the blank with ONE word from the passage. Then\nexplain what would happen to the permafrost if global\ntemperature rises by more than 2 degrees Celsius.\n영 어 (8면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

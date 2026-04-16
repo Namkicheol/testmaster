@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2024_A02",
+    "year": 2024,
+    "number": "A-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the conversation and follow the directions.【2 points】\nT1: Hi, Mr. Lee. What are you reading?\nT2: Oh, hello. It’s a book about the role of input in language\nacquisition. It’s quite fascinating.\nT1: What does it say?\nT2: Well, it introduces some empirical studies on the effects\nof in language development.\nT1: Oh, I think I heard that term before. Can you remind me?\nT2: The term is defined as how prominent or easy a certain\ninput is to hear or read compared to other features around it.\nT1: I see. So, it means the ability of a stimulus to stand out\nfrom the rest of the input.\nT2: Exactly. Some features that are more prominent or easier\nmay be more noticeable and will attract attention from\nlearners.\nT1: During classroom interaction, I always try to highlight\nthe keywords or phrases in various ways, and it means\nthat I’ve been doing things correctly.\nT2: Yeah, you’re doing great. This book also says teachers\nneed to increase the frequency of exposure because when\nstudents encounter certain words and phrases more often,\nthey tend to notice them more effectively.\nT1: I understand. I guess it’s also because of the functions of\nsalience.\nT2: You’re right. The more frequently specific vocabulary\nand grammatical patterns appear, the more likely they\nfacilitate noticing and detection. So, it’s not just about\nteaching a wide range of vocabulary and complex\ngrammar rules but also ensuring students encounter them\nregularly.\nT1: Sounds good to me.\nNote: T=teacher\nFill in the blank with the ONE most appropriate word from the\nconversation.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "linguistics_2010_X02",
+    "year": 2010,
+    "number": "X-2",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage below and follow the directions.【20 points】\nI’ve finally figured out the difference between neat people and sloppy people. The distinction is, as always,\nmoral. Neat people are lazier and meaner than sloppy people.\nSloppy people, you see, are not really sloppy. Their sloppiness is merely the unfortunate consequence of their\nextreme moral rectitude. Sloppy people carry in their mind’s eye a heavenly vision, a precise plan, that is so\nstupendous, so perfect, it can’t be achieved in this world or the next.\nSloppy people live in Never-Never land. Someday is their métier. Someday they are planning to alphabetize all\ntheir books and set up home catalogues. Someday they will go through their wardrobes and mark certain items for\ntentative mending and certain items for passing on to relatives of similar shape and size. Someday sloppy people will\nmake family scrapbooks into which they will put newspaper clippings, postcards, locks of hair, and the dried corsage\nfrom their senior prom. Someday they will file everything on the surface of their desks, including the cash receipts\nfrom coffee purchases at the snack shop. Someday they will sit down and read all of the back issues of The New\nYorker.\nSloppy people can’t bear to part with anything. They give loving attention to every detail. When sloppy people\nsay they’re going to tackle the surface of the desk, they really mean it. Not a paper will go unturned; not a rubber\nband will go unboxed. Four hours or two weeks into the excavation, the desk looks exactly the same, primarily\nbecause the sloppy person is meticulously creating new piles of paper with new headings and scrupulously stopping\nto read all the old book catalogs before he throws them away. A neat person would just bulldoze the desk.\nNeat people are bums and clods at heart. They have cavalier attitudes toward possessions, including family\nheirlooms. Everything is just another dust-catcher to them. If anything collects dust, it’s got to go and that’s that.\nNeat people will toy with the idea of throwing the children out of the house just to cut down on the clutter.\nNeat people don’t care about process. They like results. What they want to do is get the whole thing over with\nso they can sit down and watch the rasslin’ on TV. Neat people operate on two unvarying principles: Never handle\nany item twice, and throw everything away.\nThe only thing messy in a neat person’s house is the trash can. The minute something comes to a neat\nperson’s hand, he will look at it, try to decide if it has immediate use and, finding none, throw it in the trash.\n* rasslin’: wrestling\nSummarize the above passage in a well-formed paragraph. Your summary must contain the main idea and all\nmajor supporting ideas expressed by the author and must not contain any of your own ideas. Do not copy more than\neight consecutive words from the passage.\n수고하셨습니다\n3\n영 어 (3면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

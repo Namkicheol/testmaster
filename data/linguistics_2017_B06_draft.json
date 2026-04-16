@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "linguistics_2017_B06",
+    "year": 2017,
+    "number": "B-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage in <A> and the sentences in <B>, and\nfollow the directions.【5 points】\n<A>\nAnaphors such as each other have to be bound by their\nbe antecedent. An anaphor must satisfy two conditions to\nbound. An anaphor can be bound if it is coindexed (i.e.,\ncoreferential) with its antecedent and is also c-commanded by\nthat antecedent within the smallest clause or noun phrase\ncontaining the anaphor. A node c-commands its sister and all\nthe descendents of its sister. For example, in (1), B\nc-commands C, D, E, F, G, H, I, J, and K; however, I\nc-commands only H, which is its sister. It does not\nc-command any other nodes.\n(1)\nConsider the two structures for the verb phrase in the\ndouble object construction (2). (3) is a ternary (three)\nbranching structure, which is a kind of multiple branching\nstructure, and (4) a binary branching structure.\n(2) Tom will give Mary a book.\n(3) (4)\nIn (3) and (4), the direct and indirect objects have different\nstructural relations.\n<B>\neach other. (i) Mary showed the boys\ni i\n(ii) *Mary showed each other the boys.\ni i\n(In the examples the boys and each other refer to the\nsame people.)\nNote: *indicates that the sentence is ungrammatical.\nIdentify which VP structure, (3) or (4), can account for the\nungrammaticality of sentence (ii) in <B>. Then, explain why one,\nbut not the other structure, can account for the ungrammaticality\nby using the c-command relation described in <A>.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_B_p01.png",
+        "image_count": 5
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_B_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_B_p05.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

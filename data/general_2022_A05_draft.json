@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2022_A05",
+    "year": 2022,
+    "number": "A-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the poem and follow the directions.【4 points】\nWhen I heard the famous poet pronounce\n“One can only write poems in the tongue\nin which one first said Mother,” I was stunned.\nLately arrived in English, I slipped down\ninto my seat and fought back tears, thinking\nof all those notebooks filled with bogus poems\nI’d have to burn, thinking maybe there was\na little loophole, maybe just maybe\nMami had sung me lullabies she’d learned\nfrom wives stationed at the embassy,\nthinking maybe she’d left the radio on\nbeside my crib tuned to the BBC\nor Voice of America, maybe her friend\nfrom boarding school had sent a talking doll\nwho spoke in English? Maybe I could be\nthe one exception to this writing rule?\nFor months I suffered from bad writer’s-block,\nwhich I envisioned, not as a blank page,\nbut as a literary border guard\nturning me back to Spanish on each line.\nI gave up writing, watched lots of TV,\nand you know how it happens that advice\ncomes from unlikely quarters? She came on,\nsassy, olive-skinned, hula-hooping her hips,\na basket of bananas on her head,\nher lilting accent so full of feeling\nit seemed the way the heart would speak English\nif it could speak. I touched the screen and sang\nmy own heart out with my new muse, I am\nChiquita Banana and I’m here to say...\nJulia Alvarez, “First Muse”\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the poem. Then, explain what\nthe underlined part means.\n<Commentary>\nWhen she saw “Chiquita Banana” on TV, the speaker had an\nepiphany that her dream did not need to be hampered by her\nroots.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

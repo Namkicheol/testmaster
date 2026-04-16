@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_B06",
+    "year": 2021,
+    "number": "B-6",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the teacher’s reflection and follow the directions.\n【4 points】\nTeacher’s Reflection\nThis semester I have been using a checklist in my English\nwriting class to help my students revise their drafts by\nthemselves. The checklist I provide for my students covers the\nfollowing areas: content, organization, grammar, vocabulary,\nand mechanics. Below is a part of the checklist.\nAreas Indicators Yes No\nI use correct subject and verb\nagreement.\n(1)\nI use verb tense correctly.\nI put a period at the end of every\nsentence.\n(2) I use capital letters correctly.\nI spell the words correctly.\nAt first, the checklist didn’t seem feasible because there\nwas little improvement, especially in organization in writing.\nTo find the reason, I held group conferences with the students\nand discovered that the indicators for organization were too\ncomplicated for them to understand. Some of them included\nmore than one aspect to check simultaneously. So, I divided\nthose indicators into two or three separate sentences so that\none indicator assesses only one aspect. Since the revision of\nthe indicators, the students’ organization has gotten much\nbetter.\nHowever, some students still had problems using the\nchecklist appropriately. So, I ran a couple of training sessions\nto teach the students what the indicators meant and how they\nshould be utilized. First, we read the indicators and I asked if\nthey made sense. Then, I had them practice checking\nparticular errors with a sample paragraph I had prepared.\nSince the training sessions, the students have been making\nsignificantly fewer errors. Overall, the use of the checklist has\nworked well in the revision process.\nFill in the blanks (1) and (2) with the ONE most appropriate word\nfrom the teacher’s reflection, respectively. Then, explain how the\nteacher solved the problems encountered while using the\nchecklist. Do NOT copy more than FIVE consecutive words\nfrom the passage.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

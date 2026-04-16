@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2025_B08",
+    "year": 2025,
+    "number": "B-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【4 points】\nScience teaches us that every pleasure exacts a price, and\nthe pain that follows is longer lasting and more intense than\nthe pleasure that gave rise to it.\nWith prolonged and repeated exposure to pleasurable\nstimuli, our capacity to tolerate pain decreases, and our\nthreshold for experiencing pleasure increases.\nBy imprinting instant and permanent memory, we are\nunable to forget the lessons of pleasure and pain even when\nwe want to: hippocampal tattoos to last a lifetime.\nThe phylogenetically uber-ancient neurological machinery\nfor processing pleasure and pain has remained largely intact\nthroughout evolution and across species. It is perfectly\nadapted for a world of . Without pleasure we\nwouldn’t eat, drink, or reproduce. Without pain we wouldn’t\nprotect ourselves from injury and death. By raising our neural\nset point with repeated pleasures, we become endless strivers,\nnever satisfied with what we have, always looking for more.\nBut herein lies the problem. Human beings, the ultimate\nseekers, have responded too well to the challenge of pursuing\npleasure and avoiding pain. As a result, we’ve transformed the\nworld from a place of scarcity to a place of overwhelming\nabundance.\nOur brains are not evolved for this world of plenty. As Dr.\nTom Finucane, who studies diabetes in the setting of chronic\nsedentary feeding, said, “We are cacti in the rain forest.”\nThe net effect is that we now need more reward to feel\npleasure, and less injury to feel pain. This recalibration is\noccurring not just at the level of the individual but also at the\nlevel of nations. Which invites the question: How do we\nsurvive and thrive in this new ecosystem? How do we raise\nour children? What new ways of thinking and acting will be\nrequired of us as denizens of the twenty-first century?\nWho better to teach us how to avoid compulsive\noverconsumption than those most vulnerable to it: those\nstruggling with addiction. Shunned for millennia across\ncultures as reprobates, parasites, pariahs, and purveyors of\nmoral turpitude, people with addiction have evolved a\nwisdom perfectly suited to the age we live in now.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means in the\ncontext of the passage. Do NOT copy more than FOUR\nconsecutive words from the passage.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

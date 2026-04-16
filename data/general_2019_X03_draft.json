@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2019_X03",
+    "year": 2019,
+    "number": "X-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the passage and follow the directions.【4 points】\n(A) When about midway of a certain block the policeman\nsuddenly slowed his walk. In the doorway of a darkened\nhardware store a man leaned, with an unlighted cigar in his\nmouth. As the policeman walked up to him the man spoke\nup quickly. “It’s all right, officer,” he said, reassuringly.\n“I’m just waiting for a friend. It’s an appointment made\ntwenty years ago. Sounds a little funny to you, doesn’t it?\nWell, I’ll explain if you’d like to make certain it’s all\nstraight. About that long ago there used to be a restaurant\nwhere this store stands－‘Big Joe’ Brady’s restaurant.”\n“Until five years ago,” said the policeman. “It was torn\ndown then.” The man in the doorway struck a match and lit\nhis cigar. The light showed a pale, square-jawed face with\nkeen eyes, and a little white scar near his right eyebrow. His\nscarfpin was a large diamond, oddly set.\n(B) The policeman twirled his club and took a step or two.\n“I’ll be on my way. Hope your friend comes around all\nright. Going to call time on him sharp?” “I should say not!”\nsaid the other. “I’ll give him half an hour at least. If Jimmy\nis alive on earth he’ll be here by that time. So long, officer.”\n“Good night, sir,” said the policeman, passing on along his\nbeat, trying doors as he went.\n(C) About twenty minutes he waited, and then a tall man in\na long overcoat, with collar turned up to his ears, hurried\nacross from the opposite side of the street. He went directly\nto the waiting man. “Is that you, Bob?” he asked, doubtfully.\n“Is that you, Jimmy Wells?” cried the man in the door.\n“Bless my heart!” exclaimed the new arrival, grasping both\nthe other’s hands with his own. “It’s Bob, sure as fate. I was\ncertain I’d find you here if you were still in existence. Well,\nwell!－twenty years is a long time. The old well,\nrestaurant’s gone, Bob; I wish it had lasted, so we could\nhave had another dinner there. How has the West treated\nyou, old man?” “Bully; it has given me everything I asked it\nfor. You’ve changed lots, Jimmy. I never thought you were\nso tall by two or three inches.” “Oh, I grew a bit after I was\ntwenty.”\n(D) At the corner stood a drug store, brilliant with electric\nlights. When they came into this glare each of them turned\nsimultaneously to gaze upon the other’s face. The man from\nthe West stopped suddenly and released his arm. “You’re not\nJimmy Wells,” he snapped. “Twenty years is a long time,\nbut not long enough to change a man’s nose from a Roman\nto a pug.” “It sometimes changes a good man into a bad\none,” said the tall man. “You’ve been under arrest for ten\nminutes, ‘Silky’ Bob. Chicago thinks you may have dropped\nover our way and wires us she wants to have a chat with\nyou. Going quietly, are you? That’s sensible. Now, before\n영 어 [전공B]\nwe go to the station here’s a note I was asked to hand you.\nYou may read it here at the window. It’s from Patrolman\nWells.” The man from the West unfolded the little piece of\npaper handed him. His hand was steady when he began to\nread, but it trembled a little by the time he had finished. The\nnote was rather short. “Bob: I was at the appointed place on\ntime. When you struck the match to light your cigar I saw it\nwas the face of the man wanted in Chicago. Somehow I\ncouldn’t do it myself, so I went around and got a plain\nclothes man to do the job. JIMMY.”\nSituational irony occurs when expected outcomes do not\nhappen, or when they are the opposite of what is expected. First,\nidentify the section (A, B, C, D) where the irony is revealed.\nThen, regarding the underlined part, explain what he couldn’t\ndo and why he couldn’t do it.\n3\n(7면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2014_A15",
+    "year": 2014,
+    "number": "A-15",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "15. Read the excerpt from a novel and follow the directions.\n【2 points】\n“For some days I haunted the spot where these scenes\nhad taken place; sometimes wishing to see you, sometimes\nresolved to quit the world and its miseries for ever. At\nlength I wandered towards these mountains, and have\nranged through their immense recesses, consumed by a\nburning passion which you alone can gratify. We may not\npart until you have promised to comply with my\nrequisition. I am alone, and miserable; man will not\nassociate with me; but one as deformed and horrible as\nmyself would not deny herself to me. My companion must\nbe of the same species, and have the same defects. This\nbeing you must create.”\nThe being finished speaking, and fixed his looks upon\nme in expectation of a reply. But I was bewildered,\nperplexed, and unable to arrange my ideas sufficiently to\nunderstand the full extent of his proposition. He continued―\n“You, my creator, must create a female for me, with\nwhom I can live in the interchange of those sympathies\nnecessary for my being. This you alone can do; and I\ndemand it of you as a right which you must not refuse to\nconcede.”\nThe latter part of his tale had kindled anew in me the\nanger that had died away while he narrated his peaceful life\namong the cottagers, and, as he said this, I could no longer\nsuppress the rage that burned within me.\n“I do refuse it,” I replied; “and no torture shall ever\nextort a consent from me. You may render me the most\nmiserable of men, but you shall never make me base in my\nown eyes. Shall I create another like yourself, whose joint\nwickedness might desolate the world? Begone! I have\nanswered you; you may torture me, but I will never\nconsent.”\nBelow is an analysis of the excerpt above. Fill in the blank\nwith ONE word from the excerpt.\nSetting a mountainous area\nCharacters a creator and a being\nPoint of view first-person narration\na serious disagreement about the creation of\nConflict a female creature which, the narrator imagines,\nwould the future of human beings\n5\n중 면)\n\n【1 ~ 6】 서술형",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

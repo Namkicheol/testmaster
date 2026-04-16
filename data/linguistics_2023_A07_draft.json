@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2023_A07",
+    "year": 2023,
+    "number": "A-7",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nA sentence sometimes allows for more than one reading\nwhen a modifier has more than one option to take. For\ninstance, in (1) the PP in France may modify a verb to derive\nthe meaning of “I went to France where a seminar on\nlanguage took place,” or a noun to derive the meaning of\n“The seminar was about language in France.”\n(1) I went to a seminar on language in France.\nIn syntax, branches are not allowed to cross in tree\nstructure, which is also known as the No Crossing Branches\n(NCB) constraint. Observe that sentence (2a) is ruled out, and\nits ungrammaticality is attributed to a violation of the NCB\nconstraint, as shown in (2b).\n(2) a. *The baby might be afraid in the park of new people.\nb. S\nNP I VP\nThe baby might\nV'\nV AdjP\nbe\nAdj'\nAdj'\nAdj PP PP\nafraid in the park of new people\nNote: ‘*’ indicates the ungrammaticality of the sentence.\n<B>\n(3) The man is talking to the woman with a tablet on the desk.\na. The man is on the desk, and the woman owns a tablet.\nb. The woman is on the desk, and the man owns a tablet.\nc. The woman owns a tablet, and the tablet is on the desk.\n(4) a. He should not surely break his promise.\nb. He should surely not break his promise.\nc. He surely should not break his promise.\nNote 1: Assume that surely is a sentence adverb adjoining to the S node.\nNote 2: Assume that not merges at SpecVP in tree diagrams.\nBased on <A>, first, identify the ONE structurally unavailable\nreading in (3) in <B> and identify the ONE ungrammatical\nsentence in (4) in <B>, both of which violate the NCB constraint.\nSecond, explain how the sentence you chose in (4) violates the\nNCB constraint.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

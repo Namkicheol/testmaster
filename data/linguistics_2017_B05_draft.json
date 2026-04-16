@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "linguistics_2017_B05",
+    "year": 2017,
+    "number": "B-5",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passages and follow the directions.【4 points】\n<A>\nThe English article system seems deceptively simple\nbecause there are only two articles: the indefinite article a(n)\nand the definite article the. There are, however, many\nsituations in which a noun phrase is considered definite and\nthus requires the definite article. Described below are five\ncommon uses for the definite article:\n(1) second mention—when the speaker wants to refer to\nsomething that has already been mentioned, e.g., She has\na brother and a sister. The brother is a university\nstudent. The sister is still in high school.\n(2) situational use—when the speaker wants to refer to\nsomething specific that is present in the environment and\nvisible to the listener, e.g., Can you pass me the salt?\n(3) associative use—when the speaker can assume that the\nlistener knows about the relationships that exist between\ncertain objects and things usually associated with them,\ne.g., I bought a book yesterday, and I spoke to the author\ntoday.\n(4) post-modification—when relative clauses are used to\ndefine or specify something, making it specifically\nidentifiable and hence definite, e.g., She’s never met the\ngirl I dated in college.\n(5) generic reference—when a noun refers generally to\nmembers of a species or class, e.g., The penguin is a\nflightless bird.\n<B>\nA taxi was involved in a terrible accident last night. Luckily,\nneither the driver nor the passengers were injured.\nIdentify which of the five uses of the definite article described\nin <A> best accounts for the use of the two definite articles in\n<B>. Then explain the reason.\n4\n(6면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_B_p01.png",
+        "image_count": 5
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_B_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_B_p05.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

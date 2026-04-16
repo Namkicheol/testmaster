@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2021_A03",
+    "year": 2021,
+    "number": "A-3",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the passage and follow the directions.【2 points】\nIn the languages of the world, we have two different types\nof adposition: a preposition type (e.g., English) and a\npostposition type (e.g., Korean). With the preposition type,\nwe find that a preposition head precedes its complement as in\n(1a). As for the postposition type, a postposition follows its\ncomplement as in (1b).\n(1) a. Preposition b. Postposition\nHowever, some linguists argue that all languages uniformly\nhave the preposition system and the seemingly postposition\nsystem is derived from the preposition type by movement as\nin (2).\n(2)\nWe can apply the analysis in (2) to the so-called particle\nstructure.\n[ this part] out t ]. (3) They left [\ni i PP NP\nIn (3), NP this part moves from the position of\nthe head out to the specifier position.\nFill in the blank with the ONE most appropriate word from the\npassage.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

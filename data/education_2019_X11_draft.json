@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2019_X11",
+    "year": 2019,
+    "number": "X-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage in <A> and the teacher’s log in <B>, and\nfollow the directions.【4 points】\n<A>\nLanguage transfer refers to the effects of the learner’s\nprevious language knowledge or performance on subsequent\nlanguage learning. Transfer can be categorized into positive\nand negative transfer. Negative transfer can be further\ntypes－overgeneralization and interference. divided into two\n<B>\n(Following is a teacher’s reflection on a task for her Korean\nstudents.)\nTeacher’s log\nI conducted a task that required students in pairs to ask\nand answer questions in class yesterday. At the beginning of\nthe task, I heard a student asking, “Don’t you like bananas?”\nHis partner answered, “No, I eat them everyday. They are\ngood for my health.” And another student said, “Yes, I never\neat them. But I like mangos,” when responding to “Don’t\nyou like oranges?” I noticed many other students make such\nerrors later in the course of the task. So I decided to tap into\nthe errors and explained them to students after the task. I\ngave them further question-and-answer exercises to provide\nopportunities to practice what I explained before the class\nwas over.\nIdentify the type of negative transfer in <B> based on <A>.\nThen, provide TWO examples of the identified type from <B>\nand explain why they exemplify the identified type in terms of\nwhether transfer occurs intralingually or interlingually.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

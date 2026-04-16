@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2025_B05",
+    "year": 2025,
+    "number": "B-5",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nIt is well-known that predicates can take different numbers\nof obligatory arguments. For example, a transitive predicate\narguments―a subject and an object―and like hit requires two\na ditransitive predicate like put requires three arguments―a\nsubject, a direct object, and an objective predicative complement.\n(1) a. Bill hit the ball.\nb. Bill put the violin on the table.\nOne way to encode these restrictions is to use thematic\nrelations, where each argument receives a specific theta-role\nassigned by the verb. For instance, in (1a), hit assigns an agent\ntheta-role to Bill and a theme theta-role to the ball. This\nthematic relation can be represented formally in a structure\ncalled a theta-grid. The theta-grid for hit is as follows:\n(2) Hit <Agent NP, Theme NP>\nTo ensure that a sentence is grammatical, two conditions\nmust be met: (i) each argument must receive only one\ntheta-role, and (ii) each theta-role must be assigned to only one\nargument. This requirement is known as the theta-criterion.\nObject relative clauses introduce an intriguing pattern: A\nrelative pronoun can either appear or remain silent, as seen in\nthe following example:\n(3) John met the man (who) Mary kissed.\nIt is assumed that the relative pronoun who originally\nappears in the object position of the relative clause and moves\nto the front of the embedded clause (i.e., SpecCP), as shown\nin (4a). Its silent counterpart that corresponds to the relative\npronoun, marked Ø , is assumed to follow the same process\nwh\nas in (4b).\nwho [ Mary kissed t ]]. (4) a. John met the man [\nCP TP wh\nb. John met the man [ Ø [ Mary kissed t ]].\nCP wh TP wh\nNote: ‘t ’ indicates the trace of the wh-word and its silent counterpart, Ø .\nwh wh\n<B>\n(a) *Susan put the book.\n(b) *The ball John hit it broke the window.\nNote: ‘*’ indicates the ungrammaticality of the sentence.\nBased on <A>, explain why (a) and (b) in <B> are\nungrammatical, respectively, in terms of the theta-criterion.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

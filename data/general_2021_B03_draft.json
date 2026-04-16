@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2021_B03",
+    "year": 2021,
+    "number": "B-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt from a play and follow the directions.\n【4 points】\n[MRS. DRUDGE’s approach to FELICITY makes\nFELICITY jump to her feet [. . .] She goes to the radio\nwhile MAGNUS declines his biscuit, and MRS.\nDRUDGE leaves.]\nRADIO : We interrupt our programme for a special police\nmessage. The search for the dangerous madman\nwho is on the loose in Essex has now narrowed\nto the immediate vicinity of Muldoon Manor.\nPolice are hampered by the deadly swamps and the\nfog, but believe that the madman spent last night\nin a deserted cottage on the cliffs. The public is\nadvised to stick together and make sure none of\ntheir number is missing. That is the end of the\npolice message.\n[FELICITY turns off the radio nervously. Pause.]\nCYNTHIA: Where’s Simon?\nFELICITY: Who?\nCYNTHIA: Simon. Have you seen him?\nFELICITY: No.\nCYNTHIA: Have you, Magnus?\nMAGNUS : No.\nCYNTHIA: Oh.\nFELICITY: Yes, there’s something foreboding in the air, it is\nas if one of us―\nCYNTHIA: Oh, Felicity, the house is locked up tight－no\none can get in－and the police are practically on\nthe doorstep.\nFELICITY: I don’t know－it’s just a feeling.\nCYNTHIA: It’s only the fog.\nMAGNUS : Hound will never get through on a day like this.\nCYNTHIA: [shouting at him] Fog!\nFELICITY: He means the Inspector.\nCYNTHIA: Is he bringing a dog?\nFELICITY: Not that I know of.\nMAGNUS : －never get through the swamps. Yes, I’m afraid\nthe madman can show his hand in safety now.\n[A mournful baying hooting is heard in the distance, scary.]\nCYNTHIA: What’s that?!\nFELICITY: [tensely] It sounded like the cry of a gigantic\nhound!\nMAGNUS : Poor devil!\nCYNTHIA: Ssssh!\n[They listen. The sound is repeated, nearer.]\nFELICITY: There it is again!\nCYNTHIA: It’s coming this way－it’s right outside the house!\n영 어 [전공B]\n[MRS. DRUDGE enters.]\nMRS. DRUDGE: Inspector Hound!\nCYNTHIA: A police dog?\n[Enter INSPECTOR HOUND. On his feet are his swamp\nboots. These are two inflatable－and inflated－pontoons\nwith flat bottoms about two feet across. He carries a\nfoghorn.]\nHOUND : Lady Muldoon?\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt. Then, identify\nwhat Cynthia and Felicity think the underlined part is,\nrespectively.\n<Commentary>\nAs the residents of Muldoon Manor hear the special police\nmessage about a dangerous madman possibly lurking nearby,\na sense of that their safety may be at risk\narises.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

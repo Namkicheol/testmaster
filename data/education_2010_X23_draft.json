@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "education_2010_X23",
+    "year": 2010,
+    "number": "X-23",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "23. Read the following and answer the question. [1.5점]\n(1) A primary school in a special economic zone, where\nEnglish is used as a main medium of communication,\nwants to ensure that their students attain\ngrade-appropriate language and academic achievements in\ntheir second language, English. They maintain that though\nthese students are placed in the program where all courses\nare taught in English, they can be on par with their native\nEnglish speaking peers and, eventually, become functional\nbilinguals.\n(2) In an International Studies program, Korean students\nare enrolled concurrently in linked courses: a content\ncourse alongside native English speaking students and a\nseparate English course without native English speaking\nstudents. In order to meet Korean students’ academic and\nlanguage needs, the English courses and content courses\nprovide the same content base and share mutually\ncoordinated objectives and assignments.\n(3) A school in Korea has long used a\ncommunication-oriented syllabus but many teachers,\ndespite their high proficiency in English, teach more\ngrammar and test-taking skills due to the pressure of\nraising students’ test scores. The school is now looking\ninto ways to help students learn English through\nwell-sequenced activities focusing primarily on meaning\nand clearly defined communicative outcomes. They believe\nthis change will enhance students’ ability to engage in\nreal-world processes of language use in communicative\ncontexts.\nWhich is the most appropriate approach or program for (1)～(3)\nabove?\n(2) (3) (1)\n① sheltered adjunct task-based\n② immersion adjunct task-based\n③ sheltered theme-based adjunct\n④ immersion sheltered theme-based\n⑤ immersion adjunct sheltered\n영 어 (14면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2010_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2010_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2010_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2010_X_p07.png",
+        "image_count": 1
+      },
+      {
+        "page": 8,
+        "file": "images/img_2010_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2010_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2010_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2010_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2010_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2010_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2010_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

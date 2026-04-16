@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "id": "general_2012_X05",
+    "year": 2012,
+    "number": "X-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. 답안지에는 문항 내용을 일절 옮겨 적지 마시오. 단, 하위 문항이 있을 경우, 하위 문항의 번호(1-1, 1-2)를 답안지 앞부분에 쓰고\n답안을 작성하시오.\n6. 각 문항 답안 작성 후 마지막 문장 뒤에는 반드시‘끝’자를 쓰시오(하위 문항이 있는 경우 각 하위 문항에도‘끝’자를 쓰시오.).\n7. 답안 초안 작성은 문제지의 맨 뒷부분에 있는 초안 작성 용지를 활용하시오.\n8. 답안 수정 시 삭제하고자 하는 부분에 두 줄(〓)을 그으시오.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2012_X_p01.png",
+        "image_count": 49
+      },
+      {
+        "page": 2,
+        "file": "images/img_2012_X_p02.png",
+        "image_count": 16
+      },
+      {
+        "page": 3,
+        "file": "images/img_2012_X_p03.png",
+        "image_count": 12
+      },
+      {
+        "page": 4,
+        "file": "images/img_2012_X_p04.png",
+        "image_count": 19
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

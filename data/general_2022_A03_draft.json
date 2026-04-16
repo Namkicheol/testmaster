@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2022_A03",
+    "year": 2022,
+    "number": "A-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt and follow the directions.【2 points】\n‘Indeed, Stevens. I’d told her you were the real thing. A real\nold English butler. That you’d been in this house for over\nthirty years, serving a real English lord. But Mrs Wakefield\ncontradicted me on this point. In fact, she contradicted me\nwith great confidence.’\n‘Is that so, sir?’\n‘Mrs Wakefield, Stevens, was convinced you never worked\nhere until I hired you. In fact, she seemed to be under the\nimpression she’d had that from your own lips. Made me look\npretty much a fool, as you can imagine.’\n‘It’s most regrettable, sir.’\n‘I mean to say, Stevens, this is a genuine grand old English\nhouse, isn’t it? That’s what I paid for. And you’re a genuine\nold-fashioned English butler, not just some waiter pretending\nto be one. You’re the real thing, aren’t you? That’s what I\nwanted, isn’t that what I have?’\n‘I venture to say you do, sir.’\n‘Then can you explain to me what Mrs Wakefield is saying?\nIt’s a big mystery to me.’\n‘It is possible I may well have given the lady a slightly\nmisleading picture concerning my career, sir. I do apologize if\nthis caused embarrassment.’\n[…]\n‘But dammit, Stevens, why did you tell her such a tale?’\nI considered the situation for a moment, then said: ‘I’m\nvery sorry, sir. But it is to do with the ways of this country.’\n‘What are you talking about, man?’\n‘I mean to say, sir, that it is not customary in England for an\nemployee to discuss his past employers.’\n‘OK, Stevens, so you don’t wish to divulge past\nconfidences. But does that extend to you actually denying\nhaving worked for anyone other than me?’\n‘It does seem a little extreme when you put it that way, sir.\nBut it has often been considered desirable for employees to\ngive such an impression. If I may put it this way, sir, it is a\nlittle akin to the custom as regards marriages. If a divorced\nlady were present in the company of her second husband, it is\noften thought desirable not to allude to the original marriage\nat all. There is a similar custom as regards our profession, sir.’\n‘Well, I only wish I’d known about your custom before,\nStevens,’ my employer said, leaning back in his chair. ‘It\ncertainly made me look like a chump.’\nKazuo Ishiguro, The Remains of the Day\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt.\n영 어 [전공A]\n<Commentary>\nIn this excerpt, Stevens uses an analogy in an attempt to justify\nthe false impression he gave to Mrs Wakefield. Similar to the\nway previous should remain unspoken before a\npartner, English custom frowns upon domestic servants\nrevealing their past employments in company of others.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

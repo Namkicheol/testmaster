@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "linguistics_2012_X11",
+    "year": 2012,
+    "number": "X-11",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. 답안을 작성하지 않은 빈 답안지도 성명, 수험 번호, 문항별 답안지 쪽 번호를 기재ㆍ표기한 후, 4쪽 모두 제출하시오.\n\nWrite all answers in English.\nRead the dialogue and follow the directions.\nTom: There will be a big tennis match taking place, won’t there?\nMary: Yes, there is going to be a semi-final for the Continental Grand Prize.\nTom: Who do you think is going to win?\nMary: Susan is likely to win, I guess.\nJohn: What makes you think so?\nMary: The fact is, Susan has practiced very hard and with great passion. She is really strong, so she will be tough\nto defeat.\nJohn: I know it is tough that other players defeat her. But they have to beat her to make it into the final.\nTom: Do you really believe Susan to be so strong?\nMary: Yes, I am her fan. I want her to win and somehow I feel like it’s going to happen.\nTom: Do you know where the final will be?\nMary: Yes. In the Central Stadium is a tennis court. That’s where the match will be taking place next Friday\nafternoon. Let me show you on this map. You see, the stadium is behind City Hall. Here is the tennis court.\nTom: Oh, I see.\nFirst, locate one ungrammatical expression in the above dialogue and discuss why it is ungrammatical, suggesting\nhow it has to be corrected. Second, explain why (1a) and (2a) would not sound natural in place of the underlined\nsentences above, whereas (1b) and (2b) do sound natural. Third, note that (4a) is grammatical but (4b) is\nungrammatical while (3a) and (3b) are both grammatical. Focusing on here and there, discuss why (4b) is\nungrammatical, comparing it with (4a) in terms of their syntactic, semantic, and phonological features.\n(1) a. It is likely that Susan will win, I guess.\nb. Susan is likely to win, I guess.\n(2) a. A tennis court is in the Central Stadium.\nb. In the Central Stadium is a tennis court.\n(3) a. There will be a big tennis match on Friday afternoon.\nb. Here will be a big tennis match on Friday afternoon.\n(4) a. There will be a big tennis match on Friday afternoon, won’t there?\nb. *Here will be a big tennis match on Friday afternoon, won’t here?\n(*indicates the ungrammaticality of the sentence.)\n\nRead the poems and follow the directions.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2012_X_p01.png",
+        "image_count": 49
+      },
+      {
+        "page": 2,
+        "file": "images/img_2012_X_p02.png",
+        "image_count": 12
+      },
+      {
+        "page": 3,
+        "file": "images/img_2012_X_p03.png",
+        "image_count": 21
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

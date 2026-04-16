@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "general_2017_B04",
+    "year": 2017,
+    "number": "B-4",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passages and follow the directions.【4 points】\n<A>\nMeaning-negotiation strategies such as comprehension checks,\nclarification requests, and confirmation checks may aid\ncomprehension during conversational interaction. First,\ncomprehension checks are defined as the moves by which one\ninterlocutor seeks to make sure that the other has understood\ncorrectly. Second, clarification requests are the moves by which\none interlocutor requests assistance in understanding the\nother’s preceding utterance. Finally, confirmation checks refer\nto the moves used by one interlocutor to confirm whether he\nor she correctly has understood what the other has said.\n<B>\nMiss Jeong has been instructing her students to actively\nutilize meaning-negotiation strategies stated in <A> during\nspeaking activities. One day, she interviewed two of her\nstudents, Mijin and Haerim, about the strategies that they had\nused during previous speaking activities. The following are\nexcerpts from the interview:\nMijin: When I didn’t understand what my friends said during\nspeaking activities, I usually said, “Could you repeat\nwhat you said?” or “I am sorry?” Sometimes I tried to\ncheck whether my friends clearly understood what I said\nby saying, “You know what I mean?”\nHaerim: Well, during speaking activities, when I had\ndifficulties comprehending what my friends said, I didn’t\nsay anything and pretended to understand what they said.\nI felt it embarrassing to show my lack of understanding\nto my friends. However, when I talked about something\nduring speaking activities, I often said, “Do you\nunderstand?” in order to see if my utterances were\nunderstood well by my friends.\nBased on the passage in <A>, write down all the meaning-\nnegotiation strategies that Mijin and Haerim used respectively,\nalong with their corresponding utterances from each student in\n<B>.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_B_p01.png",
+        "image_count": 5
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_B_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_B_p05.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

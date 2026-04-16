@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_A09",
+    "year": 2022,
+    "number": "A-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage in <A> and the dialogue in <B>, and follow\nthe directions.【4 points】\n<A>\nWhile styles are preferred ways of processing information,\nstrategies are conscious mental and behavioural procedures\nthat people engage in with the aim to gain control over their\nlearning process. Although the definitions and boundaries of\nlearning strategies can be varied, there are several categories\nof strategies that have generally been agreed upon, as shown\nbelow.\nStrategy Definition Examples\nLearners being consciously ∙Planning\nMetacognitive aware of their thought ∙Monitoring\nprocesses and cognition ∙Evaluating\n∙Keyword\nLearners using their\ntechnique\nbrains to manipulate or\n∙Repetition Cognitive\ntransform L2 input in\n∙Inferencing\norder to retain it\n∙Visualization\n∙Having\nconversations in\nLearners involving others L2 with other\nSocial in their L2 learning speakers\nprocesses ∙Practicing L2\nwith other\nclassmates\n∙Rewarding oneself\nLearners engaging their\nfor studying\nAffective own emotions to facilitate\n∙Intentionally\nL2 learning\nreducing anxiety\n영 어 [전공A]\n<B>\nMina : Hi, Junho. Is everything going well?\nJunho: Hey, Mina! Good to see you here. Can I ask you\nsomething?\nMina : Sure. What’s up?\nJunho: I know you are a good English learner and I’d like to\nget some tips.\nMina : Sure. Will you tell me how you study?\nJunho: I try to set schedules for learning. For example, I\ndecide what I should study first and what I can study\nat a later time.\nMina : That’s a good way. Anything else you do?\nJunho: While studying, I sometimes stop to check my\ncomprehension.\nMina : Okay. In my case, I usually create pictures in my mind\nto remember the things I’ve studied.\nJunho: Oh, you do? I’ve never tried to create mental images\nwhen I study.\nMina : Actually, it helps me remember things a lot longer.\nJunho: That makes sense. I think I need to try it.\nMina : And, whenever I find some difficult English\nexpressions I’m not familiar with, I talk in English\nwith native speakers to find out exactly what those\nexpressions mean.\nJunho: I usually use my online dictionary. But I often find the\ndictionary explanation is rather difficult for me.\nMina : That happens a lot. I think asking questions to others\nis one of the best ways to clarify the meaning.\nJunho: I quite agree. I’ll apply your advice to my English\nlearning immediately. Thanks for your tips!\nIdentify TWO strategies in <A> that Mina recommended to Junho\nin <B>. Then, support your answers with evidence from <B>.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

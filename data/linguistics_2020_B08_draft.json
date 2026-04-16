@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2020_B08",
+    "year": 2020,
+    "number": "B-8",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【4 points】\n<A>\nSentences containing [be + past participle] can fall into\ntwo subtypes, based on whether the past participle form is a\nverb or an adjective, as shown in (1).\n(1) a. The cat was bitten by the mouse.\nb. He had always been interested in Korean history.\nIn (1a), bitten is a verb, and in (1b), interested is an adjective.\nThere are two syntactic properties that distinguish adjectives\nfrom verbs. First, adjectives can be modified by degree\nmodifiers, whereas verbs cannot, as shown in (2).\n(2) a. I couldn’t stand his overly offensive behavior.\nb. She was so embarrassed by his demeaning attitude\ntoward her.\nc. *He very solved the difficult problem.\nd. *The ball was very bounced against the wall several\ntimes.\nThe fact that offensive and embarrassed in (2a) and (2b) can\nbe modified by degree modifiers whereas solved and\nbounced in (2c) and (2d) cannot suggests that the former are\nadjectives and the latter are verbs. For an adjective to be\nmodified by a degree modifier, it should be gradable. Such\nmodification is not possible with non-gradable adjectives.\nThis is illustrated in (3).\n(3) a. The meeting was rather serious.\nb. *The situations were too impossible.\nSecond, other than be, verbs such as remain can be\nfollowed by adjectives, but not by verbs, as given in (4).\n(4) a. The visitors remained assembled outside the\nmuseum for over an hour.\nb. *The safe remained broken by the burglars.\nNote: ‘*’ indicates the ungrammaticality of the sentence.\n<B>\n(i) They were married at the church.\n(ii) They were married until last Christmas.\nIdentify whether married in (i) and (ii) is an adjective or a verb,\nrespectively. Then, for the sentence containing the adjective\nmarried, provide TWO sentences, each of which has a property\ndescribed in <A>. Each sentence should have a different\nproperty. Put an ‘*’ before the ungrammatical sentence.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

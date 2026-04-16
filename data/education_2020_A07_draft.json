@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2020_A07",
+    "year": 2020,
+    "number": "A-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage in <A> and the dialogue in <B>, and follow\nthe directions.【4 points】\n<A>\nOne of the most effective ways of testing a learner’s\npronunciation is to observe and record repeated errors in a\nvariety of situations. Speech contexts often change the way\na given word is pronounced. Careful or emphasized speech\nis usually employed to show how to pronounce words\nclearly. In a connected or conversational speech, words are\noften contracted and the pronunciation of a word can change\nthrough the phenomena in (1) and sound rules in (2):\n(1) a. That is nice > That’s (Contraction)\nb. missed *[d], Ms. *[s] (Spelling pronunciation)\n(2)\nCareful Connected Sound\nspeech speech rules\na. can’t you [t j] [tʃ] Palatalization\nb. because [ə] - Vowel deletion\nc. greater [t] [ɾ] Tapping\nd. advantage [nt] [n] Consonant deletion\nIt is worth mentioning that spelling often influences\nlearners’ pronunciation of words. When spelling pronunciation\nerrors are found in learners’ pronunciation, they can\nsometimes be critical. For instance, if the plural form of sea,\nseas, is pronounced [sis] rather than [siz], it can be\nmisunderstood as the word cease [sis] by listeners.\nNote: ‘*’ indicates incorrect pronunciation.\n영 어 [전공A]\n<B>\n(Two students are talking about what they wrote during a\ndictation task without looking at each other’s notes.)\nS1: Can you tell me what you got for the second sentence? I\nwrote down, ‘Last [wɪnɚ] (winner) was colder,’ and it\ndoes not make sense to me.\nS2: Why? It means what it says. ‘Last [wɪntɚ] (winter) was\ncolder.’ How (i) did you understand it?\nS1: Oh, it is [wɪntɚ] (winter), the season! I thought it was\nwinner. That is why the sentence did not make sense to\nme.\nS2: [wɪntɚ] (winter), [wɪnɚ] (winter), ... yes, when you say\nit quickly, it does sound the same.\nS1: Thanks! Wait, did you hear the last word in the fourth\nsentence? Can you tell me what it was?\nS2: ‘My dog’s skin is irritated by [fliz] (fleas).’\nS1: What is [fliz] (fleas)? Can you spell it for me?\nS2: F-L-E-A-S! Don’t you know what fleas are?\nS1: Yeah, but isn’t that pronounced as (ii) [flis] (fleas)?\nIt is confusing.\nS2: Let’s ask the teacher later why ‘s’ sounds like ‘z’ here.\nNote: S = student\nIdentify ONE phenomenon or sound rule from <A> that\nchanges the pronunciation of (i) in <B> and explain how your\nanswer applies to the given words. Then, identify ONE\nphenomenon or sound rule that causes S1’s confusion in (ii) and\nexplain how your answer applies to the given word based on the\ndescription in <A>.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "id": "general_2026_A11",
+    "year": 2026,
+    "number": "A-11",
+    "subject": "general",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "film theory",
+      "Balázs",
+      "close-up",
+      "soliloquy",
+      "mental loneliness",
+      "crowded solitude"
+    ],
+    "parse_source": "2026_전공A_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Fill in the blank with the ONE most appropriate word from the passage. Then explain what the underlined part means in the context of the passage. Do NOT copy more than FOUR consecutive words from the passage.",
+    "passage": "The modern stage no longer uses the spoken soliloquy, although without it the characters are silenced just when they are the most sincere, the least hampered by convention: when they are alone. The public of today will not tolerate the spoken soliloquy, allegedly because it is \"unnatural.\" Now the film has brought us the silent soliloquy, in which a face can speak with the subtlest shades of meaning without appearing unnatural and arousing the distaste of the spectators. In this silent monologue the solitary human soul can find a tongue more candid and uninhibited than in any spoken soliloquy, for it speaks instinctively, subconsciously. The language of the face cannot be suppressed or controlled. However disciplined and practisedly hypocritical a face may be, in the enlarging __________ we see even that it is concealing something, that is looking a lie. For such things have their own specific expressions superimposed on the feigned one. It is much easier to lie in words than with the face and the film has proved it beyond doubt.\n\nIn the film the mute soliloquy of the face speaks even when the hero is not alone, and herein lies a new great opportunity for depicting man. The poetic significance of the soliloquy is that it is a manifestation of mental, not physical, loneliness. Nevertheless, on the stage a character can speak a monologue only when there is no one else there, even though a character might feel a thousand times more lonely if alone among a large crowd. The monologue of loneliness may raise its voice within him a hundred times even while he is audibly talking to someone. Hence the most deep-felt human soliloquies could not find such expression, for the close-up can lift a character out of the heart of the greatest crowd and show how solitary it is in reality and what it feels in this crowded solitude.\n\nThe film, especially the sound film, can separate the words of a character talking to others from the mute play of features by means of which, in the middle of such a conversation, we are made to overhear a mute soliloquy and realize the difference between this soliloquy and the audible conversation. What a flesh-and-blood actor can show on the real stage is at most that his words are insincere and it is a mere convention that the partner in such a conversation is blinded to what every spectator can see. But in the isolated close-up of the film we can see to the bottom of a soul by means of such tiny movements of facial muscles which even the most observant partner would never perceive.\n\n— Béla Balázs, Theory of the Film",
+    "blanks": [
+      {
+        "label": "빈칸",
+        "context": "in the enlarging ___ we see even that it is concealing something"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "'enlarging(확대하는) ___' — 얼굴을 확대하여 내면을 드러내는 영화 기법 → 명사 형태 필요\n- 빈칸 앞: 'in the enlarging' — 확대되는 무언가 = 영화 기술 용어\n- 지문 2단락에 'close-up'이 명시적으로 등장 — passage-bound 확인\n- 단수 명사 형태 필요 (in the enlarging ___)",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'in the enlarging ___' [paraphrase]\n→ the isolated close-up of the film (2단락 및 3단락에서 반복)\n\n'무대 독백: 물리적으로 혼자일 때만 가능' [antonym]\n→ 클로즈업: 군중 속에서도 정신적 고독 포착 가능",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- shot: ✗ (지문에 등장하지 않는 단어)\n- image: ✗ (지문에 등장하지 않는 단어)\n- close-up: ✓ (정답)",
+        "key_terms": [
+          "close-up"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: close-up\n\n[content] 1단락 'in the enlarging ___'과 2단락 'the close-up can lift a character'가 동일 기법을 지칭. 3단락에서도 'isolated close-up'으로 반복\n→ 근거: \"the close-up can lift a character out of the heart of the greatest crowd\"\n\n[form] 'enlarging'은 close-up의 핵심 속성 — 얼굴을 확대(enlarge)하여 보여주는 기법\n→ 근거: \"in the enlarging __________ we see even that it is concealing something\"",
+        "key_terms": [
+          "close-up"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① 빈칸의 수식어(enlarging)가 정답을 가리키는 핵심 단서 — 확대하는 기법 = close-up\n② 밑줄 설명: 지문 전체의 핵심 대비 구조(무대 독백 vs. 클로즈업)를 먼저 파악한 뒤, 밑줄이 그 대비의 어느 지점에 위치하는지 서술\n③ 4단어 초과 연속 인용 금지 — 핵심어만 따옴표 처리\n\n함정:\n- 밑줄 설명에서 'crowded solitude'의 의미를 단순히 번역하는 오류 — 맥락 속 의미로 풀어써야 함\n- close-up과 shot을 혼동하는 오류 — shot은 지문에 없음",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [
+      {
+        "word": "soliloquy",
+        "pos": "n.",
+        "definition_ko": "독백 — 혼자 속마음을 드러내는 연극적 장치"
+      },
+      {
+        "word": "hampered",
+        "pos": "adj.",
+        "definition_ko": "방해받는, 제약받는"
+      },
+      {
+        "word": "candid / uninhibited",
+        "pos": "adj.",
+        "definition_ko": "솔직한 / 억제되지 않은"
+      },
+      {
+        "word": "practisedly hypocritical",
+        "pos": "adv.+adj.",
+        "definition_ko": "위선을 숙달한 듯한"
+      },
+      {
+        "word": "superimposed",
+        "pos": "adj.",
+        "definition_ko": "덧씌워진 — 가장된 표정 위에 진짜 감정 중첩"
+      },
+      {
+        "word": "feigned",
+        "pos": "adj.",
+        "definition_ko": "꾸며낸, 가장한"
+      },
+      {
+        "word": "mute",
+        "pos": "adj.",
+        "definition_ko": "말없는, 무언의"
+      },
+      {
+        "word": "manifestation",
+        "pos": "n.",
+        "definition_ko": "발현, 표출"
+      },
+      {
+        "word": "crowded solitude",
+        "pos": "n. phrase",
+        "definition_ko": "군중 속 고독 (역설적 표현)"
+      }
+    ],
+    "translation": "현대 무대는 더 이상 구어 독백을 사용하지 않는다. 그러나 독백 없이는, 인물들이 가장 진솔하고 가장 관습에 얽매이지 않을 때, 즉 혼자 있을 때, 침묵을 강요받는다. 오늘날의 관객은 구어 독백을 용납하지 않으려 한다. 표면적으로는 그것이 '부자연스럽다'는 이유에서다. 이제 영화는 우리에게 <span class=\"trans-hl\">침묵의 독백</span>을 가져다주었다. 그 안에서 얼굴은 부자연스럽게 보이거나 관객의 반감을 사지 않고도 가장 미묘한 의미의 뉘앙스를 담아 말할 수 있다. 이 침묵의 독백 속에서 고독한 인간의 영혼은 어떤 구어 독백보다도 더 솔직하고 억제되지 않은 언어를 찾아낼 수 있다. 본능적으로, 무의식적으로 말하기 때문이다. <span class=\"trans-hl\">얼굴의 언어는 억누르거나 통제할 수 없다.</span> 아무리 절제되고 위선을 숙달한 듯한 얼굴일지라도, 확대된 클로즈업 안에서는 무언가를 숨기고 있다는 것, 거짓을 바라보고 있다는 것이 드러난다. 그런 것들은 가장된 표정 위에 덧씌워진 고유한 표정을 지니기 때문이다. 말로 거짓말하는 것이 얼굴로 거짓말하는 것보다 훨씬 쉽다는 것을 영화는 의심할 여지 없이 증명해왔다.\n\n영화에서 얼굴의 무언 독백은 주인공이 혼자가 아닐 때도 말한다. 바로 여기에 인간을 묘사하는 새로운 위대한 기회가 존재한다. 독백의 시적 의미는 그것이 신체적이 아닌 <span class=\"trans-hl\">정신적 고독의 발현</span>이라는 점에 있다. 그럼에도 불구하고, 무대에서는 다른 사람이 없을 때만 독백이 가능하다. 비록 군중 속에 홀로 있을 때 천 배는 더 외로울지라도. 고독의 독백은 누군가와 소리 내어 대화하는 중에도 내면에서 수백 번 목소리를 높일 수 있다. 그래서 가장 깊이 느껴지는 인간의 독백은 제대로 표현될 수 없었다. <span class=\"trans-hl\">클로즈업은 인물을 가장 큰 군중의 한가운데서 끌어올려, 그것이 실제로 얼마나 고독한지, 그리고 이 군중 속 고독 안에서 무엇을 느끼는지를 보여줄 수 있기 때문이다.</span>\n\n영화, 특히 유성영화는 타인과 대화하는 인물의 말과, 그 대화 도중 우리가 무언 독백을 엿듣게 해주는 표정 연기를 분리할 수 있다. 이를 통해 이 무언 독백과 소리로 오가는 대화 사이의 차이를 인식하게 된다. 실제 무대에서 살과 피를 가진 배우가 보여줄 수 있는 것은 기껏해야 자신의 말이 진심이 아니라는 것뿐이며, 대화 상대가 모든 관객에게 보이는 것을 보지 못한다는 것은 하나의 관습일 뿐이다. 그러나 <span class=\"trans-hl\">영화의 고립된 클로즈업 안에서, 아무리 예리한 상대방도 결코 포착하지 못할 안면 근육의 미세한 움직임을 통해 우리는 한 영혼의 밑바닥까지 들여다볼 수 있다.</span>"
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "빈칸",
+          "answer": "close-up"
+        }
+      ],
+      "essay_content": "The close-up isolates a character from the surrounding crowd and reveals their inner emotional state. Unlike stage soliloquy, which requires physical solitude, the close-up makes mental loneliness visible even amid others.",
+      "scoring_criteria": [
+        {
+          "criterion": "빈칸 — close-up",
+          "points": 1
+        },
+        {
+          "criterion": "군중 속에서도 인물을 고립시켜 보여준다는 내용",
+          "points": 1.5
+        },
+        {
+          "criterion": "정신적(내면적) 고독을 드러낸다는 내용",
+          "points": 1.5
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "It means the close-up exposes a character's inner isolation even when surrounded by others, revealing mental loneliness that stage soliloquy cannot express."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "The close-up reveals psychological solitude even in a crowd — capturing mental loneliness that the stage monologue, requiring physical isolation, cannot show."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "book",
+        "author": "Balázs, B.",
+        "title": "Theory of the Film: Character and Growth of a New Art",
+        "year": 1952,
+        "publisher": "Dennis Dobson, London",
+        "pages": "Ch. 5: The Close-up",
+        "excerpt": "\"In the <span class=\"ref-hl\">close-up</span> the <span class=\"ref-hl\">human face</span> itself speaks… the <span class=\"ref-hl\">soul appears on its surface</span> and what is within becomes visible without.\""
+      },
+      {
+        "type": "textbook",
+        "author": "Stam, R.",
+        "title": "Film Theory: An Introduction",
+        "year": 2000,
+        "publisher": "Blackwell",
+        "pages": "pp. 45–52",
+        "excerpt": ""
+      }
+    ],
+    "concept_explanation": "Béla Balázs의 클로즈업 이론: 영화의 클로즈업은 인물의 얼굴을 확대하여 내면을 가시화하는 기법이다. Balázs는 무대와 영화를 다음과 같이 대비한다.\n\n무대 독백: 물리적으로 혼자일 때만 가능 → 정신적 고독을 표현하는 데 한계\n영화 클로즈업: 군중 속에 있어도 인물을 고립시켜 내면의 정신적 고독을 포착 가능\n\n핵심 대비 구조:\n- spoken soliloquy(구어 독백) ↔ silent soliloquy / mute face(침묵의 독백)\n- physical solitude(물리적 고독) ↔ mental loneliness(정신적 고독)\n- stage(무대의 한계) ↔ close-up(영화의 확장된 가능성)\n\n'crowded solitude'(군중 속 고독)은 클로즈업만이 포착 가능한 역설적 상태를 의미한다."
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  }
+}

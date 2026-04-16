@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_B10",
+    "year": 2022,
+    "number": "B-10",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage in <A> and the tests in <B>, and follow the\ndirections.【4 points】\n<A>\nMr. Lee and Ms. Min are both middle school English\n1st teachers for graders, but their students’ English writing\nproficiency is quite different from each other. The two\nteachers have developed tests to assess their students’ abilities\nto write using comparatives and superlatives as the target\nforms.\nMr. Lee’s Assessment Note\n◾I taught my students to write simple sentences using\ncomparatives and superlatives and provided sentence drill\nactivities to practice them in previous lessons. After that,\nI designed a writing test to assess my students’ abilities to\nmake a simple sentence using one of the target forms.\nMs. Min’s Assessment Note\n◾My students learned how to use comparatives and\nsuperlatives in sentences. After they were able to write\nsentences using the target forms accurately, I offered a\nstory-writing activity in class. Then, I made a test to assess\nhow well the students put sentences together to write a\nstory using the target forms.\n<B>\nTest 1\nDirections: Based on the pictures, fill in each blank with\nan appropriate comparative or superlative.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

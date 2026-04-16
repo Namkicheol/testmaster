@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2023_B11",
+    "year": 2023,
+    "number": "B-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nA high school English teacher, Mr. Choi, wanted to learn\nhow to write selected-response items (e.g., multiple-choice\nitems) more efficiently. He wrote several items before the\nworkshop began, and found some of them were flawed\naccording to the guidelines he learned during the workshop.\nThe following are some of the guidelines along with examples\nof flawed items.\nGeneral Guidelines for Writing Selected-response Items\n①Make certain that there is only one, clearly correct\nanswer.\n②State both the stem and the options as simply and directly\nas possible.\n③Present a single clearly formulated problem to avoid\nmixed content.\n④Avoid negative wording whenever possible. If it is\nabsolutely necessary to use a negative stem, highlight the\nnegative word.\nItem 1\nMy forehead itches every day during the summer. Using\nsunscreen hasn’t helped much. I think I’d better go to the\nto get my skin checked.\na. dentist\nb. optometrist\npediatrician c.\nd. dermatologist →\nItem 2\nWhere did Henry go after the party last night?\na. Yes, he did.\nb. Because he was tired.\nc. To Kate’s place for another party. →\n? d. He went home around eleven o’clock.\nItem 3\nI never knew where .\na. had the boys gone\nb. the boys had gone →\nc. the boys have gone\nd. have the boys gone\nItem 4\nAccording to the passage, which of the following is not true?\na. My sister likes outdoor sports.\nb. My brother is busy with his plans.\nc. My sister and I often do everything together. →\nd. My brother is more energetic and outgoing than I.\nNote: ‘→’ indicates the key; ‘?’ indicates a possible answer.\n영 어 [전공B]\n<B>\nAfter the workshop, to improve the quality of the items, the\nteacher revised some items according to the guidelines. The\nfollowing are the revised items.\nItem 1\nbetter go to the to get my skin I think I’d\nchecked.\na. dentist\nb. optometrist\nc. pediatrician\nd. dermatologist →\nItem 2\nWhere did Henry go after the party last night?\na. Yes, he did.\nb. Because he was tired.\nc. It was about eleven o’clock.\nd. To Kate’s place for another party. →\nItem 3\nI never knew .\na. where had the boys gone\nb. where the boys had gone →\nboys where had gone c. the\nd. the boys had gone where\nItem 4\nAccording to the passage, which of the following is NOT true?\na. My sister likes outdoor sports.\nb. My brother is busy with his plans.\nc. My sister and I often do everything together. →\nbrother is more energetic and outgoing than I. d. My\nBased on <A>, identify the ONE most appropriately revised item\nin <B> according to guideline ②, and the ONE most\nappropriately revised item according to guideline ③. Then,\nexplain each of the items with evidence from <A> and <B>.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

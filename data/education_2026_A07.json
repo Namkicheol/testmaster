@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "id": "education_2026_A07",
+    "year": 2026,
+    "number": "A-7",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "supplementary materials",
+      "design principles",
+      "pragmatics",
+      "information gap",
+      "communicative drills"
+    ],
+    "parse_source": "2026_전공A_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Identify the ONE principle in <A> that is applied to Material 1 in <B> and the ONE principle in <A> to Material 2 in <B>. Then explain your answers with evidence from <B>.",
+    "passage": "<A>\nMs. Lee, a middle school English teacher, is a member of the English textbook selection committee in her school. During the selection process, the English teachers evaluated ten textbooks and selected one. Before the semester began, they conducted an in-depth analysis of the selected textbook and decided they would need some supplementary materials when using the textbook. Some of the design principles which they considered to create their supplementary materials are listed below.\n\n<Design principles>\n1. Vocabulary exercises contain word-part analysis.\n2. Grammar practice is presented through communicative drills.\n3. Culture learning activities include various group projects.\n4. Sufficient background information is provided in listening activities.\n5. Speaking activities include practicing pragmatic skills.\n\n<B>\nMs. Lee developed two supplementary materials to be used with the textbook.\n\n<Material 1> \"Something strange\"\nStep 1. Look at the following utterances to make requests. Order them from the least polite (1) to the most polite (5).\n- Would you mind turning the radio down?\n- I hate to ask, but you couldn't possibly turn the radio down, could you?\n- Turn the radio down!\n- Can you turn the radio down?\n- Would you turn the radio down, please?\nStep 2. Read the conversation below, and find one utterance that seems inappropriate in the context.\n[Mom and Dad are talking about their daughter Olivia.]\nDad: What is that terrible noise?\nMom: It's the radio. That's what Olivia calls music.\nDad: It's so loud. Why can't she turn it down?\nMom: Can you talk to her about the noise?\nDad: Olivia! I was just wondering if you'd mind turning the radio down.\nMom: I don't think she can hear you.\nStep 3. Replace the utterance you found in Step 2 with the appropriate one in Step 1. Then act out the conversation with the replaced utterance.\n\n<Material 2> \"What's your plan?\"\nStep 1. Make groups of four. Write down individually what you want to do next week in your weekly planner.\nStep 2. With your group members, take turns asking about their plans as below.\nA: What are you going to do next Saturday?\nB: I'm going to go camping. How about you, Charlotte?\nA: I'm going to watch a movie.\nB: It sounds good.\nStep 3. Compare your plans with your friends'.\nStep 4. Circle the day where you have the same plans as your friends do.\nStep 5. The student who has the most circles wins.\n[Weekly planner table: Sun. Mon. Tue. Wed. Thur. Fri. Sat. / My Plans / ___'s Plans]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "각 Material이 어느 Principle에 해당하는지 교사·학습자 활동 내용으로 매핑\n- Material 1: speaking + politeness/appropriateness 관련 활동 → Principle 5(화용 기술)\n- Material 2: grammar(be going to) + meaningful information exchange → Principle 2(의사소통 드릴)\n- Principle 번호와 내용 정확히 기술 필요",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'Material 1: 요청 표현 공손도 순위 매기기 + 맥락 부적절 발화 식별 + 대화 재연' [paraphrase]\n→ Principle 5: Speaking activities include practicing pragmatic skills\n\n'Material 2: 개인 계획 정보 공유 + 'be going to' 구조 반복 사용 + 정보 차이 활동' [paraphrase]\n→ Principle 2: Grammar practice is presented through communicative drills",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- Principle 3 (group projects): ✗ (Material 2는 그룹 활동을 포함하지만 문화 학습(culture learning)이 목적이 아니므로 Principle 3 해당 없음.)\n- Principle 1 (word-part analysis): ✗ (두 Material 모두 어휘 형태 분석 활동 없음.)\n- Principle 4 (background info for listening): ✗ (두 Material 모두 듣기 활동 아님.)\n- Principle 5 for Material 1: ✓ (정답)\n- Principle 2 for Material 2: ✓ (정답)",
+        "key_terms": [
+          "Principle 5 for Material 1",
+          "Principle 2 for Material 2"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: Material 1 → Principle 5 / Material 2 → Principle 2\n\n[content] Material 1 Step 1에서 학습자가 요청 표현의 공손도를 순위 매김 → 화용적 적절성(pragmatic appropriateness) 인식 훈련. Step 2에서 대화 맥락에 부적절한 발화 식별 → 상황별 발화행위 적합성 판단 = 화용 기술 연습.\n→ 근거: \"Order them from the least polite (1) to the most polite (5) / find one utterance that seems inappropriate in the context\"\n\n[content] Material 2에서 학생들이 각자 다른 계획(genuine personal information)을 가지고 'be going to' 구조를 사용하여 실제 정보를 교환 → 문법이 의미 있는 의사소통 맥락에 통합된 communicative drill.\n→ 근거: \"Write down individually what you want to do next week / take turns asking about their plans\"",
+        "key_terms": [
+          "Material 1 → Principle 5 / Material 2 → Principle 2"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① Design principle 매핑 문제: 활동 내용의 핵심 목적(기술 영역 + 연습 방식)을 principle 키워드와 직접 대응시킨다.\n② Principle 5 식별 기준: speaking + politeness / appropriateness / speech acts → pragmatic skills.\n③ Principle 2 식별 기준: grammar structure + real information exchange / meaningful context → communicative drills.\n③ 근거는 지문 내 구체적 활동 지시문(단계 설명)에서 인용한다.\n\n함정:\n- Material 2를 Principle 3(group projects)으로 혼동 — 그룹 활동이 있어도 목적이 grammar practice이면 Principle 2.\n- Principle 5와 Principle 4를 혼동 — Principle 4는 '듣기 활동에 배경 정보 제공'으로 Material 1과 관련 없음.",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Pragmatic competence",
+        "definition_en": "The ability to use language appropriately in social contexts, including knowledge of speech acts, politeness strategies, and contextual appropriateness. A component of communicative language ability, distinct from grammatical competence.",
+        "definition_ko": "발화행위, 공손 전략, 맥락 적절성 등 사회적 상황에서 언어를 적절하게 사용하는 능력. 문법 능력과 구별되는 의사소통 능력의 구성 요소.",
+        "source_author": "Bachman, L. F.",
+        "source_year": 1990,
+        "related_terms": [
+          "speech acts",
+          "politeness",
+          "sociolinguistic competence"
+        ],
+        "exam_usage": "Material 1에서 공손도 순위·맥락 적절성 활동이 화용 능력(Principle 5)에 해당함을 논거로 사용"
+      },
+      {
+        "term": "Communicative drill",
+        "definition_en": "A form of practice in which learners use target grammar structures in meaningful communicative contexts where an information gap or genuine communicative purpose exists, as distinct from mechanical repetition drills.",
+        "definition_ko": "목표 문법 구조를 단순 반복이 아닌 실제 정보 교환·의사소통 목적이 있는 맥락에서 연습하는 형태.",
+        "source_author": "Tomlinson, B.",
+        "source_year": 2011,
+        "related_terms": [
+          "information gap",
+          "meaningful practice",
+          "communicative language teaching"
+        ],
+        "exam_usage": "Material 2에서 주간 계획 정보 교환 활동이 be going to 구조의 communicative drill(Principle 2)임을 논거로 사용"
+      },
+      {
+        "term": "Information gap activity",
+        "definition_en": "A communicative task in which each participant holds information the other does not have, creating a genuine need to communicate in order to complete the task.",
+        "definition_ko": "각 참가자가 상대방이 모르는 정보를 가지고 있어 진정한 의사소통 필요성이 발생하는 과제 유형.",
+        "source_author": "Prabhu, N. S.",
+        "source_year": 1987,
+        "related_terms": [
+          "communicative drill",
+          "task-based language teaching",
+          "genuine communication"
+        ],
+        "exam_usage": "Material 2의 주간 플래너 비교 활동에서 정보 간격(각자 다른 계획)이 발생함을 근거로 사용"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Material 1 applies Principle 5 (Speaking activities include practicing pragmatic skills). In Step 1, students rank requests by politeness level, and in Step 2, they identify a contextually inappropriate utterance — both tasks develop awareness of pragmatic appropriateness in speaking.\n\nMaterial 2 applies Principle 2 (Grammar practice is presented through communicative drills). Students practice the 'be going to' structure through a communicative information-gap activity where they ask and answer about real personal plans, integrating grammar into meaningful interaction.",
+      "scoring_criteria": [
+        {
+          "criterion": "Material 1 → Principle 5 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Material 1 근거 설명 (공손도 순위/맥락 적절성 = 화용 능력)",
+          "points": 1
+        },
+        {
+          "criterion": "Material 2 → Principle 2 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Material 2 근거 설명 (be going to 구조를 의사소통 드릴로 연습)",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Material 1 reflects Principle 5 because students practice pragmatic skills by evaluating the politeness level of requests and identifying contextually inappropriate language. Material 2 reflects Principle 2 since students practice grammar (future tense) through communicative drills by exchanging real information about their weekly plans."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "Principle 5 applies to Material 1: students order requests from least to most polite and locate an inappropriate utterance in context, both of which require pragmatic competence. Principle 2 applies to Material 2: the weekly planner activity has students use the target grammar structure communicatively by sharing genuine personal information."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Tomlinson, B. (Ed.)",
+        "title": "Materials Development in Language Teaching (2nd ed.)",
+        "year": 2011,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 2–31",
+        "excerpt": "Materials should provide opportunities for learners to use language for <span class=\"ref-hl\">communication</span> and to notice how language is used. <span class=\"ref-hl\">Communicative drills</span> encourage meaningful practice of target structures, while <span class=\"ref-hl\">pragmatic activities</span> develop learners' ability to use language appropriately in social contexts."
+      }
+    ],
+    "concept_explanation": "Principle 5 — Pragmatic competence in speaking: the ability to select and use utterances that are contextually appropriate, including awareness of politeness levels and speech act conventions (Bachman, 1990).\n  (공손 전략·발화행위 적절성 등 사회적 맥락에서 언어를 적절히 사용하는 화용 능력)\n  ※ Canale & Swain (1980)의 Communicative Competence 내 Sociolinguistic Competence에서 발전된 개념; Bachman (1990)이 Pragmatic Competence를 독립 구성요소로 명시.\n\nPrinciple 2 — Communicative drills: grammar practice embedded in a communicative context where learners have a genuine reason to exchange information, as opposed to mechanical repetition (Tomlinson, 2011).\n  (정보 간격이나 실제 의사소통 목적이 있는 맥락에서 목표 문법을 연습하는 의사소통 중심 드릴)\n\nKey distinction:\n- Mechanical drill: repetition with no communicative purpose (형태 반복, 의미 없음)\n- Communicative drill: repetition with real information exchange (형태 + 의미 있는 정보 교환)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

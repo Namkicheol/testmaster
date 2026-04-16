@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2014_A11",
+    "year": 2014,
+    "number": "A-11",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and fill in the blank with ONE word.\n【2 points】\nIn English, the lateral phoneme /l/ has two allophones:\n[ɫ], ‘clear l’, [l], and ‘dark l’, a velarized alveolar lateral.\nThe articulatory difference between the two is that in the\nformer the back of the tongue is lowered while in the latter\nit is raised toward the velum or retracted toward the uvula\n(without making contact in either case). Some examples\n[ɫ] with [l] and are:\n[lɪm], [klaɪm], [lɑk] (1) limb climb lock\n[mɪlər], [jɛlou], [bɪlou] (2) miller yellow billow\n[mɪɫ], [fɪɫ], [paɪɫ], [mɪɫk] (3) mill fill pile milk\n[mɪdɫ], [bʌbɫ], [tʌnɫ] (4) middle bubble tunnel\n❚ ❚ ❚\n[ɫ] We can see that [l] and are in complementary\ndistribution. [l] appears in an onset position as in (1) and (2),\n[ɫ] while appears in a coda position as in (3). The rule involved\nseems to be that velarization takes place whenever /l/ is in\na coda position. However, the cases in (4) cannot be explained\n[ɫ] by this rule because is syllabic and constitutes the nucleus,\n❚\nwhich is usually occupied by a vowel. By minimally\nmodifying the above rule, we can obtain a more accurate\nrule: /l/ is velarized if and only if it is part of the .\n영 어 (8면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

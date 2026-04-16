@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2025_B03",
+    "year": 2025,
+    "number": "B-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt from a play and follow the directions.【4 points】\n: There you are: even my wife is moved. I ought to JIMMY\nsend the Bishop a subscription. Let’s see. What\nelse does he say. Dumdidumdidumdidum. Ah yes.\nHe’s upset because someone has suggested that he\nsupports the rich against the poor. He says he\ndenies the difference of class distinctions. “This\nidea has been persistently and wickedly fostered\nby―the working classes!” Well!\nHe looks up at both of them for reaction, but Cliff\nis reading, and Alison is intent on her ironing.\n: (to Cliff). Did you read that bit? JIMMY\nCLIFF : Um?\nHe has lost them, and he knows it, but he won’t\nleave it.\n: (to Alison). You don’t suppose your father could JIMMY\nhave written it, do you?\nALISON: Written what?\nJIMMY : What I just read out, of course.\nALISON: Why should my father have written it?\n: Sounds rather like Daddy, don’t you think? JIMMY\nALISON: Does it?\nplume,* do : Is the Bishop of Bromley his nom de JIMMY\nyou think?\n: Don’t take any notice of him. He’s being offensive. CLIFF\nAnd it’s so easy for him.\nJIMMY : (quickly). Did you read about the woman who\nwent to the mass meeting of a certain American\nevangelist at Earls Court? She went forward, to\ndeclare herself for love or whatever it is, and, in\nthe rush of converts to get to the front, she broke\nfour ribs and got kicked in the head. She was\nyelling her head off in agony, but with 50,000\npeople putting all they’d got into “Onward Christian\nSoldiers”,** nobody even knew she was there.\nHe looks up sharply for a response, but there isn’t\nany.\nSometimes, I wonder if there isn’t something\nwrong with me. What about that tea?\n: (still behind paper). What tea? CLIFF\n[…]\n: […] Did you read Priestley’s piece this week? JIMMY\nWhy on earth I ask, I don’t know. I know damned\nwell you haven’t. Why do I spend ninepence on\nthat damned paper every week? Nobody reads it\nexcept me. Nobody can be bothered. No one can\nraise themselves out of their delicious sloth. You\nsoon―I know it, two will drive me round the bend\nas sure as I’m sitting here. I know you’re going to\ndrive me mad. Oh heavens, how I long for a little\nordinary human enthusiasm. Just enthusiasm―\nthat’s all. I want to hear a warm, thrilling voice cry\nout Hallelujah! (He bangs his breast theatrically.)\n영 어 [전공B]\nHallelujah! I’m alive! I’ve an idea. Why don’t we\nhave a little game? Let’s pretend that we’re human\nbeings, and that we’re actually alive. Just for a\nwhile. What do you say? Let’s pretend we’re\nhuman. (He looks from one to the other.) Oh,\nbrother, it’s such a long time since I was with\nanyone who got enthusiastic about anything.\n: What did he say? CLIFF\n: (resentful of being dragged away from his pursuit JIMMY\nof Alison). What did who say?\nCLIFF : Mr. Priestley.\n: What he always says, I suppose. He’s like Daddy― JIMMY\nstill casting well-fed glances back to the Edwardian\ntwilight from his comfortable, disenfranchised\nwilderness. What the devil have you done to those\ntrousers?\n*nom de plume: pseudonym\n**Onward Christian Soldiers: well-known Protestant hymn\nJohn Osborne, Look Back in Anger\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt. Then, explain how\nJimmy’s situation can be considered similar to that of “the\nwoman who went to the mass meeting.”\n<Commentary>\nAlison and her family are the embodiment of aristocratic\nvalues of the upper class which her working-class husband,\nJimmy, despises. Believing that being scornful or resentful is\na sign of human enthusiasm or of being alive, Jimmy harshly\ncriticizes others―specifically, Alison’s father―for saturating\nthemselves into and exhibiting an unwillingness\nto fight against reality in anger.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

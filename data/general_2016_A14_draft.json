@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2016_A14",
+    "year": 2016,
+    "number": "A-14",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "14. Read the passage and follow the directions.【4 points】\nA paragraph in the papers of last week recorded the\nunusual action of a gentleman called Smith (or some such\nname) who had refused for reasons of conscience to be\nmade a justice of the peace. Smith’s case was that the\ncommission was offered to him as a reward for political\nservices, and that this was a method of selecting\nmagistrates of which he did not approve. So he showed his\ncontempt for the system by refusing an honour which most\npeople covet, and earned by this such notoriety as the\npapers can give. “Portrait of a gentleman who has refused\nsomething!” He takes his place in (1) the gallery of the\nodd.\nThe subject for essay has frequently been given, “If a\nmillion pounds were left to you, how could you do most\ngood with it?” Some say they would endow hospitals, some\nthat they would establish almshouses; there may even be\nsome who would go as far as to build half a Dreadnought.\nBut there would be a more decisive way of doing good\nthan any of these. You might refuse the million pounds.\nThat would be a shock to the systems of the comfortable―\na blow struck at the great Money God which would make\nit totter; a thrust in defence of pride and freedom such as\nhad not been seen before. That would be a moral tonic\nmore needed than all the draughts of your newly endowed\nhospitals. (2) Will it ever be administered? Well, perhaps\nwhen the Declined-with-Thanks club has grown a little\nstronger.\nWrite TWO consecutive words from the passage that correspond\nto the meaning of the underlined words in (1). Then explain\nthe implication of the underlined words in (2).\n<수고하셨습니다.>\n8\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

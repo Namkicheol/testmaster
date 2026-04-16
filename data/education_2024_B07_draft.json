@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2024_B07",
+    "year": 2024,
+    "number": "B-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nMr. Kim, a middle school English teacher, attended a\nmaterials development workshop last week. There he learned\nthat a variety of factors impact a learner’s task performance\nwhich he could manipulate to adjust the level of task\ndifficulty. One is language of input that learners have to\nprocess, such as the range and complexity of vocabulary and\ngrammar. Another factor has to do with the processing\ndemands of a task, which refer to the amount of mental effort\nrequired in working out answers. Besides these two factors,\nthe conditions under which a task is performed also play an\nimportant role. Below are the notes he took during the\nworkshop.\nFactors Affecting Task Performance\nFactor 1. Language\n* Examples\n-vocabulary\n(e.g., high-frequency vs. low-frequency words)\n-grammar(e.g., simple --> compound --> complex sentences)\ndifficult easy\nFactor 2. Processing demands\n* Examples\n-locating information less effort = easier\n-sorting\n-inferencing more effort = harder\nFactor 3. Performance conditions\n* Examples\n-availability of time to respond(less vs. more preparation time)\n-audience:\nindividuals --> pairs --> small groups --> whole class\nmore pressure = more difficult\n영 어 [전공B]\n<B>\nBased on what he learned at the workshop, Mr. Kim\nadapted one of the tasks from the textbook as shown below.\nThe original task",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

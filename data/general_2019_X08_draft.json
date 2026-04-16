@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2019_X08",
+    "year": 2019,
+    "number": "X-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【2 points】\nAncient Easterners saw the world as consisting of\ncontinuous substances while ancient Westerners tended to\nsee the world as being composed of discrete objects or\nseparate atoms. Remarkably, it is still the same in the\nmodern era.\nIn a survey of the values of middle managers,\nHampden-Turner and Trompenaars examined whether\nrespondents from both Eastern and Western cultures thought\nof a company as a system to organize tasks or as an\norganism coordinating people working together. They asked\nrespondents to choose between the following definitions:\n(a) A company is a system designed to perform functions\nand tasks in an efficient way. People are hired to fulfill\nthese functions with the help of machines and other\nequipment. They are paid for the tasks they perform.\n(b) A company is a group of people working together. The\npeople have social relations with other people and with\nthe organization. The functioning is dependent on these\nrelations.\nAbout 75 percent of Americans chose the first definition,\nand more than 50 percent of Canadians, Australians, British,\nDutch, and Swedes chose that definition. About a third of a\ngroup of Japanese and Singaporeans chose it. Thus for the\nWesterners, especially the Americans and the other people\nof primarily northern European culture, a company is an\natomistic, modular place where people perform their\ndistinctive functions. For the Easterners, a company is an\norganism where the social relations are an integral part of\nwhat holds things together.\nFill in the blank with the ONE most appropriate word from the\npassage.\nResearch shows that people from Western cultures tend to\nsee the world in a more atomistic way. This view leads them\nto see a social institution like a workplace as a system to\nperform distinctive functions. On the other hand, according\nto the Easterners’ perspective, a company is seen as an\ninterdependent organism. Its function is made possible by\namong its members as well as between the\nmembers and the organization. Knowledge of such\ndifferences can be helpful for intercultural understanding.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

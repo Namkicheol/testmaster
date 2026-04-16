@@ -1,0 +1,11 @@
+.DS_Store
+.claude/
+draft/
+기출 raw/
+루이스 문제 raw/
+references/
+*.pdf
+node_modules/
+__pycache__/
+*.pyc
+*.log

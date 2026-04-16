@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2019_X12",
+    "year": 2019,
+    "number": "X-12",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the English test task specifications in <A> and the\nteacher’s reflective journal in <B>, and follow the directions.\n【4 points】\n<A>\nTest Task Specifications\nCategory Description\nTo determine students’ current levels and\nPurpose place them into the most appropriate\nspeaking courses\nTime 2 minutes (1 minute for preparation and 1\nallocation minute for speaking)\nTask type Picture-cued tasks\nAnalytic\na. Criteria: Content, Fluency, Accuracy,\nScoring\nPronunciation\nmethod\nb. Each criterion is worth 5 points and the\nscore for this task is added up to 20.\na. Two examiners: a primary examiner\nwho conducts the test and a secondary\nexaminer who observes the test\nb. If there is a difference of more than 2 Scoring\npoints in total, the examiners discuss procedure\nrating disagreements based on the\nrecorded test to arrive at a rating that\nthey agree upon.\n<B>\nI understand that some students have potential\nstrengths in learning languages, and in order to check\nmy students’ aptitude in English, I conducted a\nspeaking test with picture-cued tasks. For each task,\nstudents looked at pictures and prepared for 1 minute\nand then described them for 1 minute. I found that 1\nminute was not enough for my students to prepare\ntheir answers, so I felt that I needed to change the time\nallocation for the task. In addition, although my rating\nand the other examiner’s rating seemed consistent, I\nrealized that my approach, providing a global rating\nwith overall impressions using a single general scale,\nwas not very effective because the scores didn’t give\nThere was much helpful information to students. …\none student’s test yielding very different scores, so we\n(primary and secondary examiners) had a discussion\nabout the recorded test and found that I gave the\nwrong score by mistake. It was good that we recorded\nthe test even though both of us were present during the\ntest.\nIdentify TWO categories that the teacher did NOT follow in the\ntest task specifications from <A>. Then, support your answers\nwith evidence from <B>.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

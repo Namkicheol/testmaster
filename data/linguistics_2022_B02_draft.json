@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2022_B02",
+    "year": 2022,
+    "number": "B-2",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage and follow the directions.【2 points】\nThe tense-affix, such as -ed or -s, forms an independent\nhead (T) that is separated from a verb in the underlying\nstructure, as shown in (1) and (2). The T-affix needs to attach\nto a verb in the surface structure via so-called ‘Head\nMovement.’ To be specific, T lowers onto lexical verbs, and\nauxiliary verbs be / have raise to T.\n(1) a. Joe finished the cake.\nb. [ Joe T -ed [ finish the cake]]\nTP VP\n(2) a. Joe was listening to music.\nJoe T -ed [ be listening to music]] b. [\nTP VP\nLet us now observe the data in (3) and (4) that involve\nso-called ‘Verb Phrase ellipsis (VP-ellipsis).’ VP-ellipsis is\nassumed to be licensed when the verb phrase in the second\nconjunct is isomorphic to that of its corresponding antecedent.\nFor example, the VP of the second conjunct in (3a) is identical\nto the one in the first conjunct, and deletion of the VP is\npossible in (3b). The same holds of (4b). However, an\ninteresting difference is observed; namely, dummy do is\nrequired in the second conjunct in (3), but prohibited in (4).\n(3) a. Joe didn’t finish the cake, but Mary finished the cake.\nb. Joe didn’t finish the cake, but Mary did <finish the\ncake>.\nc. *Joe didn’t finish the cake, but Mary <finished the\ncake>.\n(4) a. Kim wasn’t listening to him, but Sue was listening to\nhim.\nb. Kim wasn’t listening to him, but Sue was <listening to\nhim>.\nc. *Kim wasn’t listening to him, but Sue did <be\nlistening to him>.\nNote 1: ‘*’ indicates the ungrammaticality of the sentence.\nNote 2: Strikethrough inside angled brackets indicates deletion.\nFill in the blanks and in the correct order with the TWO ① ②\nsyntactic operations from the passage.\nTo derive (3b) and (4b) and prevent the derivation of (3c) and\n(4c), a certain order of syntactic operations must take place.\nFor (3b), must take place prior to , but for ① ②\n(4b), must take place prior to . ② ①\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

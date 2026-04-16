@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_B07",
+    "year": 2025,
+    "number": "B-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the conversation in <A> and the lesson plans in <B>, and\nfollow the directions.【4 points】\n<A>\n(Mr. Choi, a supervising teacher, is talking with his student\nteacher, Ms. Han, about her lesson plan.)\nSupT: Ms. Han, I checked your lesson plan and found a\ncouple of things that may help improve it.\n: Oh, did I miss anything? ST\nSupT: As you know, before you get to the main listening\nstage, we want students to recognize the purpose of\nlistening, right?\nST : Yeah, and it sounds quite challenging. How can I do\nthat?\nSupT: You can try activating schemata. Making connections\nbetween personal experiences and learning can\nfacilitate students’ comprehension.\n: Oh, I see. ST\nSupT: And I recommend intensive listening. You know,\nauthentic conversations have a lot of contractions. So,\nhow about playing parts of a radio show focusing on\nparticular language features?\n: Good idea. Thank you. Is there anything else I missed? ST\nSupT: Hmm, why don’t you also try making some creative\nactivities? Students can sing a song or chant, or they\ncan record their own voice.\nST : Got it. I’ll try to find some that are exciting.\nSupT: Great. That’s all I wanted to point out.\n: Your suggestions are extremely helpful. I’ll make ST\nsome changes following your advice.\nSupT: If you have any questions, don’t hesitate to ask.\n: I really appreciate your advice. ST\nNote: SupT = supervising teacher, ST = student teacher\n영 어 [전공B]\n<B>\nAfter the conversation, Ms. Han revised her lesson plan\nbased on Mr. Choi’s suggestions. Below are the original and\nmodified lesson plans.\nOriginal Lesson Plan\nStage Teaching & Learning Activities\nTshows the aim of the listening activity.\nTasks about what will happen to a person\nPre-listening\nin a picture.\nTengages Ss in small talk.\nTasks Ss to listen to a story.\nTasks Ss to make inferences about the\nWhile-listening\nmain topic of the story.\nTasks Ss to retell the story.\nTasks Ss to write a summary on the story.\nPost-listening Tasks Ss to present on their summaries.\nTprovides comments on Ss’ presentations.\nModified Lesson Plan\nStage Teaching & Learning Activities\nTpresents the purpose of the listening\nactivity.\nTasks Ss to predict what will happen to Pre-listening\na person in a picture.\nTengages Ss in small talk.\nTasks Ss to listen to a story.\nTasks Ss to guess what the main topic of\nWhile-listening\nthe story is.\nTasks Ss to do a gap-filling activity.\nTasks Ss to summarize the story.\nTasks Ss to act out assigned scenes from\nPost-listening\nthe story.\nTprovides feedback on Ss’ performances.\nNote: T = teacher, Ss = students\nIdentify the supervising teacher’s TWO suggestions from <A>\nthat are reflected in the modified lesson plan in <B>. Then,\nexplain your answers, respectively, with evidence from <B>.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

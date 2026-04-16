@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2023_A03",
+    "year": 2023,
+    "number": "A-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt from a novel and follow the directions.\n【2 points】\n“This is out back,” Turner said. “They say once in a while\nthey take a black boy here and shackle him up to those. Arms\nspread out. Then they get a horse whip and tear him up.”\nElwood made two fists, then caught himself. “No white\nboys?”\n“The White House, they got that integrated. This place is\nseparate. They take you out back, they don’t bring you to the\nhospital. They put you down as escaped and that’s that, boy.”\n“What about their family?”\n“How many boys you know here got family? Or got family\nthat cares about them? Not everyone is you, Elwood.” Turner\ngot jealous when Elwood’s grandmother visited and brought\nhim snacks, and it slipped out from time to time. Like now.\nThe blinders Elwood wore, walking around. The law was one\nthing―you can march and wave signs around and change a\nlaw if you convinced enough white people. In Tampa, Turner\nsaw the college kids with their nice shirts and ties sit in at the\nWoolworths. He had to work, but they were out protesting.\nAnd it happened―they opened the counter. Turner didn’t have\nthe money to eat there either way. You can change the law but\nyou can’t change people and how they treat each other. Nickel\nwas racist as hell―half the people who worked here probably\ndressed up like the Klan on weekends―but the way Turner\nsaw it, wickedness went deeper than skin color. It was\nSpencer. It was Spencer and it was Griff and it was all the\nparents who let their children wind up here. It was people.\nNickel Boys: A Novel Colson Whitehead, The\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt.\n<Commentary>\nAccording to Turner, college students protest in order to\nalter the so that everyone can have the right to eat\nat the lunch counter at Woolworths, but that does not matter\nmuch to someone like him who cannot afford to eat there\nanyway. His overall point is that the students’ efforts do not\nchange the way many people think and behave.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_B09",
+    "year": 2024,
+    "number": "B-9",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nWhen we paint on canvas we create a purely physical\nrepresentation. When we take a selfie on our cell phone,\nhowever, the phone produces a digital representation―that is,\na recording of an object using a finite set of symbols. The\nphone’s camera divides our face into a numerical grid of tiny\ncells each of which is given a number. It is these numbers that\nmake up the essence of our digital image. This digital\nrepresentation offers many benefits over a more traditional\nphysical representation.\nDigital representations can be stored for long periods of\ntime without erosion of information. After converting our face\nto a series of numbers, this numerical version can be maintained\nand transmitted with no further loss of quality. Unlike our\nparent’s analog photos which have degraded over time, that\nimage of our face will remain the same for a long period.\nRather than being something static, this digital representation\ncan be manipulated. The digital representation can be brightened\nand sharpened by adding visual effects. On computer programs\na smile can be added, a tree in the background erased, and it\nwould even be possible to change the color of our eyes. This is\ncertainly something that never would have been possible for\nanalog photos in the past.\nDigital representations are storable and easy to manipulate.\nWhile these two essential qualities offer benefits, it also\nmeans that we could be victims of digital representations. The\ndigital representations of each of us encoded by algorithms\ncan float around online even when we do not want them to.\nTherefore, caution should be exercised when we upload\ndigital representations online.\nWrite a summary following the guidelines below.\n<Guidelines>\nSummarize the above passage in one paragraph.\nProvide a topic sentence, two supporting ideas, and a\nconcluding sentence based on the passage.\nDo NOT copy more than FOUR consecutive words from the\npassage.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

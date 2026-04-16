@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2025_B04",
+    "year": 2025,
+    "number": "B-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nMany word games in English rely on dominant stress\npatterns in English, in a way that if words do not meet\nphonological criteria on where stressed and unstressed\nsyllables appear, they simply cannot be played. The name\ngame, illustrated in the song The Name Game, is not an\nexception to this. Below are parts of the lyrics from the song,\nwhich show how the game is played with three common\nEnglish names: Tony [tónɪ], Lana [lǽnə], and Kit [kít]. The\nphonetic transcription of the lyrics is provided below:\nTony, Tony, bo-bo-ney [tónɪ tónɪ bo bó ni]\nBo-na-na fana, fo-fo-ny [bə nǽ nə fǽnə fo fó ni]\nFee-fi-mo-mo-ney [fi faɪ mo mó ni]\nTo-ny [tó nɪ]\nLana, Lana bo-ba-na [lǽnə lǽnə bo bǽ nə]\nBo-na-na fana, fo-fa-na [bə nǽ nə fǽnə fo fǽ nə]\nFee-fi-mo-ma-na [fi faɪ mo mǽ nə]\nLa-na [lǽ nə]\nKit, Kit bo-bi-it [kít kít bo bí it]\nBo-na-na fana, fo-fi-it [bə nǽ nə fǽnə fo fí it]\nFee-fi-mo-mi-it [fi faɪ mo mí it]\nKi-it [kí it]\nAs shown in the lyrics above, the name game works with\nvarious names that consist of different segments or differ in\nlength. However, some names are not permissible for the\n[mɪʃɛˊl], and Olivia game, such as Jerome [ʤəɹóm], Michelle\n[əlívɪə].\n<B>\na. Annette [ənɛt] b. Miranda [məɹændə]\nc. Nelson [nɛlsən] d. Pat [pæt]\nNote: Some prosodic information has been intentionally left out for the\nnames above.\nBased on <A>, choose the TWO names in <B> that CANNOT be\nplayed for the name game. Then, state the prosodic condition\nnecessary for names permissible for the game.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

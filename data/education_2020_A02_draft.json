@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2020_A02",
+    "year": 2020,
+    "number": "A-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage in <A> and a teacher’s note in <B>, and\nfollow the directions.【2 points】\n<A>\nCurriculum design is a series of systematic efforts to\ndevelop a curriculum that satisfies the target learners as well\nas teachers. Researchers suggest that there are five main\nstages in the process of designing a curriculum.\n⇓\nGoal Specifications\n⇓\nMaterials Development\n⇓\nLanguage Teaching & Learning\n⇓\nCurriculum Evaluation\n<B>\nTeacher’s Note\nI am planning to develop a new English course for winter\nsession, so I wanted to establish the basis for developing the\ncurriculum. The first step of this process requires me to\nsystematically collect and analyze areas of necessity for my\nstudents in order to satisfy their language learning\nrequirements. So, I created a survey which asked students\nquestions about their English deficiencies and the\ndifficulties they face in performing certain language tasks in\ntheir current classes. It also asked them about the methods\nthey enjoy learning through as well as the types of English\nskills that they want to improve. For the second step of this\nprocess, I wanted to get more information about the\nstudents’ preferred learning styles and interests, so I referred\nto my classroom observation notes to learn about them. I\nthen asked my school’s principal to show me the results of\ntheir placement tests to gain an understanding of their levels\nof linguistic proficiency and background experience.\nFurthermore, I interviewed students both in groups and\nindividually to get more detailed information. In short, I\nconducted by collecting all these data.\nBased on the information in <A> and <B>, fill in the blanks in\n<A> and <B> with the TWO most appropriate words. Use the\nSAME words in both blanks.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

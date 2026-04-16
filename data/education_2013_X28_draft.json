@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "education_2013_X28",
+    "year": 2013,
+    "number": "X-28",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "28. Read the following and answer the question. [2.5점]\nBelow is an excerpt of an English lesson procedure\ndeveloped by a high school teacher.\nStep 1. Ask questions relating to the topic.\n∙Do you talk to your parents a lot? Why or why not?\n∙Who do you talk to when you have a problem?\nStep 2. Provide a reading text and have Ss read it\nindividually.\nDear Dr. Teen,\nRecently, our family moved to a new city. My husband\nand I knew this would not be easy for our teenage daughter,\nbut we thought she would adjust in time. It has now been\ntwo months, and we are really starting to worry about her.\nShe used to be very outgoing and talkative. But, now she\nspends a lot of time in her room and will not talk to us. She\nseems uninterested in school, and her grades are slipping.\nWhy won’t she communicate with us? What can we do?\nPlease help!\nWorried Mother\nStep 3. Ask comprehension-checking questions.\nStep 4. In groups of four, have Ss discuss and come up\nwith the best advice for the worried mother.\nStep 5. Have each group write a letter to the worried\nmother, using the advice they chose. Each group\nexchanges their letter with another group and offers\ncomments.\nStep 6. Have each group revise their own letter, taking into\naccount the feedback from another group.\nStep 7. Explain the errors that Ss made frequently during\ndiscussion. Have them engage in pattern practice.\nSs = students\nWhich of the following is NOT a correct statement about the\nlesson procedure described above?\nIt uses the mother’s letter as input to encourage learner ①\noutput.\nIt engages students in a problem-solving activity to offer ②\nadvice on a given problem.\nIt encourages students to work cooperatively through group ③\nwork and feedback.\nIt utilizes different types of meaning-focused activities such ④\nas discussion.\nIt assists students in developing oral skills by moving from ⑤\ncontrolled to free activities.\n10\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2013_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2013_X_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2013_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2013_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2013_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2013_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2013_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2013_X_p11.png",
+        "image_count": 2
+      },
+      {
+        "page": 12,
+        "file": "images/img_2013_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2013_X_p13.png",
+        "image_count": 2
+      },
+      {
+        "page": 14,
+        "file": "images/img_2013_X_p14.png",
+        "image_count": 1
+      },
+      {
+        "page": 15,
+        "file": "images/img_2013_X_p15.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

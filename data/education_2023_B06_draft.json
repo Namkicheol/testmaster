@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2023_B06",
+    "year": 2023,
+    "number": "B-6",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage in <A> and the email in <B>, and follow the\ndirections.【4 points】\n<A>\nMs. Hong, a new English teacher, had a hard time getting\nher students to talk in her English speaking class. She\ninvestigated the issue and found a checklist related to the\nproblems that hinder the students’ active engagement in\nspeaking. The checklist consisted of seven categories with\ndescriptions: no preparation time, uneven participation, poor\nlistening ability, lack of speaking strategy use, mother-tongue\nuse, nothing to say, and inhibition. Based on her observations,\nshe evaluated how often her students struggled with the\nproblems in the checklist during her English speaking class.\nClass Observation Checklist\nScale\nDescriptions\n1 2 3",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

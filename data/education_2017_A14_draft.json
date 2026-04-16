@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2017_A14",
+    "year": 2017,
+    "number": "A-14",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "14. Read the passage and follow the directions.【4 points】\n20th The early century was not a great time for grocery\nshoppers. Sure, industrialization meant that more food\nproducts were available than ever before, and at lower prices,\ntoo. But in the days before the FDA, who knew what those\nproducts were really made of? A bottle of ketchup might\ncontain dyed pumpkin, ground ginger might be mixed with\nbits of tarred rope, and cans labeled “potted chicken” might\ninclude no chicken at all.\nAll those things happened, and worse. Once the public\nbecame aware of the extent of the problem, the Pure Food\nand Drug Act of 1906 was passed. The legislation laid out\nstandards for food safety: You could no longer mix\npoisonous, dirty, or rotten ingredients into a product. It also\nstopped outright mislabelling: You could not call something a\nparticular food if it was not that food.\nThis was going to hurt the bottom line for manufacturers of\ncheap imitation food, so they came up with a way around the\nnew rules. What if you technically did not say a product was\nsomething it was not? What if you are calling a product that\nis mostly cornstarch Puddine, expecting that people will think\nit is real pudding?\nThat strategy worked for a while. A “distinctive name”\nproviso was inserted into the law that allowed clever names.\nIn addition to Puddine (mostly cornstarch), consumers could\nbuy Grape Smack (imitation grape juice) and Bred Spred (a\nbuyers nearly fruit-free sugar-pectin mixture in a jam jar). If\nthought they were getting pudding, grape juice, and\nstrawberry jam—well, it was not the companies’ fault. They\ndid not say their products were those other things.\nThe courts agreed. In the marvelously titled cases United\n7/ States v. 150 Cases of Fruit Puddine, United States v. 24\n8\nBred Gallons of Smack, and United States v. 15 Cases of\nSpred, the distinctive name proviso let the imitators off the\nhook. But the rules got stricter with the 1938 Food, Drug, and\nCosmetic Act, which mandated that products could still bear\nfanciful names, but if they looked a lot like something they\n. were not, they had to be explicitly labeled a(n)\nFill in the blank with the ONE most appropriate word from the\npassage. Then explain why manufacturers started to use\nso-called ‘distinctive names’.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

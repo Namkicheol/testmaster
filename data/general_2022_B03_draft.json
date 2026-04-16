@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2022_B03",
+    "year": 2022,
+    "number": "B-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt and follow the directions.【4 points】\nThe low hum of a phone connection over thousands of miles.\nThe voices of a Man and a Woman are heard; they are in the\nmiddle of a conversation.\nMan: ―what are you doing?\nWoman: Doing?\nMan: While you’re talking to me. I hear something. What are\nyou doing?\nWoman: What does it sound like?\nMan: Click―click―click\nWoman (in a rush, in one breath): Oh―that click?―it’s the\nwindow blind in a breeze, a slight breeze, it’s me\nunsnapping my tortoise shell barrette, I clipped and\nunclipped it, it’s my Italian lighter lighting up my last\nBlonde Gauloise, it’s some cheap Christmas trash\nracketing its way down the street, it’s my birthstone\nring hitting the floor, it’s a bird’s beak tapping, it’s\nMorse code, it’s an urgent message we can’t decipher\nbut need to know, it’s the deadbolt on the back-door,\nit’s the heater clacking into action, it’s the clock stuck\non One, One, One, it’s a glitch on the wires, it’s the\nloose jawbone that clicks in my head from where I took\na fall on the ice last winter. It’s my nailclipper.\nMan: I’m really sick of your metaphors.\nWoman: You used to like my turns of phrase.\nMan: That was before I started re-hab.\nWoman: Recovery takes the Poetry out of Things, huh?\nMan: At a nickel a minute from a payphone in a drafty\ncorridor, yeah. I’d say so.\n(slight beat)\nYeah. It’s all just words.\nWoman: That’s all we have right now, isn’t it? You’re two\nthousand miles away and we’re reduced to Words,\nRight?\nMan: Yeah. I guess so.\nBrighde Mullins, Click\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt. Then, explain\nwhat the underlined sentence means.\n<Commentary>\nThe string of metaphors the woman dishes out rapidly to the\ncounterpart on the phone are loosely connected to the comfort\nand convenience a home provides. The comforts of home\nreflected in the woman’s metaphors can be in contrast to the\nlikely atmosphere in which the man finds himself.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

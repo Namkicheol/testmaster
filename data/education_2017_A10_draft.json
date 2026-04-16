@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2017_A10",
+    "year": 2017,
+    "number": "A-10",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage and follow the directions.【4 points】\nAs time went by, Freddie Drummond found himself more\nfrequently crossing the Slot and losing himself in South of\nMarket . . . .\nSomewhere in his make-up there was a strange twist or\nquirk. Perhaps it was a recoil from his environment and\ntraining, or from the tempered seed of his ancestors, who had\nbeen bookmen generation preceding generation; but at any\nrate, he found enjoyment in being down in the working-class\nworld. In his own world he was “Cold-Storage,” but down\nbelow he was “Big” Bill Totts, who could drink and smoke,\nand slang and fight, and be an all-around favorite. Everybody\nliked Bill, and more than one working girl made love to him.\nAt first he had been merely a good actor, but as time went\nnature. He no longer played a on, simulation became second\npart, and he loved sausages, sausages and bacon, than which,\nin his own proper sphere, there was nothing more loathsome\nin the way of food.\nFrom doing the thing for the need’s sake, he came to doing\nthe thing for the thing’s sake. He found himself regretting as\nthe time drew near for him to go back to his lecture-room\nand his inhibition . . . .\nExplain what the underlined part means by including one\nexample of “simulation” from the passage. Do NOT copy more\nthan FOUR consecutive words from the passage.\nThen, complete the commentary below with TWO consecutive\nwords from the passage.\nFreddie, whose job is a college professor, experiences\nsomething unusual as he starts to mingle with people outside\n“his own proper sphere.” Until then, Freddie used to do\nthings for the , such as giving a lecture.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

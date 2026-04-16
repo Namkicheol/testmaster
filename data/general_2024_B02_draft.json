@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_B02",
+    "year": 2024,
+    "number": "B-2",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the excerpt from a novel and follow the directions.【2 points】\nWhen Mr. Garner agreed to the arrangements with Halle,\nand when Halle looked like it meant more to him that she go\nfree than anything in the world, she let herself be taken ’cross\nthe river. Of the two hard things―standing on her feet till she\ndropped or leaving her last and probably only living child―\nshe chose the hard thing that made him happy, and never put\nto him the question she put to herself: What for? What does a\nsixty-odd-year-old slavewoman who walks like a three-legged\ndog need freedom for? And when she stepped foot on free\nground she could not believe that Halle knew what she didn’t;\nthat Halle, who had never drawn one free breath, knew that\nthere was nothing like it in this world. It scared her.\nSomething’s the matter. What’s the matter? What’s the\nmatter? She asked herself. She didn’t know what she looked\nlike and was not curious. But suddenly she saw her hands and\nthought with a clarity as simple as it was dazzling, “These\nhands belong to me. These my hands.” Next she felt a\nknocking in her chest and discovered something else new: her\nown heartbeat. Had it been there all along? This pounding\nthing? She felt like a fool and began to laugh out loud. Mr.\nGarner looked over his shoulder at her with wide brown eyes\nand smiled himself. “What’s funny, Jenny?”\nToni Morrison, Beloved: A Novel\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt.\n<Commentary>\nIn this excerpt, a woman experiences a transformative\nchange both in her location and social status. Gradually, she\ncomes to realize the difference in her situation. Her\nultimately awakens in her a sense of freedom and an animated\nstate of being.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

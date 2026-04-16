@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2023_B01",
+    "year": 2023,
+    "number": "B-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the teacher log and follow the directions.【2 points】\nTeacher Log\nSkill-integration is considered more and more important in\nmodern language learning, but I found that at any one time I\nwas almost always teaching just one skill in isolation. As part\nof my development as a teacher, I wanted to integrate multiple\nlanguage skills and pursue a more real-life style of\ncommunication. To do this, I first investigated my own class\npractices. I video-recorded eight lessons. After reviewing the\nvideo files, I found that in six lessons I taught only one skill.\nIn the other two, I was only able to integrate listening and\nspeaking but never reading or writing. I drew up a plan to\nintegrate language skills more often. What I did was\nimplement the project-based learning approach so that\nstudents could collaborate in groups to advance their projects.\nI conducted the experiments over the second half of the\nsemester and gathered the data. Then, I video-recorded\nanother eight lessons toward the end of the semester to test the\neffectiveness of the measure I had implemented. After I\nanalyzed the videos and the data, the results were as follows:\ntwo of the lessons showed the integration of speaking and\nreading skills, two other lessons integrated reading and\nwriting skills, and one lesson integrated all four skills! Based\non these results, I feel the approach really improved my\nteaching practice and my ability to teach students with the\nfour skills in an integrated fashion.\nFill in the blank with the TWO most appropriate words.\nThe log above describes how the teacher addresses a\nproblem in the classroom and resolves it through a systematic\nprocess of inquiry. Sometimes referred to as teacher research\nor classroom research, is considered an important\npart of self-reflective teacher development. It usually involves\nfour steps: planning, acting, observing, and reflecting. Its\nmajor goal is to improve both student learning and teaching\neffectiveness.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n11문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

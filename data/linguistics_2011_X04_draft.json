@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "linguistics_2011_X04",
+    "year": 2011,
+    "number": "X-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. The use of corpora has ever been increasing in the areas of language study and language education. This reflects\nthe belief that language learning is essentially probabilistic and the learner’s accumulated experiences with actual\nusage in various social contexts are essential. The data in [A], obtained from a concordance program, is particularly\nuseful in precisely characterizing language patterns, and corpus-based dictionaries such as [B] prove more helpful to\nlanguage learners than traditional dictionaries like [C].\nGiven these, read the following and answer the questions.【30 points】\n4-1. Clauses can express different types of situations such as activities and accomplishments as exemplified below.\n(1) a. John walked in the park.\n[activities]\nb. Mary danced in the party.\n(2) a. John ate an apple.\n[accomplishments]\nb. Mary built the house last year.\nThe situations described by the sentences in (2) have an inherent terminal point beyond which they cannot continue,\nbut those expressed by the sentences in (1) have no such terminal point. In one paragraph, first, analyze the usages\nof for two weeks and in two weeks in [A] above, with reference to the situation types described by the sentences\nthey are part of, and second, explain why (3a) is grammatical but (3b) is not and how the meaning of the verb\npainted in (3c) is different from the one in (3d). [15 points]\n(3) a. John painted for two weeks.\nb.*John painted in two weeks.\nc. John painted the wall for two weeks.\nd. John painted the wall in two weeks.\n4-2. In one paragraph, state three distinctive features of the type of dictionary exemplified in [B] above and rationales\nfor utilizing that type of dictionary in developing the language competence of Korean users of English as a foreign\nlanguage. [15 points]\n수고하셨습니다\n3\n영 어 (3면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

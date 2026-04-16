@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2016_B01",
+    "year": 2016,
+    "number": "B-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Examine the survey results in <A> and part of the interview\nwith the teacher who taught Practical English II in <B>, and\nfollow the directions.【4 points】\n<A>\nA school administrator conducted a survey with 60 students\nfrom two classes of Ms. Lee’s Practical English II in order to\nimprove the course in the future.\n<B>\nA: Your Practical English II was very satisfying for students.\nWhat do you think made it so successful?\nT: Well, I thought it was necessary to make decisions about\nwhat would be taught and how it would be taught before\ndesigning a course, so I did a survey and interviews.\nA: You mean you chose the teaching materials, contents, and\nactivities based on what your students wanted to learn?\nT: That’s right. The results also provided me with a lot of\ninformation about what my students needed to learn or\nchange, their learning styles, interests, proficiency levels,\netc. Based on that information, I decided on the course\nobjectives, contents, and activities.\nA: You must have been very busy working on designing the\ncourse before it started. What about assessment?\n영 어 (6면\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n8문항 40점 시험 시간 90분\nT: Students just took one major test at the end of the\nsemester. I regret that I evaluated only their learning\nproduct.\nA: You mean just once over the semester?\nT: Yes, I thought it was impossible to assess their speaking\nperformance regularly by myself and I gave one major\ntest to the students. So I was actually unable to gather\ninformation on the developmental process of their speaking\nabilities.\n...\nA: Okay. Thank you for your time.\nNote:A=administrator, T=teacher\nDescribe ONE strong point with evidence of what the teacher\ndid for the success of the Practical English II course. Then\ndescribe ONE weak point of what the teacher did in the\ncourse, and suggest ONE possible solution from the teacher’s\nstandpoint.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_B_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_B_p03.png",
+        "image_count": 6
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_B_p05.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

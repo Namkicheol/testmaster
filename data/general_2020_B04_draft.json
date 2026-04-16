@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_B04",
+    "year": 2020,
+    "number": "B-4",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage in <A> and the interaction in <B>, and follow\nthe directions.【4 points】\n<A>\nWhen problems in conveying meaning occur in\nconversational interactions, interlocutors need to interrupt\nthe flow and negotiate meaning in order to overcome\ncommunication breakdowns and to understand what the\nconversation is about. A negotiation routine may have a\nsequence of four components:\n∙A trigger is an utterance that causes communication\ndifficulty.\n∙An indicator alerts the speaker of the trigger that a\nproblem exists.\n∙A response is the component through which the speaker of\nthe trigger attempts to resolve the communication\ndifficulty.\n∙A reaction to response can tell the speaker of the trigger\nwhether or not the problem has been resolved.\n<B>\n(The following is a student-student talk occurring in the\nmorning.)\nS1: You didn’t come to the baseball practice yesterday.\nWhat happened?\nS2: Nothing serious. I had to study for an exam.\nS1: I am sorry you missed the practice. Have you taken the\nexam yet?\nS2: Yes. I took it a little while ago.\nS1: How did you do?\nS2: Hopefully I did OK. I didn’t get any sleep last night.\nS1: I guess you must be drained.\nS2: Drained? What do you mean?\nS1: It’s similar to ‘tired.’\nS2: Oh, I see. Yeah, I am very tired.\nS1: You need to take a break.\nS2: I sure do, but I think I am going to eat something first.\nNote: S = student\nIdentify an utterance from <B> that is a response mentioned in\n<A>, and explain how the speaker attempts to resolve the\ncommunication difficulty with the identified utterance. Then,\nidentify an utterance from <B> that is a reaction to response\nmentioned in <A>, and explain whether the communication\ndifficulty is resolved with the identified utterance.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

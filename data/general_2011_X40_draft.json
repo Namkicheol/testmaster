@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "general_2011_X40",
+    "year": 2011,
+    "number": "X-40",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "40. Read <A> and <B> and answer the question. [2.5점]\n<A>\nHe could get Carrie. Oh, yes, he could! He went back\nto the safe in the office and put his hand on the knob.\nThen he pulled the door open and took the drawer with the\nmoney quite out.\nLord! What was that? For the first time he was tense,\nas if a stern hand had been laid upon his shoulder. He\nlooked fearfully around. Not a soul was present. Not a\nsound. Someone was shuffling by on the sidewalk. He took\nthe box and the money and put it back in the safe. Then\nhe partly closed the door again.\nThose who have never heard that solemn voice of the\nghostly clock which ticks with awful distinctness, “thou\nshalt,” “thou shalt not,” “thou shalt,” “thou shalt not,” are\nin no position to judge. We must remember that it may not\nbe a knowledge of right, for no knowledge of right is\npredicated of the animal’s instinctive recoil at evil. Men are\nstill led by instinct before they are regulated by knowledge.\n영 어 (14면\nWhen Hurstwood put the money back, his nature again\nresumed its case and daring. No one had observed him. He\nwas quite alone. No one could tell what he wished to do.\nHe could work this thing out for himself.\nHe took out the drawer again and lifted the bills. They\nwere so smooth, so compact, so portable. How little they\nmade, after all. He decided he would take them. Yes, he\nwould. After he had all the money in the hand bag, a\nrevulsion of feeling seized him again. He would not do it―\nNo! Oh, the terror of being a fugitive from justice! He took\nout the two boxes and put all the money back. In his\nexcitement he forgot what he was doing, and put the sums\nin the wrong boxes. As he pushed the door to, he thought\nhe remembered doing it wrong and opened the door again.\nThere were the two boxes mixed. He took them out and\nstraightened the matter, but now the terror had gone. Why\nbe afraid?\nWhile the money was in his hand, the lock clicked. It\nhad sprung! Did he do it? He grabbed at the knob and\npulled vigorously. It had closed. Heavens! He was in for\nit now, sure enough.\n<B>\nStory Map\nSETTING In an office\n⇩\nCHARACTERS Carrie; Hurstwood\n⇩\n(1) . CONFLICT Hurstwood\n⇩",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2011_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2011_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2011_X_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2011_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2011_X_p08.png",
+        "image_count": 2
+      },
+      {
+        "page": 9,
+        "file": "images/img_2011_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2011_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2011_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2011_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2011_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2011_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

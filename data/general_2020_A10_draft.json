@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_A10",
+    "year": 2020,
+    "number": "A-10",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage in <A> and the lesson plan in <B>, and\nfollow the directions.【4 points】\n<A>\nTeachers can employ a variety of techniques when\nteaching reading that will help enhance students’ reading\ncomprehension. For instance, at the preparation stage, the\nprediction technique can be used: Pictures or photos and\ntitles can be viewed quickly to give the students an idea of\nthe overall content of the text. While reading, if students\nfind some words difficult, the teacher may help them to\nguess their meanings by looking at the surrounding words.\nAlso, as for the reading content, the teacher can employ the\noutlining technique, which can help the students see the\noverall organization of the text by reconstructing the ideas\nor events. After reading, diverse techniques can be used in\norder to check the students’ level of comprehension:\nscrambled stories, finding the author’s purpose, and\nexamining grammatical structures.\n<B>\n(Below is part of Mr. Kim’s lesson plan. He is preparing a\nhandout for his students.)\n∙Students will read the text about modern\ntourists and find the main idea.\n∙Students will identify the topic and the details Objectives\nof the text based on the handout.\n∙Students will write a summary about the text\nbased on information given in the handout.\nTeaching-Learning Activities\nGreeting\n∙T and Ss exchange greetings.\nIntroduction &\n∙T checks if all the Ss are present.\nRoll-call\n∙T hands out a reading text, “Tourists\nToday.”\n∙T asks Ss to skim through the text.\n∙T asks if Ss understand the gist of\nDevelopment Activity 1\nthe text.\n∙T asks Ss to read the text again.\n∙T distributes the handout about the\nreading text.\nNote: T = teacher, S = student\n영 어 [전공A]\nTourists Today\nMany contemporary tourists avoid encountering\nreality directly but thrive on psuedo-events in their\ntourism experiences thus affecting tourism entrepreneurs\nand indigenous populations. For one, many tourists\nprefer to stay in comfortable accomodations, thereby\nseparating themselves from the local people and\nenvironment. For instance, sleeping in a hotel filled\nwith the comforts of home may insulate them from the\nfact that they are in a foreign land. In addition, much\nof the tourism industry is bolstered by the use of\ntourist-focused institutions such as museums and\nshopping centers. The needs of the contemporary\ntourists have induced entrepreneurs to build tourist\nattractions for the sole purpose of entertaining visitors.\nThis detracts from the colorful local culture and\npresents a false view of the indigenous cultures. The\nother group affected by modern tourism is the local\npopulation. These people find themselves learning\nlanguages in a contrived way based on the changing\ntides of tourist groups solely for marketing purposes.\nFurthermore, when curious visitors do venture outside\ntheir cultural bubbles, they enjoy, albeit intrusively,\nwatching locals doing their daily tasks, thereby\nmaking them the subject of the tourist gaze. In sum,\nwhile tourism is on the rise, the trend is to maintain a\ndistance from the real environment rather than to see\nthe locations for their own values, and this negatively\naffects tourism entrepreneurs and local people.\nHandout\ntourists’ Topic sentence: Modern demands\nurist gazeurist gazeurist gazeuris’ gazeurist gazeurist\nA. Effects on tourism entrepreneurs\n∙Provide comfortable accommodations\n∙Create tourist-focused entertainment attractions\nB. Effects on local populations\ntourists’ ∙Learn languages\n∙Become the objects of the tourist gaze\nBased on <A>, identify the technique that the teacher employed\nin the handout in <B>. Then, complete the topic sentence in the\nhandout. Do NOT copy more than FOUR consecutive words\nfrom <B>.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

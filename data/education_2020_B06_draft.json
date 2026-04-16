@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2020_B06",
+    "year": 2020,
+    "number": "B-6",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage and follow the directions.【4 points】\nA high school teacher wanted to develop a test in order to\nassess his students’ English reading ability. He developed\nthe test based on the following procedures:\n∙Step 1: Construct Definition\nHe started by clarifying what his test was intended to\nmeasure. He defined the construct of his English test as the\nability to infer meanings from a given reading passage.\n∙Step 2: Designing Test Specifications\nAccording to the construct definition in Step 1, he specified\nthe test as consisting of a total of 20 multiple-choice items:\n1) 10 items asking test-takers to infer meanings and fill in\nthe blank with the most appropriate words or phrases (i.e.,\nFill-in-the-Blank), and 2) 10 items for finding the best order\nof scrambled sentences (i.e., Unscrambling).\n∙Step 3: Developing Test Items & Piloting\nHe finished item development. He piloted the test to\nexamine whether the items had satisfactory test qualities.\n∙Step 4: Analyzing Item Facility & Item Discrimination\nHe analyzed item difficulty. To increase internal consistency,\nhe removed the items with a high value of item discrimination.\n∙Step 5: Analyzing Reliability & Validity\nReliability was assessed by Cronbach’s coefficient alpha. To\ninvestigate the concurrent validity of the test, he asked his\ncolleagues to review the test items based on the test\nspecifications.\n∙Step 6: Administering the Test\nAfter making the necessary revisions, he administered the\ntest to his students.\nBased on the passage above, identify TWO steps out of the six\nthat have a problem in the process of test development. Then,\nsupport your answers with evidence from the passage. Do NOT\ncopy more than FOUR consecutive words from the passage.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

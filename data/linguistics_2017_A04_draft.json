@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2017_A04",
+    "year": 2017,
+    "number": "A-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage and fill in the blank with ONE word.\n【2 points】\nTrisyllabic laxing is a rule which changes a tense vowel\ninto a lax vowel. This rule applies when the target vowel is\npushed into the ante-penultimate syllable (i.e., the third syllable\nfrom the end) due to the attachment of a suffix, as exemplified\nbelow.\nsupremacy supreme ―\napplication apply ―\nsanity sane ―\ndivinity divine ―\nopacity opaque ―\nThe tense vowels in words like ‘nightingale’ and ‘ivory’ do\nnot undergo trisyllabic laxing although these words contain\nthe minimum of three syllables required by the trisyllabic\nlaxing rule. The explanation is that these forms are exempt\nfrom trisyllabic laxing since they do not have any .\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

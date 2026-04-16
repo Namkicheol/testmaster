@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "education_2011_X22",
+    "year": 2011,
+    "number": "X-22",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "22. Read <A> and <B> and follow the directions. [2.5점]\n<A>\nIn Subin’s class, the teacher plays a dialogue in four\nsegments. After each segment, she stops the recording and\nasks students to complete a meaning-construction map as in\nthe example below. They work individually and write, on\ntheir map, what they think the topic is and what clues lead\nthem to think so.\nListening Script\nA: What do you think?\nB: Not bad. I like the menu. It’s quite attractive.\nA: You should get quite a few visitors once it’s up and\nrunning.\nB: I hope so. I’ve spent a lot of time on the graphics.\nA: I’ve also set up the payment system, as you requested.\nB: Good. Make sure it works on different browsers.\nA: I’ll work on the server today, and we should be able\nto get everything online in a day or two.\nB: Excellent. I’m looking forward to getting a lot of hits.\nSubin’s Map\n<B>\na. The activity is usually used in a product-oriented\napproach to teaching listening.\nb. Some clues activate competing content schemata.\nc. The activity requires exclusive use of memory and\nsocial strategies.\nd. Subin goes through changes in her understanding.\nBased on <A>, choose all and only the correct statements\nfrom the list in <B>.\na, b a, c b, c ① ② ③\nb, d c, d ④ ⑤\n영 어 (14면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2011_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2011_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2011_X_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2011_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2011_X_p08.png",
+        "image_count": 2
+      },
+      {
+        "page": 9,
+        "file": "images/img_2011_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2011_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2011_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2011_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2011_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2011_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

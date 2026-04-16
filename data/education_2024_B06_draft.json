@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2024_B06",
+    "year": 2024,
+    "number": "B-6",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nAt a classroom assessment workshop, a teacher trainer\ntaught how to interpret the results of an item analysis along\nwith basic concepts of assessment using the data from an\nEnglish reading test consisting of 25 multiple choice items.\nTable 1 shows the results.\n영 어 [전공B]\nTable 1. Results of Analysis\nItem-Total Correlation with\nItem IF Alpha\nCorrelation ERAT\n0.48 0.57 1\n2 0.54 0.61\n3 0.39 －0.21 0.86 0.75\n4 0.43 0.51\n5 0.33 0.55\nIF=Item Facility, ERAT=English Reading Achievement Test\nThe trainer explained the components of Table 1.\nItem difficulty (i.e., item facility) was measured by calculating\nthe proportion of test takers who got the item correct.\nItem discrimination was assessed by item-total correlation\nwhich is a measure of correlation between an item and the\ntotal test score (a value of 0.3 or above indicating satisfactory\ndiscrimination).\nInternal consistency was measured by Cronbach’s alpha\n(a value of 0.8 or above indicating satisfactory internal\nconsistency).\nEvidence about the degree to which test scores agree with\nthose provided by a test of similar construct administered at\nthe same time was examined by correlation with the scores\nof the ERAT developed and validated by a well-known\ntesting agency.\n<B>\nThe trainer asked six teachers to interpret the results. The\nfollowing are their interpretations.\nTeacher 1: Of the five items, Item 2 shows the highest\npower of discrimination and Item 5 is the most\ndifficult.\nTeacher 2: Item 3 should be carefully investigated in terms of\nthe probability of miskeying and the construction\nof item response options.\nTeacher 3: There is a close relationship between the test\ntakers’ performance on Item 4 and the total test\nscore.\nTeacher 4: The extent to which test takers’ performances on\nthis test are consistent is acceptable.\nTeacher 5: In order to increase the internal consistency of\nthe test, Item 1 and Item 3 should be deleted.\nTeacher 6: The correlation between this test and the ERAT\ndisplays the evidence of predictive validity.\nIdentify the TWO teachers in <B> whose interpretation is NOT\ncorrect. Then support your answers with evidence from <A> and\n<B>.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

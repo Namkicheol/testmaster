@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_A11",
+    "year": 2025,
+    "number": "A-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage in <A> and the teaching procedure in <B>,\nand follow the directions.【4 points】\n<A>\nMs. Kim, an English teacher, is selecting lesson objectives\nto implement into a new lesson. The following are the lesson\nobjectives for reception and production.\nLesson Objectives\nReception\nR1. Students can recognize reduced sounds of words.\nR2. Students can identify specific details from a text or\ndiscourse.\nR3. Students can distinguish between literal and implied\nmeanings.\nProduction\nP1. Students can explain the sequence of an event in the\nright order.\nP2. Students can write a simple journal, letter, or email.\nP3. Students can argue for and against a topic in a respectful\nmanner.\n<B>\nStep Teaching Procedure\nIn groups, students brainstorm the pros and cons of\nusing AI in education and create a mind map.\nStep 1\nStudents listen to an audio clip on AI and digital\ntools in class and complete a worksheet.\nListen to the conversation carefully and follow\nthe directions below.\nA. Mark the sentences True or False.\n1.Sora says that the use of AI should be prohibited\nin the classroom. [True/False]\nStep 2\n2.Inho asks an AI chatbot to do his assignment.\n[True/False]\n3.Minji compares the outputs on a topic from three\ndifferent AI chatbots. [True/False]\nB. Match the person with his or her concern.\nInho · · Excessive screen time\nMinji · · False information\nSora · · Theft of personal data\n영 어 [전공A]\nStudents work together and write rules for the use\nof digital tools in class.\nClass Rules for the Use of Digital Tools\n1.e.g., Never download software to a school\ndevice without permission.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

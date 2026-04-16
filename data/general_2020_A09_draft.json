@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_A09",
+    "year": 2020,
+    "number": "A-9",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nIncluded in the possible outcomes of culture learning are\nseveral not always desirable results, such as alienation from\nthe native culture and marginality. Marginality refers to a\nsituation in which a person, for a variety of reasons (such as\nrace or religion) remains on the outskirts of a social or\ncultural group. Marginal individuals or groups are isolated,\nand, in the words of John Lum, their actions “do not reflect\nwell any one culture.” Marginality is not necessarily always\na(n) factor. It plays a part in all cultural change; it is\npart of the lives of children whose parents remain\nmonocultural while they become bicultural. Richard\nRodriguez’ poignant book Hunger of Memory recounts the\npains of cultural transition and the agonies of the loss of\ncultural identity. In anthropology, the marginal person has\noften been seen as the one most likely to accept change and\nto be willing to deal with the foreigner (e.g., the\nanthropologist) who comes along and asks such seemingly\nstupid questions.\nThat marginality and mediation are lonely states is also\nbeautifully expressed in an often-quoted passage from the\nautobiography of Nehru:\nI have become a queer mixture of the East and the West,\nout of place everywhere, at home nowhere. Perhaps my\nthoughts and approach to life are more akin to what is\ncalled Western than Eastern, but India clings to me, as\nshe does to all her children, in innumerable ways; and\nbehind me lie, somewhere in the subconscious, racial\nmemories of a hundred, or whatever the number may\nbe, generations of Brahmans. I cannot get rid of either\nthat past inheritance or my recent acquisitions. They are\nboth part of me, and, though they help me in both the\nEast and the West, they also create in me a negative\nfeeling of spiritual loneliness not only in public\nactivities but in life itself. I am a stranger and alien in\nthe West. I cannot be of it. But in my own country also,\nsometimes, I have an exile’s feeling.\nLum concludes that “marginal people who fall may be\nrootless or alienated; those who rise may be synthesizers.”\nThey may become marginal in all cultures, belonging\nwholly to none and without cultural identity. On the other\nhand, they may cross cultural boundaries and leap cultural\nchasms.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means. Do NOT\ncopy more than FOUR consecutive words from the passage.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

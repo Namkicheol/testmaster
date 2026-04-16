@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "id": "general_2012_X01",
+    "year": 2012,
+    "number": "X-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. 문제지(초안작성용지포함)와답안지의전체면수와인쇄상태를확인하시오. 답안지는문항당2쪽(교시당4쪽), 초안작성용지는\n교시당 4쪽입니다. 답안은 문항당 2쪽 이내로만 작성하시오.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2012_X_p01.png",
+        "image_count": 49
+      },
+      {
+        "page": 2,
+        "file": "images/img_2012_X_p02.png",
+        "image_count": 16
+      },
+      {
+        "page": 3,
+        "file": "images/img_2012_X_p03.png",
+        "image_count": 12
+      },
+      {
+        "page": 4,
+        "file": "images/img_2012_X_p04.png",
+        "image_count": 19
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

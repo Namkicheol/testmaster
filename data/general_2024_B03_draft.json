@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_B03",
+    "year": 2024,
+    "number": "B-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt from a play and follow the directions.【4 points】\nLYONS: Aw, Pop, you know I can’t find no decent job.\nWhere am I gonna get a job at? You know I can’t\nget no job.\n: I told you I know some people down there. I can get TROY\nyou on the rubbish if you want to work. I told you\nthat the last time you came by here asking me for\nsomething.\nLYONS: Naw, Pop ... thanks. That ain’t for me. I don’t\nwanna be carrying nobody’s rubbish. I don’t wanna\nbe punching nobody’s time clock.\n: What’s the matter, you too good to carry people’s TROY\nrubbish? Where you think that ten dollars you\ntalking about come from? I’m just supposed to haul\npeople’s rubbish and give my money to you cause\nyou too lazy to work. You too lazy to work and\nwanna know why you ain’t got what I got.\n: What hospital Bonnie working at? Mercy? ROSE\nLYONS: She’s down at Passavant working in the laundry.\n: I ain’t got nothing as it is. I give you that ten dollars TROY\nand I got to eat beans the rest of the week. Naw ...\nyou ain’t getting no ten dollars here.\nLYONS: You ain’t got to be eating no beans. I don’t know\nwhy you wanna say that.\nTROY : I ain’t got no extra money. Gabe done moved over\nto Miss Pearl’s paying her the rent and things done\ngot tight around here. I can’t afford to be giving you\nevery payday.\nLYONS: I ain’t asked you to give me nothing. I asked you to\nloan me ten dollars. I know you got ten dollars.\n: Yeah, I got it. You know why I got it? Cause I don’t TROY\nthrow my money away out there in the streets. You\nliving the fast life ... wanna be a musician ...\nrunning around in them clubs and things ... then,\nyou learn to take care of yourself. You ain’t gonna\nfind me going and asking nobody for nothing. I\ndone spent too many years without.\nLYONS: You and me is two different people, Pop.\n: I done learned my mistake and learned to do what’s TROY\nright by it. You still trying to get something for\nnothing. Life don’t owe you nothing. You owe it to\nyourself. Ask Bono. He’ll tell you I’m right.\nLYONS: You got your way of dealing with the world ... I\ngot mine. The only thing that matters to me is the\nmusic.\nTROY : Yeah, I can see that! It don’t matter how you gonna\neat ... where your next dollar is coming from. You\ntelling the truth there.\nAugust Wilson, Fences\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt. Then explain what\nthe underlined part means.\n영 어 [전공B]\n<Commentary>\nIn this passage, the son, LYONS, asks a favor of his father,\nTROY. Instead of receiving what he wants from his father,\nLYONS is nagged by him. In answer to his father, LYONS\ninsists that is an essential and irreplaceable part\nof his life.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2023_A05",
+    "year": 2023,
+    "number": "A-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the poem and follow the directions.【4 points】\nMy mother and I debate:\nwe could sell\nthe black walnut tree\nto the lumberman,\nand pay off the mortgage.\nLikely some storm anyway\nwill churn down its dark boughs,\nsmashing the house. We talk\nslowly, two women trying\nin a difficult time to be wise.\nRoots in the cellar drains,\nI say, and she replies\nthat the leaves are getting heavier\nevery year, and the fruit\nharder to gather away.\nBut something brighter than money\nmoves in our blood―an edge\nsharp and quick as a trowel\nthat wants us to dig and sow.\nSo we talk, but we don’t do\nanything. That night I dream\nof my fathers out of Bohemia\nfilling the blue fields\nof fresh and generous Ohio\nwith leaves and vines and orchards.\nWhat my mother and I both know\nis that we’d crawl with shame\nin the emptiness we’d made\nin our own and our fathers’ backyard.\nSo the black walnut tree\nswings through another year\nof sun and leaping winds,\nof leaves and bounding fruit,\nand, month after month, the whip-\ncrack of the mortgage.\nMary Oliver, “The Black Walnut Tree”\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the poem. Then, explain what\nthe underlined part means.\n<Commentary>\nThe poetic persona and her mother encounter a dilemma\nwhile debating whether to sell their walnut tree or not. Selling\nit will eliminate ever-present dangers and inconveniences in\naddition to easing their financial burdens. But if they should\nremove the tree and create a(n) , it will feel like a\nbetrayal of their family heritage.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2018_A04",
+    "year": 2018,
+    "number": "A-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage and follow the directions.【2 points】\nIt is well known in English that we get antepenultimate\nstress in nouns of at least three syllables when the\npenultimate syllable is light:\n(1) antepenultimate syllable stressed\ncinema, asterisk, America, Canada, animal\nWhen the penultimate syllable ends with a coda, or has a\nlong vowel or a diphthong, stress, however, falls on that\nheavy penultimate syllable:\n(2) penultimate syllable stressed\na. utensil, agenda, synopsis\nb. aroma, horizon, arena\nIn the above examples in (2a), it is clear that a syllable\nboundary seats itself between word-internal consonantal\nsequences such as -ns- (in utensil), -nd- (in agenda), and\n-ps- (in synopsis), since English phonotactic constraint does\nnot permit such consonantal sequences to occur as an onset\ncluster. However, the word-internal consonantal sequence\n-st- poses an interesting challenge for syllabification. Unlike\nthe -ns-, -nd-, or -ps-, the -st- sequence could be an onset\ncluster (as in student, stupid) or a coda cluster (as in list,\nmist).\nFill in the blank with the ONE most appropriate word from the\npassage above.\nConsidering the stress placement in the words given in (3)\nwhere -st- occurs, we can claim that the underlined s is in\nposition.\n(3) antepenultimate syllable stressed\namnesty, minister, pedestal\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

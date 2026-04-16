@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2020_B02",
+    "year": 2020,
+    "number": "B-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the conversation between two teachers and follow the\ndirections.【2 points】\n(Two teachers are evaluating two textbooks, Textbook A and\nTextbook B, in order to select the one that their students are\ngoing to use next year. This is part of their conversation.)\nT1: So, why don’t we start with the first criterion? I went\nwith Textbook A.\nT2: May I ask you why?\nT1: I think that the illustrations and graphics in Textbook A\nportray people in the target culture more realistically.\nT2: Yeah! Textbook A contains very realistic visuals that can\nprovide our students with cultural information more\naccurately.\nT1: Good! Then, what about the second criterion?\nT2: Well, I think Textbook B is the better of the two. I\ncouldn’t give Textbook A a good score, because it\nappears to aim at explicit learning with many contrived\nexamples of the language.\nT1: Hmm... could you clarify your point a bit more?\nT2: Well, I mean the texts and dialogues in Textbook A are\noversimplified.\nT1: I had the same impression, but don’t you think that they\nmay help our students by focusing their attention on the\ntarget features?\nT2: You may be right, but I think that such texts might\ndeprive them of the opportunities for acquisition\nprovided by rich texts.\nT1: Oh, I see. That’s a pretty good point.\nT2: So, in my opinion, Textbook B can provide more\nexposure to language as it is actually used in the real\nworld outside the classroom.\nT1: Yeah! From that point of view, Textbook B will be\nintrinsically more interesting and motivating to our\nstudents.\nT2: I agree. Okay, then, I think we are ready to move on to the\nnext evaluation criterion.\nNote: T = teacher\nFill in the blank with the ONE most appropriate word.\nThere are many criteria that can be used in textbook\nevaluation. The teachers, T1 and T2, are mainly focusing\non, first, the criterion of reality of visuals and then, the other\ncriterion of . In the dialogue, the latter is\nspecifically related to language use shown in the textbooks.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

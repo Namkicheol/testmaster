@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "id": "education_2025_A03",
+    "year": 2025,
+    "number": "A-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": ["materials adaptation", "modifying", "classroom management", "learner relevance"],
+    "parse_source": "2025_A형_기출_PDF",
+    "parse_confidence": "high",
+    "verified": true
+  },
+
+  "problem": {
+    "instruction": "Fill in the blank ① with the ONE most appropriate word from the passage.",
+    "passage": "Materials can be adapted by using different techniques such as adding, deleting, modifying, and reordering. For example, we can add materials when a language item is not covered sufficiently in the original materials. Materials that are too easy or difficult for learners can be deleted. Modifying can be used to make them more relevant to students' interests and backgrounds and to restructure classroom management. Reordering the sequence of activities is another technique, which includes separating items and regrouping them.\n\nConsider the original material extracted from a grammar exercise book and its adapted version below. In the adapted version, the original exercise has been adapted by using the [BLANK_①] technique.\n\nOriginal Material\n➊ Describe the man's routine in four sentences.   Individual Work\n➋ Answer the following questions.   Individual Work\n     What time do you wake up?\n     What do you usually wear to work?\n     What do you usually cook for dinner?\n\nAdapted Material\n➊ Describe the student's routine in four sentences.   Individual Work\n➋ Work in pairs and ask each other the following questions.   Pair Work\n     What time do you wake up?\n     What do you usually wear on school days?\n     What do you usually eat for dinner?",
+    "blanks": [
+      { "label": "①", "context": "the [①] technique — 원본에서 수정본으로 적용된 교재 수정 기법" }
+    ]
+  },
+
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "ONE word from the passage 조건. 지문에 열거된 네 기법: adding / deleting / modifying / reordering. 원본-수정본 비교를 통해 어떤 기법이 적용됐는지 귀속시키는 문제.",
+        "key_terms": ["adding", "deleting", "modifying", "reordering"]
+      },
+      {
+        "step": 2,
+        "label": "원본 ↔ 수정본 차이 분석",
+        "explanation": "① 'man's routine' → 'student's routine': 학습자 관련성 강화.\n② 'Individual Work' → 'Pair Work' (➋): 교실 운영 방식 재구성.\n③ 'wear to work' → 'wear on school days': 학생 배경 반영.\n④ 'cook for dinner' → 'eat for dinner': 표현 조정.\n항목 수 동일(추가·삭제 없음). 활동 순서 동일(➊→➋ 유지).",
+        "key_terms": ["students' interests and backgrounds", "classroom management restructuring", "content change"]
+      },
+      {
+        "step": 3,
+        "label": "후보 검증 — 소거법",
+        "explanation": "① adding — 항목 수가 늘지 않음. ✗\n② deleting — 항목이 제거되지 않음. ✗\n③ modifying — (a) 내용을 학생 관심사·배경에 맞게 변경 ✓, (b) Individual→Pair Work로 교실 운영 재구성 ✓. 두 기준 동시 충족. ✓\n④ reordering — ➊➋ 순서 유지, 분리·재묶음 없음. ✗\n최종: modifying.",
+        "key_terms": ["modifying definition", "elimination method", "two criteria"]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 지문 정의와 수정본 대응",
+        "explanation": "지문: 'Modifying can be used to make them more relevant to students' interests and backgrounds and to restructure classroom management.'\n수정본 변화:\n· 'student's routine' / 'school days' / 'eat' = students' interests·backgrounds 반영\n· 'Pair Work' = classroom management 재구성\n두 정의 조건이 동시에 수정본에서 관찰됨.",
+        "key_terms": ["students' interests", "classroom management", "modifying"]
+      },
+      {
+        "step": 5,
+        "label": "전략 — 교재 수정 기법 식별 원칙",
+        "explanation": "(1) 지문의 각 기법 정의를 먼저 정리. (2) 원본-수정본 차이를 항목별로 열거. (3) 각 차이를 기법 정의에 대입하여 소거. (4) 최종 생존 기법 = 정답.\n함정: 내용이 달라졌다고 reordering으로 혼동하기 쉬우나, reordering은 항목 배열 순서 변경이지 내용 변경이 아님.",
+        "key_terms": ["elimination method", "definition match", "materials adaptation"]
+      }
+    ],
+    "vocabulary": [
+      { "word": "modifying", "pos": "v/gerund", "definition_ko": "수정하기 — 내용·형식을 학습자 요구에 맞게 변경", "example": "modifying content to suit students' backgrounds" },
+      { "word": "reordering", "pos": "v/gerund", "definition_ko": "재배열하기 — 활동 순서 변경, 분리·재묶음 포함", "example": "reordering the sequence of activities" }
+    ],
+    "translation": ""
+  },
+
+  "answer": {
+    "model_answer": {
+      "content_type": "blank_answer",
+      "blank_answers": [
+        { "label": "①", "answer": "modifying" }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        { "criterion": "① modifying", "points": 2 }
+      ]
+    },
+    "variants": []
+  },
+
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Tomlinson, B. (Ed.)",
+        "title": "Materials Development in Language Teaching (2nd ed.)",
+        "year": 2011,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 45–58",
+        "excerpt": "Adaptation involves changes to existing materials to make them more appropriate for a specific group of learners. Techniques include adding, deleting, modifying, and reordering."
+      },
+      {
+        "type": "textbook",
+        "author": "McDonough, J., Shaw, C., & Masuhara, H.",
+        "title": "Materials and Methods in ELT (3rd ed.)",
+        "year": 2013,
+        "publisher": "Wiley-Blackwell",
+        "pages": "pp. 70–82 · Ch. 4",
+        "excerpt": "Modification refers to internal changes to the methodology or linguistic content, including making activities more culturally or contextually relevant and adjusting interaction patterns such as individual to pair work."
+      }
+    ],
+    "concept_explanation": "교재 수정(Materials Adaptation) 네 기법 정의:\n\n① adding: 언어 항목이 충분히 다뤄지지 않을 때 내용 추가\n② deleting: 너무 쉽거나 어려운 내용 제거\n③ modifying: 학습자 관심사·배경에 더 적합하게 내용 변경 + 교실 운영 방식 재구성\n④ reordering: 활동 순서 변경 (분리·재묶음 포함)\n\n본 문제 핵심 구분:\n· 항목 수 동일 → adding / deleting 제외\n· 활동 순서 동일 → reordering 제외\n· 내용 학생화 + Pair Work 전환 = modifying 두 기준 동시 충족"
+  },
+
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "education_2021_A05",
+        "year": 2021,
+        "number": "A-5",
+        "subject": "education",
+        "connection_type": "same_concept",
+        "connection_note": "교재 수정 기법 adding/deleting/modifying/reordering 식별 동일 프레임.",
+        "shared_keywords": ["materials adaptation", "modifying", "adding", "deleting"]
+      },
+      {
+        "id": "education_2018_A04",
+        "year": 2018,
+        "number": "A-4",
+        "subject": "education",
+        "connection_type": "same_strategy",
+        "connection_note": "원본-수정본 비교 후 기법 귀속. 소거법 전략 동일.",
+        "shared_keywords": ["materials adaptation", "classroom management", "learner relevance"]
+      }
+    ]
+  }
+}

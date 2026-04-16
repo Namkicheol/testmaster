@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2020_B01",
+    "year": 2020,
+    "number": "B-1",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and follow the directions.【2 points】\nThere is an intriguing phenomenon in English in which\ntwo semantically related constituents are separated, as\nshown below.\n(1) a. All the students will work hard.\nb. The students will all work hard.\nIn both (1a) and (1b), the quantifier all modifies the subject\nthe students. What is interesting is that in sentence (1b), the\nquantifier positioned after the subject forms a discontinuous\nconstituent with no major change in meaning.\nThis fact can be straightforwardly accounted for if it is\nassumed that the entire constituent all the students is\nbase-generated in the position of VP. As illustrated\nin (2a), all the students undergoes movement to the surface\nsubject position. By contrast, in (2b), just part of the\nconstituent, the students, moves to the subject position,\nleaving all behind in its base position, marked as [all t ].\ni\n(2) a. [ [all the students] will [ t work hard]]\nTP i VP i\nb.\nThis account is based upon ‘VP-internal subject hypothesis,’\nwhich states that a subject is base-generated in the\nposition of VP and in turn moves to the position of\nTense Phrase (TP).\nFill in the three blanks with the ONE most appropriate word.\nUse the SAME word for all the blanks.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n11문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

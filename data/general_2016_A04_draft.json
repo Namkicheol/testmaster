@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2016_A04",
+    "year": 2016,
+    "number": "A-4",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage and write TWO consecutive words from\nthe passage that show what Steve thinks psychoanalysis does.\n【2 points】\nHENRIETTA: It’s like this, Mabel. You want something.\nYou think you can’t have it. You think it’s wrong. So\nyou try to think you don’t want it. Your mind protects\nyou―avoids pain―by refusing to think the forbidden\nthing. But it’s there just the same. It stays there shut\nup in your unconscious mind, and it festers.\nSTEVE: Sort of an ingrowing mental toenail.\nHENRIETTA: Precisely. The forbidden impulse is there\nfull of energy which has simply got to do something.\nIt breaks into your consciousness in disguise, masks\nitself in dreams, makes all sorts of trouble. In extreme\ncases it drives you insane.\nMABEL [with a gesture of horror]: Oh!\nHENRIETTA [reassuring]: But psychoanalysis has found\nout how to save us from that. It brings into\nconsciousness the suppressed desire that was making\nall the trouble. Psychoanalysis is simply the latest\nscientific method of preventing and curing insanity.\nSTEVE [from his table]: It is also the latest scientific\nmethod of separating families.\nHENRIETTA [mildly]: Families that ought to be separated.\nSTEVE: The Dwights, for instance. You must have met\nthem, Mabel, when you were here before. Helen was\nliving, apparently, in peace and happiness with good\nWell―she went to this psychoanalyzer―she old Joe.\nwas “psyched,” and biff!―bang!―home she comes\nwith an unsuppressed desire to leave her husband. [He\nstarts work, drawing lines on a drawing board with a\nT-square.]\nMABEL: How terrible! Yes, I remember Helen Dwight.\nBut―but did she have such a desire?\nSTEVE: First she’d known of it.\nMABEL: And she left him?\nHENRIETTA [cooly]: Yes, she did.\nMABEL: Wasn’t he good to her?\nHENRIETTA: Why, yes, good enough.\nMABEL: Wasn’t he kind to her?\nHENRIETTA: Oh, yes―kind to her.\nMABEL: And she left her good, kind husband―!\nHENRIETTA: Oh, Mabel! “Left her good, kind husband!”\nHow naive―forgive me, dear, but how bourgeois you\nare! She came to know herself. And she had the\ncourage!\nMABEL: I may be very naive and―bourgeois―but I don’t\nsee the good of a new science that breaks up homes.\n[STEVE applauds.]\n3\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

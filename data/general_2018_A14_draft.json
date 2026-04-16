@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2018_A14",
+    "year": 2018,
+    "number": "A-14",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "14. Read the passage and follow the directions.【4 points】\nFor at least 10,000 years, humans have been manipulating\ntheir own brains by drinking alcohol. And for at least the last\nfew decades, researchers have wondered whether alcohol\nhad a positive effect on physical health. Study after study\nseemed to suggest that people who imbibed one alcoholic\nday—a 12-ounce beer, a 6-ounce glass of wine, beverage per\nor a 1.5-ounce shot of spirits—had healthier hearts than did\npeople who abstained from drinking altogether. A drink a\nday, it seemed, kept the cardiologist away.\nYet the methods in these studies may be flawed. When\nKaye Fillmore, a researcher at the University of California,\nSan Francisco, and her team analyzed 54 published studies\non how moderate drinking affects the heart, they found that\nmost of the drink-a-day studies had not used random\nassignment. In studies with random assignment, researchers\nused coin tosses or the like to decide into which condition—\nthe control group or various experimental groups—each\nstudy participant should go. By letting chance dictate who\ngoes into which group, researchers are more likely to end up\nwith truly comparable groups.\nInstead of randomly assigning participants to drinking and\nnon-drinking groups, though, 47 of the 54 studies compared\npeople who were already having one drink daily to people\nwho were already teetotaling. Why is this design method a\nproblem? In the United States, where most of these studies\ntook place, many people have a drink once in a while.\nUsually, people who never drink abstain for a reason, such\nas religious prohibitions or medical concerns.\nIn fact, Fillmore and her team found that many of the\nnondrinkers in these studies were abstaining from alcohol\nfor medical reasons, including advanced age or a history of\nalcoholism. In other words, the nondrinking groups in most\nof the studies included more unhealthy people to begin with,\ncompared to the drinking groups. As a result, these studies\ndidn’t show that drinking alcohol led to better health.\nInstead, they showed that better health often leads to a level\nof alcohol consumption that is moderate.\nFirst, describe the characteristics of the participants in the two\ngroups in 47 of the 54 studies. Second, explain why those 47\nstudies were flawed in design.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

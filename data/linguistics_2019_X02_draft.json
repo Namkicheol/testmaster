@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "linguistics_2019_X02",
+    "year": 2019,
+    "number": "X-2",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage and follow the directions.【4 points】\nThe alveolar lateral approximant /l/ presents appreciable\ndifferences among different varieties. In British English, we\nfind the clear ‘l,’ which is articulated with the tongue tip in\ncontact with the alveolar ridge, in words such as like, law,\nleaf, light, etc. On the other hand, /l/ is realized as the\nvelarized dark ‘l,’ which has a quality similar to /u/ with\nraising of the back of the tongue toward the velum, in words\nsuch as fall, file, belt, milk, etc. In Welsh English, /l/ is\nalways pronounced as the clear ‘l.’\nIn some varieties of American English (AE), however, the\nclear ‘l’ may hardly be found; most commonly, the\nrealizations differ in terms of shades of the dark ‘l.’ Thus, a\ndark ‘l’ is found in words given in (1a), a more velarized\ndarker ‘l’ variety in words in (1b), and the darkest ‘l’ in\nwords in (1c).\n(1) Realizations of /l/ in some AE varieties\na. dark ‘l’\nlip, left, lash, leaf\nb. darker ‘l’\nloose, low, lawn, lock\nc. darkest ‘l’\nfull, bolt, help, hill\nIn African American Vernacular English (AAVE), /l/ may\nvocalize to [ʊ] as in (2a) and may be deleted as in (2b).\n(2) Realizations of /l/ in AAVE\na. vocalization of /l/\nbell [bɛl] or [bɛʊ]\nmilk [mɪlk] or [mɪʊk]\nfootball [fʊtbɔl] or [fʊtbɔʊ]\nchildren [tʃɪldɹən] or [tʃɪʊdɹən]\nb. deletion of /l/\nhelp [hɛlp] or [hɛp]\nelm [ɛlm] or [ɛm]\nwolf [wʊlf] or [wʊf]\ntwelve [twɛlv] or [twɛv]\nBased on the data given in (1a)－(1b), state the environment(s)\nfor dark ‘l’ and darker ‘l,’ respectively, in some AE varieties.\nThen, based on the data given in (2a)－(2b), state the\nenvironment(s) for the vocalization of /l/ and the deletion of /l/,\nrespectively, in AAVE.\n2\n(7면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

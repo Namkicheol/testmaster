@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2022_B04",
+    "year": 2022,
+    "number": "B-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage and follow the directions.【4 points】\n<A>\nNucleus positions in syllables are usually taken by vowels.\nIn the cases that syllables have no vowel, consonants stand as\nthe nucleus. It is usual to indicate that a consonant is syllabic\n(ˌ) beneath or above the by means of a small vertical mark\nsymbol. Even though syllabic consonants are observed\nword-medially (e.g., Hungary [hʌŋgɹ̩i]), most syllabic\nconsonants are found word-finally as in (1). Note that some\nwords can be realized in two phonetic forms.\n(1) Syllabic consonants\nsyllabic [n] syllabic [m] syllabic [ŋ] syllabic [l]\nopen [oʊpn̩] ~[oʊpm̩] supple [sʌpl̩]\nribbon [ɹɪbn̩] ~[ɹɪbm̩] rebel [ɹɛbl̩]\ncotton [kɑtn̩] bottle [bɑtl̩]\n[sʌdn̩] muddle [mʌdl̩] sudden\n~[bɹoʊkŋ̍] broken [bɹoʊkn̩] uncle [ʌŋkl̩]\n~[peɪgŋ̍] pagan [peɪgn̩] fungal [fʌŋgl̩]\n[kwɛsʧn̩] satchel [sæʧl̩] question\nsoften [sɔfn̩] muffle [mʌfl̩]\nlethal [liθl̩] lengthen [lɛŋθn̩] anthem\n[ænθm̩]\n[lɛsn̩] handsome [mʌsl̩] muscle lesson\n[hænsm̩]\n[æʃn̩] bushel [bʊʃl̩] ashen\ncolumn [kɑləm], mammal [mæml̩]\n*[kɑləmn̩] channel [ʧænl̩]\n[pɛɹl̩] corn [kɔɹn], peril\n*[kɔɹn̩] sale [seɪl], *[seɪl̩]\nThe table in (2) provides distinctive features to categorize\nnatural classes depending on the manners of articulation.\n(2)\nvowels glides liquids nasals obstruents\n[syllabic] ＋ － － － －\n[consonantal] － － ＋ ＋ ＋\n[approximant] ＋ ＋ ＋ － －\n[sonorant] ＋ ＋ ＋ ＋ －\nNote 1: ‘*’ indicates a non-permissible form.\nNote 2: ‘~’ indicates phonetic variation.\n<B>\na. In the word-final position, /n/ is realized as a syllabic nasal\nwhen immediately preceded by segments.\nb. In the word-final position, /l/ is realized as a syllabic liquid\nwhen immediately preceded by segments.\nBased on the data in (1), fill in each blank in <B> with the ONE\nmost appropriate feature in (2), respectively. Write your answers\nin the correct order. Then, identify the syllabic consonant that is\nalways homorganic with the preceding consonant in the given\ndata, and explain the reason.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

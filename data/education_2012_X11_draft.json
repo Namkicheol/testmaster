@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "id": "education_2012_X11",
+    "year": 2012,
+    "number": "X-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. 답안을 작성하지 않은 빈 답안지도 성명, 수험 번호, 문항별 답안지 쪽 번호를 기재ㆍ표기한 후, 4쪽 모두 제출하시오.\n\nWrite all answers in English.\nRead and follow the directions.\nA third-grade high school English teacher, Ms. Park, wanted to diagnose students’ speaking ability and decided to\nuse picture description as a performance assessment in her class. Ms. Park developed a scoring rubric and rating\nscales to evaluate students’ performances. Then students were given a series of pictures and asked to describe them\nfor three minutes as fully as possible. However, her head teacher, Ms. Yoon, commented on the initial scoring\nrubric and Ms. Park revised it. The following are pictures, transcripts of two students’ picture descriptions, and Ms.\nPark’s initial and revised scoring rubrics in tables.\n<Pictures>\npeech Transcripts\n<Jitae> <Mina>\nA family of three, uh, playing badminton.. erm.. on beautiful I, er, I see happy family. hmm.. Father? Son? Some people::\nsunny day. It also look like, uh, they have set up, set up a tent people are playing (3.1) outside, at ground. Two e:r children::\nand picnic in mountains. Wh.. Whi.. While they are away playing playing with something like b.. ball. Big guy look at a boy and\nbadminton, a e:r the:: dog, maybe a st.. st.. stray:: dog find their girl:: He is sitting on the chair. Oh, there is animal, one animal\npicnic and steal some food. The dog, dog runs away with a (0.8) (2.4) a (2.0) dog or? (3.8) A big tent is open. It come in the\nsandwich in mouth. As soon as they come back to the camp mountain, oh from:: the mountain? and run to the home. And\nsite::, the family shocked to see the picnic, well, you know, dog try, tries to get some food and e:r eating that later. They\nruined. He is:: hmm.. they obviously had, hmm, no idea what are very (3.2) su.. sur.. surprised. Girl is angry. They? are angry.\nis going on. Then, after (1.2) packing up, I think, they head They have nothing to eat (2.9) no sandwiches or kimbab for\nhome? or motel, I mean, a place to stay. You can see people the camping? He want to go home soon. It is dark e:r outside.\nhave, like, depressing:: erm depressed faces. To make things:: (0.5) They take the.. the.. their car and are:: going back.\nworse, it is getting dark. Th.. The.. Their car is still in the\nmountains. *Transcription Convention\n(0.8) - Interval between utterances (in seconds)\ne:r, the:: - Lengthening of the preceding sound\n<Table 1> Ms. Park’s Initial Scoring Rubric\nJitae Mina\nExcellent Good to Fair Needs Work Excellent Good to Fair Needs Work\nPronunciation ○ ○\nGrammatical Accuracy ○ ○\n<Table 2> Ms. Parks Revised Scoring Rubric\nJitae Mina\nExcellent Good to Fair Needs Work Excellent Good to Fair Needs Work\nPronunciation ○ ○\nGrammatical Accuracy ○ ○\nFluency ○\nCohesion ○\nVocabulary ○ ○\n\nAnswer the following questions.\nFirst, Ms. Park’s initial scoring rubric in <Table 1> has a big problem regarding the principle of validity. Among\ncontent, construct, criterion, and face validity, select the one that is under the greatest threat; explain why it has\na problem in terms of the definition of the validity concerned; and explain why using the test results from <Table 1>\nwould be problematic in one paragraph. Second, two ratings are missing in <Table 2> (“Fluency” for Jitae and\n“Cohesion” for Mina). In another paragraph, write your ratings of their performances based on the transcripts along\nwith a rationale for your ratings with a specific example from each transcript. [17 points]\nRead the following context and answer the questions.\nContext\nMs. Park recognized Jitae’s problem regarding the third-person singular subject-verb agreement after reviewing his\nspeech sample from the performance assessment. Then Ms. Park had a conference with Jitae. She found that, in the\nfirst grade of middle school, Jitae was explicitly taught how to put -s at the end of verb stems and then practiced the\nsubject-verb agreement through transformation exercises (e.g., run→runs). Since then, Jitae has been exposed to the\ngrammatical morpheme through reading materials but has not been given chances to use the form in conversation. After\nchecking up on Jitae’s knowledge, Ms. Park was convinced that he still retained the grammatical knowledge about the\nrule. In the classroom, however, Ms. Park has observed Jitae making the same errors frequently in conversation.\nFirst, in terms of both the cognitive and the sociocultural approach of second language learning, in one paragraph,\ndescribe a problem associated with the teaching method through which Jitae learned the third-person singular subject-verb\nagreement. Second, in another paragraph, discuss how to apply one technique/task for the cognitive approach and one\nfor the sociocultural approach in the classroom, explaining why the technique/task selected for each approach would\nhelp Jitae correctly use the target grammatical morpheme in conversation. [18 points]\n\nRead the following and write an essay.\n[Situation]\nSchool A in a local city has been requiring its students to participate in supervised night self-study. A neighboring\nschool, School B, is also considering implementing the same program. School A’s administration conducted a survey\nof its students to compile a list of pros and cons about the supervised night self-study. School A then passed on the\nsurvey’s results to School B. School B’s principal will ask teachers to consider the results of the student survey and\ndecide whether or not the new policy of supervised night self-study will be beneficial to the students. As a teacher\nworking at School B, take a position for or against the policy by considering the following pros and cons gathered\nfrom the survey.\n*supervised night self-study: the program in which under a teacher’s supervision\nstudents study by themselves in the classroom until late at night\nKEY EXPRESSIONS\n<Pros> <Cons>\n1. Motivating study environment 1. Less free time with friends and family",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2012_X_p01.png",
+        "image_count": 49
+      },
+      {
+        "page": 2,
+        "file": "images/img_2012_X_p02.png",
+        "image_count": 16
+      },
+      {
+        "page": 3,
+        "file": "images/img_2012_X_p03.png",
+        "image_count": 12
+      },
+      {
+        "page": 4,
+        "file": "images/img_2012_X_p04.png",
+        "image_count": 19
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

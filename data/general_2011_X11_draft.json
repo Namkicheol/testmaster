@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "general_2011_X11",
+    "year": 2011,
+    "number": "X-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Choose the best order to complete the passage. The first\npart of the passage is given. [2.5점]\nPsychology and physiology deal with the explanation of\nplay. They try to determine the nature and significance of\nplay in life. The necessity of play as a function forms the\nstarting point of all research on play.\n[A] To each of the “explanations” one might object: “What\nactually is the fun of playing? Why are crowds roused\nto frenzy by football matches?” This intensity of, and\nabsorption in, play finds no explanation in biological\nanalysis. Yet, in this intensity and absorption lies the\nessential aesthetic quality of play.\n[B] These explanations are, therefore, only partial solutions\nto the problem. Most only deal incidentally with the\nquestion of what play is and what it means for the\nplayer. They attack play with quantitative methods\nwithout paying attention to its aesthetic quality.\n[C] The numerous attempts to define the biological\nfunction of play show striking variations. In one\ntheory, play constitutes a training of the young for\nserious work later in life. According to another, it\nserves as an innate urge to exercise a certain faculty.\nYet, others regard it as an outlet for harmful impulses.\n[D] All these hypotheses assume that play must serve\nsomething that is not play, based on some kind of\nbiological purpose. They all inquire into the why of\nplay, without coming nearer to a real understanding of\nthe play-concept.\n[B]－[D]－[A]－[C] [C]－[A]－[D]－[B] ① ②\n[C]－[D]－[B]－[A] [D]－[B]－[A]－[C] ③ ④\n[D]－[B]－[C]－[A] ⑤\n2\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2011_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2011_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2011_X_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2011_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2011_X_p08.png",
+        "image_count": 2
+      },
+      {
+        "page": 9,
+        "file": "images/img_2011_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2011_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2011_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2011_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2011_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2011_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

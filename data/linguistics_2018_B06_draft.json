@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "linguistics_2018_B06",
+    "year": 2018,
+    "number": "B-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passages and follow the directions.【5 points】\n<A>\nSentences must satisfy various principles to be\ngrammatically correct. Consider the following sentences.\n(1) a. It seems that Tom admires Mary.\nb.*Tom seems that he admires Mary.\nSentence (1a) is grammatical but sentence (1b) is\nungrammatical since the matrix subject Tom has no theta\nrole.\nNext, consider sentences containing an anaphor.\nadmires herself. (2) a. Tom thinks that Mary\ni i\nb.*Tom thinks that Mary admires himself.\ni i\n(3) a. Tom expects Mary to admire herself.\ni i\nb.*Tom expects Mary to admire himself.\ni i\nSentences (2a) and (3a) are grammatical since the reflexive\npronoun herself is in the same clause as, and bound by, the\nantecedent Mary. However, sentences (2b) and (3b) are\nungrammatical since the reflexive pronoun himself does not\noccur in the same clause as the antecedent Tom, violating the\nbinding condition, which requires a reflexive pronoun to be\nbound by its antecedent in its binding domain, which is the\nsmallest clause containing the anaphor.\nFinally, consider the following sentences.\n(4) a. It seems that Tom is believed to admire Mary.\nb.*Tom seems that it is believed to admire Mary.\nSentence (4a) is grammatically correct since no violation of\ngrammatical principles has occurred. However, sentence\n(4b) is ungrammatical since the movement of the matrix\nsubject has violated a constraint which bans a subject from\ncrossing another subject.\nNote: *indicates the ungrammaticality of the sentence.\n<B>\nConsider the following sentence.\n(5) Tom appears to Mary to be believed by his friends to\ni\nbrag about himself .\ni\nIn the above sentence, the reflexive pronoun himself is in the\nlowest embedded clause, whereas its antecedent Tom is in\nthe subject position of the matrix clause.\nState whether sentence (5) in <B> is syntactically well-formed\nor ill-formed. Then, explain why, discussing whether the matrix\nsubject can be assigned a theta role, whether it violates any\nmovement constraint, and whether the anaphor can be bound.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_B_p05.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

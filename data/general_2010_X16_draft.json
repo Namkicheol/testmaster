@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "general_2010_X16",
+    "year": 2010,
+    "number": "X-16",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "16. Read <A> and <B> and follow the directions. [2.5점]\n<A>\nThe following is a conversation between two students (S1\nand S2) about a first draft S2 produced in a writing class.\nS1: I have never heard of pluralism. Pluralism in your\nwriting is not clear to me. What is “pluralism”?\nS2: Don’t know the word?\nS1: No, I really didn’t understand. I think maybe you\ndefine pluralism a little bit.\nS2: Uh... in the Cold War, there is only one superpower\nand is the United States. But after that time, Europe\nbecame another superpower and the power of the\nUnited States is declined....\nS1: Began to decline?\nS2: Yes. The power of the United States began to\ndecline. So this situation is pluralism.\nS1: OK. Now I understand that. But here I think you\nshould state reasons in the introductory part why\npluralism started.\nS2: Hmm. Right, I’ll revise it and we’ll talk about it again.\n*S1: Student 1, S2: Student 2\n<B>\na. Meaning negotiation occurs in this conversation.\nb. S1 requests clarification of the concept of “pluralism”\nthrough display questions.\nc. S1 gives comments on both meaning and organization\nin S2’s draft.\nd. S1’s negative feedback on the form leads to an\nunsuccessful uptake by S2.\ne. The conversation demonstrates a process-oriented\napproach to writing through peer review.\nChoose all the correct statements about <A> from the list in\n<B>.\n① a, c, d ② a, c, e\n③ a, d, e ④ b, c, e\n⑤ c, d, e\n5\n중 면)\n18. Read <A> and <B> and answer the question. [2.5점]\n<A>",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2010_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2010_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2010_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2010_X_p07.png",
+        "image_count": 1
+      },
+      {
+        "page": 8,
+        "file": "images/img_2010_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2010_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2010_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2010_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2010_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2010_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2010_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

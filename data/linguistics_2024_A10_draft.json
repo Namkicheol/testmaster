@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2024_A10",
+    "year": 2024,
+    "number": "A-10",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage and follow the directions.【4 points】\nWhile tourism research has begun to flourish, the studies\ndealing with tourism and expressive culture are relatively\nsparse. It is noted that the anthropology of tourism and\nsemiotics overemphasize the role of image consumers at the\nexpense of the process of image creation that is a by-product\nof the tourist industry. In other words, while host societies\nhave been studied, it is not frequently in terms of their own\nexpressive culture but more often in terms of their\nto tourist pressures. In her work with tourist art, Jules-Rosette\nfound that the longer an artisan was in the business of\nproducing “tourist art,” the more he developed an aesthetic\nthat satisfied his own cultural identity. In the complex interplay\nof market, audience, and performers, the artisans eventually\nappropriated an externally imposed notion of authenticity.\nThe tourist, according to Dean MacCannell, is continually\nin search of authentic experience. In response the tourist\nindustry caters to this craving by using evermore ingenious\nways to let the tourist gaze at life as it is really lived in the host\nsociety. Yet no matter how far into the everyday domain a\ntourist is allowed to peek, the authenticity remains staged by\nthe very fact that the tourist is looking at it. But if authenticity\nin the realm of culture is difficult for the tourist to find, what\nkind of experience is possible? In Interlaken, in the Bernese\nOberland, it is the grandiose physical environment of the\nAlps. The landscape―unlike culture―cannot be staged, and\nmost tourists prefer not to think about the numerous human\nintrusions―the carefully tended fields, the rebuilt streams, the\nmany ski lifts and cog railways―for it is only with the aid of\nsome of these that they can get close enough to experience the\ngrandeur. The natural beauty is too large to spoil the\nimpression of an authentic experience, and there would\nprobably be no tourists in Interlaken if it were not for the\nvillage’s unique geographic location between lakes and peaks.\nFill in the blank with the ONE most appropriate word from the\npassage. Then explain why the Alps can be attractive to tourists\nwho want to experience authenticity. Do NOT copy more than\nFOUR consecutive words from the passage.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

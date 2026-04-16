@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "general_2018_B03",
+    "year": 2018,
+    "number": "B-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the passage and follow the directions.【4 points】\nThe act of searching for and finding underground supplies\nof water using nothing more than a rod is commonly known\nas “dowsing.” Many dowsers in Germany claim that they\nrespond to “earthrays” that emanate from water. These\nearthrays, say the dowsers, are a subtle form of radiation\npotentially hazardous to human health. As a result of these\nclaims, the German government in the mid-1980s conducted\na 2-year experiment to investigate the possibility that\ndowsing is a genuine skill.\nA group of university physicists in Munich, Germany,\nwere provided a grant of 400,000 marks to conduct the\nstudy. Approximately 500 candidate dowsers were recruited\nto participate in preliminary tests of their skill. To avoid\nfraudulent claims, the 43 individuals who seemed to be the\nmost successful in the preliminary tests were selected for the\nfinal, carefully controlled, experiment.\nThe researchers set up a 10-meter-long line on the ground\nfloor of a vacant barn, along which a small wagon could be\nmoved. Attached to the wagon was a short length of pipe,\nperpendicular to the test line, that was connected by hoses to\nalong the line a pump with water. The\nfor each trial of the experiment was assigned using a\ncomputer-generated random number. On the upper floor of\nthe barn, directly above the experimental line, a 10-meter\ntest line was painted. In each trial, a dowser was admitted to\nthis upper level and required, with his or her rod, stick, or\nother tool of choice, to ascertain where the pipe with water\non the ground floor was located.\nOver the 2-year experimental period, the 43 dowsers\nparticipated in a total of 843 tests. The experiment was\n“double blind” in that neither the researcher on the top floor\n, even after a nor the dowser knew the\nguess was made.\nFor each trial, an examination of the actual pipe’s location\n(in decimeters from the beginning of the line) and the\ndowser’s guess were recorded. The German physicists from\nthese data concluded in their final report that although most\ndowsers did not do particularly well in the experiments,\n“some few dowsers, in particular tests, showed an\nextraordinarily high rate of correct guesses, which can\nscarcely if at all be explained as due to chance ... a real core\nof dowser-phenomena can be regarded as empirically\nproven ... .”\nFill in the blank with the TWO most appropriate consecutive\nwords from the passage. (Use the SAME consecutive words for\nboth blanks.) Then, write the two factors used to determine the\nunderlined words, “correct guesses.”\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_B_p05.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

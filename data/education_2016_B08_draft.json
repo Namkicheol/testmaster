@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2016_B08",
+    "year": 2016,
+    "number": "B-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Examine the consulting report about Ms. Song’s English\nclass and follow the directions.【10 points】\nTeacher: Ms. Song Consultant: Mr. Cho Date: Dec. 2nd\nIn my class, I taught grammatical structures as\nfollows:\n...\nT: She will go swimming. (showing a picture of\n‘John riding a bike’) “Ride a bike.”\nS1:John will ride a bike.\nT: Good. (showing a picture of ‘Mary playing the\npiano’) “Play the piano.”\nS2:Mary will play the piano.\nT: Very good. (showing a picture of ‘Tom visiting\na museum’) “Visit a museum.” Before\nS3:Tom visit a museum. consul-\nT: No, you should say, “Tom will visit a museum.”\ntation\n...\nT: (showing a picture of ‘people going to a movie’)\nWhat will they do?\nS4:They will go to a movie.\nT: Very good. (turning to S5, showing a picture of\n‘students singing a song’) What will they do?\n...\nI expected my students to learn practiced structures,\nbut they still had difficulty in using them in real\ncontext.\nThe following are pieces of Mr. Cho’s advice:\n∙Utilize an e-portfolio.\nMr.\n∙Use other types of questions.\nCho’s\n∙Employ various authentic materials.\nadvice\n∙Provide other types of feedback.\n∙Assign specific roles to students in group work.\nAfter the consultation, I made changes in teaching\ngrammar as follows:\nT: Good morning, class. Winter vacation is coming\nsoon. I will go to Jeju Island and travel around.\nMinji, what will you do this vacation?\nS1:I go to Grandma’s house in Busan.\nT: Minji, I go to Grandma’s house? After\nS1:Oh... eh... I will go to Grandma’s house. consul-\nT: Perfect! What about Bora? Do you have any tation\nplans?\nS2:Um... I... I take guitar lessons.\nT: I take guitar lessons?\nS2:Uh... I will take guitar lessons.\nT: Good! What a great plan! Why do you want to\ndo that?\n...\nNote:T=teacher, S=student\nWrite TWO paragraphs. In the first paragraph, identify the type\nof teaching technique which Ms. Song used before the\nconsultation and explain the technique with evidence. In the\nsecond paragraph, identify TWO changes that Ms. Song made\nbased on Mr. Cho’s advice, and then explain those two\nchanges by comparing the classes before and after consultation\nwith evidence.\n6\n영 어 (6면 중 면)\n<수고하셨습니다.>",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_B_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_B_p03.png",
+        "image_count": 6
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_B_p05.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

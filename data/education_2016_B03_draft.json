@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2016_B03",
+    "year": 2016,
+    "number": "B-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read part of a lesson plan and follow the directions.\n【4 points】\nFill in the blank in the <Purposes> box in Stage 1 with ONE\nword. Then identify ONE way the teacher directly prepares\nstudents to write a well-organized suggestion letter in Stage 2,\nand explain it with evidence. Do NOT copy more than FIVE\nconsecutive words from the passage.\n영 어 (6면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_B_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_B_p03.png",
+        "image_count": 6
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_B_p05.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2024_B11",
+    "year": 2024,
+    "number": "B-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the teacher’s beliefs in <A> and the part of the lesson\nplan in <B>, and follow the directions.【4 points】\n<A>\nI believe that lesson goals should be framed from the\nstudents’ perspective, focusing on what they can achieve\nthrough the lesson. Furthermore, I usually ask my students to\nvocalize these goals together. I also place importance on\nteachers trying to motivate their students. So, I seek out some\ninteresting video clips online that can keep my students\nengaged. Crucially, I prefer inductive activities and try to\nprovide learning targets within context. Lastly, I believe it’s\nessential to conclude the lesson by summarizing the main\npoints, and especially at the final stage, I like to ask referential\nquestions that are more related to the students’ life.\n<B>\nStages Teaching & Learning Activities\nT and Ss exchange greetings.\nT presents today’s lesson objective on\nIntroduction screen and reads it together with Ss:\n“We will be able to describe the meanings\nof words that express feelings.”\nT plays a video clip that shows different\ncartoon characters with a variety of emotional\nexpressions.\nT checks Ss’ understanding of the video\nclip.\nT provides reading passages that include\nthe following words.\nlike, excite, love, bore, dislike, bother,\nDevelopment\nworry, fear, annoy, confuse, believe,\n#1\nsuggest, demonstrate, infer\nT asks Ss to underline the words that they\ndo not know and infer the meanings from\nthe context.\nT asks Ss to circle the words related to\nfeelings or emotions.\nT asks Ss to look up the meanings of the\nunknown verbs in the dictionary.\n영 어 [전공B]\nT presents the target rules:\n“In English, it is more typical, more\nfrequent, so unmarked, for the person who\nexperiences emotional feelings to appear\nin the subject position of the sentence.”\nT tells Ss about the meanings of the two\nsentences:\nSue likes the dogs. vs. The dogs please Sue.\nT distributes the following handout.\nIn the following sentences, the arrows\nindicate who experiences the feelings\ndescribed by the verbs ‘bothers’ and ‘loves.’\n(1) Julia loves her sister.\nDevelopment (unmarked, more typical)\n#2 sister. (2) Julia bothers her\n(marked, less typical)\nSentence (1) is more typical, so unmarked,\nbecause the subject, Julia, experiences the\nfeeling of love. Sentence (2) is marked\nbecause the object, her sister, experiences\nthe feeling of being bothered.\nNow, let’s work on the following sentences\nand determine whether they are unmarked or\nmarked:\n) a.Julia worried her sister. ( ⓐ\nb.Julia feared her sister. ( ) ⓑ\nUsing the PPT slides, T recaps the main\npoints of the lesson.\nT asks questions:\n“In the sentence ‘Julia confuses her sister,’\nConsolidation\nwho is being confused?”\n“If we say ‘Julia upset her father,’ who was\nupset, Julia or her father?”\nT bids farewell to Ss.\nNote: T=teacher, Ss=students\nFill in the blanks ( ) and ( ) with “unmarked” or “marked.” ⓐ ⓑ\nThen choose the TWO stages in <B> that do NOT correspond to\nthe teacher’s beliefs in <A>, and explain your answers with\nevidence from <A> and <B>.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

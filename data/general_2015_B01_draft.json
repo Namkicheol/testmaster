@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "general_2015_B01",
+    "year": 2015,
+    "number": "B-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and follow the directions.【10 points】\nAll products may be considered as either disposable or\ndurable. Disposable products are goods made for short-term\nusage, many even meant to be thrown away after one use.\nManufacturing them requires constant development of new\ndesigns and the employment of large numbers of workers.\nThis provides ongoing benefits for the growth of the\neconomy. However, this type of production causes a great\ndeal of waste. Some disposable products like plastic bags\ndo not easily decompose and thus have anything but a\npositive impact on the environment.\nDurable products are intended to last for a long time. As\nsuch, any given product would be sold less often. However,\nmaking products durable requires the support of secondary\nindustries to supply parts and do repairs. This, in turn,\nestablishes long-standing economic advantages. In addition,\nlong-term use of products helps cut emissions of pollutants.\nAs durable products also include less residual waste,\nlandfill expansion is significantly reduced, which makes\nthem a good environmental choice.\nHow do different types of products affect the economy and the\nenvironment? Write a composition following the guidelines\nbelow.\nGuidelines\n•Write TWO paragraphs based on the above passage: one\na comparison paragraph regarding the effect on the\neconomy and the other a contrast paragraph on the\nenvironment.\n•Provide each paragraph with a topic sentence and two\nsupporting pieces of evidence.\n•Do NOT copy more than FIVE consecutive words from\nthe passage.\n영 어 (4면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_B_p03.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_A10",
+    "year": 2021,
+    "number": "A-10",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage in <A> and the interaction in <B>, and\nfollow the directions.【4 points】\n<A>\nIn language directed toward linguistically nonproficient\nsecond language speakers, native speakers tend to show\nforeigner-talk adjustments in the flow of conversation. These\ninclude slow speech rate, loud speech, long pauses, simple\nvocabulary (e.g., few idioms, high-frequency words), and\npaucity of slang. They also tend to make adjustments to their\nspeech in the area of grammar. They often move topics to the\nfront of the sentence, put new information at the end of the\nsentence, use fewer contractions and pronouns, grammatically\nrepeat non-native speakers’ incorrect utterances, and fill in the\nblank for their incomplete utterances.\n<B>\nNS : So what did you have for lunch today?\nNNS: I was busy. I eated cookies.\nNS : Oh, did you? I see.\nNNS: You want cookies?\nNS : No, thanks.\nNNS: You don’t like cookies?\nNS : Well... these days I’m on a diet and I rarely eat them.\nNNS: Sorry... I don’t understand.\nNS : These days I am on a diet and I rarely eat cookies.\nNNS: Oh, I see. You diet. You don’t eat cookies.\nNS : Well, I do. But only sometimes.\nNNS: Mm.... Sometime. You eat cookies only sometimes.\nNS : Right, because they have too much sugar.\nNote: NS = native speaker, NNS = non-native speaker\nBased on <A>, locate ONE utterance in <B> that reflects NS’s\ngrammatical adjustment to his speech and identify its adjustment\ntype. Then, explain how it functions in the given dialogue.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

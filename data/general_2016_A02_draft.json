@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2016_A02",
+    "year": 2016,
+    "number": "A-2",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the poem and follow the directions.【2 points】\nSome time when the river is ice ask me\nmistakes I have made. Ask me whether\nwhat I have done is my life. Others\nhave come in their slow way into\nmy thought, and some have tried to help\nor to hurt―ask me what difference\ntheir strongest love or hate has made.\nI will listen to what you say.\nYou and I can turn and look\nat the silent river and wait. We know\nthe current is there, hidden; and there\nare comings and goings from miles away\nthat hold the stillness exactly before us.\nWhat the river says, that is what I say.\nComplete the commentary by filling in the blank with ONE\nword from the poem.\nCommentary\nOut there will be the world confronting us both; we will\nboth know we are surrounded by mystery, tremendous things\nthat do not reveal themselves to us. That river, that world―\nand our lives―all share the depth and of\nmuch more significance than our talk, or intentions. There\nis a steadiness and somehow a solace in knowing that what\nis around us so greatly surpasses our human concerns.\n2\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_B11",
+    "year": 2022,
+    "number": "B-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage in <A> and the examples in <B>, and\nfollow the directions.【4 points】\n<A>\nFocus on form is one of the approaches to L2 instruction\nthat has been proposed to develop learners’ fluency and\naccuracy. It occurs when learners briefly pay attention to\nlinguistic items within a larger meaning-focused context.\nFocus on form can be accomplished in various ways. A basic\ndistinction is drawn between ‘reactive focus on form’ (where\nattention to form arises out of some problem in a participant’s\nproduction as in A1 and A2 below) and ‘pre-emptive focus on\nform’ (where the participants make a particular form the topic\nof the conversation even though no actual problem has arisen\nas in B1 and B2 below).\nOptions Description\nThe teacher or another student\nA1. responds to a student’s error\nImplicit without directly indicating an error\nfeedback a has been made, e.g., by means of\nrecast or a clarification request.\nReactive\nThe teacher or another student\nresponds to a student’s error by\nA2.\ndirectly indicating that an error has\nExplicit\nbeen made, e.g., by formally\nfeedback\ncorrecting the error or by using\nmetalanguage.\nB1.\nA student asks a question about a\nStudent-initiated\nlinguistic form.\nfocus on form\nPre-emptive\nThe teacher gives advice about a\nB2.\nlinguistic form he/she thinks might\nTeacher-initiated\nbe problematic or asks the students\nfocus on form\na question about the form.\n영 어 [전공B]\n<B>\nExample 1\n(It is Monday morning and a group of students have just\narrived for their English class. The teacher starts the class by\nasking the students about their weekend.)\nT : So what did you do this weekend?\nS1: I ran my first marathon!\nT : Wow! Did you finish?\nS1: Yes, eventually.... It was actually a half-course marathon,\nbut really challenging.\nT : Way to go! (turning to S2) How about you?\nS2: I had gone to the park...\nT : You need to use the past simple when you say the things\nyou did over the weekend.\nS2: I has b..., I had?\nT : Past simple. For example, I saw, I did, or I played ...\nS2: Ah! I went to the park with my family last weekend.\nT : Great! How was it? Did you and your family enjoy it?\nS2: Very much.\nExample 2\n(Students are doing a communicative task with their\nconversation partner in their English class. The students are\nasked to set a date when they can do a project together. While\nstudents are checking the date, the teacher shuttles back and\nforth among the groups.)\nS1: Teacher, is it okay to just say December eighteen?\nT : December eighteen?\nS1: Yeah, like December eighteen or January seventeen.\nS2: You know, we need to fix the date we meet together, and\nwe want to make sure the right way of saying dates.\nT : Mmm. It’s okay but it sounds a little casual. Usually\nDecember THE eighteenth or THE eighteenth of\nDecember.\nS1: Aha! December THE eighteenth.\nT : Yeah, good.\nNote: T = teacher, S = student\nAmong the options A1, A2, B1, and B2 in <A>, identify the option\nof focus on form used in each example in <B>, respectively. Then,\nsupport your answers with evidence from <B>.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

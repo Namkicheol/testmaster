@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "linguistics_2018_B01",
+    "year": 2018,
+    "number": "B-1",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and follow the directions.【4 points】\nIn a number of dialects of British English, a glide is\ninserted in certain environments, as shown in (1) and (2).\n(1) /j/ insertion\nbeing /biɪŋ/ [bijɪŋ]\nmy other (car) /mɑɪʌðə/ [mɑɪjʌðə]\nfree a (prisoner) /friə/ [frijə]\nenjoy ice cream /ɛnʤɔɪɑɪskɹim/ [ɛnʤɔɪjɑɪskɹim]\n(2) /w/ insertion\nsewer /suə/ [suwə]\nfew arrests /fjuəɹɛsts/ [fjuwəɹɛsts]\nnow or never /nɑʊɔnɛvə/ [nɑʊwɔnɛvə]\ngo away /goʊəweɪ/ [goʊwəweɪ]\nHowever, in such dialects, glide insertion is not attested in\nthe examples in (3). Instead, /ɹ/ is inserted.\n(3) No glide insertion\ndrawing [dɹɔɹɪŋ] *[dɹɔjɪŋ] *[dɹɔwɪŋ]\n[ɑmwənpɑ] ma and pa [mɑɹənpɑ] *[mɑjənpɑ] *\nlaw and order[lɔɹənɔdə] *[lɔjənɔdə] *[lɔwənɔdə]\nmedia event [midɪəɹɪvɛnt]*[midɪəjɪvɛnt]*[midɪəwɪvɛnt]\nNote: * indicates a non-permissible form.\nBased on the data given in (1)-(3), provide one single\ngeneralization for glide insertion. Then, state the condition(s)\nfor /j/ insertion and the one(s) for /w/ insertion, respectively.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n8문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_B_p05.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

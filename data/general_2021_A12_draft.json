@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2021_A12",
+    "year": 2021,
+    "number": "A-12",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the passage in <A> and the word entries in <B>, and\nfollow the directions.【4 points】\n<A>\nA corpus is a collection of texts of written or spoken\nlanguage from various sources presented in electronic form. It\nprovides evidence of how language is used in real situations,\nfrom which lexicographers can analyze millions of examples\nof each word to see how real language behaves. Many\ncontemporary dictionaries, therefore, incorporate the features\nderived from the analyses of corpus data, some of which are\nshown below.\n1) Frequency: statistical data on how often words are used in\nthe language\n2) Collocation: information on what other words commonly\noccur with the word in focus\n3) Context: information on which particular field (e.g., law,\nengineering, medicine) or social situation (e.g., formal vs.\ninformal) a word is used in\n4) Authentic example sentences: sentences from what users\nof the language actually write or say in books, newspapers,\nspeeches, or recorded conversations, etc.\n영 어 [전공A]\n<B>\nBoth Dictionary X and Dictionary Y are developed in part\nby incorporating data from corpora.\nWith regard to the word ‘shed,’ identify ONE corpus-based\nfeature described in <A> for each dictionary in <B>, respectively.\nThen, provide evidence from <B> for each feature that you\nchoose.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

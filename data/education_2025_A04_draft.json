@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_A04",
+    "year": 2025,
+    "number": "A-4",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the conversation in <A> and the passage in <B>, and\nfollow the directions.【2 points】\n<A>\n(Two teachers, Mr. Lee and Ms. Kim, recently scored students’\nspeaking assessments. They later discussed the scoring process\nand Mr. Lee reflected on his scoring experiences in his journals.)\n: As I was reviewing my ratings, I noticed that they Mr. Lee\nwere staying consistent throughout the scoring\nprocess.\nMs. Kim: Good, it’s actually hard to keep the same\nperspective when grading multiple students. But\nyou mean you found actual similarities in your\nscores for the same students over time?\n: Yes, exactly. I think I might have benefitted from Mr. Lee\nreviewing my previous scores before re-evaluating\nanyone’s performance to see if I’m staying consistent.\nKim: That makes sense. You know, I’ve noticed that we Ms.\nhave some scoring differences between us on\ncertain criteria.\nMr. Lee : Right. I normally give a score of 10 if students have\nnatural flow even though they may demonstrate\nsome errors in grammar or vocabulary. How about\nyou?\nKim: Oh, I’ve constantly made efforts to adhere to our Ms.\nscoring criteria, and I give a perfect score only\nwhen they speak without any errors or hesitation.\n: All right. Now I can see why we have different Mr. Lee\nthink―these different scoring results and it makes me\nresults could send mixed messages to students.\nMs. Kim: I agree. Let’s review our criteria and stick to\nfollowing our rubric.\n: Sure. That would be fairer for the students. Mr. Lee\n<B>\nMr. Lee’s Reflective Journal\nAfter today’s grading session, I reviewed my scores and\nluckily noticed consistency in my ratings for the same students\nacross different sessions. However, after talking with Ms.\nKim, I realized that we provided different scores for the same\nstudents. I’m concerned this could lead to some confusion if\nthey receive different scores based on which teacher assesses\nthem. I think it would be helpful if Ms. Kim and I could go\nover the rubric together to ensure a more unified scoring\napproach.\nFill in the blanks with the TWO most appropriate words.\nBased on <A> and <B>, Mr. Lee is concerned about the lack\nof in the scoring process. His\nconcern is not about the consistency of rating by a single rater\nbut about the consistency of rating by different raters.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

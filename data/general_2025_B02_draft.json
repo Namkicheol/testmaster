@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2025_B02",
+    "year": 2025,
+    "number": "B-2",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the excerpt from a novel and follow the directions.【2 points】\n‘Later, when I had grown freer with him, I told him of my\nsurprise. “Suppose,” said I, “that one day we are saved. Would\nyou not regret it that you could not bring back with you some\nrecord of your years of shipwreck, so that what you have\npassed through shall not die from memory? […] Is it not\npossible to manufacture paper and ink and set down what\ntraces remain of these memories, so that they will outlive you;\nor, failing paper and ink, to burn the story upon wood, or\nengrave it upon rock? We may lack many things on this\nisland, but certainly time is not one of them.”\n‘I spoke fervently, I believe, but Cruso was unmoved.\n“Nothing is forgotten,” said he; and then: “Nothing I have\nforgotten is worth the remembering.”\n‘ “You are mistaken!” I cried. “I do not wish to dispute, but\nyou have forgotten much, and with every day that passes you\nforget more! There is no shame in forgetting: it is our nature to\nforget as it is our nature to grow old and pass away. But seen\nfrom too remote a vantage, life begins to lose its particularity.\nAll shipwrecks become the same shipwreck, all castaways the\nsame castaway, sunburnt, lonely, clad in the skins of the beasts\nhe has slain. The truth that makes your story yours alone, that\nsets you apart from the old mariner by the fireside spinning\nyarns of sea-monsters and mermaids, resides in a thousand\ntouches which today may seem of no importance, such as:\nWhen you made your needle (the needle you store in your\nbelt), by what means did you pierce the eye? When you sewed\nyour hat, what did you use for thread? Touches like these will\none day persuade your countrymen that it is all true, every\nword, there was indeed once an island in the middle of the\nocean where the wind blew and the gulls cried from the cliffs\nand a man named Cruso paced about in his apeskin clothes,\nscanning the horizon for a sail.”\n‘Cruso’s great head of tawny hair and his beard that was\nnever cut glowed in the dying light. He opened and closed his\nhands, sinewy, rough-skinned hands, toil-hardened.\n‘“There is the bile of seabirds,” I urged. “There are\ncuttlefish bones. There are gulls’ quills.”\n‘Cruso raised his head and cast me a look full of defiance.\n“I will leave behind my terraces and walls,” he said. “They\nwill be enough. They will be more than enough.”\nJ. M. Coetzee, Foe\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt.\n<Commentary>\nIn the conversation with Cruso, the narrator expresses her\ndesire to leave the literary traces of life on the island in order\nto attribute to their experiences. On the other\nhand, Cruso argues that leaving the marks of his own labor\ncan serve as a testament to his time on the island.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

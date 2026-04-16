@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_A02",
+    "year": 2022,
+    "number": "A-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the conversation and follow the directions.【2 points】\nT1: Hello, Ms. Kim. You seem to be in deep thought.\nAnything bothering you?\nT2: Good morning, Mr. Lee. I’m thinking of how to make my\nEnglish class more effective.\nT1: Yeah, I’ve been thinking about that, too.\nT2: You know, our textbook is organized by separate\nlanguage skills. But the four skills are rarely separable\nfrom each other, I think.\nT1: True. Speaking almost always implies a listener, and\nwriting and reading share obvious links.\nT2: That’s exactly what I mean.\nT1: Actually, I’ve been adapting the textbook since last\nsemester so that my students can be exposed to the\nlanguage they will encounter in the real world.\nT2: Sounds great. How have you been doing it?\nT1: For example, I usually have pre-reading discussion time\nto activate schemata. It helps to make links between\nspeaking, listening, and reading. My students actively\nengage in those kinds of tasks.\nT2: That can be a good way. Or I could create a listening task\naccompanied by note-taking or followed by a group\ndiscussion.\nT1: Great idea. I think just a slight change can make a big\ndifference.\nT2: Right. I’ll try to make some changes and let you know\nhow it goes. Thanks for sharing your experience!\nNote: T = teacher\nFill in the blank with the ONE most appropriate word.\nIn the above conversation, the two teachers are talking about\nthe approach, which is now typical within a\ncommunicative, interactive framework. The approach can\ngive students greater motivation and make them engage more\nactively, which can convert to better learning outcomes.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

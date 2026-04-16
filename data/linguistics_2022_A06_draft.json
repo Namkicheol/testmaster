@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2022_A06",
+    "year": 2022,
+    "number": "A-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage and follow the directions.【4 points】\n<A>\nIn English, prosodic units such as syllable and foot are\nreferred to in the phonological description. Here we are going\nto refer to foot, which is trochaic in English as in (1).\ndi{ˈsaster} sy{ˈnopsis} mi{ˈmosa} (1) a.\n{ˈopportune} {ˈinsolent} {ˈenmity} b.\n{ˌresur}{ˈrect} {ˌphoto}{ˈgraphic} {ˌeco}{ˈnomical} c.\nNow take a look at the data in (2). Voiceless stops are\naspirated when they are followed by a stressed vowel,\nwhether it is a primary stress as in (2a) or a secondary stress as\nin (2b). But even before a stressed vowel, they are not\naspirated when it is preceded by /s/ as in (2c). Lastly, they are\nnot aspirated when they are followed by an unstressed vowel\nas in (2d). So the phonological description of the aspiration\nphenomenon must be complicated without referring to foot.\n[əˈpʰɑɹtmənt] apartment (2) a.\n[məˈtʰɜɹnəl] maternal\n[əˈkʰædəmi] academy\n[ˌpʰɜɹsəˈnæləti] b. personality\n[ˌtʰɛnəˈsi] Tennessee\n[ˌkʰæŋgəˈɹu] kangaroo\n[əˈspæɹəgəs] c. asparagus\n[ɔˈstɛɹəti] austerity\n[məˈskitoʊ] mosquito\n[ˈsɪmpəθi] d. sympathy\n[ˌsɛntəˈmɛntəl] sentimental\n[ˌælkəˈhɔlɪk] alcoholic\nNote: ‘{ }’ indicates foot boundaries.\n<B>\na. operation b. disentangle c. accountability d. substantial\nIn <B>, select TWO words where the underlined voiceless stop\nis realized as an aspirated stop. Then, state a rule which can\naccount for all the aspirated stops in (2). Your answer must\ninclude ‘foot.’\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

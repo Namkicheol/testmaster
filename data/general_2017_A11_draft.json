@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2017_A11",
+    "year": 2017,
+    "number": "A-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and follow the directions.【4 points】\n(Sitting weakly in the wheelchair, Vivian recites a poem and\ncontinues with a monologue.)\nVivian:\nThis is my playes last scene, here heavens appoint\nMy pilgrimages last mile; and my race\nIdly, yet quickly runne, hath this last pace,\nMy spans last inch, my minutes last point,\nAnd gluttonous death will instantly unjoynt\nMy body, ’and soule\nJohn Donne. 1609.\nI have always particularly liked that poem. In the abstract.\nNow I find the image of “my minute’s last point” a little too,\nshall we say, pointed.\nI don’t mean to complain, but I am becoming very sick.\nVery, very sick. Ultimately sick, as it were.\nIn everything I have done, I have been steadfast, resolute—\nsome would say in the extreme. Now, as you can see, I am\ndistinguishing myself in illness.\nI have survived eight treatments of Hexamethophosphacil\nand Vinplatin at the full dose, ladies and gentlemen. I have\nbroken the record. I have become something of a celebrity.\nJason Posner is simply delighted. I think he foresees celebrity\nstatus for himself upon the appearance of the medical journal\narticle he will no doubt write about me.\nBut I flatter myself. The article will not be about me. It\nwill be about my ovaries, which, despite his best intentions,\nare now crawling with cancer.\nWhat we have come to think of as me is, in fact, just the\nspecimen jar, just the dust jacket, just the white piece of\npaper that bears the little black marks.\nBased on the passage, explain what makes Vivian feel personal\nabout John Donne’s poem cited in her monologue. Then, based\non the passage, identify Jason Posner’s occupation.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

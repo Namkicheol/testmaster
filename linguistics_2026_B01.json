@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "id": "linguistics_2026_B01",
+    "year": 2026,
+    "number": "B-1",
+    "subject": "linguistics",
+    "linguistics_domain": "morphology",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": ["inflectional suffix", "derivational suffix", "category", "meaning", "ordering"]
+  },
+
+  "problem": {
+    "instruction": "Fill in each of the blanks ① and ② with the ONE most appropriate word.",
+    "passage": "English is known to have only eight inflectional suffixes as listed in (1), which implies that other suffixes are all derivational.\n\n(1) Inflectional suffixes in English\na. Noun: Plural -s / Possessive -'s\nb. Verb: Past tense -ed / Past participle -en/-ed / Progressive -ing / 3rd person singular present -s\nc. Adjective: Comparative -er / Superlative -est\n\nFirst, inflectional suffixes do not change the grammatical [BLANK_①] of the stem, while some derivational suffixes can change it as heart, a noun, becomes an adjective after -less attaches. Secondly, a derivational suffix must combine with the root or the base before an inflectional suffix. This is why neighbor-hood-s is attested but neighbor-s-hood is not. Lastly, the semantic contribution of an inflectional suffix is usually transparent and consistent. These examples suggest that the [BLANK_②] of an inflectional suffix is predictable, while that of a derivational suffix may not be predictable.",
+    "blanks": [
+      { "label": "①", "context": "do not change the grammatical [①] of the stem — 기준 1: 품사 변화" },
+      { "label": "②", "context": "the [②] of an inflectional suffix is predictable — 기준 3: 의미 예측성" }
+    ]
+  },
+
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "① 도출 — 기준 1: 품사 변화",
+        "explanation": "굴절 접사는 어기의 문법적 category를 바꾸지 않는다. heart(N)→heartless(Adj)는 품사 변화 → 파생. ① = category",
+        "key_terms": ["grammatical category", "part of speech"]
+      },
+      {
+        "step": 2,
+        "label": "② 도출 — 기준 3: 의미 예측성",
+        "explanation": "직전 문장의 'semantic contribution'을 받는 자리. 발문 ONE word 조건 → ② = meaning",
+        "key_terms": ["meaning", "semantic contribution", "predictable"]
+      }
+    ]
+  },
+
+  "answer": {
+    "model_answer": {
+      "content_type": "blank_answer",
+      "blank_answers": [
+        { "label": "①", "answer": "category" },
+        { "label": "②", "answer": "meaning" }
+      ],
+      "scoring_criteria": [
+        { "criterion": "① category", "points": 1 },
+        { "criterion": "② meaning", "points": 1 }
+      ]
+    }
+  },
+
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Fromkin, V., Rodman, R., & Hyams, N.",
+        "title": "An Introduction to Language (11th ed.)",
+        "year": 2018,
+        "publisher": "Cengage Learning",
+        "pages": "pp. 64–72 · Ch. 4",
+        "excerpt": "Inflectional morphemes do not change the syntactic category or the basic meaning of the word… Derivational morphemes may change the syntactic category and/or the meaning of the base."
+      },
+      {
+        "type": "textbook",
+        "author": "Dept. of Linguistics, Ohio State Univ.",
+        "title": "Language Files (12th ed.)",
+        "year": 2016,
+        "publisher": "OSU Press",
+        "pages": "pp. 116–122 · File 4.3",
+        "excerpt": "The meaning contribution of inflectional affixes is predictable and consistent across all words to which they attach."
+      }
+    ],
+    "concept_explanation": "① category: 굴절 접사는 품사 불변. 파생은 변경 가능 (teach→teacher)\n② ordering: 파생→굴절 순. nation-al-iz-ation-s ✓\n③ meaning: 굴절은 예측 가능. 파생은 어휘 특이적 — actor ≠ professor"
+  },
+
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "linguistics_2022_A03",
+        "year": 2022,
+        "number": "A-3",
+        "subject": "linguistics",
+        "connection_type": "same_concept",
+        "connection_note": "ordering 기준 집중. neighbor-hood-s 예시 공유.",
+        "shared_keywords": ["ordering", "derivational morpheme", "inflectional morpheme"]
+      },
+      {
+        "id": "linguistics_2019_A02",
+        "year": 2019,
+        "number": "A-2",
+        "subject": "linguistics",
+        "connection_type": "prerequisite",
+        "connection_note": "root · base · stem 정의. 선행 지식.",
+        "shared_keywords": ["free morpheme", "bound morpheme", "stem", "root"]
+      }
+    ]
+  }
+}

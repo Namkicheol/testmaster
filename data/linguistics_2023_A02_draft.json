@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2023_A02",
+    "year": 2023,
+    "number": "A-2",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passages in <A> and <B>, and follow the directions.\n【2 points】\n<A>\nDistinctive features of speech sounds play a critical role in\nmany morphological processes in English, including\nsuffixation. One of the suffixation processes is verb formation\nwith the suffix -en. Consider the following -en suffixed\nwords.\n(1) sadden whiten soften\ndampen sicken fasten\nquieten thicken toughen\nOne of the phonological characteristics shared in common\namong the adjective stems in (1) is that they are all\nmonosyllabic, i.e., consisting of one syllable. The verb-forming\nsuffix -en seems to attach to a wide range of monosyllabic\nadjectives, but it sometimes creates ill-formed suffixed words,\nas illustrated in (2). All adjective stems in (2) are\nmonosyllabic, but they cannot combine with the verb-forming\nsuffix -en.\n(2) *grayen *meanen *pooren\n*freeen *tallen *slimen\nTo explain why the words in (2) are unattested, we need\nanother phonological property that refers to one of the\ndistinctive features that are used for vowels and consonants in\nEnglish. The table in (3) provides some of the well-known\ndistinctive features for vowels and consonants that the\nadjective stems in (1) and (2) end in.\n(3) vowel glide liquid nasal obstruent\n[consonantal] + + + － －\n[continuant] + + + +/－ －\n[syllabic] + +/－ +/－ － －\n[sonorant] + + + + －\nNote: ‘*’ indicates an unattested word.\n<B>\nWhat differentiates the words in (1) from those in (2) is that\nthe verb-forming suffix -en can attach to monosyllabic\nadjectives that end in a segment with the feature [ ].\nFill in the blank in <B> with the ONE distinctive feature from the\npassage in <A>. The feature value (i.e., ‘+’ or ‘－’) must be\nspecified.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

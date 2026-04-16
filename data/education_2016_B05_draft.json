@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2016_B05",
+    "year": 2016,
+    "number": "B-5",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passage in <A> and examine the teaching procedures\nin <B>, and follow the directions.【4 points】\n<A>\nLanguage learning can be classified into different types\nin various ways in terms of how learners process linguistic\nform to acquire rules that govern its use. One way is to\ndistinguish inductive learning from deductive learning. This\ndistinction is made by taking into account how a rule is\nlearned in relation with its specific instances.\n<B>\n(Below are parts of two teachers’ instruction procedures for\nteaching past tense verb forms in hypothetical conditionals.)\nTeacher A’s Class\nT explains to Ss that past tense verb forms should be\nused in sentences with if clauses to describe hypothetical\nsituations.\nT asks Ss to complete sentences with appropriate verb\nforms to show hypothetical situations.\nT asks Ss to read a short text with sentences describing\nhypothetical situations.\nT asks Ss to write a paragraph starting with the given\nexpression.\nTeacher B’s Class\nT gives back the written texts about hypothetical\nsituations Ss produced in the previous class and provides\ntheir reformulated texts T has produced at the same time.\nOnly incorrect verb forms in Ss’ writings are changed in\nT’s reformulation as in the examples below.\n영 어 (6면\nT asks Ss to compare T’s reformulated sample with their\nwritings and to underline all the words in the sample that\nare different from those in their writings.\nT asks Ss to find what the underlined words have in\ncommon and in what way they differ from the ones used\nin their original writings in terms of language form.\nT asks Ss to work out the rule that applies to all their\nunderlined words based on their findings in the previous\nstep.\nNote:T=teacher, S=student\nIdentify the type of learning applied to each class in <B>\nbased on <A>. Then explain how each class orients students\ntoward its identified type of learning with supporting evidence.\n4\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_B_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_B_p03.png",
+        "image_count": 6
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_B_p05.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

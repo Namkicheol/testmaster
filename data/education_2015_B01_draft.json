@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "education_2015_B01",
+    "year": 2015,
+    "number": "B-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage in <A> and the table in <B>, and follow\nthe directions.【5 points】\n<A>\nAs part of an effort to maximize opportunities for her\nstudents to interact with others in English, Ms. Park, a high\nschool English teacher, plans to design her lessons from a\nblended learning perspective. She is considering having the\nstudents interact with each other and her both online and\noffline. She designs lessons as follows: Online activities are\nbased on a synchronous computer-mediated communication\n(CMC) interaction, and the transcripts of the online\ninteraction are used a couple of days later for offline\ndiscussion.\nRealizing that many of her students seem shy, frustrated,\nand uncomfortable with face-to-face discussion, she would\nlike to use a CMC tool to help students get ready for an\noffline discussion. By examining their online production\nwith peers and the teacher, she believes that CMC activities\nwill guarantee more equalized opportunities for participation\nand make students’ errors more salient and thus open to\nfeedback and correction.\n<B>\nEvaluation of Three CMC Tools\nTools\nTool A Tool B Tool C\nCriteria\nEasy to Use Y Y Y\nSaving and Archiving Y N Y\nReal-Time Interaction N Y Y\nVideo Chatting N Y N\nOnline Dictionary Y N N\nNote:Y=Yes, N=No\nBased on the information in <A> and <B>, identify the tool\nyou would recommend for Ms. Park, and provide TWO reasons\nfor your recommendation.\n영 어 (4면\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n6문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_B_p03.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

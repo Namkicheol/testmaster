@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2015_A08",
+    "year": 2015,
+    "number": "A-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【2 points】\nWe know nothing of David Swan until we find him, at the\nage of twenty, on the road to the city of Boston, where he will\nwork at his uncle’s grocery store. After journeying on foot\nfrom sunrise till nearly noon on a summer’s day, his tiredness\nand the increasing heat force him to rest in the first convenient\nshade, and wait for a stage-coach. As if planted on purpose,\nthere soon appeared a small growth of maple trees, with a\ndelightful clearing in the middle beside a fresh bubbling\nspring. He kissed it with his thirsty lips, and then flung himself\nbeside it, pillowing his head upon some shirts. The spring\nmurmured drowsily beside him and a deep sleep fell upon\nDavid Swan.\nWhile he lay sound asleep in the shade, other people were\nwide awake, and passed here and there along the sunny road\nby his bed. Some looked neither to the right nor to the left,\nand never knew he was there; some laughed to see how\nsoundly he slept; and several, whose hearts were brimming\nwith scorn, spoke aloud their criticism of David Swan. Soon,\na wealthy merchant with no heir considered waking him to\nshare his fortune, but walked away. A beautiful young woman,\nmomentarily touched by his peacefulness, considered loving\nhim, but continued on her way. Two dark and dangerous\nthieves considered taking his life for his wallet, but decided\nthey did not have time. But disapproval, praise, amusement,\nscorn, and indifference, were all one, or rather all nothing, and\nhad no influence on the sleeping David Swan.\nHe slept, but no longer so quietly as at first. Now he stirred\nas a noise of wheels came rattling louder and louder along the\nroad, until it rushed into the sleepy mist of David’s rest―and\nthere was the stage-coach. He rose, with all his ideas about\nhim. He knew not that the possibility of Wealth or Love or\nDeath had recently stood beside him―all, in the brief hour\nsince he lay down to sleep.\nSleeping or waking, we rarely hear the soft footsteps of\nthe strange things that almost happen. Doesn’t this argue that\nthere is a superintending Providence that, while viewless and\nunexpected events throw themselves continually in our path,\nthere should still exist enough regularity in mortal life for\nus to foresee at least some of the possibilities available to us?\nComplete the commentary by filling in the blank with ONE\nword from the passage.\nCommentary\nThe passage conveys that we are unaware of many events\nin our lives which could our destiny. The\noccurrences are frequent but we do not notice them. Thus,\nwe must wonder if it is better to know all of one’s\npossibilities or if this knowledge is too much for an\nindividual to comprehend.\n4\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_A_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2015_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2015_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2015_A_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "education_2015_B02",
+    "year": 2015,
+    "number": "B-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read two middle school students’ opinions about an English\nlesson posted on the online bulletin board and their teacher’s\nteaching log, and follow the directions.【10 points】\nIn one paragraph, identify ONE feature of the teacher’s lesson\nthat the students liked, and explain TWO reasons why they\nliked it. In another paragraph, address ONE problem with the\nlesson, and suggest TWO solutions from the teacher’s\nstandpoint by supporting them with rationale. Both paragraphs\nmust be based only on the bulletin board and the teaching log\nabove.\n<수고하셨습니다.>\n4\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_B_p03.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

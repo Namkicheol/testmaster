@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "education_2014_B01",
+    "year": 2014,
+    "number": "B-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and follow the directions.【5 points】\nThe population of a certain species tends to remain\nrelatively stable over long periods of time. After domestic\nsheep became established on the island of Tasmania in the\nearly nineteenth century, for instance, their population\nvaried irregularly between 1,230,000 and 2,250,000―less\nthan a factor of 2―over nearly a century. We know this\nbecause sheep were, and still are, very important to the\neconomy of Tasmania, and their numbers were carefully\nrecorded. In sharp contrast, populations of small, short-lived\norganisms may fluctuate wildly over many orders of\nmagnitude within short periods. Populations of the green\nalgae and diatoms that make up the phytoplankton may\nsoar and crash over periods of a few days or weeks. These\nrapid fluctuations overlay changes with longer periods that\noccur, for example, on a seasonal basis.\nFigure 1 Figure 2\nWhy do sheep and algae show such disparate fluctuations\nin population? First of all, sheep and algae differ in their\nsensitivity to environmental change. Because sheep are larger,\nthey have a greater capacity for homeostasis and better\nresist the physiological effects of environmental change.\nFurthermore, the populations of sheep and algae are\ndifferentially affected by birth rate fluctuations. Because\nsheep have a relatively long lifespan, short-term fluctuations\nin birth rate do not greatly affect the overall population at\na given time. Thus, sheep populations possess a high intrinsic\n영 어 (3면\n어\n성 명 : ( )\n4문항 30점 시험 시간 90분\nstability. On the other hand, the lives of single-celled algal\ncells span only a few days, so these intrinsically unstable\npopulations turn over rapidly.\n*homeostasis: the maintenance of a stable equilibrium\nIdentify the figure that represents the fluctuations in sheep\npopulation and explain why the sheep population fluctuated\nthe way the figure depicts. Do NOT copy more than FIVE\nconsecutive words from the passage.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_B_p02.png",
+        "image_count": 6
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

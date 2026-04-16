@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "id": "education_2026_B11",
+    "year": 2026,
+    "number": "B-11",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "interpersonal communication",
+      "information gap",
+      "authentic materials",
+      "speaking activity"
+    ],
+    "parse_source": "2026_전공B.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Identify the ONE characteristic in <A> that Mr. Kang incorporated in modifying his activity in <B> and the ONE characteristic in <A> that Ms. Shin incorporated in modifying her activity in <B>. Then explain your answers with evidence from <B>.",
+    "passage": "<A>\n■ Characteristics of Interpersonal Communication Activities\n1. There is a clearly defined concrete outcome.\n2. There is an information gap between learners.\n3. Input materials are authentic to reflect real-life situations and demands.\n4. There are opportunities for reflection on appropriate language use in a given context.\n5. Language is used as a means of communication, not of practicing specific grammar points.\n\n<B>\n<Mr. Kang's activities>\nOriginal: Read the dialogue aloud from the textbook. Role-play as customer/salesperson. Take turns.\n\nModified: Card A — You are traveling to LA, luggage delayed, $40 voucher to buy necessities. Card B — You are the salesperson. Sell as many items as possible.\n[Items: pants $15, socks $2, T-shirts $7, pajamas $20]\n\n<Ms. Shin's activities>\nOriginal: Take turns asking each other the questions (Do you wash the dishes every day?). Answer in complete sentences using correct object pronoun.\n\nModified: Indicate how much you like or dislike doing the chores on a scale 1–5. Talk with your partner about how much you like or dislike each chore and why.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "발문 및 조건 확인",
+        "explanation": "각 교사의 수정 전/후 활동을 비교해 <A>의 특성 중 수정본에 새롭게 포함된 1개를 찾아야 함. 핵심 방법: 원본 활동에 없던 것이 수정본에 추가되었는가를 각 Characteristic과 대조. Characteristic 1(구체적 결과물), 2(정보 격차), 3(실제 자료), 4(언어 사용 성찰), 5(의사소통 수단).",
+        "key_terms": [
+          "interpersonal communication",
+          "CLT",
+          "information gap",
+          "authentic task"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "Mr. Kang 원본 vs. 수정본 대조",
+        "explanation": "원본: 교과서 대화를 그대로 읽고 역할극 → 두 학생이 같은 텍스트를 읽으므로 정보 격차 없음. Characteristic 2 부재. 수정본: Card A(고객 — 예산 $40, 필요 물품)와 Card B(판매원 — 상품 목록)로 각자 다른 정보 보유 → 서로에게 없는 정보를 교환해야 과제 완수 가능. Characteristic 2(information gap) 새로 포함 ✓",
+        "key_terms": [
+          "information gap",
+          "Card A/B",
+          "Characteristic 2"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "Mr. Kang 다른 Characteristic 소거",
+        "explanation": "Characteristic 1(결과물): 원본에도 역할극 수행이 있으나 수정본에도 명시적 결과물 추가는 아님. Characteristic 3(실제 자료): 여행 중 지연된 수하물 상황은 실제적이지만, 핵심 변화는 정보 격차 도입. Characteristic 5: 원본도 의사소통 지향적. → 가장 명확히 새로 도입된 것은 Characteristic 2.",
+        "key_terms": [
+          "elimination",
+          "Characteristic 2 primary change"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "Ms. Shin 원본 vs. 수정본 대조",
+        "explanation": "원본: 정해진 질문에 올바른 목적격 대명사를 사용해 완전한 문장으로 대답 → 특정 문법 포인트(object pronoun) 연습이 목적. Characteristic 5 부재. 수정본: 1–5 척도로 집안일에 대한 개인 의견 표현 + 이유 설명 → 정해진 문법 구조 없음, 자신의 실제 선호도를 전달하는 의사소통. Characteristic 5(언어를 문법 연습 수단이 아닌 의사소통 수단으로 사용) 새로 포함 ✓",
+        "key_terms": [
+          "language as communication",
+          "grammar practice eliminated",
+          "Characteristic 5"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "최종 확정",
+        "explanation": "Mr. Kang → Characteristic 2: 수정본에서 Card A/B로 정보 격차 도입. Ms. Shin → Characteristic 5: 수정본에서 문법 연습이 아닌 실제 의사소통 목적으로 언어 사용. 각각 원본 활동에 없던 것이 수정을 통해 추가된 것임을 지문 근거로 확인.",
+        "key_terms": [
+          "Characteristic 2 for Mr. Kang",
+          "Characteristic 5 for Ms. Shin"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Information Gap",
+        "definition_en": "A task condition in which two or more participants hold different pieces of information and must communicate with each other to complete a task or solve a problem. Information gaps create genuine communicative need, as meaning exchange cannot be bypassed. This is a defining feature of communicative tasks in CLT.",
+        "definition_ko": "정보 격차 — 두 명 이상의 참여자가 서로 다른 정보를 보유하고, 과제 완수나 문제 해결을 위해 반드시 의사소통해야 하는 과제 조건. 의미 교환을 우회할 수 없으므로 진정한 의사소통 필요를 생성함. CLT 의사소통 과제의 핵심 특성.",
+        "source_author": "Nunan",
+        "source_year": 1989,
+        "related_terms": [
+          "communicative task",
+          "CLT",
+          "meaning negotiation"
+        ],
+        "exam_usage": "Mr. Kang의 수정본: Card A(고객)/Card B(판매원)으로 정보 격차 도입"
+      },
+      {
+        "term": "Communicative Language Teaching (CLT)",
+        "definition_en": "An approach to language teaching that prioritizes the development of communicative competence, viewing language as a tool for meaning-making in real-world contexts. CLT tasks are characterized by authentic purpose, information exchange, and focus on communication rather than form.",
+        "definition_ko": "의사소통 중심 교수법(CLT) — 언어를 실세계 맥락에서 의미 생성의 도구로 보고 의사소통 능력 개발을 우선시하는 교수 접근법. CLT 과제는 실제적 목적, 정보 교환, 형식보다 의사소통 중심이 특징.",
+        "source_author": "Hymes",
+        "source_year": 1972,
+        "related_terms": [
+          "communicative competence",
+          "information gap",
+          "task-based language teaching"
+        ],
+        "exam_usage": "<A>의 5가지 특성이 CLT 원리를 반영"
+      },
+      {
+        "term": "Language as Communication vs. Grammar Practice",
+        "definition_en": "A distinction central to CLT: in grammar-focused activities, language production is a vehicle for demonstrating correct form; in communicative activities, language is the means through which learners express genuine meaning and achieve real-world goals. Characteristic 5 in <A> captures this distinction.",
+        "definition_ko": "의사소통 수단 vs. 문법 연습 — CLT의 핵심 구분: 문법 중심 활동에서는 언어 산출이 올바른 형식 시연 수단이지만, 의사소통 활동에서는 학습자가 실제 의미를 표현하고 실세계 목적을 달성하는 수단. <A>의 Characteristic 5가 이 구분을 포착함.",
+        "source_author": "Widdowson",
+        "source_year": 1978,
+        "related_terms": [
+          "CLT",
+          "focus on form",
+          "meaningful communication"
+        ],
+        "exam_usage": "Ms. Shin의 원본(object pronoun 연습) → 수정본(의견 표현 의사소통)의 차이 근거"
+      },
+      {
+        "term": "Interpersonal Communication Activity",
+        "definition_en": "A task type in which learners exchange information, ideas, or opinions with a partner or group, characterized by genuine meaning negotiation, a communicative goal, and use of language as a real interactional tool rather than a formal display.",
+        "definition_ko": "대인 의사소통 활동 — 학습자가 파트너나 그룹과 정보·아이디어·의견을 교환하는 과제 유형. 진정한 의미 협상, 의사소통 목표, 형식 과시가 아닌 실제 상호작용 수단으로서 언어 사용이 특징.",
+        "source_author": "Nunan",
+        "source_year": 1989,
+        "related_terms": [
+          "CLT",
+          "information gap",
+          "task-based teaching"
+        ],
+        "exam_usage": "<A>의 특성 목록 전체가 대인 의사소통 활동의 기준을 제시"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Mr. Kang incorporated Characteristic 2 (information gap). In the original activity, both students read the same textbook dialogue, so there was no information gap. In the modified activity, Card A gives the customer a budget and needs, while Card B gives the salesperson a price list — each student has different information, creating a genuine information gap.\n\nMs. Shin incorporated Characteristic 5 (language as communication, not grammar practice). The original activity required students to answer using the correct object pronoun, focusing on grammar. The modified activity asks students to share their personal opinions about chores and give reasons, using language to communicate real preferences rather than to practice a specific grammar point.",
+      "scoring_criteria": [
+        {
+          "criterion": "Mr. Kang → Characteristic 2 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Characteristic 2 근거: Card A/B 서로 다른 정보 → 정보 격차",
+          "points": 1
+        },
+        {
+          "criterion": "Ms. Shin → Characteristic 5 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Characteristic 5 근거: 문법 연습(원본) → 의견 표현 의사소통(수정본)",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Mr. Kang applied Characteristic 2: the modified activity creates an information gap since Card A (customer) and Card B (salesperson) contain different information that students must exchange to complete the task. Ms. Shin applied Characteristic 5: rather than practicing object pronouns, students in the modified activity express genuine opinions about chores, using language as a real communicative tool."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "Characteristic 2 is reflected in Mr. Kang's modification because each student holds unique information — the customer has a budget constraint while the salesperson has a product list — requiring true exchange to achieve the outcome. Characteristic 5 is reflected in Ms. Shin's modification because students discuss personal preferences and reasons rather than producing grammatically correct responses to fixed questions."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Nunan, D.",
+        "title": "Designing Tasks for the Communicative Classroom",
+        "year": 1989,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 54–60",
+        "excerpt": "A <span class=\"ref-hl\">communicative task</span> involves an <span class=\"ref-hl\">information gap</span>: participants must <span class=\"ref-hl\">exchange information</span> they do not share, and language serves as the primary instrument for achieving this exchange."
+      }
+    ],
+    "concept_explanation": "Interpersonal communication activities are distinguished from mechanical drills by five key characteristics: (1) a concrete outcome, (2) an information gap, (3) authentic materials, (4) opportunities for language reflection, and (5) language used to communicate rather than to practice form. An information gap (Characteristic 2) is present when participants hold different information that must be exchanged to complete the task; without it, communication is merely performative. Language as communication (Characteristic 5) is realized when learners express genuine meaning rather than demonstrating a target grammatical structure.\n  (대인 의사소통 활동은 기계적 드릴과 달리 5가지 핵심 특성으로 구분된다: ① 구체적 결과물, ② 정보 격차, ③ 실제 자료, ④ 언어 사용 성찰 기회, ⑤ 형식 연습이 아닌 의사소통 수단으로서 언어 사용. 정보 격차(Characteristic 2)는 참여자가 서로 다른 정보를 보유하고 교환해야 과제가 완수될 때 성립한다. 의사소통 수단으로서 언어 사용(Characteristic 5)은 목표 문법 구조 시연이 아닌 실제 의미 표현 시 실현된다.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

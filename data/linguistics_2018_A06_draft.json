@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2018_A06",
+    "year": 2018,
+    "number": "A-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage and follow the directions.【2 points】\nA king. He waits. A musician enters.\nKing : Ah. Didn’t see you come in. You’re a ... .\nComposer: Bachweist, your Majesty.\nKing : And what can you do for me?\nComposer: I can make you immortal.\nKing : Already been taken care of.\nComposer: I can delight you.\nKing : Kings don’t delight, Bachweist, children delight.\nComposer: I can carry you away on gossamer wings of\nmelody.\nKing : Bachweist, you better kneel down. [Bachweist\ndoes.] I’m not interested in your talent, man, it’s\nperipheral to the real business of governing, or\neven living for that matter. Oh, it’s useful with\nwomen, but my position is a stronger attraction\nthan that. Only other musicians could possibly\nbe interested in music in any meaningful way.\nAnd critics, of course, as a way of making a\nreputation. No, Bachweist, what I want from\nyou is the following: a few ceremonial pieces on\ndemand, hummable, naturally. A printable\nparagraph on my respect for and understanding\nof art. Some good groveling to make clear my\nposition, and a resolute and articulated belief\nthat you haven’t been censored in anyway.\nSatire might sometime be a problem, Bachweist,\nbut that’s beyond the province of serious music,\nin any case.\nComplete the commentary below by filling in the blank with the\nTWO most appropriate consecutive words from the passage.\nThe king is not satisfied with the composer’s replies as\nto the possible services that he can offer. What is interesting,\nthough, is the way the king clarifies his dissatisfaction.\nHe has the composer “groveling” not just figuratively\nbut also literally by commanding the composer to\n, a command that makes clear his\n“position.”\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "id": "linguistics_2026_A04",
+    "year": 2026,
+    "number": "A-4",
+    "subject": "linguistics",
+    "linguistics_domain": "phonology",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": [
+      "geminate consonants",
+      "long consonants",
+      "monomorphemic",
+      "phonology"
+    ],
+    "parse_source": "2026_linguistics_A.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Fill in the blank with the ONE most appropriate word.",
+    "passage": "In English, a lot of words include double consonants in their spellings, which do not reflect their actual pronunciation. To elaborate further, double consonants in spellings normally are not articulated for a longer period of time than the corresponding single consonants, as shown in (1).\n\n(1) belly [bɛli], *[bɛl:i]\nnarrow [næɹoʊ], *[næɹ:oʊ]\npenny [pɛni], *[pɛn:i]\ncomment [kɑmɛnt], *[kɑm:ɛnt]\nmessage [mɛsɪʤ], *[mɛs:ɪʤ]\neffort [ɛfəɹt], *[ɛf:əɹt]\ncabbage [kæbɪʤ], *[kæb:ɪʤ]\nhippo [hɪpoʊ], *[hɪp:oʊ]\n\nIn contrast with the words in (1), the words or phrases in (2) are pronounced with long consonants, which are marked with ':'.\n\n(2) milkcrate [mɪlk:ɹeɪt]  house sale [haʊs:eɪl]\nunknown [ʌn:oʊn]  ill-looking [ɪl:ʊkɪŋ]\n\nThe data in (1) and (2) indicate that [BLANK] are not allowed in monomorphemic English words, while they can be created when words are compounded or combined with certain affixes.\n\nNote: '*' indicates unattested pronunciation.",
+    "blanks": [
+      {
+        "label": "빈칸",
+        "context": "___ are not allowed in monomorphemic English words"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "음운론(phonology) 영역. 영어의 장자음(long consonant) 허용 조건에 관한 문제. 빈칸은 ONE word. 'monomorphemic English words'에 허용되지 않는 음운 현상을 기술적 용어로 채워야 함. 반면 (2)의 복합어/파생어에서는 허용됨을 대비 구조로 파악.",
+        "key_terms": [
+          "geminate",
+          "long consonant",
+          "monomorphemic"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응 — 데이터 해석",
+        "explanation": "(1) 데이터: belly [bɛli] ← *[bɛl:i], penny [pɛni] ← *[pɛn:i] 등 → 철자상 이중자음이지만 발음상 장자음 불가. 단일형태소 내부.\n(2) 데이터: milk-crate [mɪlk:ɹeɪt], un-known [ʌn:oʊn] → 형태소 경계에서 장자음 가능.\n결론: 장자음(geminate) = 단일형태소 내 금지 / 형태소 경계에서 허용.",
+        "key_terms": [
+          "geminate constraint",
+          "morpheme boundary"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "후보 소거 — 기술적 용어 특정",
+        "explanation": "후보: long consonants / double consonants / geminates\n→ 'long consonants': 지문에서 사용되나 기술적 용어로는 덜 정확.\n→ 'double consonants': 지문에서 철자 표기 용어로 사용 → 음운 단위 아님.\n→ 'geminates': 음운론 표준 용어. 장자음을 가리키는 학술 용어(Kenstowicz 1994). 발문 빈칸 구조 'that ___ are not allowed'에서 복수 명사 형태 'geminates' 적합.",
+        "key_terms": [
+          "geminates",
+          "geminate consonants"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 지문 직접 근거",
+        "explanation": "빈칸 문장: 'that ___ are not allowed in monomorphemic English words, while they can be created when words are compounded or combined with certain affixes.'\n→ (1)에서 장자음 발음이 asterisk(*) 처리 = 비규범 발음 = 허용 안 됨.\n→ (2)에서 복합어·파생어에서만 장자음 생성 = 형태소 경계에서 허용.\n→ 이 현상의 음운론 용어 = geminates (geminate consonants도 허용).",
+        "key_terms": [
+          "geminates"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "음운론 geminate 제약 출제 패턴: 단일형태소 vs 형태소 경계 대비 데이터 제시 → 해당 음운 현상 용어 채우기. 기술적 용어(geminates)와 일상 표현(long consonants, double consonants)을 구별할 것. 빈칸 앞뒤 구조(복수 주어 'are not allowed')로 품사·수 확인 필수.",
+        "key_terms": [
+          "geminate constraint",
+          "OCP (Obligatory Contour Principle)"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Geminate (consonant)",
+        "definition_en": "A long consonant represented phonetically with the length mark [C:], produced by an articulation held for a longer duration. Prohibited within monomorphemic English words but possible across morpheme boundaries.",
+        "definition_ko": "장자음 — [C:]로 표기되는 길게 발음되는 자음. 영어 단일형태소 내부에서 금지되나 형태소 경계에서는 가능.",
+        "source_author": "Kenstowicz",
+        "source_year": 1994,
+        "related_terms": [
+          "OCP",
+          "long consonant",
+          "monomorphemic"
+        ],
+        "exam_usage": "빈칸: 단일형태소에서 금지되는 음운 현상 = geminates"
+      },
+      {
+        "term": "Obligatory Contour Principle (OCP)",
+        "definition_en": "A phonological principle that prohibits adjacent identical elements at the same level of representation, accounting for the ban on geminates within morphemes in many languages.",
+        "definition_ko": "의무대조원리 — 동일 음운 단위의 인접을 금지. 영어 단일형태소 내 장자음 금지의 이론적 근거.",
+        "source_author": "Kenstowicz",
+        "source_year": 1994,
+        "related_terms": [
+          "geminate",
+          "phonological constraint"
+        ],
+        "exam_usage": "geminate 제약의 이론적 배경으로 제시 가능"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "geminate",
+        "pos": "n./adj.",
+        "definition_ko": "장자음, 겹자음 — 두 개의 동일 자음이 연속하여 길게 발음되는 것",
+        "example": "belly *[bɛl:i] — geminate /l:/ not allowed"
+      },
+      {
+        "word": "monomorphemic",
+        "pos": "adj.",
+        "definition_ko": "단일 형태소로 이루어진 — 단 하나의 형태소로 구성된 단어",
+        "example": "belly, narrow, penny = monomorphemic words"
+      }
+    ],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "빈칸",
+          "answer": "geminates"
+        }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        {
+          "criterion": "geminates (또는 geminate consonants / long consonants)",
+          "points": 2
+        }
+      ]
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Kenstowicz, M.",
+        "title": "Phonology in Generative Grammar",
+        "year": 1994,
+        "publisher": "Blackwell",
+        "pages": "pp. 354–360",
+        "excerpt": "<span class=\"ref-hl\">Geminates</span> are <span class=\"ref-hl\">prohibited</span> word-internally in English monomorphemic words; however, they arise at morpheme boundaries through concatenation."
+      },
+      {
+        "type": "textbook",
+        "author": "Fromkin, V., Rodman, R., & Hyams, N.",
+        "title": "An Introduction to Language (11th ed.)",
+        "year": 2018,
+        "publisher": "Cengage Learning",
+        "pages": "Ch. 7",
+        "excerpt": "English does not permit long (<span class=\"ref-hl\">geminate</span>) consonants <span class=\"ref-hl\">within a single morpheme</span>, though sequences of identical consonants may arise across morpheme boundaries."
+      }
+    ],
+    "concept_explanation": "Geminate consonants in English (Kenstowicz 1994):\n\nGeminates [C:] are prohibited within monomorphemic (single-morpheme) English words.\n  (장자음은 영어 단일형태소 내부에서 허용되지 않음.)\n  belly [bɛli] ✓  *[bɛl:i] ✗\n  penny [pɛni] ✓  *[pɛn:i] ✗\n\nHowever, geminates CAN be created at morpheme boundaries:\n  (형태소 경계에서는 장자음 가능.)\n  milk+crate → [mɪlk:ɹeɪt] ✓\n  un+known → [ʌn:oʊn] ✓\n  ill+looking → [ɪl:ʊkɪŋ] ✓\n\nTheoretical basis: Obligatory Contour Principle (OCP) — prohibits adjacent identical elements within a morpheme.\n  (이론적 근거: 의무대조원리 — 형태소 내 동일 음운 인접 금지.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

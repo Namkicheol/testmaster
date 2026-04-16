@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2021_B05",
+    "year": 2021,
+    "number": "B-5",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passage and follow the directions.【4 points】\n<A>\nTo account for some syntactic phenomena in English, we\ncan resort to phrasal categories such as VP, TP, CP, and so on.\nFirst, let us assume that only constituents which belong to the\nsame phrasal category can be coordinated. For example, NP\ncan conjoin with another NP, but not with AP.\n(1) a. The student or the teacher\nb. *The student or very pretty\nThe same restriction also holds true with clausal structures.\nThe bracketed structures in (2a) and (2b) are clearly different,\nsince they cannot be coordinated by the conjunction or, as\nshown in (2c).\n(2) a. We didn’t intend [you to hurt him].\nb. We didn’t intend [for him to hurt you].\nc. *We didn’t intend [you to hurt him] or [for him to hurt\nyou].\nSo, based on the phrasal category and the assumption about\ncoordination, we can explain the ungrammaticality of the\nsentences such as (2c).\nSecond, the restriction on wh-cleft sentences can also be\nattributed to phrasal categories.\npostpone the meeting]. (3) What I’ll do is [\nVP\nVP can be in the focus position (the position after be verb) of\nwh-cleft sentences like (3). Consider further the following\nexamples.\nØ PRO to behave himself]. (4) a. Bill promised [\nCP\nb. What Bill promised was [ Ø PRO to behave himself].\nCP\n(5) a. They believe [ him to be innocent].\nTP\nb. *What they believe is [ him to be innocent].\nTP\nThe verb promise in (4a) is known to take a CP\n(Complementizer Phrase) complement which is headed by a\nnull complementizer Ø, and we find that CP can be in the\nfocus position, as shown in (4b). Meanwhile, in (5a), the verb\nbelieve requires a TP (Tense Phrase) complement, and from\nthe ungrammaticality of (5b), it is clear that TP cannot be in\nthe focus position of a wh-cleft sentence. Thus, based on the\ntypes of phrasal categories, we can explain the restriction on\nwh-cleft sentences.\nNote 1: ‘*’ indicates the ungrammaticality of the sentence.\nNote 2: ‘PRO’ is a null pronoun which represents the understood subject of\nsome infinitive clauses.\n<B>\n(i) She argued persuasively or that their offer should be\nrejected.\n(ii) They offered us a choice of red wine, white wine, or beer.\n(iii) What he claims is that he was insulted.\n(iv) What we hadn’t intended was you to get hurt.\nBased on <A>, choose ONE ungrammatical sentence between (i)\nand (ii) in <B> and ONE grammatical sentence between (iii) and\n(iv) in <B>. Then, explain why the chosen sentences are\nungrammatical or grammatical on the basis of the description in <A>.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

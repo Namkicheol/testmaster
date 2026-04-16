@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2024_B05",
+    "year": 2024,
+    "number": "B-5",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passage and follow the directions.【4 points】\nThe scope of negation is the part of the sentence that the\nnegative applies to semantically. Scope is best understood by\nexamining the ambiguity of (1) as shown in (2):\n(1) The editor did not find many mistakes in the paper.\n(2) a. The editor is not very good, and although there were\nmany mistakes he did not find them.\nb. The editor searched thoroughly for mistakes, but the\npaper did not have many mistakes in it.\nWhen we express the variations in meaning using scope, in\n(2a) we have a situation where many has scope over the\nnegative: many > not. By contrast, in (2b), the negative has\nwide scope over many: not > many.\nThe scope interpretation is also found with the negative and\nan adverb. In (3), the negative and the adverb show different\nrelations pertaining to scope, each of which reflects the linear\norder at surface structure.\n(3) a. I did not omit my name deliberately.\nb. I deliberately did not omit my name.\nIn (3a), the negative has scope over the adverb (not >\ndeliberately): omitting my name was not something I made a\npoint of doing. In (3b), however, the adverb has scope over the\nnegative (deliberately > not): I made a point of not omitting\nmy name.\nHowever, the scope interpretation does not always conform\nto the linear order at surface structure as in (3). Consider in (4)\nthe two modal auxiliaries, expressing deontic necessity, in relation\nto the negative.\n(4) a. You must not tell anyone about it.\nb. You need not tell anyone about it.\nBased on the passage, state which word has scope over the other\nfor each sentence in (4). Then describe the meaning of each\nsentence using the structural frame ‘necessary that.’",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

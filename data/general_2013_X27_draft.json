@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "general_2013_X27",
+    "year": 2013,
+    "number": "X-27",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "27. Read <A> and <B> and answer the question. [2.5점]\n<A>\nBelow are the results from a 10-item test that Mr. Park\ngave to his 11 students to compare their English abilities.\nBased on the test results, Mr. Park divided the students into\ngroups−upper, middle, and lower. He wanted to three\ndetermine the effectiveness of the test by examining item\nfacility (IF) and item discrimination (ID). To calculate IF,\nMr. Park divided the number of students who correctly\nanswered a particular item by the total number of students\nwho took the test. ID indicates the degree to which an item\nseparates the students who performed well from those who\ndid poorly on the test as a whole. Mr. Park used the\nfollowing formula to calculate the ID for each item: ID=\nIF －IF .\nupper lower\nTest Results\nItems\nGroups Students Total\n1 2 3 4 5 6 7 8 9 10\nA 1 1 1 1 1 1 1 1 1 1 10\nB 1 0 1 1 1 1 1 1 1 1 9\nUpper\nC 1 0 1 0 1 1 1 1 1 1 8\nD 1 1 0 1 1 1 1 0 1 1 8\nE 0 1 0 1 1 1 1 1 0 0 6\nMiddle F 1 0 1 1 1 0 1 0 1 0 6\nG 1 1 0 0 1 0 1 0 1 1 6\nH 1 1 0 0 1 0 1 0 0 0 4\nI 0 0 0 0 1 1 0 0 1 1 4\nLower\nJ 0 1 1 0 0 0 0 0 1 1 4\nK 1 0 0 1 1 1 0 0 0 0 4\nTotal 8 6 5 6 10 7 8 4 8 7\n1=a correct response; 0=an incorrect response\n<B>\na. The test is criterion-referenced, assessing the extent to\nwhich the students achieved the goals of the class.\nb. Item 2 does not distinguish the upper level students\nfrom the lower level students.\nc. The ID values for Item 3 and Item 10 turned out to be\nthe same.\nd. All 10 items have IF values which are greater than 0.4.\nWhich of the following lists all and only the correct\nstatements in <B> about the test and its results described in\n<A>?\na, b a, d b, c ① ② ③\nb, c, d b, d ④ ⑤\n영 어 (15면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2013_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2013_X_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2013_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2013_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2013_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2013_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2013_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2013_X_p11.png",
+        "image_count": 2
+      },
+      {
+        "page": 12,
+        "file": "images/img_2013_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2013_X_p13.png",
+        "image_count": 2
+      },
+      {
+        "page": 14,
+        "file": "images/img_2013_X_p14.png",
+        "image_count": 1
+      },
+      {
+        "page": 15,
+        "file": "images/img_2013_X_p15.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

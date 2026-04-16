@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2019_X10",
+    "year": 2019,
+    "number": "X-10",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the poem and follow the directions.【4 points】\nPromise me no promises,\nSo will I not promise you;\nKeep we both our liberties,\nNever false and never true:\nLet us hold the die uncast,\nFree to come as free to go;\nFor I cannot know your past,\nAnd of mine what can you know?\nYou, so warm, may once have been\nWarmer towards another one;\nI, so cold, may once have seen\nSunlight, once have felt the sun:\nWho shall show us if it was\nThus indeed in time of old?\nFades the image from the glass\nAnd the fortune is not told.\nIf you promised, you might grieve\nFor lost liberty again;\nIf I promised, I believe\nI should fret to break the chain:\nLet us be the friends we were,\nNothing more but nothing less;\nMany thrive on frugal fare\nWho would perish of excess.\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the poem. Then, explain what\nthe underlined part means. Do NOT copy more than TWO\nconsecutive words from the poem.\n<Commentary>\nIn the poem the speaker tells the man, “Promise me no\npromises.” She is unwilling to be committed to the man,\nsuggesting that they should remain as .\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2017_A01",
+    "year": 2017,
+    "number": "A-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the dialogue and follow the directions.【2 points】\nStudent—teacher Meeting\nT: Well, looking back over the last twelve weeks, I can see\nthat you have written many drafts for the three essay\nwriting assignments.\nS: Yes, I have. I have a lot of things here.\nT: Of all your essays, which one do you think is the best?\nS: I think the persuasive essay I wrote is the best.\nT: What makes you think so? Maybe you can tell me how\nyou wrote it.\nS: Well ... I think the topic I chose was quite engaging. I\nenjoyed the writing process throughout. And it feels good\nbeing able to see the progress I’ve made.\nT: Yes, that’s the benefit of this kind of project. I can see\nsome improvement in your use of transitions. Your ideas\nare nicely connected and organized now.\nS: Thanks. What else should I include?\nT: Well, did you work on the self-assessment form and the\nediting checklist?\nS: Yes, I did. I completed them and included them with all\nof my drafts right here.\nby T: Perfect! I’ll be able to finish grading all of your work\nthe end of next week.\nNote: T=teacher, S=student\nComplete the following by filling in both blanks with ONE\nword. (Use the SAME word.)\ncan include essays, reports, journals, video-\nor audio-recorded learner language data, students’ self-assessment,\nteachers’ written feedback, homework, conference forms, etc.\nAs collections of these items, can be useful\nfor assessing student performance in that they can lead\nstudents to have ownership over their process of learning and\nallow teachers to pay attention to students’ progress as well as\nachievement.\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n14문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

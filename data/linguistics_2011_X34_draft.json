@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "linguistics_2011_X34",
+    "year": 2011,
+    "number": "X-34",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "34. Read <A> and <B> and answer the question. [2.5점]\n<A>\nConsider the following sentences:\n(1) Jimmy was looking at it.\nit. (2) Jimmy was looking into\n(=Jimmy was investigating it.)\nSuperficially, both at in (1) and into in (2) appear to be\nprepositions following an intransitive verb. However, they\nare clearly distinguishable in terms of certain syntactic\npatterns. In a wh-question, for instance, we can front at in\n(1), but not into in (2), as seen below.\n(1a) What was Jimmy looking at?\n(1b) At what was Jimmy looking?\n(2a) What was Jimmy looking into?\n(2b) *Into what was Jimmy looking?\nThis contrast suggests that into in (2) makes up a\nsyntactic unit with the verb look rather than with the object\nit. Notice that (2) is also different from (3) below in terms\nof the possibility of separating verb phrases: Up in (3)\nmust be separated from the verb, whereas into in (2) must\nnot.\n(2) Jimmy was looking into it.\n(2') *Jimmy was looking it into.\n(3) *Jimmy was looking up it.\n(3') Jimmy was looking it up.\n<B>\na. The captain doesn’t seem to agree with the sergeant\nmajor.\nb. We couldn’t but put off the softball game due to the\nterrible weather.\nc. Susan came across an old picture of her mother in the\ndesk drawer.\nd. The customs officer checked out everything I brought\nfrom China.\ne. I think I will go over this article and write a summary.\nBased on <A>, which of the underlined phrases in <B> show\nthe same pattern as look into in (2)?\na, b, d a, c a, c, e ① ② ③\nb, d, e c, e ④ ⑤\n11\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2011_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2011_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2011_X_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2011_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2011_X_p08.png",
+        "image_count": 2
+      },
+      {
+        "page": 9,
+        "file": "images/img_2011_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2011_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2011_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2011_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2011_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2011_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

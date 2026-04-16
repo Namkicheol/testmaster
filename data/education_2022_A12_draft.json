@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_A12",
+    "year": 2022,
+    "number": "A-12",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nDigital technology provides students with a new battery of\ntools with which language can be learned effectively. Below\nare some apps that students can use for their English learning.\n∙App 1\n∙App 2\n∙App 3\n영 어 [전공A]\n<B>\nMinsu’s Case\nMinsu is very active in English classes and always looks for\nopportunities to speak English with other people. Since he\nlives in Korea, where English is not usually used outside the\nclassroom, it is difficult to find English conversation partners.\nHe once tried a conversation program where he spoke with\nnative speakers on the phone. However, the program seemed\ntoo rigid in that he could only practice at designated times and\nwith predetermined contents. Now, he wants to find an app\nwhere he can talk with partners whenever he wants and apply\nwhat he learns in the English class while speaking in a more\nnatural context.\nJieun’s Case\nJieun is afraid of speaking in English. But she was not like\nthat before. She used to be outgoing and willing to\ncommunicate with people in English whenever she could.\nHowever, sometimes people didn’t understand her and kept\nasking her to repeat the words she had just said. When she\nconsulted her English teacher about the issue, the teacher\nadvised her to focus on practicing pronunciation of words.\nNow, she is looking for an app which could help her practice\npronouncing English words accurately.\nBased on <A>, identify the ONE most appropriate English\nlearning app for Minsu and Jieun, respectively. Then, explain\nyour answers with evidence from <B>.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

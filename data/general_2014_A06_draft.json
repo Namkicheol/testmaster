@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2014_A06",
+    "year": 2014,
+    "number": "A-6",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage and follow the directions.【2 points】\nWe are born, each of us, with such self-centeredness that\nonly the fact of being babies, and therefore cute, saves us.\nGrowing up is largely a matter of growing out of that\ncondition: we soak in impressions, and as we do so we\ndethrone ourselves―or at least most of us do―from our\noriginal position at the center of the universe. It is like\ntaking off in an airplane: the establishment of identity\nrequires recognizing how relatively small we are in the\nlarger scheme of things. Remember how it felt to have your\nparents unexpectedly produce a younger sibling, or abandon\nyou to the tender mercies of kindergarten? Or what it was\nlike to enter your first public or private school? Or as a\nteacher, to confront your first classroom filled with sullen,\nsquirmy, slumbering, solipsistic students? Just as you have\ncleared one hurdle, another is set before you. Each event\ndiminishes your authority at just the moment at which you\nthink you have become an authority.\nIf that is what maturity means in human relationships―\nthe arrival at identity by way of relative insignificance―\nthen I would define historical consciousness as the\nprojection of that maturity through time. We understand\nhow much has preceded us, and how unimportant we are\nin relation to it. We learn our place, and we come to realize\nthat it is not a large one. Even a superficial acquaintance\nwith the existence, through millennia of time, of\nnumberless human beings helps to correct the normal\nadolescent inclination to relate the world to oneself instead\nof relating oneself to the world. As historian Geoffrey\nElton pointed out, “History teaches those adjustments and\ninsights which help the adolescent to become adult, surely\na worthy service in the education of youth.”\nComplete the main idea by filling in the blank with TWO\nconsecutive words from the passage.\nHistory helps us mature by making us realize the\nof ourselves in a wider context.\n2\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

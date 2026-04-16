@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2016_A12",
+    "year": 2016,
+    "number": "A-12",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the passage in <A> and the conversation in <B>,\nand follow the directions.【4 points】\n<A>\nMr. Jeon’s Thoughts\nThere are various types of teacher corrective feedback on\nlearners’ grammatical errors, including clarification request,\nelicitation, metalinguistic feedback and recast. I believe that\ncorrective feedback may not have an immediate impact but\nit should meet certain requirements in order to facilitate\nlanguage learning. I think corrective feedback should not\nexplicitly indicate that an error has occurred so that it does\nnot embarrass the learner inadvertently and disrupt the flow\nof ongoing communication. I also find it important that\ncorrective feedback should contain a targetlike alternative to\nthe learner’s ill-formed output. Such an alternative form\nenables the learner to make a comparison of his or her\nproblematic form and its correct form, which constitutes a\ncognitive process facilitative of language learning.\n<B>\nS: I am very worried.\nT: Really? What are you worried about, Minjae?\nS: Math exam for tomorrow. I don’t studied yesterday.\nT: You didn’t study yesterday?\nS: No, I didn’t studied.\nT: Please tell me why. What happened?\nS: I did volunteering all day long. So I don’t had time to\nstudy.\nT: Well, Minjae, “don’t had” is not the right past tense\nform.\nS: Uh, I didn’t had time, time to study.\nNote:T=teacher, S=student\nIdentify the teacher’s TWO corrective feedback utterances in\n<B> and select their respective type from those mentioned in\n<A>. Then explain how only ONE of the utterances meets\nwhat Mr. Jeon believes is required for effective corrective\nfeedback in <A>.\n7\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

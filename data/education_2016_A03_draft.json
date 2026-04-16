@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2016_A03",
+    "year": 2016,
+    "number": "A-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the activity procedure and identify the type of learning\nactivity with ONE word.【2 points】\nActivity Procedure\n∙T places various information on a different\njob in each of the four corners in the\nclassroom. (Each corner is labelled with a\ndifferent letter, A, B, C, or D.)\nStep 1\n∙T assigns individual Ss a letter (A, B, C,\nor D) in order to create four groups of\nfour Ss, each of which is a base group\ncomposed of A to D.\n∙T provides Ss in each base group with\nhandouts. (Each handout has a set of\nquestions about four different jobs.)\n∙T helps Ss understand that they should be\ninterdependent upon one another not only\nStep 2\nfor their own learning but also for the\nlearning of others throughout the activity.\n∙T informs Ss which corner to go to based\non their letter in order to form four\ndifferent expert groups.\n∙Ss move to their expert groups and\nfind out information about different\njobs through discussions and answer the\nStep 3\nquestions on the handouts.\n∙T circulates within the groups and makes\nsure each of the Ss has all the answers.\n∙Ss return to their initial base groups\nand exchange the information through\ndiscussing what they learned in the expert\nStep 4 groups.\n∙All the base groups present their findings\nto the whole class and decide which job\nthey would like most.\nNote:T=teacher, S=student\n영 어 (8면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

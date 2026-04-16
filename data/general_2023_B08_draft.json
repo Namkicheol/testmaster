@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2023_B08",
+    "year": 2023,
+    "number": "B-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【4 points】\nTunnel vision is an experience common to almost\neveryone. While experiencing tunnel vision, the world seems\nto shrink and the field of vision narrows, as if the person is\nlooking through a tube or pipe. Attention focuses on one or\ntwo small details, context is lost, and understanding becomes\nvery difficult. This is the consequence of the brain’s limited\nability to process visual stimuli. Tunnel vision occurs when\nyour mind receives too many bits of visual information that do\nnot make sense as part of a larger system. There are two main\ncauses of tunnel vision as follows.\nA general lack of background and/or contextual knowledge\nis the first major cause of tunnel vision. Learners with a\nweakness in art or physical education might suffer from\ntunnel vision when they attempt to paint or remember the\nrules of baseball. Their lack of background knowledge in\npainting and baseball might cause them to lose track of the\nlarger flow of a game or piece of art, even if they are\notherwise effective learners.\nPoor reading habits are the second major cause of tunnel\nvision. Slow reading is one such bad habit. Many people read\nslowly because they are afraid they will not comprehend\neverything if they speed up. Reading too slowly encourages\nthe brain to obsess over each little feature of a text and creates\na perfect situation for tunnel vision to arise. It clogs up the\nvisual system with too many individual letters and words.\nAs mentioned above, tunnel vision is most likely to occur\ndue to a general lack of background information and/or poor\nreading habits. If there is a lack of contextual knowledge, then\nthe learner must seek elsewhere to acquire it. When you\nstruggle as a reader, speeding up might cure your tunnel\nvision.\nWrite a summary following the guidelines below.\n<Guidelines>\nSummarize the above passage in one paragraph.\nProvide a topic sentence, two supporting ideas, and a\nconcluding sentence based on the passage.\nDo NOT copy more than FIVE consecutive words from the\npassage.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

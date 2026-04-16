@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2023_B09",
+    "year": 2023,
+    "number": "B-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nAutomation fundamentally alters the way we behave or\nthink. When we work with computers, we often fall victim to\ntwo cognitive ailments―complacency and bias―that can\nmake us error-prone. Automation complacency occurs when a\ncomputer lulls us into a delusion of security. Confident that\nthe machine will work flawlessly and handle any problem that\ncrops up, we become inattentive. We become disengaged\nfrom our work, and the things going on around us fade into the\nbackground. Automation bias occurs when we place too much\nfaith in the accuracy of the information coming through our\nmonitors. Our trust in the software becomes so strong that we\nignore or discount other information sources, including our\nown eyes and ears. When a computer provides incorrect or\ninsufficient data, we remain oblivious to the error. Indeed,\nautomation turns us from actors into observers. That shift may\nmake our lives easier, but it can also inhibit the development\nof .\nIn the small island of Igloolik located in northern Canada,\nInuit hunters have for some 4,000 years ventured out from\ntheir homes and traveled across miles of ice and tundra to\nsearch for game. The hunters have navigated vast stretches of\nthe barren Arctic terrain, where landmarks are few, snow\nformations are in constant flux, and trails disappear overnight.\nThe extraordinary way the Inuit can discover the best paths is\nborn of their prolonged struggles with winds, snowdrift\npatterns, stars, and tides. Inuit culture, however, is changing\nnow. The Igloolik hunters have begun to rely on\ncomputer-generated maps to get around, but reports of serious\naccidents during hunts have spread. A hunter who hasn’t\ndeveloped an independent means of finding his way can easily\nbecome lost, particularly if his GPS receiver fails. The routes\nso meticulously plotted on satellite maps can also lead them\nonto thin ice or into other hazards a skilled navigator would\navoid. The GPS has already brought a deterioration in how\nthey intuitively adjust for changing conditions.\nTo know demands action: each time we collide with the\nreal, we deepen our knowledge of the world and become more\nfully part of it. While we’re wrestling with a difficult task, we\nmay be motivated by an anticipation of the ends of our labors,\nbut it’s the work itself―the means―that makes us who we\nare. Computer automation severs the ends from the means. It\nmakes getting what we want easier, but it divorces us from the\nvery struggles that make our desires meaningful. As we\ntransform ourselves into creatures who watch the screen\nrather than manipulate the yoke, we face an existential\nquestion: Does our essence still lie in what we know, or are we\nnow content to be defined by what we want? If we don’t\ngrapple with that question ourselves, our gadgets will be\nhappy to answer it for us.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means. Do NOT\ncopy more than FOUR consecutive words from the passage.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

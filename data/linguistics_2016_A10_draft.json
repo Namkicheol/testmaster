@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2016_A10",
+    "year": 2016,
+    "number": "A-10",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage in <A> and the sentences in <B>, and\nfollow the directions.【4 points】\n<A>\nThere are two kinds of events or situations that\npredicates describe in sentences: One is telic and the other\natelic. A telic event is the kind of event that has a natural\nfinishing point and once it is completed, it cannot go on\nany further as shown in (1). In contrast, an atelic event\ndoes not have a natural finishing point and it can go on and\non as shown in (2).\n(1) a. They built the barn.\nb. They reached the summit.\n(2) a. The room was sunny.\nb. The choir sang.\nOne of the tests for telicity is modification of the event\nduration by an adverbial led by in or for. Telic predicates\ntake in adverbials; atelic predicates take for adverbials, as\nshown in (3-5) below. In the sentences describing a telic\nevent in (3-4), in adverbials have either the event duration\ninterpretation as in (3a) or the event delay interpretation as\nin (4a). In the latter interpretation, the time which elapses\nprior to the event is specified by in adverbials, and the\nevent occurs at the end of the stated interval. Meanwhile,\nin the sentences describing an atelic event as in (5), for\nadverbials have the event duration interpretation only.\n(3) a. They built the barn in two days.\nb. #They built the barn for two days.\n(4) a. They reached the summit in half an hour.\nb. #They reached the summit for half an hour.\n(5) a. #The room was sunny in an hour.\nb. The room was sunny for an hour.\nIt is essential to use simple past tense sentences when we\ndo the above adverbial test; if in adverbials occur in future\ntense sentences, they can modify any type of predicate,\nincluding atelic predicates, and produce the event delay\ninterpretation, as shown in (6a). This in turn leads to the\nfollowing; certain unambiguous sentences with in adverbials\nmay become ambiguous in the future tense as in (6b).\n(6) a. The room will be sunny in an hour.\nb. They will build the barn in two days.\nNote:#indicates that the sentence is anomalous.\n영 어 (8면\n<B>\n(i) a. John walked to the park.\nb. John walked in the park.\n(ii) a. John will arrive at the station in five minutes.\nb. John will eat the pizza in five minutes.\nc. John will play football in five minutes.\nBased on the description in <A>, identify the type of event,\ntelic or atelic, that each sentence of (i) in <B> describes. Then\nchoose ONE ambiguous sentence in (ii) in <B> and explain\nwhy it is ambiguous.\n6\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

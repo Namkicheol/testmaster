@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_B08",
+    "year": 2024,
+    "number": "B-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【4 points】\nA signal is a behavior or structure that alters the actions of\nother organisms, commonly referred to as receivers. Krebs\nand Dawkins describe animal signaling as an arms race\nbetween “manipulators” (signalers) and “mind-readers”\n(receivers). A signaler has private information about some\naspect of its ability or intention and selects a signal to send to\na receiver. The receiver responds by selecting an action and\nthe benefit (or cost) depends upon the actions of both\nindividuals. Signals can be acoustic, visual, or chemical, and\nthey portray resource requirements to parents, fighting ability\nto competitors, or genetic ability to mates.\nA central tenet of signaling theory is that, at an evolutionary\nequilibrium, both signalers and receivers must benefit from\nthe exchange of information. If receivers did not benefit from\ntheir responses, selection would favor receivers that ignore\nthe signal. This requirement implies that signals must convey\ninformation. This idea has been the source of\ncontroversy surrounding theoretical and empirical studies of\nanimal communication. To understand this controversy, we\nmust define what we mean by dishonest signaling. Searcy and\nNowicki provided a formal definition of dishonest signaling.\nDishonesty occurs when a receiver registers X from a signaler\nand responds in a way that not only benefits the signaler but\nwould also benefit the receiver if X means Y, however, Y is\nfalse. In other words, dishonest communication occurs when a\nsignal becomes disassociated from the signaler’s ability or\nneed. This definition highlights the benefit of dishonesty to\nthe signaler and begs a fundamental question: Why would any\norganism signal honestly to their opponents when dishonesty\npotentially delivers notable rewards? If a weak individual\nsignaled as if it was strong, then this weak individual might\nconvince other weak individuals and some strong individuals\nto yield resources. Because of this benefit, the dishonest\nsignaler’s genes might spread within the population.\nUltimately, the success of dishonest individuals would\ndestroy the entire system of communication. As the rate of\ndishonest signaling increased, natural selection would begin\nto favor receivers that ignored signals of strength over those\nthat noticed them. Once receivers ignored the signal, natural\nselection would no longer favor the structure or behavior\nrequired for signaling. As the population approached an\nevolutionary equilibrium, reliable signaling would disappear\naltogether.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, based on the passage, provide an answer to the\nquestion in the underlined part. Do NOT copy more than FOUR\nconsecutive words from the passage.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

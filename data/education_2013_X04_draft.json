@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "education_2013_X04",
+    "year": 2013,
+    "number": "X-4",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read and follow the directions.【25points】\nA second-year high school teacher wanted to diagnose the strengths and weaknesses of his students’ writing ability.\nHe asked the students to write a well-formed paragraph about Ho Chi Minh City, which they had visited on a school\ntrip. The following are two writing samples that particularly attracted his attention.\n[Writing Sample 1]\nLast year I went to Ho Chi Minh City. It’s a fascinating place. It is in Vietnam. It is located on a river. They say\nit was once an important trading center for the French. French effect was everywhere. You should visit there. I saw\nmany building there. Many of them are built in French style. The famous French architect Gustave Eiffel designed a\nbuilding there. Some cafe serve French-style bread. Many people, especially the older generations, learned French in\nschool. Rich Vietnamese people still speak French today. Hotels and restaurants also have French food. Typically,\nVietnamese people have a baguette, yogurt and orange juice for breakfast. All of those are French. The Vietnamese\nand the French fought, too. Then French left the country. You can see many museums and monuments. They show\nthe country’s long war history. So I think Ho Chi Minh City is a fascinating place to visit.\n[Writing Sample 2]\nFor travelers to Southeast Asia, there is no more fascinating place to visit than Ho Chi Minh City. Due to historical\nimportance as French trading center in Southeast Asia, French culture’s influences remain pervasive in this city. For\nexample, many inhabitant, especially older generation, learned French in school and can still speak it very well. Vietnamese\nelite also continue to speak French today. In addition, many cafe, hotel and restaurant serve French-style pastries, along\nwith French item like asparagus and white potato. Typical Vietnamese breakfast would consist baguette, yogurt and orange\njuice, which are all French item. French influence’s another sign is that many building in the city were built in French\nstyle. This can be seen, for example, in Saigon Central Post Office. It has French Gothic style since it was designed\nand constructed by famous French architect Gustave Eiffel. Numerous museum and monument also document country’s\nlong―and often bloody―history of conflict between Vietnamese and French. Although French eventually left country,\ncultural influences continue. If you are looking for unique city to visit in Southeast Asia, Ho Chi Minh City is excellent\nchoice.\nWrite three well-formed paragraphs that compare and contrast the two writing samples in terms of content,\norganization, and language use. First, in one paragraph, discuss the content. Second, in another paragraph, discuss\norganization (cohesion and coherence). Third, in the last paragraph, discuss language use (i.e., grammar, vocabulary,\netc.).\nInclude the following in each paragraph:\n∙A topic sentence\n∙Two key points (similarities and/or differences)\n∙A supporting example for each key point\n수고하셨습니다\n3\n영 어 (3면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

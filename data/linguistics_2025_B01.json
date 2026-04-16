@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "id": "linguistics_2025_B01",
+    "year": 2025,
+    "number": "B-1",
+    "subject": "linguistics",
+    "linguistics_domain": "semantics",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": ["entailment", "one-way entailment", "mutual entailment", "truth condition", "paraphrase", "logical equivalence"],
+    "parse_source": "2025_B형_기출_PDF",
+    "parse_confidence": "high",
+    "verified": true
+  },
+
+  "problem": {
+    "instruction": "Fill in the blanks ① and ② in <B> each with the ONE most appropriate word from <A>, in the correct order.",
+    "passage": "<A>\nAn important truth relation between sentences is entailment. A sentence p entails another sentence q when the truth of p guarantees the truth of q, and the falsity of q guarantees the falsity of p. Consider the following examples:\n\n(1) a. I saw my mother today.\n    b. I saw someone today.\n\nIf (1a) is true, (1b) is necessarily true. In other words, it is impossible that (1a) is true and (1b) is false: The sentence 'I saw my mother today and I didn't see anyone today' is a contradiction. In addition, if (1b) is false, (1a) must be false. These truth relations show that (1a) entails (1b). However, (1b) does not entail (1a) since it is possible that (1b) is true and (1a) is false: The sentence 'I saw someone today and I didn't see my mother today' is not a contradiction. This kind of entailment in (1) is called one-way entailment.\n\nThere is another type of entailment where two sentences are logically equivalent to each other (i.e., they are paraphrases). Consider the following examples:\n\n(2) a. Jane built this house.\n    b. This house was built by Jane.\n\nIf (2a) is true, (2b) is also true, and if (2b) is false, (2a) is false. Furthermore, if (2b) is true, (2a) is true, and if (2a) is false, (2b) is false. These truth relations mean that the two sentences in (2) always have the same truth-value. In other words, if (2a) describes a situation, so will (2b), and vice versa; while if either incorrectly describes a situation, so will the other. This kind of entailment in (2) is called mutual entailment.\n\n<B>\n(a) The two sentences, 'Jane finished the presentation' and 'Jane stopped the presentation', show a(n) [BLANK_①] entailment relation.\n(b) The two sentences, 'The Internet is not connected' and 'The Internet is disconnected', show a(n) [BLANK_②] entailment relation.",
+    "blanks": [
+      { "label": "①", "context": "'finished the presentation' ↔ 'stopped the presentation' — 한 방향만 참 보존" },
+      { "label": "②", "context": "'not connected' ↔ 'disconnected' — 양방향 동치 (paraphrase)" }
+    ]
+  },
+
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "ONE word from <A> 조건. <A>에서 정의된 entailment 유형 명칭은 'one-way'와 'mutual' 두 개뿐. 각 쌍의 진리조건(truth-condition)을 양방향으로 테스트하여 둘 중 하나로 귀속시키는 문제.",
+        "key_terms": ["truth condition", "bidirectional test", "entailment typology"]
+      },
+      {
+        "step": 2,
+        "label": "대응쌍 확인 — <A> 정의 ↔ <B> 사례",
+        "explanation": "<A> (1) 'mother → someone'은 한 방향만 참 보존 = one-way. <A> (2) 능동/수동은 양방향 참 보존 = mutual. <B>(a) finish/stop 쌍은 (1)형에, <B>(b) not connected / disconnected 쌍은 (2)형에 사상된다.",
+        "key_terms": ["one-way entailment (1)", "mutual entailment (2)", "paraphrase"]
+      },
+      {
+        "step": 3,
+        "label": "① 후보 판별 — finish vs stop 진리조건",
+        "explanation": "정방향: 'Jane finished the presentation' 참 → 발표를 끝까지 해서 멈췄으므로 'Jane stopped the presentation' 참. ✓\n역방향: 'Jane stopped the presentation' 참 → 중간에 중단했을 수도 있어 'finished' 거짓 가능. ✗\nfinish는 stop의 하위 개념(완료 포함). 한 방향만 성립 → one-way. 'mutual' 후보는 역방향 실패로 탈락.",
+        "key_terms": ["aspect completion", "hyponym entailment", "asymmetric truth"]
+      },
+      {
+        "step": 4,
+        "label": "② 후보 판별 — not connected vs disconnected 진리조건",
+        "explanation": "정방향: 'The Internet is not connected' 참 → 'The Internet is disconnected' 참. ✓\n역방향: 'The Internet is disconnected' 참 → 'The Internet is not connected' 참. ✓\n'dis-' 접두사는 부정 의미로 'not + 기반형'과 동치. 양방향 모두 truth 보존 → mutual. <A> (2) 능동/수동과 동일한 paraphrase 관계. 'one-way' 후보는 역방향도 성립하므로 탈락.",
+        "key_terms": ["logical equivalence", "negative prefix dis-", "paraphrase"]
+      },
+      {
+        "step": 5,
+        "label": "전략 — 양방향 진리조건 테스트",
+        "explanation": "Entailment 판정은 반드시 두 방향을 모두 확인. (i) p→q 참 보존? (ii) q→p 참 보존? 둘 다 성립 = mutual, 한쪽만 = one-way. 함정: 의미가 비슷해 보이면 mutual로 단정하기 쉬우나 aspect/quantifier/hyponym 쌍은 대개 one-way. 접사 기반 부정/능동-수동/동의어 치환은 대개 mutual.",
+        "key_terms": ["bidirectional test", "logical equivalence test"]
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+
+  "answer": {
+    "model_answer": {
+      "content_type": "blank_answer",
+      "blank_answers": [
+        { "label": "①", "answer": "one-way" },
+        { "label": "②", "answer": "mutual" }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        { "criterion": "① one-way", "points": 1 },
+        { "criterion": "② mutual", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "source_type": "instructor",
+        "label": "답안 A",
+        "content": "① one-way\n② mutual"
+      },
+      {
+        "source_type": "passer",
+        "label": "답안 B",
+        "content": "①: one-way (entailment) — finish → stop만 성립, 역방향 성립 X\n②: mutual (entailment) — 'not connected'와 'disconnected'는 paraphrase"
+      }
+    ]
+  },
+
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Saeed, J. I.",
+        "title": "Semantics (4th ed.)",
+        "year": 2016,
+        "publisher": "Wiley-Blackwell",
+        "pages": "pp. 103–108 · Ch. 4",
+        "excerpt": "Entailment is a relation between sentences such that the truth of one (p) guarantees the truth of the other (q). When p and q entail each other mutually, they are said to be paraphrases of one another."
+      },
+      {
+        "type": "textbook",
+        "author": "Kearns, K.",
+        "title": "Semantics (2nd ed.)",
+        "year": 2011,
+        "publisher": "Palgrave Macmillan",
+        "pages": "pp. 9–14 · Ch. 1",
+        "excerpt": "If p entails q and q also entails p, then p and q are logically equivalent. One-way entailment holds where the inference goes only from p to q but not from q to p."
+      },
+      {
+        "type": "textbook",
+        "author": "Hurford, J. R., Heasley, B., & Smith, M. B.",
+        "title": "Semantics: A Coursebook (2nd ed.)",
+        "year": 2007,
+        "publisher": "Cambridge University Press",
+        "pages": "Unit 10",
+        "excerpt": "A paraphrase is a pair of sentences that mutually entail each other — they have the same truth value in every situation."
+      }
+    ],
+    "concept_explanation": "① one-way entailment: p ⇒ q 이지만 q ⇏ p. 한 방향만 참 보존.\n  · aspect 완료-중단 쌍 (finish ⇒ stop)\n  · hyponym-hypernym 쌍 (rose ⇒ flower, mother ⇒ someone)\n  · quantifier 축소 (all ⇒ some)\n\n② mutual entailment = logical equivalence = paraphrase. p ⇔ q.\n  · 능동/수동 전환 (Jane built X ⇔ X was built by Jane)\n  · 부정 접사 ↔ 부정문 (unhappy ⇔ not happy, disconnected ⇔ not connected)\n  · 동의어 치환 (physician ⇔ doctor)\n\n판정 원칙: 진리조건을 반드시 양방향으로 테스트 — (i) p→q 참 보존? (ii) q→p도 참 보존? 둘 다 ✓ = mutual, 한쪽만 ✓ = one-way. 비슷해 보인다고 mutual로 단정하는 것이 전형적 함정."
+  },
+
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "linguistics_2018_B03",
+        "year": 2018,
+        "number": "B-3",
+        "subject": "linguistics",
+        "connection_type": "same_concept",
+        "connection_note": "entailment vs presupposition 구분. 진리조건 양방향 테스트 프레임 동일.",
+        "shared_keywords": ["entailment", "truth condition", "semantic relation"]
+      },
+      {
+        "id": "linguistics_2022_B02",
+        "year": 2022,
+        "number": "B-2",
+        "subject": "linguistics",
+        "connection_type": "same_strategy",
+        "connection_note": "진리값 보존 테스트로 의미 관계 판정. paraphrase 판별 동일 전략.",
+        "shared_keywords": ["truth value", "paraphrase", "semantic relation"]
+      },
+      {
+        "id": "linguistics_2015_B04",
+        "year": 2015,
+        "number": "B-4",
+        "subject": "linguistics",
+        "connection_type": "prerequisite",
+        "connection_note": "truth-condition semantics 기본 개념. 본 문제의 선행 지식.",
+        "shared_keywords": ["truth condition", "proposition", "meaning"]
+      }
+    ]
+  }
+}

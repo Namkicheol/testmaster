@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "education_2015_A02",
+    "year": 2015,
+    "number": "A-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage in <A> and the conversation in <B>, and\nfollow the directions.【5 points】\n<A>\n“uptake” refers to an In negotiation of meaning,\ninterlocutor’s immediate response to his or her partner’s\nsignal of noncomprehension. In uptake, the interlocutor\noften uses a variety of communication strategies such as\nmessage abandonment, topic change, circumlocution, word\ncoinage, foreignizing, and code switching.\n<B>\nThe following is part of a teacher-student interaction that\ncontains negotiation of meaning.\nT: Hi, Sangjee. How was your weekend?\nS: Hello. Well, I had a busy weekend.\nT: Did you go anywhere?\nS: No, I stayed home all weekend.\nT: Why were you busy, then?\nS: I had to fly ten chickens.\nT: Uh, what? What did you do?\nS: Uh, you know, put chickens in oil, very hot oil, kind of\nbake them.\nT: Oh, you FRIED them!\nS: Yeah, I fried them with my mother.\nT: Why did you have to fry that many chickens?\nS: We had a big party on Sunday. My grandfather’s\nbirthday. Many people came.\nT: Oh, so that’s why you fried so many. The party must\nhave been a lot of fun.\nNote:T=teacher, S=student\nIdentify where the uptake takes place by writing the specific\nutterance from <B>, and select the strategy used in the uptake\nfrom those in <A>. Then explain how the utterance in the\nuptake shows the selected strategy.\n6\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_A_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2015_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2015_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2015_A_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

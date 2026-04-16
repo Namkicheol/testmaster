@@ -1,0 +1,211 @@
+{
+  "meta": {
+    "id": "linguistics_2026_B01",
+    "year": 2026,
+    "number": "B-1",
+    "subject": "linguistics",
+    "linguistics_domain": "morphology",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": [
+      "inflectional suffix",
+      "derivational suffix",
+      "category",
+      "meaning",
+      "ordering"
+    ],
+    "parse_source": "2026_linguistics_B.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Fill in each of the blanks ① and ② with the ONE most appropriate word.",
+    "passage": "English is known to have only eight inflectional suffixes as listed in (1), which implies that other suffixes are all derivational.\n\n(1) Inflectional suffixes in English\na. Noun: Plural -s / Possessive -'s\nb. Verb: Past tense -ed / Past participle -en/-ed / Progressive -ing / 3rd person singular present -s\nc. Adjective: Comparative -er / Superlative -est\n\nFirst, inflectional suffixes do not change the grammatical [BLANK_①] of the stem, while some derivational suffixes can change it as heart, a noun, becomes an adjective after -less attaches. Secondly, a derivational suffix must combine with the root or the base before an inflectional suffix. This is why neighbor-hood-s is attested but neighbor-s-hood is not. Lastly, the semantic contribution of an inflectional suffix is usually transparent and consistent. These examples suggest that the [BLANK_②] of an inflectional suffix is predictable, while that of a derivational suffix may not be predictable.",
+    "blanks": [
+      {
+        "label": "①",
+        "context": "do not change the grammatical [①] of the stem"
+      },
+      {
+        "label": "②",
+        "context": "the [②] of an inflectional suffix is predictable"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "형태론(morphology) 영역. inflectional suffix vs derivational suffix의 세 가지 구별 기준을 다루는 지문. 빈칸 ①②는 각각 서로 다른 기준에 해당하며 ONE word 조건 적용. ①은 '품사/문법적 속성' 기준, ②는 '의미 예측성' 기준임을 앞뒤 문맥으로 파악.",
+        "key_terms": [
+          "inflectional morpheme",
+          "derivational morpheme",
+          "grammatical category"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응 — 3기준 매핑",
+        "explanation": "Fromkin 3기준 ↔ 지문 단락 대응:\n기준1(품사): '굴절 접사 → 품사 불변' ↔ 'do not change the grammatical [①] of the stem'\n기준2(순서): '파생→굴절 순' ↔ 'neighbor-hood-s ✓ / neighbor-s-hood ✗'\n기준3(의미): '굴절 의미 예측 가능' ↔ 'the [②] of an inflectional suffix is predictable'",
+        "key_terms": [
+          "syntactic category",
+          "ordering constraint",
+          "semantic predictability"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "후보 소거 — 정확한 용어 특정",
+        "explanation": "① 후보: class / form / function / category\n→ 'grammatical ___ of the stem' 구조. 표준 언어학 용어는 'grammatical category' (= syntactic category = 품사). Fromkin Ch.4 표준 표현. ① = category.\n\n② 후보: semantics / sense / meaning\n→ 앞 문장 'semantic contribution'을 ONE word로 환언 = meaning. 'semantics'는 학문명이므로 부적절. ② = meaning.",
+        "key_terms": [
+          "category",
+          "meaning"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 지문 직접 근거",
+        "explanation": "① 확정: 'inflectional suffixes do not change the grammatical ___ of the stem' + 대비 'heart(N) → adjective after -less' = 품사 변화 = category 변화. ① = category.\n② 확정: 'semantic contribution of an inflectional suffix is usually transparent and consistent. These examples suggest that the ___ of an inflectional suffix is predictable' → 'semantic contribution'의 단어 환언 = meaning. ② = meaning.",
+        "key_terms": [
+          "category",
+          "meaning"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "형태론 굴절/파생 구별 출제 패턴: 3기준(품사·순서·의미) 중 빈칸이 어느 기준에 해당하는지 단락 위치로 먼저 확정. 앞 단락의 핵심 명사('semantic contribution')가 빈칸의 정답 후보가 되는 경우 많음. ONE word 조건이면 합성 표현(예: 'syntactic category') 불가 → 단어 하나(category, meaning)로 범위 좁힘.",
+        "key_terms": [
+          "3-criterion distinction",
+          "ONE word constraint"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Inflectional morpheme",
+        "definition_en": "A bound morpheme that marks grammatical categories (tense, number, case, degree) without changing the syntactic category or core meaning of the base.",
+        "definition_ko": "굴절 형태소 — 시제·수·격 등 문법 범주 표시. 어기의 품사·핵심 의미 불변.",
+        "source_author": "Fromkin",
+        "source_year": 2018,
+        "related_terms": [
+          "derivational morpheme",
+          "stem",
+          "affix"
+        ],
+        "exam_usage": "지문 전체 주제: 굴절 접사의 3가지 특성 설명"
+      },
+      {
+        "term": "Grammatical category",
+        "definition_en": "The part-of-speech class assigned to a word (noun, verb, adjective, adverb, etc.); also called syntactic category.",
+        "definition_ko": "문법 범주 (= 통사 범주) — 품사 분류: 명사, 동사, 형용사 등.",
+        "source_author": "Fromkin",
+        "source_year": 2018,
+        "related_terms": [
+          "noun",
+          "verb",
+          "adjective",
+          "derivation"
+        ],
+        "exam_usage": "① 빈칸: 굴절 접사가 바꾸지 않는 것 = grammatical category"
+      },
+      {
+        "term": "Ordering constraint (Affix ordering)",
+        "definition_en": "Derivational morphemes must attach to the base before inflectional morphemes: [[base + deriv] + inflect]. Attested: nation-al-iz-ation-s; Unattested: *nation-s-al.",
+        "definition_ko": "접사 순서 제약 — 파생 접사는 굴절 접사 안쪽(어기에 더 가까이) 위치. neighbor-hood-s ✓ / *neighbor-s-hood ✗.",
+        "source_author": "Fromkin",
+        "source_year": 2018,
+        "related_terms": [
+          "inflectional morpheme",
+          "derivational morpheme",
+          "word structure"
+        ],
+        "exam_usage": "지문 기준 2: neighbor-hood-s ✓ vs *neighbor-s-hood"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "①",
+          "answer": "category"
+        },
+        {
+          "label": "②",
+          "answer": "meaning"
+        }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        {
+          "criterion": "① category",
+          "points": 1
+        },
+        {
+          "criterion": "② meaning",
+          "points": 1
+        }
+      ]
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Fromkin, V., Rodman, R., & Hyams, N.",
+        "title": "An Introduction to Language (11th ed.)",
+        "year": 2018,
+        "publisher": "Cengage Learning",
+        "pages": "pp. 64–72 · Ch. 4",
+        "excerpt": "<span class=\"ref-hl\">Inflectional morphemes</span> <span class=\"ref-hl\">do not change the syntactic category</span> or the basic meaning of the word… Derivational morphemes may change the syntactic category and/or the meaning of the base."
+      },
+      {
+        "type": "textbook",
+        "author": "Dept. of Linguistics, Ohio State Univ.",
+        "title": "Language Files (12th ed.)",
+        "year": 2016,
+        "publisher": "OSU Press",
+        "pages": "pp. 116–122 · File 4.3",
+        "excerpt": "The <span class=\"ref-hl\">meaning contribution</span> of inflectional affixes is <span class=\"ref-hl\">predictable and consistent</span> across all words to which they attach."
+      }
+    ],
+    "concept_explanation": "Three criteria distinguishing inflectional from derivational morphemes (Fromkin 2018):\n\n① Category: Inflectional morphemes do not change the syntactic category of the stem.\n  (품사 불변: 굴절은 어기의 품사를 바꾸지 않음. 파생은 가능 — teach [V] → teacher [N].)\n\n② Ordering: Derivational morphemes must attach before inflectional morphemes.\n  Attested: nation-al-iz-ation-s ✓   Unattested: *neighbor-s-hood ✗\n  (순서 제약: 파생 접사는 굴절 접사 안쪽에 위치.)\n\n③ Meaning: The meaning contribution of inflectional morphemes is transparent and predictable; derivational meaning may be idiosyncratic.\n  (의미 예측성: 굴절 의미는 예측 가능. 파생은 어휘 특이적 — actor ≠ professor.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "linguistics_2022_A03",
+        "year": 2022,
+        "number": "A-3",
+        "subject": "linguistics",
+        "connection_type": "same_concept",
+        "connection_note": "ordering 기준 집중. neighbor-hood-s 예시 공유.",
+        "shared_keywords": [
+          "ordering",
+          "derivational morpheme",
+          "inflectional morpheme"
+        ]
+      },
+      {
+        "id": "linguistics_2019_A02",
+        "year": 2019,
+        "number": "A-2",
+        "subject": "linguistics",
+        "connection_type": "prerequisite",
+        "connection_note": "root · base · stem 정의. 선행 지식.",
+        "shared_keywords": [
+          "free morpheme",
+          "bound morpheme",
+          "stem",
+          "root"
+        ]
+      }
+    ]
+  }
+}

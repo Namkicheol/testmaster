@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2020_A04",
+    "year": 2020,
+    "number": "A-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage and fill in the blank with the ONE most\nappropriate word.【2 points】\nDiphthongs such as [aɪ] and [aʊ] are vowels that exhibit a\nchange in quality within a single syllable. This is due to\ntongue movement from the initial vowel articulation toward\nanother. In English, this combinatory sound is considered\none vowel, as it behaves as a single unit. That is, the words\nhide [aɪ] and loud [aʊ] are monosyllabic, as are heed [i] and\nhid [ɪ]. Diphthong vowels are different from two consecutive\nmonophthongs as in seeing [siɪŋ] and ruin [ɹuɪn], which are\ncounted as two syllables.\nA similar phenomenon is also observed among consonant\nsequences. Consider the following examples where two\ndifferent consonants occur together at the end of a word:\n(1) a. ninth [nɵ], warmth [mɵ] b. laughs [fs], twelfth [fɵ]\nc. maps [ps], width [dɵ] d. match [tʃ], badge [dʒ]\nWhen the words in (1) are followed by a word beginning\nwith a vowel, such as is/are as in (2), the second member of\nthe consonant sequences in (2a)－(2c) can move to the next\nsyllable:\n(2) a. Leaving on the ninth is fine with me. ([nɵ] or [n.ɵ])\nb. His laughs are heard from down the hall. ([fs] or [f.s])\nc. Maps are useful when you travel abroad. ([ps] or [p.s])\nd. A match is found in the box. ([tʃ] but not [t.ʃ])\nIn (2a), for example, the second consonant of the underlined\npart [nɵ] forms a new syllable in fast speech. That is, [ɵ] in\nninth is a coda of the syllable, but it can move to the next\nsyllable and in turn, it becomes the onset of [ɵɪz]. However,\nthis resyllabification does not happen in (2d). That is, (2d) is\npronounced [mæ.tʃɪz] and not [mæt.ʃɪz]. This is because\nEnglish treats them differently: the consonant sequences in\n(2a)－(2c) are two consonant clusters while the one in (2d) is\na single sound. This class of sounds is indeed inseparable\njust like diphthongs, and a member of this class is called\na(n) .\nNote: ‘.’ represents a syllable boundary.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

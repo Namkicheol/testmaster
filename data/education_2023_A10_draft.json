@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2023_A10",
+    "year": 2023,
+    "number": "A-10",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage in <A> and the conversation in <B>, and\nfollow the directions.【4 points】\n<A>\nSecond language learners pass through a predictable\nsequence of development. Since the early 1990’s, some\nresearch has investigated the acquisition of pragmatic abilities\nin the L2. ‘Requesting’ is one of the pragmatic features that\nhas received attention. In a review of studies on the\nacquisition of requests in English, six stages of development\nwere suggested.\nStage Characteristics Example\nUsing body language or Sir (pointing to the pencil).\n1\ngestures Teacher (holding the paper).\n2 Using verbless expressions A paper. / More time.\n3 Using imperative verbs Give me. / Give me a paper.\nUsing ‘Can I have ?’\nCan I have some candy? 4\nas a formulaic expression\nUsing ‘can’ with a range of\n5 Can you pass me the book?\nverbs, not just with ‘have’\n6 Using indirect requests I want more cookies.\n<B>\n(Students are doing a problem-solving task in groups. S1\nplays the role of moderator in the activity.)\nS1: We have to find some ways to make the environment\nmore sustainable. Suhee, what’s your opinion?\nS2: I’m sorry, but nothing comes to mind now. I need more\ntime to think.\nS1: Okay. Tell us if you’re ready. Minho, how about you?\nCan you share your ideas with us?\nS3: We should use one-time products as less as possible.\nS1: Hold on, Minho. What does ‘one-time products’ mean?\nCan I have some examples?\nS3: Well, paper cups, plastic bags...\nS2: Ah, I see. You mean ‘disposable products’, right?\nS3: Yes.\nS1: Minho, I like your idea.\nS2: I’m ready. Driving electronic cars reduces air pollution.\nS3: Sounds great.\nS1: Now I think we have enough opinions for the presentation.\nSuhee, can you speak for us in the presentation session?\nS2: I’m afraid not. Minho can do better than me.\nS3: Umm. Okay. I’ll take the speaker role. I’ll do my best.\nS2: Thanks, Minho. I’ll write the presentation script for you.\nS1: Wow, thank you.\nNote: S = student\nBased on <A>, identify the developmental stages where S1 and\nS2 are, respectively. Then, explain your answers with evidence\nfrom <B>.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

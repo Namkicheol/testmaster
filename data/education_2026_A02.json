@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "id": "education_2026_A02",
+    "year": 2026,
+    "number": "A-2",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": [
+      "curriculum development",
+      "situation analysis",
+      "needs analysis"
+    ],
+    "parse_source": "2026_전공A_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Fill in the blank with the TWO most appropriate words.",
+    "passage": "Mr. Yang is going to develop a school curriculum for Media English based on the 2022 Revised National Curriculum. The following shows the steps of the curriculum development for Media English.\n\nStep 1: __________\nInstitutional Factors\n- Class size: large / medium / small\n- Classroom facilities: sufficient / adequate / limited\n- Digital resources: sufficient / adequate / limited\n- Budget: sufficient / adequate / limited\nTeacher Factors\n- Teaching style: lecture / project-based / cooperative\n- Digital literacy: advanced / intermediate / basic\nLearner Factors\n- Learning motivation: high / medium / low\n- English proficiency: advanced / intermediate / basic\n\nStep 2: Needs Analysis\n[Questionnaire for Students]\n1. Which of the following skills would you like to improve in Media English?\nNo. / Items / Low ←→ High (1 2 3 4 5)\n1. Lecture note-taking\n2. Giving formal speeches/presentations\n3. Viewing authentic English media contents\n\nStep 3: Goal Setting\n∙Students will be able to present information and ideas by using a variety of media.",
+    "blanks": [
+      {
+        "label": "Step 1",
+        "context": "Step 1: ___"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "Richards 교육과정 개발 모델에서 Needs Analysis 이전 단계 명칭 — 교육 환경 요인 조사\n- 두 단어(TWO words) 요구\n- 기관·교사·학습자 배경 요인 조사 = 환경 분석\n- Needs Analysis(Step 2) 바로 앞 단계",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'Institutional Factors, Teacher Factors, Learner Factors — 각 요인에 대한 체크리스트 조사' [paraphrase]\n→ Richards(2001) 교육과정 개발 모델: Situation Analysis = 기관·교사·학습자 배경 환경을 파악하는 단계\n\n'Step 2: Needs Analysis — 학생 요구·희망 기술 설문' [structural]\n→ Needs Analysis = 학습자의 목표 언어 요구 파악 단계 (Situation Analysis 다음)",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- Needs Analysis: ✗ (Needs Analysis는 Step 2로 이미 제시됨. Step 1은 그 이전 단계.)\n- Context Analysis: ✗ (Richards(2001) 모델의 공식 용어는 'Situation Analysis'. 'Context Analysis'는 비표준 표현.)\n- Environmental Analysis: ✗ (Richards 모델에 존재하지 않는 명칭. 교육과정 개발 분야 표준 용어 아님.)\n- Situation Analysis: ✓ (정답)",
+        "key_terms": [
+          "Situation Analysis"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: Situation Analysis\n\n[content] Institutional Factors(학교 규모·시설·예산), Teacher Factors(교수 스타일·디지털 역량), Learner Factors(학습 동기·숙달도) = 교육 환경 전반 파악 → Richards(2001) Situation Analysis의 세 하위 범주와 정확히 일치.\n→ 근거: \"Institutional Factors / Teacher Factors / Learner Factors\"\n\n[context_flow] 교육과정 개발 순서: Situation Analysis → Needs Analysis → Goal Setting — 지문의 Step 순서와 일치.\n→ 근거: \"Step 1: ___ / Step 2: Needs Analysis / Step 3: Goal Setting\"",
+        "key_terms": [
+          "Situation Analysis"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① Richards(2001) 교육과정 개발 모델의 단계 순서를 암기: Situation Analysis → Needs Analysis → Goal Setting → Material Development → Teaching → Assessment.\n② Step 1 체크리스트의 세 범주(기관·교사·학습자)가 Situation Analysis의 구성 요소임을 확인하면 즉시 식별 가능.\n③ 두 단어 조건 — 'Situation Analysis' 대문자 표기 권장.\n\n함정:\n- Needs Analysis와 혼동 — Needs Analysis는 학습자의 목표 언어 요구를 묻는 것(설문 등), Situation Analysis는 교육 환경 배경 조사.\n- 한 단어로 쓰면(context, environment) 오답 처리.",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Situation Analysis",
+        "definition_en": "The first stage in Richards's curriculum development model, which involves examining the institutional, teacher, and learner factors that will shape the curriculum before identifying learner needs.",
+        "definition_ko": "Richards(2001) 교육과정 개발 모델의 첫 단계. 기관 여건, 교사 요인, 학습자 배경 등 교육 환경 전반을 파악하는 과정.",
+        "source_author": "Richards, J. C.",
+        "source_year": 2001,
+        "related_terms": [
+          "needs analysis",
+          "goal setting",
+          "curriculum development"
+        ],
+        "exam_usage": "교육과정 개발 Step 1 빈칸 — 체크리스트 항목이 단서"
+      },
+      {
+        "term": "Needs Analysis",
+        "definition_en": "The process of gathering information about learners' language needs — what they need to do with the target language — in order to design appropriate curriculum goals.",
+        "definition_ko": "학습자가 목표 언어로 수행해야 할 과제·기술에 대한 정보를 수집하는 과정. 교육과정 목표 설정의 근거.",
+        "source_author": "Richards, J. C.",
+        "source_year": 2001,
+        "related_terms": [
+          "situation analysis",
+          "target needs",
+          "learning needs"
+        ],
+        "exam_usage": "지문 Step 2로 제시됨 — Situation Analysis와의 순서 구분 근거"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "Step 1",
+          "answer": "Situation Analysis"
+        }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        {
+          "criterion": "Situation Analysis (두 단어, 철자 정확)",
+          "points": 2
+        }
+      ]
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Richards, J. C.",
+        "title": "Curriculum Development in Language Teaching",
+        "year": 2001,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 90–115",
+        "excerpt": "<span class=\"ref-hl\">Situation analysis</span> examines factors in the situation that will have an impact on decisions about the goals and content of a language program. These include <span class=\"ref-hl\">institutional factors</span> (the school system), <span class=\"ref-hl\">teacher factors</span> (training and experience), and <span class=\"ref-hl\">learner factors</span> (age, proficiency, and motivation)."
+      }
+    ],
+    "concept_explanation": "Situation Analysis: the first stage in curriculum development that examines the educational context — institutional resources, teacher characteristics, and learner backgrounds — before determining what learners need to learn (Richards, 2001).\n  (교육과정 개발의 첫 단계. 기관 여건·교사 특성·학습자 배경을 파악하여 이후 Needs Analysis의 방향을 결정함)\n\nCurriculum Development Sequence (Richards, 2001):\n  Situation Analysis → Needs Analysis → Goal Setting → Material Development → Teaching → Assessment\n  (상황분석 → 요구분석 → 목표설정 → 자료개발 → 교수 → 평가)\n\nKey distinction:\n- Situation Analysis: examines the teaching-learning environment (WHO teaches WHOM, WHERE, with WHAT resources)\n- Needs Analysis: examines what learners need to DO with the target language"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

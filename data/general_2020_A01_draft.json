@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_A01",
+    "year": 2020,
+    "number": "A-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage in <A> and the teacher’s journal in <B>, and\nfollow the directions.【2 points】\n<A>\nVocabulary is a core component of language knowledge\nand provides much of the basis for how well learners listen,\nspeak, read, and write. Without extensive knowledge of\nvocabulary or diverse strategies for acquiring new words,\nlearners are often unable to produce as much language as\nthey would like.\nKnowing a word does not simply mean knowing its\nsurface meaning. Rather, it involves knowing diverse aspects\nof lexical knowledge in depth including phonological and\nmorphological forms and syntactic and semantic structures.\nTherefore, activities that integrate lexical knowledge of\nform, meaning, and use should be included in class.\n<B>\nTeacher’s Journal\nMs. Kang and I read an article on teaching vocabulary\nand discussed how we can improve the way we teach\nvocabulary. We realized that we have been heavily focused\non expanding the size of our students’ vocabulary. As a\nresult, they seem to know a lot of words but do not\nunderstand or use them properly in context. So, we came up\nwith the following activities that we believe help our\nstudents develop of vocabulary knowledge across\nform, meaning, and use.\nVocabulary activities to be implemented:\n∙Trying to pronounce the target words by listening to a\nrecorded text\n∙Analyzing parts of the target words (e.g., prefixes and\nsuffixes)\n∙Guessing the meanings of the target words using\ncontextual cues\n∙Studying concordance examples to see various contexts\nand collocation patterns\n∙Writing a short story using the target words\nFill in the blank in <B> with the ONE most appropriate word\nfrom <A>.\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n12문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

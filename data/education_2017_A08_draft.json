@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2017_A08",
+    "year": 2017,
+    "number": "A-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passages and follow the directions.【2 points】\n<A>\nNon-verbal communication is an important aspect of\nintercultural communication. It includes the following\ncategories, which also apply to cultural norms in public space.\nFirst, there is kinesics, which is the use of gestures or body\nlanguage. A second category is oculesics, which refers to eye\ncontact and eye movement. Eyes can provide signals as to\none’s mood, such as being interested, bored, empathetic, or\nannoyed. Third, there is proxemics, which relates to physical\ndistance between interlocutors (and other people in public\nspaces). A fourth category is kinesthetics (also called haptics),\nmeaning touching or making physical contact with someone.\nAcross cultures, norms relating to these categories can vary\nsignificantly, which can lead to misunderstandings or\ninappropriate behavior in cross-cultural situations.\n<B>\nA group of students in Ms. Lee’s school won a regional\nEnglish contest and they received an all-expense-paid trip to\nSeattle as a reward. In preparation, Ms. Lee tutored them on\nhow to be polite, which included lessons comparing cultural\nnorms and non-verbal communication in Korea and America.\nHowever, the following event occurred.\nAfter arriving in Seattle, they were hungry, so they asked\ntheir shuttle bus driver to stop at the nearest fast food\nrestaurant, but it was busy and the line was long. A student,\nGyumin, led the group through the line. As the line moved, so\ndid Gyumin, inching ever so closer to the front. He was\nexcited—this was his first time in a restaurant abroad—and he\nwas eager to order his meal. However, Ms. Lee noticed\nsomething recurring. Gyumin was closely following a\nmiddle-aged American man in line, and as the line moved\nforward, Ms. Lee saw that the man frequently turned his head\nto the side and, with a scrunched forehead, gazed down at\nGyumin for a moment as if to tell him something. Ms. Lee\nquietly pulled Gyumin aside and the following exchange\noccurred:\nT: Gyumin, do you remember what I taught you about lining up?\nS: You mean not to bump into anyone? I didn’t!\nT: No, no, not that. Rather, do you remember the arm’s\nlength rule?\nS: Oh, that!\nbe T: It’s okay. Just remember it for next time. We want to\npolite while we are here.\nS: Okay. I got it.\nNote: T=teacher, S=student\nGiven the information in <A>, write the ONE most appropriate\ncategory that Gyumin violated in <B> in regards to cultural\nnorms in America.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

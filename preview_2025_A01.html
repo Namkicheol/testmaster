@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>전공영어 기출마스터 — 2025 A-1 미리보기</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&family=Noto+Serif+KR:wght@400;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0d0f18;--surface:#131620;--surface2:#1c2030;--surface3:#242840;
+  --border:#272b3f;--border2:#313656;
+  --accent:#8b9eff;--accent-dim:rgba(139,158,255,.13);
+  --accent2:#5dd6b0;--accent3:#ffb347;--accent4:#ff9eb5;
+  --text:#dde2f5;--text-sub:#8892b8;--text-dim:#4a5070;
+  --blank-bg:rgba(139,158,255,.18);--blank-border:#8b9eff;--blank-text:#c8d0ff;
+  --tab-q:#c4a8ff;--tab-d:#8b9eff;--tab-a:#5dd6b0;--tab-r:#ff9eb5;
+  --radius:14px;--radius-sm:8px;--radius-xs:5px;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html,body{height:100%;}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-serif;font-size:15px;line-height:1.75;display:flex;flex-direction:column;overflow:hidden;}
+.site-header{text-align:center;padding:18px 16px 0;flex-shrink:0;}
+.site-logo{font-size:10px;font-weight:700;letter-spacing:3px;color:var(--text-dim);margin-bottom:3px;}
+.site-title{font-family:'Noto Serif KR',serif;font-size:19px;font-weight:600;}
+.site-title .dot{color:var(--accent);}
+.card-view{flex:1;overflow-y:auto;padding:12px 16px 60px;-webkit-overflow-scrolling:touch;}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);max-width:700px;margin:0 auto;overflow:hidden;box-shadow:0 8px 40px rgba(0,0,0,.45);}
+.card-meta{padding:13px 17px 11px;display:flex;flex-wrap:wrap;gap:5px;align-items:center;border-bottom:1px solid var(--border);}
+.tag{display:inline-flex;align-items:center;padding:2px 8px 3px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap;}
+.tag-year{background:#1c2030;color:#8892b8;border:1px solid var(--border2);}
+.tag-gen{background:#1a2210;color:#a8d070;}
+.tag-num{background:#0f2018;color:#5dd6b0;}
+.tag-novel{background:#201025;color:#d097f5;border:1px solid #3a1550;}
+.score-badge{margin-left:auto;font-size:11px;color:var(--text-sub);display:flex;align-items:baseline;gap:2px;}
+.score-badge .num{font-size:17px;font-weight:700;color:var(--accent3);line-height:1;}
+.tabs{display:flex;border-bottom:1px solid var(--border);}
+.tab-btn{flex:1;padding:9px 2px;background:none;border:none;border-bottom:3px solid transparent;font-family:inherit;font-size:11.5px;font-weight:700;cursor:pointer;transition:all .18s;white-space:nowrap;color:var(--text-dim);}
+.tab-btn[data-tab="q"].active{color:var(--tab-q);border-bottom-color:var(--tab-q);background:rgba(196,168,255,.08);}
+.tab-btn[data-tab="derive"].active{color:var(--tab-d);border-bottom-color:var(--tab-d);background:rgba(139,158,255,.08);}
+.tab-btn[data-tab="answer"].active{color:var(--tab-a);border-bottom-color:var(--tab-a);background:rgba(93,214,176,.08);}
+.tab-btn:hover:not(.active){color:var(--text-sub);background:rgba(255,255,255,.03);}
+.tab-panel{display:none;padding:17px 17px 22px;animation:fadeUp .2s ease;}
+.tab-panel.active{display:block;}
+@keyframes fadeUp{from{opacity:0;transform:translateY(4px);}to{opacity:1;transform:translateY(0);}}
+.prob-instruction{font-size:12.5px;color:var(--text-sub);background:var(--surface3);border-radius:var(--radius-xs);padding:8px 12px;margin-bottom:13px;line-height:1.6;}
+.prob-instruction strong{color:var(--text);}
+.prob-passage{background:var(--surface2);border:1px solid var(--border2);border-left:3px solid var(--tab-q);border-radius:var(--radius-sm);padding:17px 19px;font-size:14px;line-height:1.95;}
+.prob-passage p{margin-bottom:11px;}
+.prob-passage p:last-child{margin-bottom:0;}
+.psource{font-size:11.5px;color:var(--text-dim);text-align:right;margin-top:10px;font-style:italic;}
+.commentary-box{background:var(--surface3);border:1px solid var(--border2);border-left:3px solid var(--accent3);border-radius:var(--radius-sm);padding:13px 15px;margin-top:12px;font-size:13.5px;line-height:1.9;}
+.commentary-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--accent3);margin-bottom:7px;}
+.blank{display:inline-flex;align-items:center;background:var(--blank-bg);border:1px solid var(--blank-border);border-radius:4px;padding:0 8px 1px;font-size:12px;font-weight:700;color:var(--blank-text);font-family:'JetBrains Mono',monospace;vertical-align:middle;margin:0 2px;}
+.sec-title{font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--text-dim);margin:14px 0 9px;display:flex;align-items:center;gap:8px;}
+.sec-title::after{content:'';flex:1;height:1px;background:var(--border);}
+.sec-title:first-child{margin-top:0;}
+.steps{display:flex;flex-direction:column;gap:9px;margin-bottom:14px;}
+.step-item{display:flex;gap:11px;align-items:flex-start;}
+.step-num{width:22px;height:22px;flex-shrink:0;background:var(--surface3);border:1px solid var(--border2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:var(--tab-d);font-family:'JetBrains Mono',monospace;margin-top:2px;}
+.step-body{flex:1;}
+.step-label{font-size:11px;font-weight:700;color:var(--accent2);margin-bottom:2px;}
+.step-text{font-size:13.5px;color:var(--text);line-height:1.75;white-space:pre-line;}
+.step-text em{color:var(--accent3);font-style:normal;font-weight:600;}
+.kterms{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;}
+.kterm{background:var(--surface3);border:1px solid var(--border2);border-radius:3px;padding:1px 7px;font-size:11px;color:var(--accent);font-family:'JetBrains Mono',monospace;}
+.vocab-table{width:100%;border-collapse:collapse;margin-bottom:16px;font-size:13px;}
+.vocab-table th{padding:6px 10px;background:var(--surface3);color:var(--text-sub);font-size:10px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;text-align:left;border-bottom:1px solid var(--border2);}
+.vocab-table td{padding:7px 10px;border-bottom:1px solid var(--border);vertical-align:top;}
+.vocab-table tr:last-child td{border-bottom:none;}
+.vword{font-family:'JetBrains Mono',monospace;color:var(--accent);font-weight:500;}
+.vpos{font-size:10px;color:var(--text-dim);margin-top:1px;}
+.vmean{color:var(--text);}
+.vex{font-size:11.5px;color:var(--text-sub);margin-top:2px;font-style:italic;}
+.trans-box{background:var(--surface2);border:1px solid var(--border);border-left:3px solid var(--accent2);border-radius:var(--radius-sm);padding:14px 17px;font-size:13.5px;line-height:1.9;color:var(--text);}
+.trans-box p{margin-bottom:9px;}
+.trans-box p:last-child{margin-bottom:0;}
+.trans-hl{color:var(--accent2);font-weight:600;}
+.trans-src{font-size:11.5px;color:var(--text-dim);font-style:italic;text-align:right;margin-top:8px;}
+.answer-box{background:var(--surface2);border:1px solid rgba(93,214,176,.25);border-left:3px solid var(--tab-a);border-radius:var(--radius-sm);padding:13px 15px;margin-bottom:12px;}
+.answer-box-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--tab-a);margin-bottom:9px;}
+.blank-rows{display:flex;flex-direction:column;gap:7px;}
+.blank-row{display:flex;align-items:baseline;gap:9px;font-size:13.5px;}
+.bl{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--blank-text);background:var(--blank-bg);border:1px solid var(--blank-border);border-radius:3px;padding:0 6px 1px;font-size:11.5px;flex-shrink:0;}
+.ba{color:var(--text);font-weight:600;}
+.criteria-box{background:var(--surface3);border:1px solid var(--border2);border-radius:var(--radius-sm);padding:11px 14px;margin-bottom:12px;}
+.criteria-box-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text-dim);margin-bottom:8px;}
+.crit-lines{display:flex;flex-direction:column;gap:0;}
+.crit-line{display:flex;gap:10px;align-items:baseline;padding:5px 0;border-bottom:1px solid var(--border);}
+.crit-line:last-child{border-bottom:none;}
+.crit-pts{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;color:var(--accent3);flex-shrink:0;min-width:30px;}
+.crit-text{font-size:13px;color:var(--text-sub);}
+.variants{display:flex;flex-direction:column;gap:7px;margin-top:12px;}
+.variant{background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius-sm);padding:10px 13px;}
+.v-head{display:flex;align-items:center;gap:6px;margin-bottom:5px;}
+.vbadge{font-size:10px;font-weight:700;padding:2px 7px;border-radius:20px;}
+.vb-a{background:rgba(139,158,255,.18);color:var(--accent);}
+.vb-b{background:rgba(255,158,181,.18);color:var(--accent4);}
+.v-text{font-size:13px;color:var(--text);line-height:1.75;white-space:pre-line;}
+.source-divider{margin:18px 0 13px;border:none;border-top:1px solid var(--border);}
+.ref{background:var(--surface2);border:1px solid rgba(255,179,71,.18);border-radius:var(--radius-sm);padding:11px 13px;margin-bottom:8px;}
+.ref-type{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;padding:1px 6px;border-radius:3px;margin-bottom:4px;background:var(--surface3);color:var(--text-sub);border:1px solid var(--border2);}
+.ref-title{font-size:13px;font-weight:600;color:var(--text);margin-bottom:2px;}
+.ref-author{font-size:11.5px;color:var(--text-sub);margin-bottom:1px;}
+.ref-pages{font-size:11px;color:#ffb347;font-family:'JetBrains Mono',monospace;}
+.ref-quote{margin-top:7px;padding:7px 11px;background:var(--surface3);border-left:2px solid #ffb347;border-radius:3px;font-size:12px;color:var(--text-sub);line-height:1.6;font-style:italic;}
+.ref-hl{color:var(--accent);font-style:normal;font-weight:600;}
+.concept{background:var(--surface2);border:1px solid rgba(255,179,71,.18);border-radius:var(--radius-sm);padding:13px 15px;font-size:13px;line-height:1.85;color:var(--text);white-space:pre-line;}
+.concept strong{color:var(--accent2);}
+.no-related{background:rgba(255,179,71,.07);border:1px solid rgba(255,179,71,.18);border-radius:var(--radius-xs);padding:9px 13px;font-size:12.5px;color:#c8a86a;}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-logo">중등임용</div>
+  <div class="site-title">전공영어 기출마스터 <span class="dot">·</span> 2025 A-1 미리보기</div>
+</header>
+
+<div class="card-view">
+<div class="card">
+  <div class="card-meta">
+    <span class="tag tag-year">2025</span>
+    <span class="tag tag-gen">일반영어</span>
+    <span class="tag tag-novel">소설</span>
+    <span class="tag tag-num">전공A · 1번</span>
+    <div class="score-badge"><span class="num">2</span>점</div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="q"       onclick="showTab(this,'q')">문제</button>
+    <button class="tab-btn"        data-tab="derive"  onclick="showTab(this,'derive')">도출과정</button>
+    <button class="tab-btn"        data-tab="answer"  onclick="showTab(this,'answer')">정답</button>
+  </div>
+
+  <!-- 문제 -->
+  <div class="tab-panel active" id="q">
+    <div class="prob-instruction">
+      <strong>Complete the commentary below by filling in the blank with the ONE most appropriate word from the excerpt.</strong>
+    </div>
+    <div class="prob-passage">
+      <p>Every morning, we drifted from stack to stack, vendor to vendor—tables full of vendor. There were no road maps to the black market. Prell and Colgate were pocketed among vegetable stands one day and jars of medicinal herbs the next. The market was randomly organized, and only the mighty and experienced like my mother could navigate its patternless paths.</p>
+      <p>But with a sense of neither drama nor calamity, my mother's ability to navigate and decipher simply became undone in our new life. She preferred the improvisation of haggling to the conventional certainty of discount coupons, the primordial messiness and fishmongers' stink of the open-air market to the aroma-free order of individually wrapped fillets.</p>
+      <p>Now, a mere three and a half years or so after her last call to the sky market, the dreadful truth was simply this: we were going through life in <strong>reverse</strong>, and I was the one who would help my mother through the hard scrutiny of ordinary suburban life. I would have to forgo the luxury of adolescent experiments and temper tantrums, so that I could scoop my mother out of harm's way and give her sanctuary. Now, when we stepped into the exterior world, I was the one who told my mother what was acceptable or unacceptable behavior.</p>
+      <div class="psource">— Lan Cao, <em>Monkey Bridge</em></div>
+    </div>
+    <div class="commentary-box">
+      <div class="commentary-label">Commentary</div>
+      While shopping, the narrator realizes that her mother—a first-generation immigrant—finds it challenging to navigate through the orderliness and modernity of the new land on her own. The narrator thus accepts the necessity to <span class="blank">　　</span> her role from that which was played in their homeland to an unfamiliar one.
+    </div>
+  </div>
+
+  <!-- 도출과정 -->
+  <div class="tab-panel" id="derive">
+    <div class="sec-title">핵심 어휘</div>
+    <table class="vocab-table">
+      <thead><tr><th>단어</th><th>의미 &amp; 용례</th></tr></thead>
+      <tbody>
+        <tr><td><div class="vword">navigate</div><div class="vpos">v.</div></td><td><div class="vmean">길을 찾다, 헤쳐 나가다</div><div class="vex">navigate its patternless paths</div></td></tr>
+        <tr><td><div class="vword">undone</div><div class="vpos">adj.</div></td><td><div class="vmean">무너진, 해체된</div><div class="vex">her ability simply became undone</div></td></tr>
+        <tr><td><div class="vword">improvisation</div><div class="vpos">n.</div></td><td><div class="vmean">즉흥, 임기응변</div><div class="vex">the improvisation of haggling</div></td></tr>
+        <tr><td><div class="vword">primordial</div><div class="vpos">adj.</div></td><td><div class="vmean">원초적인, 태고의</div><div class="vex">primordial messiness</div></td></tr>
+        <tr><td><div class="vword">forgo</div><div class="vpos">v.</div></td><td><div class="vmean">포기하다, 단념하다</div><div class="vex">forgo the luxury of adolescent experiments</div></td></tr>
+        <tr><td><div class="vword">sanctuary</div><div class="vpos">n.</div></td><td><div class="vmean">피난처, 안식처</div><div class="vex">give her sanctuary</div></td></tr>
+        <tr><td><div class="vword">scrutiny</div><div class="vpos">n.</div></td><td><div class="vmean">면밀한 검토, 가혹한 시험</div><div class="vex">hard scrutiny of ordinary suburban life</div></td></tr>
+        <tr><td><div class="vword">reverse</div><div class="vpos">n./adj.</div></td><td><div class="vmean">역방향, 반전</div><div class="vex">going through life in reverse</div></td></tr>
+      </tbody>
+    </table>
+
+    <div class="sec-title">풀이</div>
+    <div class="steps">
+
+      <div class="step-item">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <div class="step-label">범위 설정 — 발문 조건 확인</div>
+          <div class="step-text">ONE word from the excerpt 조건. Commentary 빈칸은 '___  her role from X to Y' 구조 → 동사원형 자리. 지문에 등장한 단어만 후보.</div>
+          <div class="kterms"><span class="kterm">passage-bound</span><span class="kterm">verb</span><span class="kterm">role change collocation</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <div class="step-label">대응쌍 — 지문 ↔ Commentary</div>
+          <div class="step-text">지문: '<em>going through life in reverse</em>' → 역할이 뒤바뀐 상황 명시.
+고국: 어머니 = 시장 탐색자, 화자 = 의존자.
+새 나라: 화자 = 어머니의 보호자·안내자, 어머니 = 피보호자.
+Commentary: '___ her role from homeland to an unfamiliar one' = 역할 반전 기술.</div>
+          <div class="kterms"><span class="kterm">role reversal</span><span class="kterm">reverse</span><span class="kterm">caretaker narrative</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <div class="step-label">후보 검증 — 지문 내 단어 필터</div>
+          <div class="step-text">'shift' — 지문에 없음. ✗
+'change' — 지문에 없음. ✗
+'adapt' — 지문에 없음. ✗
+'<em>reverse</em>' — 지문에 명시: 'going through life in reverse'. ✓
+collocation: 'reverse her role from X to Y' 문법·의미 모두 적격.</div>
+          <div class="kterms"><span class="kterm">reverse</span><span class="kterm">passage-bound check</span><span class="kterm">collocation</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">4</div>
+        <div class="step-body">
+          <div class="step-label">확정 근거 — 서사적 맥락</div>
+          <div class="step-text">고국에서 어머니는 '강하고 경험 많은' 탐색자. 새 땅에서 어머니의 능력은 'undone'되고, 화자가 어머니를 'scoop out of harm's way'하며 'sanctuary'를 제공. 'going through life in reverse'는 이 역할 역전의 직접 표현.</div>
+          <div class="kterms"><span class="kterm">role reversal</span><span class="kterm">first-generation immigrant</span></div>
+        </div>
+      </div>
+
+      <div class="step-item">
+        <div class="step-num">5</div>
+        <div class="step-body">
+          <div class="step-label">전략 — commentary 빈칸 풀이 원칙</div>
+          <div class="step-text">(1) Commentary 문장을 지문의 어느 부분과 연결되는지 확인. (2) 빈칸 앞뒤 collocation 제약 파악. (3) 조건에 맞는 단어를 지문에서 검색. (4) 지문에 없는 단어 불가.
+함정: 'shift'는 자연스럽지만 지문에 없음 — passage-bound 규칙으로 탈락.</div>
+          <div class="kterms"><span class="kterm">passage-bound</span><span class="kterm">shift ≠ reverse (지문 외)</span></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="sec-title">지문 해석</div>
+    <div class="trans-box">
+      <p>매일 아침, 우리는 좌판에서 좌판으로, 행상인을 따라 떠돌았다—온갖 행상인들로 가득 찬 탁자들 사이를. 암시장에는 길잡이 같은 것이 없었다. 프렐과 콜게이트는 어느 날은 채소 가판대 사이에, 다음 날은 약초 단지들 사이에 끼어 있었다. 시장은 무작위로 구성되어 있었고, 오직 어머니처럼 강하고 경험 많은 사람만이 <span class="trans-hl">그 종잡을 수 없는 길을 헤쳐 나갈 수 있었다.</span></p>
+      <p>하지만 극적이지도, 재앙스럽지도 않게, 어머니의 탐색 능력과 판독력은 새로운 삶 속에서 <span class="trans-hl">그냥 무너져버렸다.</span> 어머니는 할인 쿠폰의 관행적 확실성보다 <span class="trans-hl">흥정의 즉흥성</span>을, 개별 포장된 필레의 향기 없는 질서보다 노천 시장의 원초적 어수선함과 생선 장수 냄새를 더 좋아했다.</p>
+      <p>이제, 하늘 시장에 마지막으로 다녀온 지 겨우 3년 반쯤 지난 지금, 무서운 사실은 이것이었다: <span class="trans-hl">우리는 삶을 거꾸로 살아가고 있었고,</span> 평범한 교외 생활의 가혹한 시험을 통과하는 데 어머니를 도와줄 사람은 나였다. 나는 <span class="trans-hl">사춘기적 실험과 짜증을 부리는 사치를 포기해야만 했고,</span> 어머니를 위험에서 건져내어 <span class="trans-hl">피난처를 제공</span>할 수 있어야 했다. 이제, 우리가 바깥세상으로 나설 때, 무엇이 받아들일 수 있는 행동이고 없는 행동인지를 <span class="trans-hl">어머니에게 알려주는 것은 나였다.</span></p>
+      <div class="trans-src">— 란 카오, 『원숭이 다리(Monkey Bridge)』</div>
+    </div>
+  </div>
+
+  <!-- 정답 -->
+  <div class="tab-panel" id="answer">
+    <div class="answer-box">
+      <div class="answer-box-label">모범답안</div>
+      <div class="blank-rows">
+        <div class="blank-row"><span class="bl">①</span><span class="ba">reverse</span></div>
+      </div>
+    </div>
+    <div class="criteria-box">
+      <div class="criteria-box-label">채점 기준</div>
+      <div class="crit-lines">
+        <div class="crit-line"><span class="crit-pts">2점</span><span class="crit-text">① reverse</span></div>
+      </div>
+    </div>
+    <div class="sec-title">변형 답안</div>
+    <div class="variants">
+      <div class="variant">
+        <div class="v-head"><span class="vbadge vb-a">답안 A</span></div>
+        <div class="v-text">reverse</div>
+      </div>
+      <div class="variant">
+        <div class="v-head"><span class="vbadge vb-b">답안 B</span></div>
+        <div class="v-text">reverse
+(근거: 지문 'going through life in reverse' — 어머니(고국의 탐색자)↔화자(현재의 보호자) 역할 반전. Commentary의 'from X to Y' 구조와 직접 대응.)</div>
+      </div>
+    </div>
+    <hr class="source-divider">
+    <div class="sec-title">원전</div>
+    <div class="ref">
+      <span class="ref-type">Novel</span>
+      <div class="ref-title">Monkey Bridge</div>
+      <div class="ref-author">Cao, Lan (1997) — Viking Penguin</div>
+      <div class="ref-pages">Ch. 1</div>
+      <div class="ref-quote">"We were <span class="ref-hl">going through life in reverse</span>, and I was the one who would <span class="ref-hl">help my mother</span> through the hard scrutiny of ordinary suburban life."</div>
+    </div>
+    <div class="sec-title">개념 정리</div>
+    <div class="concept"><strong>란 카오, 『원숭이 다리』</strong>
+베트남 이민 1.5세대 소설. 고국에서 강인한 탐색자였던 어머니가 미국 일상에 적응하지 못하면서, 딸(화자)과 역할이 역전되는 과정을 그림.
+
+<strong>역할 대조</strong>
+고국: 어머니 = 능동적 탐색자 / 화자 = 의존자
+미국: 어머니 = 피보호자 / 화자 = 안내자·보호자
+
+핵심 표현: 'going through life in reverse' = 역할 역전 요약
+빈칸 전략: Commentary 빈칸은 지문의 핵심 표현에서 직접 어휘를 가져오는 passage-bound fill-in 유형.</div>
+  </div>
+
+</div>
+</div>
+
+<script>
+function showTab(btn, id) {
+  const card = btn.closest('.card');
+  card.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  card.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  card.querySelector('#' + id).classList.add('active');
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_A08",
+    "year": 2024,
+    "number": "A-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nResearch suggests that L2 learners employ various\nlistening strategies to increase comprehension of what they\nlisten to. These strategies can be classified into two types:\nlocal or micro-strategies (Type 1) and global or macro-strategies\n(Type 2). Below are some specific strategies from each type.\nType 1\n1) Identifying cognates\n2) Using context to infer the meaning of words\n3) Determining to skip unknown words or phrases\nType 2\n1) Making predictions about the content based on titles or\nphrasal cues\n2) Informing oneself about the context of the input (e.g.,\nspeakers, situations)\n3) Recognizing the type of a listening text (e.g., news broadcasts,\nlectures, business presentations, job interviews)\n<B>\nIn an attempt to improve his students’ listening comprehension,\nMr. Jung, a middle school English teacher, wanted to identify\nthe strategies that his students apply to their listening process.\nIn order to do so, he played a monologue to his students in\nclass and paused the audio after each segment. He asked the\nstudents to think aloud while they were listening. Below are\ntwo of the audio segments Mr. Jung used and what Minji and\nDongho, two of his students, were thinking as the audio was\nbeing played.\nHmm, a waste of time? Audio Segment 1\nMaybe he’s going to say I think social media is a\nsomething negative about waste of time. I’m totally\nusing social media. addicted, I have to say.\nBut there really isn’t\nmuch going on.\nSneaky? It’s a new word. Audio Segment 2\nI don’t think I need to I just spend hours just,\nknow its meaning at the sort of, checking other\nmoment. people’s profiles, looking\nat their pictures. I don’t\nknow, it’s a bit sneaky.\nIdentify the ONE specific listening strategy from each type\nin <A> that Minji and Dongho applied to their listening process\nin <B>, respectively. Then explain your answers with evidence\nfrom <A> and <B>.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

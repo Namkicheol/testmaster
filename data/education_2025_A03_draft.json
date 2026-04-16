@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_A03",
+    "year": 2025,
+    "number": "A-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the passage and follow the directions.【2 points】\nMaterials can be adapted by using different techniques such\nas adding, deleting, modifying, and reordering. For example,\nwe can add materials when a language item is not covered\nsufficiently in the original materials. Materials that are too\neasy or difficult for learners can be deleted. Modifying can be\nused to make them more relevant to students’ interests and\nbackgrounds and to restructure classroom management.\nReordering the sequence of activities is another technique,\nwhich includes separating items and regrouping them.\nConsider the original material extracted from a grammar\nexercise book and its adapted version below. In the adapted\nversion, the original exercise has been adapted by using the\ntechnique. ①\nOriginal Material\n➊ Describe the man’s routine in four sentences. Individual Work\n➋ Answer the following questions. Individual Work\nWhat time do you wake up?\nWhat do you usually wear to work?\nWhat do you usually cook for dinner?\nAdapted Material\n➊ Describe the student’s routine in four Individual Work\nsentences.\n➋ Work in pairs and ask each other the following Pair Work\nquestions.\nWhat time do you wake up?\nWhat do you usually wear on school days?\nWhat do you usually eat for dinner?\nFill in the blank with the ONE most appropriate word from the ①\npassage.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "linguistics_2010_X33",
+    "year": 2010,
+    "number": "X-33",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "33. Read <A> and <B> and answer the question. [2.5점]\n<A>\nIn English, some stress-shifting suffixes trigger a shift\nof stress in the base to which they are attached. In words\nwith those suffixes, the assignment of stress depends on\nthe syllabic internal structure of the base, as shown below:\n(1) The primary stress falls on the syllable that is\nthe suffix if that syllable is heavy immediately before\n(e.g., súbstance-substántial).\n(2) If the syllable immediately before the suffix is light,\nthe primary stress falls on the syllable immediately\npreceding that light syllable (e.g., admíre-ádmirable).\n(Note: A heavy syllable is defined as a syllable with a\ntense vowel, a diphthong, or a lax vowel followed by at\nleast one coda segment. A light syllable, on the other\nhand, is an open syllable with one lax vowel, having no\n/ə/.) coda except when the vowel is\n<B>\nThe suffixes are given in parentheses.\na. homonym - homonymy (-y)\nb. context - contextual (-ual)\nc. navigate - navigation (-ion)\nd. compete - competency (-ency)\ne. insect - insecticide (-icide)\nf. advantage - advantageous (-eous)\nWhich of the following is the correct grouping for the data\nin <B> based on the rules of (1) and (2)?\n(1) (2)\n① a, c, d b, e, f\n② a, d, e b, c, f\n③ b, c a, d, e, f\n④ b, c, f a, d, e\na, d ⑤ b, c, e, f",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2010_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2010_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2010_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2010_X_p07.png",
+        "image_count": 1
+      },
+      {
+        "page": 8,
+        "file": "images/img_2010_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2010_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2010_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2010_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2010_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2010_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2010_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

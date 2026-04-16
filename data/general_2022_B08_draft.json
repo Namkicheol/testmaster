@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2022_B08",
+    "year": 2022,
+    "number": "B-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【4 points】\nFashion criticism should be rigorous, clearly stated, and\nhistorically informed. It should neither oversimplify (as\ncurrent fashion criticism often does) nor be unnecessarily\nobscure (as current art criticism often is). It should look for\nvitality and boldness, and distinguish the original from the\nderivative. It should track a designer’s development―or point\nout standstill or regression―and attempt to figure out what led\nthe designer to make these specific aesthetic choices,\nelaborate on the techniques and materials that have been used\n―and finally pass judgment. As already mentioned, a proper\njudgment is something more than mere opinion―it is a\nreasoned or justified opinion which aims for broader validity.\nCriticism can never be completely objective. It must\nnecessarily to a great extent be subjective, saying as much\nabout the critic as about the object under scrutiny. Which is\nwhy writing criticism necessarily means exposing yourself.\nWriting criticism is about struggling to come to terms with\nwhat you do not yet know exactly how to deal with, to pass\njudgment, to expose yourself, knowing that you expose\nyourself, putting your prestige and your very identity at risk.\nAs Pierre Bourdieu formulated it: “Taste classifies, and it\nclassifies the classifier.” This is a truth that holds for all of us,\nbut it is especially acute in the case of the critic, whose\njudgment is at the greatest public scrutiny. Writing real\ncriticism is about putting yourself on the line every single\ntime.\nWhat about disagreements between critics? They should be\nwelcomed. It is never a good sign when too many people are\nin agreement about too much. It almost always means that we\nare thinking too little. There should be disagreements between\ncritics. Two critics can certainly disagree about the relative\nmerits of two designers, such as for instance Alexandre\nHerchcovitch and Phoebe Philo. However, one should also\nnote that there will usually be a high degree of convergence\nbetween critics in their judgments. One might prefer\nHerchcovitch and the other Philo, and even find a certain\ncollection plain tasteless, but it would be highly surprising if\none of them argued that Herchcovitch or Philo is a designer\nwith virtually no aesthetic merit. Would a serious critic pass\nsuch a judgment? There will be disagreements, but\ndisagreements are possible only against a much larger\n. background of\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means in the\ncontext of criticism. Do NOT copy more than FOUR consecutive\nwords from the passage.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

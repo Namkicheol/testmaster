@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "id": "general_2026_A05",
+    "year": 2026,
+    "number": "A-5",
+    "subject": "general",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "short story",
+      "Alice Munro",
+      "Walker Brothers Cowboy",
+      "class consciousness",
+      "narrator"
+    ],
+    "parse_source": "2026_전공A_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Complete the commentary below by filling in the blank with the ONE most appropriate word from the excerpt. Then explain why the narrator feels so negatively about her and her mother's refined appearances attracting attention as described in the underlined part.",
+    "passage": "Up until last winter we had our own business, a fox farm. My father raised silver foxes and sold their pelts to the people who make them into capes and coats and muffs. Prices fell, my father hung on hoping they would get better next year, and they fell again, and he hung on one more year and one more and finally it was not possible to hang on anymore, we owed everything to the feed company. I have heard my mother explain this, several times, to Mrs. Oliphant, who is the only neighbor she talks to. (Mrs. Oliphant also has come down in the world, being a schoolteacher who married the janitor.) We poured all we had into it, my mother says, and we came out with nothing. Many people could say the same thing, these days, but my mother has no time for the national calamity, only ours. Fate has flung us onto a street of poor people (it does not matter that we were poor before; that was a different sort of poverty), and the only way to take this, as she sees it, is with dignity, with bitterness, with no reconciliation. No bathroom with a claw-footed tub and a flush toilet is going to comfort her, nor water on tap and sidewalks past the house and milk in bottles, not even the two movie theatres and the Venus Restaurant and Woolworths so marvellous it has live birds singing in its fan-cooled corners and fish as tiny as fingernails, as bright as moons, swimming in its green tanks. My mother does not care.\n\nIn the afternoons she often walks to Simon's Grocery and takes me with her to help carry things. She wears a good dress, navy blue with little flowers, sheer, worn over a navy-blue slip. Also a summer hat of white straw, pushed down on the side of the head, and white shoes I have just whitened on a newspaper on the back steps. I have my hair freshly done in long damp curls which the dry air will fortunately soon loosen, a stiff large hair ribbon on top of my head. This is entirely different from going out after supper with my father. We have not walked past two houses before I feel we have become objects of universal ridicule. Even the dirty words chalked on the sidewalk are laughing at us. My mother does not seem to notice. She walks serenely like a lady shopping, like a lady shopping, past the housewives in loose beltless dresses torn under the arms. With me her creation, wretched curls and flaunting hair bow, scrubbed knees and white socks—all I do not want to be. I loathe even my name when she says it in public, in a voice so high, proud, and ringing, deliberately different from the voice of any other mother on the street.\n\nAlice Munro, \"Walker Brothers Cowboy\"\n\n<Commentary>\nFollowing the disastrous outcome of the family business, the narrator's family ended up living in an impoverished town. What the narrator sees as fair enough in her surroundings does not lead to her mother's __________ with their new reality.",
+    "blanks": [
+      {
+        "label": "빈칸",
+        "context": "does not lead to her mother's ___ with their new reality"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "어머니가 새 현실을 받아들이는 것과 반대되는 개념 → 수용/화해를 의미하는 명사\n- commentary: 'does not lead to her mother's ___ with their new reality' — 빈칸은 mother's + 명사\n- 지문에 직접 등장한 단어여야 함 — passage-bound 규칙\n- 'no reconciliation'이 지문 본문에 명시됨 — 부정 구문이지만 단어 자체는 지문에 존재",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'the only way to take this... is with dignity, with bitterness, with no reconcili...' [paraphrase]\n→ does not lead to her mother's ___ with their new reality\n\n'What the narrator sees as fair enough in her surroundings' [structural]\n→ two movie theatres, Venus Restaurant, Woolworths — narrator는 괜찮다고 봄",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- acceptance: ✗ (지문에 등장하지 않는 단어 — passage-bound 규칙 위반)\n- adaptation: ✗ (지문에 등장하지 않는 단어)\n- reconciliation: ✓ (정답)",
+        "key_terms": [
+          "reconciliation"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: reconciliation\n\n[content] 지문에 'the only way to take this... is with dignity, with bitterness, with no reconciliation'이 명시됨. Commentary의 'does not lead to ___ with their new reality'는 이를 직접 paraphrase\n→ 근거: \"the only way to take this, as she sees it, is with dignity, with bitterness, with no reconciliation.\"",
+        "key_terms": [
+          "reconciliation"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① Commentary의 빈칸은 passage에서 직접 찾는다 — 특히 부정 표현(no reconciliation) 안에 정답이 숨어 있을 수 있음\n② 밑줄 설명 문제: 화자가 부정적으로 느끼는 이유를 계층적 긴장(class tension)과 소속감 상실로 연결\n③ 어머니의 행동 기술에 집중 — 평가(판단)가 아닌 묘사로 서술\n\n함정:\n- 지문에 없는 단어(acceptance, adjustment)를 답으로 쓰는 오류\n- 밑줄 분석 시 어머니의 심리만 서술하고 화자(딸)의 심리를 빠뜨리는 오류",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [
+      {
+        "word": "serenely",
+        "pos": "adv.",
+        "definition_ko": "평온하게, 태연하게"
+      },
+      {
+        "word": "flaunting",
+        "pos": "adj.",
+        "definition_ko": "과시하는"
+      },
+      {
+        "word": "loathe",
+        "pos": "v.",
+        "definition_ko": "혐오하다, 몹시 싫어하다"
+      },
+      {
+        "word": "reconciliation",
+        "pos": "n.",
+        "definition_ko": "화해, 수용, 받아들임"
+      },
+      {
+        "word": "universal ridicule",
+        "pos": "n. phrase",
+        "definition_ko": "모든 이의 조롱"
+      },
+      {
+        "word": "calamity",
+        "pos": "n.",
+        "definition_ko": "재난, 재앙"
+      },
+      {
+        "word": "pelt",
+        "pos": "n.",
+        "definition_ko": "모피, 가죽"
+      },
+      {
+        "word": "claw-footed tub",
+        "pos": "n.",
+        "definition_ko": "발톱 모양 발이 달린 욕조 (고급 욕실의 상징)"
+      }
+    ],
+    "translation": "지난겨울까지만 해도 우리는 자체 사업을 운영하고 있었다. 여우 농장이었다. 아버지는 은여우를 키워 그 털가죽을 망토나 코트, 머프를 만드는 사람들에게 팔았다. 가격이 떨어졌고, 아버지는 내년엔 나아질 거라 기대하며 버텼다. 가격은 다시 떨어졌고, 아버지는 또 한 해, 또 한 해를 버텼다. 마침내 더는 버티는 것이 불가능해졌을 때, 우리는 사료 회사에 모든 것을 빚지게 되었다. 어머니가 이 이야기를 여러 번 설명하는 것을 들었다. 이야기를 들어주는 유일한 이웃인 올리팬트 부인에게. (올리팬트 부인도 세상에서 내려온 처지였다. 교사였다가 학교 관리인과 결혼했으니.) 우리는 있는 것을 다 쏟아부었지만 빈손으로 나왔다고 어머니는 말했다. 요즘에는 많은 사람이 같은 말을 할 수 있겠지만, 어머니에게는 나라 전체의 재난을 생각할 여유가 없었다. 오로지 우리 가족의 것만. <span class=\"trans-hl\">운명은 우리를 가난한 사람들의 거리로 내던졌고</span>(예전에도 가난했다는 것은 중요하지 않았다. 그것은 다른 종류의 가난이었으니), 어머니의 눈에 이것을 받아들이는 유일한 방식은 <span class=\"trans-hl\">품위 있게, 씁쓸하게, 어떠한 화해도 없이</span> 임했다. 발톱 모양 발이 달린 욕조와 수세식 화장실이 있는 욕실도 어머니를 위로하지 못했다. 수돗물도, 집 앞으로 난 포도도, 유리병에 배달되는 우유도, 심지어 두 개의 영화관과 비너스 레스토랑과 선풍기로 식힌 구석구석에서 살아 있는 새들이 노래하고 손톱만 한 크기에 달빛처럼 빛나는 물고기들이 초록 어항 속을 헤엄치는 그 경이로운 울워스 잡화점도. 어머니는 관심이 없었다.\n\n오후가 되면 어머니는 종종 사이먼 식료품점까지 걸어가면서 나를 데려가 짐을 들게 했다. 어머니는 예쁜 원피스를 입었다. 작은 꽃무늬가 있는 감색의 얇은 원단으로, 감색 슬립 위에 걸쳤다. 흰 밀짚 모자도 썼는데, 머리 한쪽으로 눌러쓴 것이었다. 그리고 내가 방금 뒷계단에서 신문지 위에 흰색으로 닦아놓은 흰 구두도. 나는 갓 말아올린 긴 머리를 하고 있었는데, 다행히 건조한 공기에 곧 풀릴 촉촉한 컬이었다. 머리 위에는 크고 빳빳한 리본을 달았다. 이것은 저녁 식사 후 아버지와 함께 외출하는 것과는 완전히 달랐다. <span class=\"trans-hl\">집 두 채를 채 지나기도 전에 나는 우리가 모든 이의 조롱거리가 되었다는 느낌을 받았다.</span> 심지어 보도에 분필로 쓰인 상스러운 낙서들도 우리를 비웃는 것 같았다. 어머니는 그것을 알아채지 못하는 것 같았다. 어머니는 <span class=\"trans-hl\">귀부인처럼 쇼핑하듯 태연하게 걸었다</span>. 팔 밑이 찢어진 헐렁하고 벨트 없는 원피스를 입은 주부들 곁을 지나면서. 나는 그녀의 작품이었다. 지저분한 컬머리와 눈에 띄는 리본, 닦인 무릎과 흰 양말 — 내가 되고 싶지 않은 모든 것. 어머니가 공공장소에서 내 이름을 부를 때, 나는 내 이름조차 <span class=\"trans-hl\">혐오스러웠다</span>. 그 목소리는 너무나 높고 자랑스럽고 쩌렁쩌렁해서, 의도적으로 거리의 어떤 다른 어머니의 목소리와도 달랐다."
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "빈칸",
+          "answer": "reconciliation"
+        }
+      ],
+      "essay_content": "The narrator feels negative because her mother's refined appearance visibly marks them as outsiders in their poor neighborhood. While the narrator wants to blend in with the community, her mother insists on maintaining class distinction, making them conspicuous targets of mockery. This forces the narrator to experience shame and a loss of belonging.",
+      "scoring_criteria": [
+        {
+          "criterion": "빈칸 — reconciliation",
+          "points": 1
+        },
+        {
+          "criterion": "어머니의 차림새가 가난한 동네에서 튀어 조롱의 대상이 된다는 내용",
+          "points": 1.5
+        },
+        {
+          "criterion": "화자가 동네에 동화되고 싶은데 어머니의 태도로 수치심/소외감을 느낀다는 내용",
+          "points": 1.5
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "The narrator feels ashamed because her mother's overdressed appearance stands out among the poor neighbors, drawing unwanted attention. The narrator wishes to blend into the community but is forced to appear conspicuously different, causing her to feel ridiculed and alienated."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "The narrator is embarrassed by how conspicuously different she and her mother look compared to the neighbors. Her mother's refusal to adapt to their new circumstances highlights the gap between them and the community, making the narrator feel like an object of mockery rather than a member of the neighborhood."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "short_story",
+        "author": "Munro, Alice",
+        "title": "Walker Brothers Cowboy",
+        "year": 1968,
+        "publisher": "Dance of the Happy Shades, McGraw-Hill Ryerson",
+        "pages": "",
+        "excerpt": ""
+      }
+    ],
+    "concept_explanation": "Alice Munro의 「Walker Brothers Cowboy」는 캐나다 대공황 시대를 배경으로 한 단편소설. 어린 딸인 화자의 시점에서 계급 하락을 받아들이지 못하는 어머니와, 새 환경에 동화되고 싶은 화자 사이의 긴장을 그린다. 어머니의 '품위 유지'는 일종의 계급 저항이지만, 딸에게는 수치심과 소외감의 원천이 된다. 핵심 대비: 어머니의 dignity(자존심) ↔ 딸의 belonging(소속감). 지문 키워드: 'with no reconciliation' — 어머니는 현실과의 화해를 거부."
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2017_A05",
+    "year": 2017,
+    "number": "A-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the poem and follow the directions.【2 points】\nThe flower that smiles today\nTomorrow dies;\nAll that we wish to stay,\nTempts and then flies.\nWhat is this world’s delight?\nLightning that mocks the night,\nBrief even as bright.\nVirtue, how frail it is!\nFriendship how rare!\nLove, how it sells poor bliss\nFor proud despair!\nBut we, though soon they fall,\nSurvive their joy and all\nWhich ours we call.\nWhilst skies are blue and bright,\nWhilst flowers are gay,\nWhilst eyes that change ere night\nMake glad the day,\nWhilst yet the calm hours creep,\nDream thou—and from thy sleep\nThen wake to weep.\nComplete the statement by filling in the blank with the ONE\nmost appropriate word from the poem.\nOne theme in the poem is that all good things in life come\nto an end, and as a result, we are left with the feeling of\n.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

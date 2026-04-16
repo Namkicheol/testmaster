@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2019_X13",
+    "year": 2019,
+    "number": "X-13",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "13. Read the passage and follow the directions.【4 points】\nThere’s no shortage of therapies for autism, some of\nwhich work well, some not so well. But there is one simple\ntreatment that hasn’t been getting the attention it may\ndeserve: time. According to a new study in the Journal of\nChild Psychology and Psychiatry, some children who\nreceive behavioral interventions to treat autism might be\nable to age out of their symptoms, outgrowing them like last\nyear’s shoes.\nThe idea of maturing out of psychological ills is not new.\nAll 10 personality disorders, for example－including\nschizoid, which shares features with schizophrenia－can\nlessen as people age. Some of this may be attributable to\npatients’ learning to manage their symptoms, but it’s also\npossible that the brain, which is still developing into our late\n20s, is improving too. “The fact that these things aren’t\nengraved in granite is terribly exciting,” says psychologist\nMark Lenzenweger of the State University of New York at\nBinghamton.\nThere have been hints that this kind of remission might be\npossible in autism, but previous studies were plagued with\nquestions about whether the children who had apparently\nshed their autism were properly diagnosed with the disorder\nin the first place. In the current analysis, a team led by\npsychologist Deborah Fein of the University of Connecticut\nlooked at 34 people ages 8 to 21 who had been diagnosed\nwith autism but no longer met the criteria for the disorder. It\ncompared them with 44 patients in the same age group who\nstill had symptoms. Both groups had received similar\ntreatments. After the researchers corrected for other\nvariables, the subjects with the better outcomes seemed\nsimply to have matured out of the condition.\n“I view it as a landmark kind of study,” says Geraldine\nDawson, chief science officer for Autism Speaks. Others\ndisagree. It’s possible, they say, that some kids just mask\ntheir symptoms, imitating healthy behaviors that they come\nto appreciate as desirable. Still, it’s hard to dismiss Fein’s\nwork entirely. The 34 subjects whose symptoms had\nvanished were able to attend school without one-on-one\nassistance and needed no further social-skills training.\nSomething had to account for that, and maturation, in this\nresearch at least, is the best answer.\nDescribe what the underlined part refers to. Provide TWO\npieces of evidence showing that the group of 34 subjects in\nFein’s work had recovered from autism. Do NOT copy more\nthan THREE consecutive words from the passage.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

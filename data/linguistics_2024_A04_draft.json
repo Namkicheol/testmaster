@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2024_A04",
+    "year": 2024,
+    "number": "A-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage and follow the directions.【2 points】\nIn English, the past-tense morpheme is realized in three\ndifferent phonetic forms. These are shown in the following\nwords.\n(1) grabbed [d] reaped [t] raided [əd]\nhugged [d] poked [t] gloated [əd]\nAlso, the morpheme used to express indefiniteness has two\nphonetic forms―an[ən] before a word that begins with a\nvowel sound and a[ə] before a word that begins with a\nconsonant sound.\n(2) an [ən] orange a [ə] building\nan [ən] accent a [ə] car\nan [ən] eel a [ə] girl\nAnother case of this variation is found in pairs of words\nin (3). The final consonant in the first morpheme changes\nwhen a suffix is added. As a result, each of these morphemes\nhas at least two different phonetic forms.\n(3) permit[t] －permiss[s]ive include[d]－inclus[s]ive\nelectric[k]－electric[s]ity impress[s]－impress[ʃ]ion\nAs exemplified in (1) to (3), a morpheme can have variant\nphonetic forms which are called .\nFill in the blank with the ONE most appropriate word.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "linguistics_2013_X31",
+    "year": 2013,
+    "number": "X-31",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "31. Read <A> and <B> and answer the question. [1.5점]\n<A>\nAffixes like -ing or -y are called bound morphemes\nbecause they cannot stand alone. They always have to be\nattached to the stem or root of a word in order to be used.\nThere are two types of affixes: derivational and inflectional.\nDerivational affixes are added to a stem or root to form a\nnew stem or word, possibly, but not necessarily, resulting\nin a change in syntactic category or meaning. For example,\nthe derivational affix -er is added to a verb like kick to\ngive the noun kicker. On the other hand, by the addition\nof inflectional affixes, forms with different grammatical\nfunctions are created as in cats. That is, inflectional affixes\nhave a strictly grammatical function, marking properties\nsuch as tense and number.\n<B>\na. In condemnation, -ation is an inflectional affix.\nb. In nonrefundable, non-, re-, and -able are all derivational\naffixes.\nc. In governments, -ment is a derivational affix, and -s is\nan inflectional affix.\nd. In insincerity, in- and -ity are both inflectional affixes.\ne. In lovelier, -ly is a derivational affix, and -er is an\ninflectional affix.\nBased on <A>, which of the following lists all and only the\ncorrect statements in <B>?\na, b, c a, b, d b, c, d ① ② ③\nb, c, e c, d, e ④ ⑤\n11\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2013_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2013_X_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2013_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2013_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2013_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2013_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2013_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2013_X_p11.png",
+        "image_count": 2
+      },
+      {
+        "page": 12,
+        "file": "images/img_2013_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2013_X_p13.png",
+        "image_count": 2
+      },
+      {
+        "page": 14,
+        "file": "images/img_2013_X_p14.png",
+        "image_count": 1
+      },
+      {
+        "page": 15,
+        "file": "images/img_2013_X_p15.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

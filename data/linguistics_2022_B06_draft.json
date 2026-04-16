@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2022_B06",
+    "year": 2022,
+    "number": "B-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage in <A> and the conversation in <B>, and\nfollow the directions.【4 points】\n<A>\nConversation is co-constructed by two or more people,\nunfolding dynamically in real time. For conversational\ndiscourse to be successful, the participants have to know how\nto organize the events in it; that is, they need to achieve\ncohesion. A cohesive relation is one in which the interpretation\nof one element in the discourse presupposes, and is dependent\nupon, another. In English, along with the grammatical\ncohesive devices such as reference, substitution, ellipsis, and\nconjunction, cohesion in conversation can also be achieved\nusing lexical cohesive devices.\nLexical cohesive devices by which links are made across a\nconversation include the use of synonyms, antonyms,\nrepetition of the same content words, words exhibiting\ngeneral-specific relations, and words displaying part-whole\nrelations. The use of lexical cohesion is an indicator of topic\nconsistency, and hence contributes significantly to the sense\nthat speakers are talking to topic, and the talk, therefore,\nbecomes more coherent.\n<B>\n(Two friends are having a conversation in the wallpaper aisle\nat a hardware store.)\nS1: Isn’t it funny that wallpaper is in fashion again?\nS2: Yeah, I thought it was gone forever.\nS1: Me, too. So, you are redoing your kitchen?\nS2: Yup. And I want to use one of these.\nS1: Good idea. (pointing to a roll of wallpaper) How about\nthat?\nS2: You mean the one on the top shelf?\nS1: Yeah, do you like it?\nS2: Uh-huh. It will go with my dining table.\nS1: Have you been to Lesley’s new office?\nS2: I have, actually. It was huge and everything was so well\norganized.\nS1: Yeah. And she had the same wallpaper.\nS2: Oh, that’s right. I remember that.\nNote: S = speaker\nBased on <A>, identify TWO lexical cohesive devices used in\nthe conversation in <B>. Then, provide evidence from <B> for\neach identified lexical cohesive device.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

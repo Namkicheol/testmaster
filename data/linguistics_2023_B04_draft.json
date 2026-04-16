@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2023_B04",
+    "year": 2023,
+    "number": "B-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nMany derivational suffixes in English share the same\nphonological forms, but serve different morphological\nfunctions. One example of this is the derivational suffix -al.\nConsider the following words ending in -al in (1). Some -al\nwords are adjectives and others are nouns.\n-al adjectives -al nouns (1)\nannual dismissal\nbetrayal natural\ngradual reversal\nfederal survival\nfloral renewal\nlegal referral\nThe noun-forming suffix -al imposes a morphological and a\nphonological requirement on the stems to which it attaches.\nFrom the morphological perspective, the noun-forming suffix\n-al must attach to a verb, as shown in dismiss+al, betray+al,\nreverse+al, etc. Not all verbs, however, can take the\nnoun-forming suffix -al. Impossible -al nouns are shown in\n(2).\n(2) *abandonal *fidgetal *investigatal *promisal *qualifial\nEnglish verbs and nouns exhibit a wide range of stress\npatterns. These are represented by the ultimate, penultimate,\nor antipenultimate stress, or by the trochaic or iambic foot\nstructure, etc. The phonological requirement, in relation to\nstress and foot structure, for the noun-forming suffix -al can\nexplain why the suffix sometimes creates unattested nouns.\nThe attested -al nouns in (1) and the unattested ones in (2)\ndiffer markedly in their stress and foot patterns. The stress\npattern shared in common among the attested -al nouns is also\nfound in many underived nouns, as illustrated in (3).\n(3) appendix Chicago veranda avocado\nconsensus hiatus Minnesota arena\nNote: ‘*’ indicates an unattested word.\n<B>\nThe above data show that both attested -al nouns in (1) and\nunderived nouns in (3) have the primary stress on the ①\nsyllable, creating a(n) foot at the end. ②\nFill in the blanks and in <B> each with ONE word from ① ②\n<A>, in the correct order. Then, state the phonological\ngeneralization that determines which verb stem the\nnoun-forming suffix -al can attach to.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

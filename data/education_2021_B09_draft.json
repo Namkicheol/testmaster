@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_B09",
+    "year": 2021,
+    "number": "B-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage in <A> and the sample items in <B>, and\nfollow the directions.【4 points】\n<A>\nMs. Kang, a new high school English teacher, was assigned\nto create questions for the listening section of the semester’s\nfinal exam. In order to make the most effective test items, she\ngoes over her notes from her college assessment class and\nfinds the following:\nLooking at her notes, she remembers that each of these\ntechniques has its own strengths. For example, the sentence\nparaphrase technique has high practicality because it is easy to\ngrade. Other techniques, such as information transfer, partial\ndictation, and sentence repetition, work well for assessing\nstudents’ listening ability in a more integrative way. Ms. Kang\nthinks that she will utilize some of these techniques because\nshe wants to test her students’ listening and other language\nskills simultaneously. Ms. Kang also thinks her students\nshould be able to understand specific details, which is one of\nher main goals for the class this semester. So, she wants to test\nthis particular ability in the final exam. While all the\ntechniques in her notes are good for assessing the ability to\nfind specific information, Ms. Kang thinks the sentence\nrepetition technique may not be appropriate since it may only\nrequire students to simply repeat what they hear.\n영 어 [전공B]\n<B>\nBelow are two sample items made by Ms. Kang.\nSample Item 1\n◼Listen to the information about Minsu’s daily schedule and\nfill in his schedule with the correct information. The\ninformation will be given twice.\nMinsu’s Schedule\nMonday Tuesday Wednesday Thursday Friday\n9-10 am\n10-11 am\n11-12 pm\n12-1 pm Lunch\n1-2 pm\n2-3 pm\n3-4 pm\nAudio Script\nMinsu’s classes start at nine in the morning and he eats\nlunch at noon every day. He has math on Monday, Tuesday,\nand Friday at nine o’clock. English is scheduled on\nSample Item 2\nFill in the blanks with the words you hear. You will hear the ◼\npassage three times.\nWe can find many geographic regions in Korea. The\n____________ and ____________ parts of the country have\nhuge plains. The main rivers flow westward because the\nmountainous region is mostly on the ____________ part of\nthe country.\nAudio Script\nWe can find many geographic regions in Korea. The\nsouthern and western parts of the country have huge plains.\nThe main rivers flow westward because the mountainous\nregion is mostly on the eastern part of the country.\nBased on <A>, identify the item technique used in Sample Item 1\nand Sample Item 2 in <B>, respectively. Then, explain why the\nteacher used both item techniques with evidence from <A>. Do\nNOT copy more than FOUR consecutive words from the\npassage.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

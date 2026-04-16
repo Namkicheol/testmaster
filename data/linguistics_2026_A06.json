@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "id": "linguistics_2026_A06",
+    "year": 2026,
+    "number": "A-6",
+    "subject": "linguistics",
+    "linguistics_domain": "phonology",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "j-dropping",
+      "yod-dropping",
+      "distinctive features",
+      "coronal",
+      "anterior",
+      "phonology"
+    ],
+    "parse_source": "2026_linguistics_A.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "In consultation with the table in (5), fill in each of the blanks ① and ② with the ONE most appropriate distinctive feature. The feature value ('+' or '－') must be specified. Then generalize the patterns in (4).",
+    "passage": "Pairs such as threw-through and brewed-brood used to be distinguished by the presence of /j/ in the former member of each pair and the absence in the latter. In certain environments the /j/ disappeared and accordingly, the pairs mentioned above are homophones in most English accents. The words in (1) underwent the same historical change, /j/-dropping, so they do not have /j/ now.\n\n(1) chute [ʃut], chew [ʧu], juice [ʤus]\nrude [ɹud], crew [kɹu], shrewd [ʃɹud], grew [gɹu]\n\nIn Modern British English, the words in (2) are losing /j/ and consequently, there is variation in their pronunciation.\n\n(2) enthusiasm [ɪnθjuziæzəm] ~ [ɪnθuziæzəm],\nthulium [θjuliəm] ~ [θuliəm]\nassume [əsjum] ~ [əsum], sue [sju] ~ [su]\nresume [ɹɪzjum] ~ [ɹɪzum], presume [pɹɪzjum] ~ [pɹɪzum]\nlewd [ljud] ~ [lud], lurid [ljuɹɪd] ~ [luɹɪd]\n\nHowever, the words in (3) are not involved in the change.\n\n(3) pure [pjʊɹ], *[pʊɹ]  few [fju], *[fu]\nview [vju], *[vu]  cue [kju], *[ku]\n\nOn the basis of the data above, we can generalize that /j/-dropping is completed after the coronal consonants with [①], and it is now optional depending on dialects or speakers after those with [②]. However, there seem to be exceptions to this generalization. The words in (4) used to contain /j/, but they do not now, as the words in (1).\n\n(4) blue [blu], *[blju]  flute [flut], *[fljut]\nflew [flu], *[flju]  glue [glu], *[glju]\n\n(5) Distinctive features\n/p,b,m,f,v/ /θ,ð/ /t,d,n,l/ /s,z/ /ʃ,ʒ,ʧ,ʤ/ /ɹ/ /j/ /k,g,ŋ/ /h/\n[labial]    +    -    -    -    -    -    -    -    -\n[coronal]   -    +    +    +    +    +    +    -    -\n[dorsal]    -    -    -    -    -    -    +    +    -\n[anterior]  +    +    +    +    -    -    -    -    -\n[strident]  -    -    -    +    +    -    -    -    -\n\nNote: '*' indicates unattested pronunciation.",
+    "blanks": [
+      {
+        "label": "①",
+        "context": "coronal consonants with [①] — j-dropping 완료"
+      },
+      {
+        "label": "②",
+        "context": "coronal consonants with [②] — j-dropping 선택적"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "음운론(phonology) 영역. j-dropping(yod-dropping) 환경 분석 문제. 두 빈칸은 feature 값(+/-) 포함한 단일 feature. 세 그룹 구별:\n(1) j-dropping 완료 자음\n(2) j-dropping 선택적 자음\n(3) j-dropping 무관 자음\n(4) 예외 → 일반화 요구\nfeature 표(5) 참조하여 (1)과 (2)의 공통 feature 차이 파악.",
+        "key_terms": [
+          "j-dropping",
+          "yod-dropping",
+          "distinctive feature",
+          "coronal",
+          "anterior"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응 — 자음 분류 및 feature 확인",
+        "explanation": "(1) j-dropping 완료 자음: ʃ, ʧ, ʤ (chute, chew, juice) + ɹ (rude, crew)\n→ 표(5)에서: ʃ,ʒ,ʧ,ʤ = [coronal +, anterior -, strident +], ɹ = [coronal +, anterior -, strident -]\n→ 공통: [coronal +, anterior -] → ① = [-anterior]\n\n(2) j-dropping 선택적 자음: θ (enthusiasm, thulium), s,z (assume, sue, resume), l (lewd)\n→ 표(5)에서: θ,ð = [coronal +, anterior +], s,z = [coronal +, anterior +, strident +], l = [coronal +, anterior +]\n→ 공통: [coronal +, anterior +] → ② = [+anterior]\n\n(3) j-dropping 무관: p,b,f,v,k,g = [-coronal] → 관련 없음.",
+        "key_terms": [
+          "[-anterior]",
+          "[+anterior]",
+          "palato-alveolar",
+          "alveolar/dental"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "후보 소거 — feature 확정",
+        "explanation": "① 후보: [-anterior] vs [-strident]\n→ [-anterior]: ʃ,ʧ,ʤ,ɹ 모두 포함. 완전 탈락 자음 전체 설명.\n→ [-strident]: ɹ은 [-strident]이지만 ʃ,ʧ,ʤ는 [+strident] → ɹ 포함 안 됨. 부적절.\n→ ① = [-anterior] 확정.\n\n② 후보: [+anterior] vs [+strident]\n→ [+anterior]: θ,s,z,l 모두 포함. 선택적 탈락 자음 전체 설명.\n→ [+strident]: s,z만 해당. θ,l 제외 → 부적절.\n→ ② = [+anterior] 확정.",
+        "key_terms": [
+          "[-anterior] = ①",
+          "[+anterior] = ②"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 + (4) 일반화",
+        "explanation": "① = [-anterior] 확정: ʃ[−ant],ʧ[−ant],ʤ[−ant],ɹ[−ant] 뒤에서 j-dropping 완료.\n② = [+anterior] 확정: θ[+ant],s[+ant],z[+ant],l[+ant] 뒤에서 j-dropping 선택적.\n\n(4) 일반화: blue, flute, flew, glue → bl-, fl-, gl-은 자음군(consonant cluster). /l/ = [+anterior]이므로 일반화상 선택적 탈락 예상. 그러나 실제로는 완전 탈락(j 없음). 이유: 자음군 내 /l/ 앞에서는 cluster 조건으로 j-dropping이 완료됨 — [+anterior]라도 cluster 내 /l/ 앞은 예외적 완료 환경.",
+        "key_terms": [
+          "consonant cluster",
+          "j-dropping before /l/ in clusters",
+          "exception generalization"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "음운론 feature 분석 출제 패턴:\n① 자음 그룹별 feature 표 참조 → 공통 feature 파악 (표 직접 활용).\n② 두 그룹을 구별하는 feature 하나를 특정 (± 값 포함 필수).\n③ 예외 패턴은 데이터 관찰 → 새로운 환경(cluster) 명시하여 일반화.\n함정: [strident]로 접근하면 ɹ(j-dropping 완료)를 설명 못 함 → [anterior]가 더 포괄적.",
+        "key_terms": [
+          "feature analysis",
+          "phonological generalization"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "[anterior]",
+        "definition_en": "A distinctive feature: [+anterior] consonants are articulated at or in front of the alveolar ridge (dental, alveolar). [−anterior] consonants are articulated behind the alveolar ridge (palato-alveolar, retroflex).",
+        "definition_ko": "[전방성]: [+anterior] = 치조 이전 위치 조음(치음·치조음). [−anterior] = 치조 후방 조음(경구개치조음, 권설음).",
+        "source_author": "Chomsky & Halle",
+        "source_year": 1968,
+        "related_terms": [
+          "coronal",
+          "strident",
+          "place of articulation"
+        ],
+        "exam_usage": "j-dropping 완료([−anterior]) vs 선택적([+anterior]) 구분 feature"
+      },
+      {
+        "term": "Yod-dropping (j-dropping)",
+        "definition_en": "A phonological process in English whereby /j/ (yod) is deleted after certain consonants. Completed after [−anterior] coronals (ʃ, ʧ, ʤ, ɹ); optional after [+anterior] coronals (θ, s, z, l) in many accents.",
+        "definition_ko": "j-탈락(yod-dropping) — 특정 자음 뒤에서 /j/가 삭제되는 영어 음운 현상. [−anterior] 자음 뒤: 완료. [+anterior] 자음 뒤: 선택적.",
+        "source_author": "Wells",
+        "source_year": 1982,
+        "related_terms": [
+          "historical change",
+          "homophone",
+          "RP",
+          "anterior feature"
+        ],
+        "exam_usage": "지문 전체 주제: j-dropping 환경 분석 → ①② feature 채우기"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "yod-dropping / j-dropping",
+        "pos": "term",
+        "definition_ko": "/j/ 음이 특정 자음 뒤에서 탈락하는 음운 현상",
+        "example": "chute [ʃut] (← formerly [ʃjut])"
+      },
+      {
+        "word": "coronal",
+        "pos": "distinctive feature",
+        "definition_ko": "혀끝/날이 조음에 관여하는 자음 특성 — θ,ð,t,d,n,l,s,z,ʃ,ʒ,ʧ,ʤ,ɹ,j",
+        "example": "[coronal +]: θ, s, ʃ, ɹ, l"
+      },
+      {
+        "word": "anterior",
+        "pos": "distinctive feature",
+        "definition_ko": "치조 또는 그 앞에서 조음되는 자음 특성",
+        "example": "[+anterior]: θ, t, d, s, z, l / [−anterior]: ʃ, ʒ, ʧ, ʤ, ɹ"
+      }
+    ],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "①",
+          "answer": "[−anterior]"
+        },
+        {
+          "label": "②",
+          "answer": "[+anterior]"
+        }
+      ],
+      "essay_content": "The words in (4) contain consonant clusters ending in /l/ (bl, fl, gl). Although /l/ is [+anterior], /j/-dropping is complete when /l/ follows another consonant in a cluster. Thus, the pattern generalizes that /j/-dropping also applies obligatorily before /l/ in consonant clusters, regardless of the [anterior] feature.",
+      "scoring_criteria": [
+        {
+          "criterion": "① [−anterior]",
+          "points": 1
+        },
+        {
+          "criterion": "② [+anterior]",
+          "points": 1
+        },
+        {
+          "criterion": "(4) 일반화: 자음군(cluster) 내 /l/ 앞에서 j-dropping 완료",
+          "points": 2
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "The words in (4) show blue, flute, flew, and glue — all with consonant clusters (bl, fl, gl) preceding /l/. Even though /l/ is [+anterior], the obligatory j-dropping here results from the cluster environment rather than the [anterior] feature of /l/ alone."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "In (4), /j/ is absent because these words contain clusters in which /l/ is preceded by another consonant. The generalization is that j-dropping is obligatory before /l/ in consonant clusters, even though /l/ is otherwise [+anterior] and would only trigger optional j-dropping."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Roach, P.",
+        "title": "English Phonetics and Phonology (4th ed.)",
+        "year": 2009,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 65–68",
+        "excerpt": "<span class=\"ref-hl\">Yod-dropping</span> has been <span class=\"ref-hl\">completed after ʃ, ʧ, ʤ, and ɹ</span> in all major accents; after s, z, θ, and l, it is <span class=\"ref-hl\">variable</span> and accent-dependent."
+      },
+      {
+        "type": "textbook",
+        "author": "Wells, J. C.",
+        "title": "Accents of English (Vol. 1)",
+        "year": 1982,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 205–210",
+        "excerpt": "Yod coalescence and <span class=\"ref-hl\">yod-dropping</span> patterns differ across accents of English. RP has completed yod-dropping after <span class=\"ref-hl\">palato-alveolars</span> and /ɹ/, while remaining <span class=\"ref-hl\">variable after /l/, /s/, and /z/</span>."
+      }
+    ],
+    "concept_explanation": "Yod-dropping (/j/-dropping) in English (Wells 1982; Roach 2009):\n\nPhonological process: /j/ is deleted after certain coronal consonants.\n  (음운 현상: 특정 관상 자음 뒤에서 /j/ 탈락.)\n\n① Completed (obligatory) after [−anterior] coronals:\n  (완전 탈락 — [−anterior] 관상음 뒤:)\n  ʃ, ʧ, ʤ, ɹ → chute [ʃut], rude [ɹud] ✓  *[ʃjut], *[ɹjud] ✗\n\n② Optional (variable) after [+anterior] coronals:\n  (선택적 탈락 — [+anterior] 관상음 뒤:)\n  θ, s, z, l → assume [səsum] ~ [sjum], lewd [lud] ~ [ljud]\n\n③ Cluster exception: obligatory j-dropping before /l/ in consonant clusters (bl, fl, gl), regardless of /l/'s [+anterior] feature.\n  (예외: 자음군 내 /l/ 앞에서는 [+anterior]임에도 완전 탈락.)\n  blue [blu] ✓  *[blju] ✗"
+  },
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "linguistics_2023_B05",
+        "year": 2023,
+        "number": "B-5",
+        "subject": "linguistics",
+        "connection_type": "same_strategy",
+        "connection_note": "distinctive feature 표 참조하여 음운 환경 파악하는 동일 풀이 전략",
+        "shared_keywords": [
+          "distinctive feature",
+          "phonological environment",
+          "feature table"
+        ]
+      }
+    ]
+  }
+}

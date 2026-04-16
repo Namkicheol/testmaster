@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2020_B03",
+    "year": 2020,
+    "number": "B-3",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the passage and follow the directions.【4 points】\nSome morphemes in English are pronounced differently\ndepending on their phonetic environments. These variants of\nthe same morpheme are called allomorphs. An important\nquestion is how we know which allomorph appears for a\ngiven word.\nConsider the following examples in (1), where the\nnegative morphemes il- and ir- are added to a base:\n(1) a. il-: illegal, illogical, illiterate, illegible\nb. ir-: irregular, irrational, irreducible, irrecoverable\nComparing the examples in (1a) with the ones in (1b), a\nsimple distribution is observed for the two allomorphs [ɪl]\nand [ɪɹ]. That is, [ɪl] and [ɪɹ] are selectively combined with\ntheir bases conditioned by the initial sound of the base:\nwhen the base begins with /l/, the prefix il- is chosen, and\nwhen the base begins with /ɹ/, the prefix ir- is chosen.\nThere is another case where [l] and [ɹ] alternate between\nallomorphs. The adjectival suffix has two allomorphs: -ar [əɹ]\nand -al [əl], as shown in (2):\n(2) a. -ar: singular, popular, solar, velar\nb. -al: rural, plural, viral, moral\nThese suffixes -ar [əɹ] and -al [əl] are attached to the base\ndepending on the final consonant of the base. (1) and (2) are\ndifferent in where the morpheme is attached: (1) precedes\nthe base, which is a prefix, and (2) follows the base, which\nis a suffix. On the other hand, these two morphemes are\nsimilar in that the allomorphs for different morphemes show\nthe same alternation between [l] and [ɹ]. It is interesting to\nfind the two apparently different phonemes /l/ and /ɹ/ are\ninvolved in the alternation of the allomorphs il-/ir- and\n-al/-ar.\nThe two sounds /l/ and /ɹ/ share many phonetic properties\nsuch as voicing, the place of articulation, and the manner of\narticulation. They only differ in terms of the way air passes\nthrough the mouth. This characteristic difference can be\nmade using the distinctive properties known as the distinctive\nfeature [lateral].\nIdentify TWO phonological processes involved in (1) and (2) in\nthe correct order. Then, using the distinctive feature [lateral]\n(i.e., [+lateral] or [—lateral]), generalize the distribution of the\nallomorphs -al and -ar.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

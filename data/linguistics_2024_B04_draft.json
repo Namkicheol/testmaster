@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2024_B04",
+    "year": 2024,
+    "number": "B-4",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nIt is not unusual for a segment to appear repeatedly in a\nword. However, repeated segments in proximity are\nsometimes repaired by means of dissimilation, by which a\nsegment becomes less similar to another segment. For\nexample, -al suffix appears in the form of -ar to avoid the\nrepetition of /l/ in the final syllable, when it attaches to stems\nending with /l/ (e.g., annual, mental, coronal vs. angular,\nsimilar, velar).\nRepeated segments are repaired by means of deletion as\nwell as dissimilation. As is well known, most varieties of\nAmerican English are rhotic, which means /ɹ/ is retained in\ncoda position as in (1).\n(1) ranger [ɹeɪnʤəɹ]\ncurtain [kɜɹtən]\nlabor [leɪbəɹ]\nnursery [nɜɹsəɹi]\nBut in some of these varieties of American English,\nword-medial /ɹ/ has been found to be deleted in the following\nwords.\n(2) a. corner [kɔnəɹ]\nb. farmer [fɑməɹ]\nc. Harvard [hɑvəɹd]\nd. cursor [kɜsəɹ]\nNot only word-medial /ɹ/, but word-final /ɹ/ is also deleted\nin the varieties. Take a look at the words in (3).\n(3) a. terror [tɛɹə]\nb. mirror [mɪɹə]\nc. bearer [bɛəɹə]\nd. fairer [fɛəɹə]\n<B>\na. horror b. corridor c. torture d. proctor\nIn <B>, choose the TWO words in which /ɹ/-deletion can occur\nas shown in <A>. Then state the phonological conditions under\nwhich word-medial /ɹ/ is deleted in the varieties.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_B_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_B_p07.png",
+        "image_count": 2
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

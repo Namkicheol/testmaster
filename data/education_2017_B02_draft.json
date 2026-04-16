@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2017_B02",
+    "year": 2017,
+    "number": "B-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passages and follow the directions.【4 points】\n<A>\nMaterials can be adapted for many reasons, for example, to\nlocalize, to modernize, or to personalize. We can localize\nmaterials to make them more applicable to our local context.\nWe can modernize materials when they are outdated in terms\nof English usage or content. We can also personalize\nmaterials by making them more relevant to learner needs and\ninterests. Materials adaptation can be carried out by using a\nnumber of different techniques, as shown in the figure.\n<B>\nMr. Lee is teaching first-year middle school students whose\nproficiency levels are very low. After conducting a needs\nanalysis, he has learned that the students find the writing\nsections of the textbook difficult and that they are interested\nin sports. While he is planning a writing lesson for next\nweek, he realizes that there is only one pre-writing activity in\nUnit 1 of the textbook. He thinks that one activity is not\nenough for his students to develop ideas for writing. Thus, he\nis going to increase the number of the pre-writing activities\nfrom one to three. In addition, thinking that the reading\npassage on sports in Unit 3 will better suit learner interests\nthan the reading text in Unit 1, he decides to switch the two\nreading texts. He believes that this change will help his\nstudents become better prepared for writing and more\nengaged in English language learning.\nReferring to the terms in <A>, explain the reason why Mr. Lee\nwants to adapt the materials, and identify which techniques he is\ngoing to use for materials adaptation. Do NOT copy more than\nFOUR consecutive words from the passage.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_B_p01.png",
+        "image_count": 5
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_B_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_B_p05.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

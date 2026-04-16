@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "id": "education_2011_X01",
+    "year": 2011,
+    "number": "X-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the following, which are parts of Mr. Kang’s lesson plans for his level-differentiated classes, and follow the\ndirections.【35 points】\nAdvanced Level Intermediate-Low Level\nT : Last class, we learned how to make passive forms. Today, we’ll T : Last class, we talked about the way to say that something was\nlearn when it’s better to use the passive form instead of the active done. Today, we’ll see why people say, “Something was done,”\none. Suppose that someone broke into your apartment and you rather than say, “Someone did something.” Imagine this.\nfound your laptop was missing. What would you say about your Someone broke into your apartment. You couldn’t find your\nlaptop? computer. It was gone! What would you say about your\nS1: I would say, “My laptop was stolen.” computer?\nT : That’s right. Do you know who stole it? S1: I would say, “My computer was stolen.”\nS2: No, I don’t. T : That’s right. Do you know who stole it?\nT : Correct. Let’s do another example. People constructed the S2: No, I don’t.\nPyramids in ancient times, but you don’t know exactly who T : Correct. Let’s do another example. People built the Pyramids\nconstructed them. What would you say about the Pyramids? long ago. But you do not know exactly who built them. What\nS3: The Pyramids were constructed in ancient times. would you say about the Pyramids?\nT : Great. Can anyone tell us when passive sentences are preferred S3: The Pyramids were built long ago.\nto their corresponding active sentences? T : Great. So we can say the same idea two ways. We can say,\nSs: When we don’t know who did something. “People built the Pyramids long ago.” Or, “The Pyramids were\nT : Good. Let’s go through a passage together. Try to understand built long ago.” Now, when is it better to say, “The Pyramids\nthe passage, while also paying attention to the passive forms used were built long ago”?\nin the passage. Ss: When we don’t know who built them.\nT : Good. Let’s go through a passage together. Try to understand\nthe passage. Let’s see if you can find any sentences like “The\nPyramids were built long ago.”\nTASK TASK\nStep 1 Step 1\nT : I’m going to read you the passage twice. First, I’ll read it at T : I am going to read you the passage twice. Both times, I will\nnormal speed and then I’ll read it again as slowly as possible. read it very slowly and clearly. As you listen, write down any\nAs you listen, write down as many words and phrases as words you hear.\npossible.\nHave you ever seen the Pyramids of Egypt? Have you ever\nwondered why they were built and how they were built? The\nPyramids were built because the kings wanted to live after they\ndied. They thought that they would live after they died. The\nPyramids were constructed on the west side of the Nile River. [the same passage as the one for the advanced level]\nThey were built there because the sun rises in the east and sets\nin the west. They believed that the king and the sun god would\nbe born and born again, just like the sun. The Pyramids were\nvery difficult to build, but the whole world can enjoy them.\nStep 2 Step 2\nT : Now, in groups of three, share your notes and see whether your T : Now, let’s rewrite the text. First, in groups of three, put together\ngroup can come up with its own version of the text. Once your all the words that each member heard. Then, working in your\ngroup has reconstructed the text, check it to make sure the group, try to make sentences with those words. And then\nmeaning is similar to the text you heard. Also check it carefully compare your group’s sentences with other groups’ sentences.\nfor grammatical mistakes. Using all the sentences available, rewrite the text. And check\nit to make sure the meaning is similar to the text I read.\nStep 3 Step 3\nT : Now, I’ll pass out the original text that I read to you. Compare T : Now, I will give you the original text. On the text, I’ve already\nyour group’s text with the original one. How is the original underlined some parts. [Only the passive forms in the text are\ndifferent from yours? Look at both content and passive forms. underlined.] Mark the parts in your group’s text that you think\nAnd then make a presentation about the differences you’ve found match those underlined parts. Make your group’s text as similar\nbetween the two texts. as possible to the original text.\n2\n영 어 (4면 중 면)\n\nThe lesson plans are for the second class period. In the first class period, students learned how passive sentences\nare formed. One of the aims of today’s class is to help the students learn when passives are preferred to their\ncorresponding active sentences.\nThe underlined parts of the lesson plans illustrate examples of different teacher talk at different proficiency levels.\nIn one paragraph, explain why Mr. Kang uses different teacher talk for his two classes and state three ways his talk\nis actually different in the two classes, citing one example for each of the three ways from the underlined parts. In\nanother paragraph, state five ways that Mr. Kang differentiates task complexity in his two classes. Finally, in relation\nto traditional ways of teaching grammar, describe in one paragraph three characteristics of the task given in the lesson\nplans.\n3\n영 어 (4면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2011_X_p04.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

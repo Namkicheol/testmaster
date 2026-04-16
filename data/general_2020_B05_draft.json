@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_B05",
+    "year": 2020,
+    "number": "B-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the excerpt from a novel and follow the directions.\n【4 points】\nMy father is a failed documentary filmmaker. I say failed\nbecause he made only one film in his life. But for a short\ntime in the late seventies, when I was growing up, he\nachieved what he would later refer to as moderate fame. The\nsource of his moderate fame was a short documentary film\nabout a group of Shoshone Indians living in southern\nNevada. I doubt that anybody remembers the film now, but in\nthe weeks and months that followed its release, my father\nreceived critical acclaim at several small film festivals,\nearned some grant money, and garnered enough [. . .]\ncourage to continue making films for another ten years. To\nmy knowledge, he never completed another film after that,\nbut instead spent the next ten years of his life jumping around\nfrom one project to the next, shooting for several weeks or\nmonths, then eventually abandoning the current film for\nanother that he believed had more .\nMy mother and I were living in southern California,\nwhere she worked as a lawyer, and every few months my\nfather would call from a different part of the country with\nnews of his latest concept—it was always his best yet—and\nask my mother to sell something of his, or cash a bond, or\ntake out another mortgage on the house. And finally, when\nthere was nothing left to sell, he began to simply ask her for\nloans. Technically my parents were separated by then, but\nmy mother was still very much in love with him, never\nstopped loving him, and worse, she believed with an almost\nstubborn myopia in his talent. She wanted my father to\nsucceed, perhaps even more than he did, and to this day I\nstill think this was her greatest flaw.\nI can say now, twenty years later, that my father was\nnever destined for the type of fame he once hoped to\nachieve. He was never meant to be a great filmmaker (few\ndocumentarians are), and he was never meant to receive\neven the lesser distinctions that so many of his\ncontemporaries enjoyed. The small amount of talent he did\npossess only seemed to serve as a source of frustration for\nhim, a constant reminder of some vague, unrealized\npotential. But at the time—this was in my early childhood—I\nbelieved fully in his potential, and though I missed him\ndearly, I never once faulted him for being away so often.\nFill in the blank with the ONE most appropriate word from the\nexcerpt. Then, explain the underlined part in terms of the\nlife-goal of the narrator’s father.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_B_p01.png",
+        "image_count": 3
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

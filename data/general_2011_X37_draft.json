@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "id": "general_2011_X37",
+    "year": 2011,
+    "number": "X-37",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "37. Read the excerpt from a novel and answer the question.\n[1.5점]\n“Mother,” said the boy Paul one day, “why don’t we\nkeep a car of our own? Why do we always use Uncle’s,\nor a taxi?”\n“Because we’re the poor members of the family,” said\nthe mother.\n“But why are we, Mother?”\n“Well―I suppose,” she said slowly and bitterly, “it’s\nbecause your father has no luck.”\nThe boy was silent for some time.\n“Is luck money, Mother?” he asked, rather anxiously.\n“No, Paul. Not quite. It’s what causes you to have\nmoney. If you’re lucky, you have money. That’s why it’s\nbetter to be born lucky than rich. If you’re rich, you may\nlose your money. But if you’re lucky, you will always get\nmore money.”\n“Oh! Will you? And is Father not lucky?”\n“Very unlucky, I think,” she said bitterly.\nThe boy watched her with uncertain eyes.\n“Why?” he asked.\n“I don’t know. Nobody ever knows why one person is\nlucky and another unlucky.”\n“Don’t they? Nobody at all? Does nobody know?”\n“Perhaps God. But He never tells.”\n“He ought to, then. But aren’t you lucky either,\nMother?”\n“I can’t be, if I married an unlucky husband.”\n“But by yourself, aren’t you?”\n“I used to think I was, before I married. Now I think I\nam very unlucky.”\nWhich of the following would LEAST likely be implied by\nthe excerpt?\nMother thinks that her life is influenced by her husband. ①\nMother feels that her husband has no luck. ②\nThe family does not live in affluence. ③\nMother thinks she was better off before marriage. ④\nPaul is not interested in how money and luck are related. ⑤\n영 어 (14면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2011_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2011_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2011_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2011_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2011_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2011_X_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2011_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2011_X_p08.png",
+        "image_count": 2
+      },
+      {
+        "page": 9,
+        "file": "images/img_2011_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2011_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2011_X_p11.png",
+        "image_count": 1
+      },
+      {
+        "page": 12,
+        "file": "images/img_2011_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2011_X_p13.png",
+        "image_count": 1
+      },
+      {
+        "page": 14,
+        "file": "images/img_2011_X_p14.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

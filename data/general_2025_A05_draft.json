@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2025_A05",
+    "year": 2025,
+    "number": "A-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the poem and follow the directions.【4 points】\nIt is eighteen years ago, almost to the day―\nA sunny day with the leaves just turning,\nThe touch-lines new-ruled―since I watched you play\nYour first game of football, then, like a satellite\nWrenched from its orbit, go drifting away\nBehind a scatter of boys. I can see\nYou walking away from me towards the school\nWith the pathos of a half-fledged thing set free\nInto a wilderness, the gait of one\nWho finds no path where the path should be.\nThat hesitant figure, eddying away\nLike a winged seed loosened from its parent stem,\nHas something I never quite grasp to convey\ngive-and-take―the small, the scorching About nature’s\nOrdeals which fire one’s irresolute clay.\nI have had worse partings, but none that so\nGnaws at my mind still. Perhaps it is roughly\nSaying what God alone could perfectly show―\nHow selfhood begins with a walking away,\nAnd love is proved in the letting go.\nCecil Day-Lewis, “Walking Away”\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the poem. Then, given that the\nspeaker assumes a parent’s voice, explain the metaphorical\nmeanings of ‘give’ and ‘take’ in the underlined part, respectively.\n<Commentary>\nIn this poem, the parent feels pathos at the thought that the\nchild will experience various in the process of\nmolding selfhood, as they come of age.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "general_2010_X04",
+    "year": 2010,
+    "number": "X-4",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the following excerpt from an essay and follow the directions.【15 points】\nMy grandmother has bound feet. Cruelly tethered since her birth, they are like bonsai trees, miniature versions\nof what should have been. She is a relic in China, where foot binding was first banned more than 80 years ago\nwhen the country could no longer afford a population that had to be carried. Her slow, delicate hobble betrays her\nage and the status she held and lost.\nMy own size 5 feet are huge in comparison. The marks and callouses they bear come from running and\njumping, neither of which my grandmother has ever done. The difference between our feet reminds me of the\nincredible history we hold between us like living bookends..... [passage deleted]\nI saw my grandmother for the very first time when I was 12. She was almost 80, surprisingly alien and\nshockingly small. I searched her wrinkled face for something familiar, some physical proof that we belonged to each\nother. She stared at me the same way. Did she feel cheated, I wondered, by the distance, by the time we had not\nspent together? I did. With too many lost years to reclaim, we had everything and nothing to say. She politely\nlistened as I struggled with scraps of formal Chinese and smiled as I fell back on “Wo bu dong” (“I don’t understand\nyou”). And yet we communicated something strange and beautiful. I found it easy to love this person I had barely\nmet.\nThe second time I saw her I was 23, arriving in China on an indulgent post-graduate-school adventure, with\na Caucasian boyfriend in tow. My grandmother sat on my hotel bed, shrunken and wise, looking as if she belonged\nin a museum case. She stroked my asymmetrically cropped hair. I touched her feet, and her face contorted with the\nmemory of her childhood pain. “You are lucky,” she said. We both understand that she was thinking of far more than\nthe bindings that long ago made her cry. I wanted to share even the smallest part of her life’s journey, but I could\nnot conceive of surviving a dynasty and a revolution, just as she could not imagine my life in a country she had\nnever seen. In our mutual isolation of language and experience, we could only gaze in wonder, mystified that we had\ncome to be sitting together.\nThe narrator of the above passage looks at the vast differences between herself and her grandmother. A big part\nof the cultural difference that separates her and her grandmother is language together with experience. In addition, the\nnarrator compares herself with her grandmother, specifically in terms of height, age, and physical appearance, through\nrhetorical devices such as metaphor or simile. Write a paragraph that describes the differences between the narrator and\nher grandmother, citing all four rhetorical examples. Be sure to include a topic sentence. You must not copy more than\nten consecutive words from the passage.\n수고하셨습니다\n3\n영 어 (3면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

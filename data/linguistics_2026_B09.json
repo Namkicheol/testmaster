@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "id": "linguistics_2026_B09",
+    "year": 2026,
+    "number": "B-9",
+    "subject": "linguistics",
+    "linguistics_domain": "syntax",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "that-trace effect",
+      "wh-movement",
+      "relative clause",
+      "syntax",
+      "complementizer"
+    ],
+    "parse_source": "2026_linguistics_B.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Based on <A>, identify the TWO examples that are ungrammatical in <B>. Then explain why they are ungrammatical.",
+    "passage": "<A>\nRegardless of the presence of a complementizer, wh-movement of objects seems to be free in English:\n(1) a. What_i do you think Peter bought t_i?\n    b. What_i do you think that Peter bought t_i?\n\nWh-movement from subject position, however, is only possible when there is no overt that complementizer. This phenomenon is called the that-trace effect:\n(2) a. Who_i do you think t_i invited Peter?\n    b. *Who_i do you think that t_i invited Peter?\n\nRelative clauses share with wh-questions the property of having an argument or adjunct missing within the clause.\n(3) a. He [VP asked [CP who_i [TP I saw t_i]]].\n    b. He met [DP the girl [CP who_i [TP I invited t_i]]].\n\nThus, the that-trace effect also applies to relative clauses:\n(4) a. She saw the boy [CP who_i [TP she thought [CP t_i [TP t_i was her boyfriend]]]].\n    b. *She saw the boy [CP who_i [TP she thought [CP t_i that [TP t_i was her boyfriend]]]].\n\n<B>\na. Who do you think that they told me that would come?\nb. I only recommend a program I feel will help improve your English.\nc. What assurance do I have that this food is actually good for my body?\nd. Who did Sam say Tim wanted Pam to try to convince Jim to get me to hire?\ne. This is good for a legal system critics said that appeared troubled by arrogance.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "통사론(syntax) 영역. that-trace effect: wh-이동이 주어 위치에서 일어날 때 overt 'that' 보문소가 있으면 비문. 목적어 위치 이동은 'that' 있어도 허용.\n<A> 규칙:\n- 목적어 wh-이동 + that: OK (1b)\n- 주어 wh-이동 + that 없음: OK (2a)\n- 주어 wh-이동 + that 있음: 비문 (2b) ← that-trace effect\n- 관계절에도 동일 적용 (4b 비문)",
+        "key_terms": [
+          "that-trace effect",
+          "wh-movement",
+          "subject position",
+          "complementizer"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응 — 각 예문 분석",
+        "explanation": "(a) 'Who do you think [that they told me [that ___ would come]]?'\n→ 가장 안쪽 절 'that ___ would come'에서 주어 위치 이동 + overt 'that' → that-trace ✗\n\n(b) 'a program [I feel ___ will help]' → 'that' 없음 + 주어 위치 → OK ✓\n\n(c) 'What assurance do I have [that this food is good]?' → 'what'은 목적어('assurance' 수식) → OK ✓\n\n(d) 'Who did Sam say [Tim wanted [...to hire ___]]?' → 목적어 위치 추출, 'that' 없음 → OK ✓\n\n(e) 'a legal system [critics said [that ___ appeared troubled]]' → 관계절 주어 위치 + overt 'that' → that-trace ✗",
+        "key_terms": [
+          "subject extraction",
+          "object extraction",
+          "that-trace",
+          "relative clause"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "후보 소거 — 비문 2개 확정",
+        "explanation": "문법문 확인:\n(b): 'I feel will help' → overt 'that' 없음 → 주어 이동 OK → 정문 ✓\n(c): 'What' = free relative / 목적어 위치, 내포절의 주어 없음 아님 → 정문 ✓\n(d): 긴 연속 이동이지만 전부 목적어 위치에서의 추출 → 정문 ✓\n\n비문 확정:\n(a): 주어 추출 + overt 'that' → ✗\n(e): 관계절 주어 갭 + overt 'that' → ✗",
+        "key_terms": [
+          "(a) ungrammatical",
+          "(e) ungrammatical"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 정답 확정",
+        "explanation": "(a) 비문 이유:\n'who'가 내포절 'that would come'의 주어 위치에서 추출됨. 이 내포절에 overt 보문소 'that' 존재 → <A> (2b) 패턴과 동일 → that-trace effect 위반.\n\n(e) 비문 이유:\n'a legal system'이 관계절 내 'critics said that ___ appeared troubled'의 주어 위치에서 갭을 가짐. 관계절 내 overt 'that' 존재 → <A> (4b) 패턴 적용 → that-trace effect 위반.",
+        "key_terms": [
+          "that-trace effect",
+          "subject gap",
+          "relative clause violation"
+        ],
+        "tree": {
+          "label": "CP",
+          "children": [
+            { "label": "who_i", "children": [] },
+            {
+              "label": "C'",
+              "children": [
+                { "label": "C", "children": [{ "label": "do", "children": [] }] },
+                {
+                  "label": "TP",
+                  "children": [
+                    { "label": "you", "children": [] },
+                    {
+                      "label": "T'",
+                      "children": [
+                        { "label": "T", "children": [] },
+                        {
+                          "label": "VP",
+                          "children": [
+                            { "label": "think", "children": [] },
+                            {
+                              "label": "CP*",
+                              "children": [
+                                { "label": "C", "children": [{ "label": "that", "children": [] }] },
+                                {
+                                  "label": "TP",
+                                  "children": [
+                                    { "label": "t_i", "trace": true, "children": [] },
+                                    { "label": "T'", "children": [{ "label": "would come", "children": [] }] }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "that-trace effect 출제 패턴:\n① 이동 원소가 주어 위치에서 나왔는지 확인 (주어 위치 = TP 명시어).\n② overt 'that' 보문소 존재 여부 확인.\n③ wh-의문문과 관계절 모두 적용됨 (4b 핵심).\n함정:\n- (d)처럼 긴 추출이어도 목적어 위치이면 OK.\n- (b)처럼 주어 추출이어도 'that' 없으면 OK.\n서술 순서: 비문 2개 명시 → 각각 주어 위치 + overt 'that' → that-trace 위반 명시.",
+        "key_terms": [
+          "subject gap",
+          "overt complementizer",
+          "that-trace"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "That-trace effect",
+        "definition_en": "A syntactic constraint that prohibits wh-movement (or relativization) from subject position when the overt complementizer 'that' is present: *Who do you think that ___ left?",
+        "definition_ko": "that-흔적 효과 — overt 보문소 'that'이 있을 때 주어 위치에서의 wh-이동이 금지되는 통사 제약.",
+        "source_author": "Chomsky & Lasnik",
+        "source_year": 1977,
+        "related_terms": [
+          "ECP (Empty Category Principle)",
+          "wh-movement",
+          "complementizer"
+        ],
+        "exam_usage": "(a)와 (e)가 that-trace effect 위반으로 비문"
+      },
+      {
+        "term": "Complementizer (C)",
+        "definition_en": "A functional head that introduces embedded clauses (that, if, whether, for). In the that-trace effect, the overt complementizer 'that' blocks government of the subject trace.",
+        "definition_ko": "보문소 — that, if, whether 등 내포절을 도입하는 기능범주. overt 'that'이 주어 흔적의 통치를 차단.",
+        "source_author": "Carnie",
+        "source_year": 2013,
+        "related_terms": [
+          "CP",
+          "TP",
+          "trace",
+          "that-trace effect"
+        ],
+        "exam_usage": "overt 'that' 유무가 that-trace 적용 여부 결정"
+      },
+      {
+        "term": "Wh-movement",
+        "definition_en": "A syntactic operation that moves a wh-word (who, what, which, etc.) from its base position to the left periphery (SpecCP). Leaves a trace (t) at the extraction site.",
+        "definition_ko": "wh-이동 — 의문사/관계사가 기저 위치에서 문두(SpecCP)로 이동. 이동 원래 위치에 흔적(trace) 잔존.",
+        "source_author": "Carnie",
+        "source_year": 2013,
+        "related_terms": [
+          "trace",
+          "island constraint",
+          "that-trace effect"
+        ],
+        "exam_usage": "that-trace effect = wh-이동이 주어에서 일어날 때의 제약"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "complementizer",
+        "pos": "n.",
+        "definition_ko": "보문소 — that, if, whether 등 내포절 도입 기능어",
+        "example": "I think [that she left]. / I think [she left]."
+      },
+      {
+        "word": "trace (t)",
+        "pos": "n.",
+        "definition_ko": "흔적 — 이동 후 원래 위치에 남는 빈 자리",
+        "example": "What_i did you buy t_i?"
+      },
+      {
+        "word": "wh-movement",
+        "pos": "n.",
+        "definition_ko": "wh-이동 — 의문사/관계사의 문두 이동",
+        "example": "Who_i do you think t_i left?"
+      }
+    ],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Examples (a) and (e) are ungrammatical.\n\nIn (a), 'who' is extracted from a subject position in the embedded clause 'that would come,' with the overt complementizer 'that' present. This violates the that-trace effect, which prohibits wh-movement from subject position when followed by an overt 'that.'\n\nIn (e), the head noun 'a legal system' is associated with a subject gap in the relative clause 'that appeared troubled by arrogance,' with the overt complementizer 'that' present. As shown in (4b) of <A>, the that-trace effect also applies to relative clauses, making (e) ungrammatical.",
+      "scoring_criteria": [
+        {
+          "criterion": "(a), (e) 정확히 식별",
+          "points": 1
+        },
+        {
+          "criterion": "(a) 설명: 주어 위치 wh-이동 + overt 'that' → that-trace 위반",
+          "points": 1.5
+        },
+        {
+          "criterion": "(e) 설명: 관계절 주어 위치 + overt 'that' → that-trace 위반",
+          "points": 1.5
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "(a) and (e) are ungrammatical. In (a), 'who' is moved from the subject position of the clause 'that would come' while the complementizer 'that' is overt — a clear that-trace effect violation. In (e), the relative clause contains a subject gap after 'that appeared,' and since the that-trace effect applies to relative clauses as stated in <A>, the sentence is ungrammatical."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "The ungrammatical examples are (a) and (e). Example (a) violates the that-trace effect: 'who' is extracted from the subject position of an embedded clause with the overt complementizer 'that.' Example (e) similarly violates it in a relative clause: 'a legal system' fills a subject gap in the relative clause introduced by overt 'that.'"
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Carnie, A.",
+        "title": "Syntax: A Generative Introduction (3rd ed.)",
+        "year": 2013,
+        "publisher": "Wiley-Blackwell",
+        "pages": "pp. 352–358",
+        "excerpt": "The <span class=\"ref-hl\">that-trace effect</span>: when a <span class=\"ref-hl\">complementizer that is present</span>, <span class=\"ref-hl\">extraction of the subject is blocked</span>. *Who do you think that left?"
+      },
+      {
+        "type": "paper",
+        "author": "Perlmutter, D.",
+        "title": "Deep and Surface Structure Constraints in Syntax",
+        "year": 1971,
+        "publisher": "Holt, Rinehart & Winston",
+        "pages": "pp. 45–60",
+        "excerpt": "The <span class=\"ref-hl\">that-trace filter</span> prohibits the sequence <span class=\"ref-hl\">[that t]</span> where t is a <span class=\"ref-hl\">subject trace</span>."
+      }
+    ],
+    "concept_explanation": "The that-trace effect (Chomsky & Lasnik 1977):\n\nWh-movement from subject position is blocked when the overt complementizer 'that' is present.\n  (주어 위치에서의 wh-이동은 overt 'that' 보문소가 있을 때 금지.)\n\nObject extraction: always grammatical with or without 'that'.\n  (목적어 추출: 'that' 있어도 항상 OK.)\n  What did you think (that) Peter bought? ✓\n\nSubject extraction:\n  Without 'that': OK   Who do you think ___ left? ✓\n  With 'that': UNGRAMMATICAL   *Who do you think that ___ left? ✗\n  (주어 추출: 'that' 없으면 OK, 'that' 있으면 비문.)\n\nRelative clauses: same constraint applies (4b in passage).\n  (관계절에도 동일 적용.)\n  *She saw the boy who she thought that ___ was her boyfriend. ✗"
+  },
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "linguistics_2020_A05",
+        "year": 2020,
+        "number": "A-5",
+        "subject": "linguistics",
+        "connection_type": "same_concept",
+        "connection_note": "wh-이동과 섬 제약. that-trace effect 관련 통사 제약 주제 공유.",
+        "shared_keywords": [
+          "wh-movement",
+          "extraction",
+          "island constraint"
+        ]
+      }
+    ]
+  }
+}

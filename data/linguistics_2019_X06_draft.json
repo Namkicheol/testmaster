@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "linguistics_2019_X06",
+    "year": 2019,
+    "number": "X-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passages and follow the directions.【5 points】\n<A>\nDespite their similarity on the surface, sentences in (1) are\nof different types, as suggested in their paraphrasing in (2).\nSentences like (1a) are called ‘Control’ construction; the\nones like (1b) ‘Raising/ECM’ construction. Unlike the latter,\nan empty pronominal NP PRO is postulated in control\nconstructions.\n(1) a. John persuaded Sue to obey her parents.\nb. John believed Sue to be obedient to her parents.\n(2) a. John persuaded Sue that she should obey her\nparents.\nb. John believed that Sue was obedient to her parents.\nIn fact, there are two kinds of PRO. One is called\n‘arbitrary PRO,’ whose meaning is basically “someone” as\nshown in (3a). Arbitrary PRO is like a referring expression\nor a pronoun in that it can get its meaning from outside the\nsentence. The other is ‘non-arbitrary PRO,’ which can be\nfurther distinguished into two varieties: ‘obligatory control’\nand ‘optional control.’ The optional control is exemplified\nin (3b). PRO here can either refer back to John or it can\nreading. The obligatory control is have an arbitrary PRO\narb\nexemplified in (3c) and (3d): PRO in (3c) obligatorily refers\nback to the main clause Subject, hence called ‘subject\ncontrol,’ while PRO in (3d) obligatorily refers back to the\nmain clause Object, hence called ‘object control.’\n(3) a. [PRO to go to college] is not essential for\narb\nsuccess in life.\nb. John knows that it is essential [PRO to be\ni i/j\nwell-behaved].\nc. John tried [PRO to behave].\ni i/*j\nd. John persuaded Sue [PRO to obey her parents].\ni i\nNote: * indicates the ungrammaticality of the sentence.\n<B>\n(i) a. [PRO to improve himself], John should consider\ntherapy.\nb. John is easy [PRO to talk to].\n(ii) a. John motivated Sue to study harder.\nb. John reported Sue to be obnoxious.\nc. John threatened Sue to leave her.\ni i\nBased on the description in <A>, first, identify whether PRO in\n(ia) and (ib) is arbitrary or non-arbitrary, and for non-arbitrary\nPRO, whether it is obligatory control or optional control.\nSecond, in (ii), identify control constructions only, and then\nstate whether they are subject control or object control.\n5\n(7면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

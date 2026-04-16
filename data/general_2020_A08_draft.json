@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_A08",
+    "year": 2020,
+    "number": "A-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage and follow the directions.【4 points】\nAccording to W. Ury and R. Fisher’s best-selling book,\nyou can walk away from any negotiation. The authors\npurport that by having a good walk-away option (BATNA:\nBest Alternative to a Negotiated Agreement), you protect\nyourself from difficult opponents. They advocate walking\naway from more powerful opponents so you don’t give\naway the store, or at the very least, make a sale that doesn’t\n“make sense.”\nIn theory, this might make sense, but in the world of\nselling when you haggle with your customers, it is folly.\nTelling a salesperson to walk away from the table and\nkissing off a sale is a bit cavalier for an expert who’s never\nhad to make a living by making a quota. For those of us who\nhave spent a significant portion of our careers in sales, we\nknow we would never just up and walk away from a\npotential sale, no matter how slim the chances are of actually\ngetting the business. That is one of the characteristics that\nmakes salespeople successful: irrational optimism in the face\nof certain defeat.\nTechnically, you might have the ability to abort settling on\na big sale, but you still have a quota to make and a job to\nkeep.\nWith that said, however, salespeople are always better\ndealers when they’ve already reached their quota. Why?\nBecause they don’t need the business. Still, they may indeed\nwalk away from a potential sale, but they always come back\nas the situation changes.\nAs a sales manager, I urged my team to have as many\npotential prospects as possible. I encouraged them to be\nworking on many potential deals, not just because it would\nhelp them make quota, but also because it made them\ntougher negotiators. They were all much better at holding\ntheir ground when they didn’t feel desperate to have a\ncustomer’s business.\nHere’s an important side note:\nAt times, I get the opportunity to ask about the skills taught\nin the Getting to Yes seminar with people who attended the\nworkshop in the past. I always ask them, “What is the thing\nyou most remember about the Ury and Fisher tenet?” to\nwhich I receive the almost universal response: “The thing I\nremember most is to make sure you know your BATNA.”\nEven though most cannot recall what the initials stand for,\nthey believe that knowing which options they have if a\nsettlement can’t be reached empowers them a bit. I find it\ncurious that the term most remembered from a course\ndesigned specifically to improve negotiation skills is one\nthat describes how to walk away from the table—in other\nwords, by refusing to .\nFill in the blank with the ONE most appropriate word from the\npassage. Then, explain what the underlined part means. Do NOT\ncopy more than FOUR consecutive words from the passage.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

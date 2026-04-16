@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_A06",
+    "year": 2024,
+    "number": "A-6",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nWhen there are two or more feet in a word or phrase, in\ngeneral, the rightmost foot gets a primary stress. Therefore,\nmany English speakers would feel that ‘teen’ is stronger than\n‘four’ in ‘fourteen.’ Another important tendency of English\nstress is that speech carries a regular alternation between\nstronger and weaker units. When ‘fourteen men’ is spoken in\nconversational style, the primary stress of ‘fourteen’ is\nadjusted. Since ‘men’ gets the primary stress of the whole\nphrase, ‘four’ is pronounced more strongly than ‘teen’ to\navoid the clash of two lexical primary stresses.\n[ˌkʌmˈpækt] (1) a. compact\n[ˈkʌmˌpækt ˈdɪsk] compact disk\n[ˌθɜɹˈtinθ] b.thirteenth\n[ˈθɜɹˌtinθ ˈpleɪs] thirteenth place\n[ˌgʊdˈlʊkɪŋ] c. good-looking\n[ˈgʊdˌlʊkɪŋ ˈtjutəɹ] good-looking tutor\n[ˌækəˈdɛmɪk] d.academic\n[ˈækəˌdɛmɪk ˈbæntəɹ] academic banter\nAs exemplified in (1), the secondary and the primary\nstresses of a word are reversed when it is followed by another\nword. This is called ‘stress-shift’ or ‘rhythm reversal.’\nAlthough English speakers have a strong tendency to use a\nregular rhythm in their speech, it is not the case that this\nstress-shift takes place whenever the two feet containing a\nlexical primary stress are adjacent. Look at the data in (2).\n[məˈɹun] (2) a. maroon\n[məˈɹun ˈswɛtəɹ] maroon sweater\n[əˈweɪ] b.away\n[əˈweɪ ˈgeɪm] away game\n[səˈɹaʊndɪŋ] c. surrounding\n[səˈɹaʊndɪŋ ˈkɹaʊd] surrounding crowd\n[dɪˈpɛndənt] d.dependent\n[dɪˈpɛndənt ˈklɔz] dependent clause\n<B>\na. maternal [məˈtɜɹnəl]love\n[ˌɛkəˈnɑmɪk] b.economic growth\n[ˌʌnɪkˈspleɪnd] symptom c. unexplained\nd.approved [əˈpɹuvd] courses\nNote: The phonetic forms given in <B> are the pronunciations of the first\nwords when they are produced in isolation.\nBased on <A>, choose the TWO phrases where stress-shift can\noccur in <B>. Then, besides the given phonological condition for\nstress-shift underlined in <A>, state an additional phonological\ncondition necessary for stress-shift.\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

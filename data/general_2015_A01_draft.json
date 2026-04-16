@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2015_A01",
+    "year": 2015,
+    "number": "A-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and fill in the blank with ONE word from\nthe passage.【2 points】\nA psychology professor spent several decades studying\nthe “fixed mindset entity theory.” She refers to people who\nview talent as a quality they either possess or lack as\nhaving a “fixed mindset.” People with a “growth mindset,”\nin contrast, enjoy challenges, strive to learn, and\nconsistently see potential to develop new skills.\nNow Carol Dweck, the psychology professor, is extending\nher work on mindset beyond individuals. Can an organization,\nlike an individual, have a fixed or a growth mindset? If so,\nhow can managers help organizations embrace a growth\nmindset? To explore this issue, she conducted surveys and\nfound that often top management must drive the change; for\ninstance, a new CEO might focus on maximizing employees’\npotential. Dweck points to one emblematic growth mindset\nCEO who hired according to “runway,” not pedigree, preferring\nbig state university graduates and military veterans to Ivy\nLeaguers, and spent thousands of hours grooming and coaching\nemployees on his executive team.\nAs this CEO’s example shows, one area in which\nmindset is especially important is hiring. Fixed mindset\norganizations reflexively look outside their companies,\nwhile growth mindset organizations are likely to hire from\nwithin their ranks. “Focusing on is not as\neffective as looking for people who love challenges, who\nwant to grow, and who want to collaborate,” Dweck says.\nSome companies appear to be making such a shift; these\ncompanies have recently begun hiring more people who\nhave proven that they are capable independent learners.\nDespite the survey results, not all employees will be happier\nin growth mindset organizations, Dweck acknowledges. In\ngeneral, though, the early evidence suggests that organizations\nfocused on employees’ capacity for growth will experience\nsignificant advantages.\n영 어 (7면\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n14문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_A_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2015_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2015_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2015_A_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

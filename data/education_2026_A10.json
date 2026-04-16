@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "id": "education_2026_A10",
+    "year": 2026,
+    "number": "A-10",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "lesson plan",
+      "lesson objectives",
+      "culture learning",
+      "proverbs"
+    ],
+    "parse_source": "2026_전공A.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Identify the TWO lesson objectives that the teaching and learning activities can achieve. Then support your answers with evidence.",
+    "passage": "Title: Unit 4. Proverbs Around the World / Students: 1st grade / Date: Oct. 24 / Period: 7/10\n\nLesson Objectives: At the end of the class, Ss will be able\n1) to understand the characteristics of food-related proverbs across the world,\n2) to figure out the meanings of food-related English proverbs,\n3) to discuss the cultural differences between Korean and English food-related proverbs, and\n4) to present food-related English proverbs based on their findings.\n\nTeaching and Learning Activities:\nStep 1: T shows a list of English proverbs related to food. T asks Ss if they have heard any of the proverbs. T asks Ss what the proverbs have in common.\n\nStep 2: T provides a reading text. T has Ss read the text and checks comprehension. T asks Ss to guess the meanings of the proverbs using context and write them in Worksheet 1. T explains meanings. T has Ss discuss how the proverbs are related to the food culture of English speaking countries.\n\nStep 3: T has Ss form groups of four and find one new English proverb related to food online. T has groups make plans to introduce their proverbs in Worksheet 2 (Proverb / Possible misunderstanding / Meaning). T has groups create a news card and share it with the whole class.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "발문 및 목표 조건 확인",
+        "explanation": "발문: 교수학습 활동이 달성 가능한 목표 2개를 식별하고 근거를 제시하라. 핵심 판단 기준: 각 Objective에 대응하는 구체적 활동이 지문에 존재하는지 여부. Objective 1(세계 속담 특성 이해), 2(영어 속담 의미 파악), 3(한국어↔영어 속담 문화 차이 토론), 4(조사 결과 기반 발표)를 각각 대조한다.",
+        "key_terms": [
+          "lesson objective",
+          "teaching activity",
+          "alignment"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "Objective 2 ↔ 활동 대응",
+        "explanation": "Step 2: 'T asks Ss to guess the meanings of the proverbs using context and write them in Worksheet 1. T explains meanings.' → 학생들이 문맥을 이용해 속담 의미를 추측하고 기록한 뒤 교사 설명 확인. Objective 2(영어 속담 의미 파악)와 직접 대응. 활동 증거 충분 ✓",
+        "key_terms": [
+          "context clues",
+          "meaning inference",
+          "Worksheet 1"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "Objective 3 ↔ 활동 대응 검토",
+        "explanation": "Objective 3: 한국어와 영어 음식 관련 속담의 문화적 차이를 토론. Step 2의 토론 주제는 'how the proverbs are related to the food culture of English speaking countries' → 영어권 문화와 속담의 연관성 토론이지, 한국어 vs 영어 문화 비교가 아님. 한국 속담과 비교하는 활동이 없으므로 Obj 3 달성 불가 ✗",
+        "key_terms": [
+          "cultural comparison",
+          "Korean proverbs",
+          "absence of activity"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "Objective 4 ↔ 활동 대응",
+        "explanation": "Step 3: 그룹이 온라인으로 새 영어 속담을 찾고, Worksheet 2(Proverb / Possible misunderstanding / Meaning)로 소개 계획 수립, 뉴스 카드 제작 후 전체 발표. Objective 4 'present food-related English proverbs based on their findings'와 정확히 대응. 자신들의 조사 결과(findings)를 발표(present) ✓",
+        "key_terms": [
+          "presentation",
+          "news card",
+          "group work",
+          "findings"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "최종 선택 및 Objective 1 검토",
+        "explanation": "Objective 1(세계 속담 특성 이해): Step 1에서 공통점 찾기, Step 2에서 문화와 속담 연관성 논의가 간접적으로 해당되나, '세계 속담'의 '특성'을 체계적으로 이해하는 활동이 명시적이지 않음. 반면 Objective 2(의미 파악)와 Objective 4(발표)는 각각 Step 2와 Step 3에서 명확히 달성 가능. 최종 답: Objectives 2 and 4.",
+        "key_terms": [
+          "objective alignment",
+          "evidence-based selection"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Lesson Objective",
+        "definition_en": "A specific, observable outcome statement describing what students will be able to do by the end of a lesson. Objectives should be measurable and directly addressed by the planned activities.",
+        "definition_ko": "수업 목표 — 수업 종료 시 학생이 수행 가능한 구체적·관찰 가능한 성취 진술. 계획된 활동과 직접 연결되어야 함.",
+        "source_author": "Richards & Lockhart",
+        "source_year": 1994,
+        "related_terms": [
+          "learning outcome",
+          "behavioral objective",
+          "constructive alignment"
+        ],
+        "exam_usage": "교수학습 활동이 각 목표를 실현하는지 근거 기반으로 판단하는 문항"
+      },
+      {
+        "term": "Constructive Alignment",
+        "definition_en": "A principle of curriculum design in which learning outcomes, teaching activities, and assessment tasks are coherently linked so that each activity serves the stated objectives.",
+        "definition_ko": "구성적 정렬 — 학습 결과, 교수 활동, 평가가 일관되게 연결되어 있어야 한다는 교육과정 설계 원리. Biggs(1996) 제안.",
+        "source_author": "Biggs",
+        "source_year": 1996,
+        "related_terms": [
+          "lesson objective",
+          "assessment alignment",
+          "learning outcome"
+        ],
+        "exam_usage": "활동이 목표와 정렬되어 있는지 여부를 판단하는 기준으로 활용"
+      },
+      {
+        "term": "Context Clue Strategy",
+        "definition_en": "A reading comprehension technique in which learners infer the meaning of unknown words or expressions from surrounding textual information rather than consulting a dictionary.",
+        "definition_ko": "문맥 단서 전략 — 사전 사용 없이 주변 텍스트 정보로 모르는 표현의 의미를 추론하는 읽기 전략.",
+        "source_author": "Nation",
+        "source_year": 2001,
+        "related_terms": [
+          "meaning inference",
+          "vocabulary learning",
+          "reading strategy"
+        ],
+        "exam_usage": "Objective 2 달성 근거: Worksheet 1에서 문맥 이용 속담 의미 추측 활동"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "The activities can achieve Objectives 2 and 4.\n\nObjective 2 is achieved in Step 2, where students guess the meanings of the proverbs using context clues before the teacher explains them, directly practicing the skill of figuring out meanings.\n\nObjective 4 is achieved in Step 3, where student groups research a new proverb, prepare an introduction using Worksheet 2, and present it to the class in the form of a news card.",
+      "scoring_criteria": [
+        {
+          "criterion": "Objective 2 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Objective 2 근거 (Step 2 문맥으로 의미 추측)",
+          "points": 1
+        },
+        {
+          "criterion": "Objective 4 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Objective 4 근거 (Step 3 뉴스 카드 발표)",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Objectives 2 and 4 are achievable. In Step 2, students infer proverb meanings from context, achieving Objective 2. In Step 3, groups find a new proverb, prepare an introduction, and share it with the class, fulfilling Objective 4."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "The lesson can achieve Objectives 2 and 4. Objective 2 is met through the Worksheet 1 activity in Step 2, where students guess meanings from the reading text. Objective 4 is met in Step 3, where groups create and present a news card about a proverb they found."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Richards, J. C. & Lockhart, C.",
+        "title": "Reflective Teaching in Second Language Classrooms",
+        "year": 1994,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 97–112",
+        "excerpt": "<span class=\"ref-hl\">Lesson objectives</span> specify what students should be able to do as a result of the lesson and provide a basis for evaluating whether a lesson was successful."
+      }
+    ],
+    "concept_explanation": "A lesson objective specifies an observable, measurable outcome that students should achieve by the end of a lesson. Objectives must be directly realized by at least one planned activity — this alignment is the basis for judging achievability.\n  (수업 목표는 수업 종료 시 학생이 수행 가능한 관찰·측정 가능한 결과를 진술한다. 목표 달성 여부는 계획된 활동 중 해당 목표를 직접 실현하는 활동이 있는지로 판단한다.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

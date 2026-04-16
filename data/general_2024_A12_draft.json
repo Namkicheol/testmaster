@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_A12",
+    "year": 2024,
+    "number": "A-12",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nBelow are the posts made by two English teachers on an\nonline teacher community where teachers can share their\nideas and provide each other with help regarding the use of\ndigital technology.\nTeacher 1’s Post\nPosted by eng98\nAny suggestion?\nI’m teaching middle school students. My students are\nnot interested in writing. I think it’s because I’m the only\none who reads their work. It seems they do not have a\nsense of an audience. If someone other than me reads\ntheir writing, I think they’ll be more conscious of the\nquality of their work and put more effort into it. Also, if\nvarious multimodal resources are available, my students\nwill be able to express their ideas more creatively. Can\nyou recommend a technological tool that would be\nappropriate for my students?\nTeacher 2’s Post\nPosted by busy79\nNeed help!\nI’m looking for a tool to help my students. They love\nto improve their interpersonal skills. But, as you know,\nit’s extremely hard to provide enough opportunities for\nthem to communicate with others. Even if I’m trying to\nincorporate as many speaking activities as possible in\nmy lessons, it’s still not enough. I think they need more\nopportunities to interact with others in English outside of\nthe classroom. If the tool could help shy students feel\nless anxious without worrying about their self-image, it\nwould be even better.\n영 어 [전공A]\n<B>\nTool 1\nThis is a cloud-based quiz platform. Teachers can create\nquizzes to help learners to practice what they have learned.\nVarious question formats are available including true or false,\nmatching, multiple choice, etc. It generates a report of student\nperformance after the quizzes are completed.\nTool 2\nWhen teachers use this virtual reality simulation app, they\ncan invite their students into the virtual space they have\ncreated. Students can communicate with others in English in\nsimulated real-life situations taking place in airports, markets,\nand cinemas. Here students can create an avatar and converse\nwith each other.\nTool 3\nStudents can use this voice recognition software in order to\nbridge the gap between oral and written language. They can\nread a text on screen and then record their voice. The tool\nalso lets students know what errors they have made by\nhighlighting them on the screen.\nTool 4\nThis is an online platform where students are encouraged to\nwrite and post their written work. The platform allows them to\nincorporate photos and graphics or embed videos into their\nwork. Other students can then reply to the posts. The original\nwriter can reply back as well.\nTool 5\nUsing this app, teachers can create a mind map for teaching\nEnglish vocabulary. It shows groupings or relationships\nbetween words visually. Moreover, there is a link to an online\ndictionary. QR codes can also be created to share the mind\nmap with students.\nBased on <A>, for each teacher, respectively, suggest the ONE\nmost appropriate tool in <B> that satisfies their needs. Then\nexplain your answers with evidence from <B>. Do NOT copy\nmore than FOUR consecutive words from the passages.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

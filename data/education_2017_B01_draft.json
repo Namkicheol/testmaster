@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2017_B01",
+    "year": 2017,
+    "number": "B-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passages and the teaching journals, and follow the\ndirections.【4 points】\n<A>\nForm-focused instruction (FFI) can be split into two types:\nfocus on formS and focus on form. According to R. Ellis\n(2001), FFI “includes both traditional approaches to teaching\nforms based on structural syllabi and more communicative\napproaches, where attention to form arises out of activities\nthat are primarily meaning-focused” (p. 2).\n<B>\nMr. Song\nMy students often tell me that they feel overwhelmed\nby the number of grammatical structures they have to\nlearn. While thinking about ways to help students\ndevelop grammatical competence, I decided to teach\ngrammar explicitly in class. Today I spent most of\nthe class time on explaining grammatical rules using\nmeta-linguistic terms. Although some of the students\ninitially showed some interest in learning about the\nrules, many of them got bored, with some dozing off\nafter ten minutes or so.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n8문항 40점 시험 시간 90분\nMiss Oh\nMost of my students find grammatical rules difficult\nand boring. So I decided to implement a new\napproach. For this approach, I typed up the reading\npassage in the textbook and deliberately italicized the\ntarget structures, hoping that this would help my\nstudents notice how the target structures function.\nAfter I passed out the reconstructed reading passage,\nI had my students read it by themselves and then\nwork together in groups, cross-checking their\nunderstanding.\nReferring to the terms in <A>, identify the type of form-focused\ninstruction exemplified in each of the teachers’ teaching\njournals, and explain with supporting evidence from <B>. Do\nNOT copy more than FOUR consecutive words from the\npassage.\n2\n(6면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_B_p01.png",
+        "image_count": 5
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_B_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_B_p04.png",
+        "image_count": 4
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_B_p05.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

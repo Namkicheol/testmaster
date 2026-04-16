@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "general_2010_X01",
+    "year": 2010,
+    "number": "X-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read this high school student’s writing below and follow the directions.【30 points】\nMy Favorite Season\nSummer is my favorite season. The temperature is good for me. I like the summer clothing and the outdoor\nactivities. I am never bored during a summer. Sometimes I don’t like the hot weather because it make me\nuncomfortable. I can go outside anytime without puting on much clothing. A light shirt and shorts with sandals for\nmy feet are always enough, while jeans and a light jacket is usually enough for cool evenings. On special events\nI can dress me up without making everything wrinkled by wearing a heavy coat. Actually, I have bought a heavy\ncoat on sale from the department store yesterday. What I like most about this season are participating at outdoor\nactivities. I really like swimming when the air is warm and the sun is shining. I also like a winter sports. Basketball\nis fun too. Our friends like to go to the court in the afternoon for an exciting game. Both basketball and the bike\nriding to the court are pleasant ways to start a summer morning. They made me excited. These are my reasons of\nliking summer. It is really my favorite season.\nComplete the following three tasks. First, write one paragraph providing summative feedback to indicate the strong\nand weak points with regard to the content and organization of this student’s writing. When stating the strong and\nweak points of the content and organization, provide at least one concrete example of both strong and weak points.\nNext, you are to prepare a simple table using correction symbols (e.g., “S” for incorrect spelling) to give feedback on\nthis writing with regard to grammar and mechanics. There are a total of twelve errors in the student’s writing that are\ncategorized into six different error types. Each different error type is represented by each of the six underlined words in\nthe student’s writing. Find all the errors (including the six underlined ones) and draw a table on your answer sheet\nwhich lists errors found and correction symbols and their meanings. Your table on the answer sheet should look like the\nfollowing. The first row has been completed for you.\nerror(s) found* correction symbol and its meaning\nputing on “S” for incorrect spelling\n*When listing the error on your table, be sure to include the context in which the error occurs (with one\nword which immediately follows the error).\nFinally, write another paragraph which states two advantages and two disadvantages of using correction symbols when\ngiving feedback.\n2\n영 어 (3면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2010_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2010_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2010_X_p03.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

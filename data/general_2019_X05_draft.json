@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2019_X05",
+    "year": 2019,
+    "number": "X-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the passage and follow the directions.【4 points】\nInanimate objects are classified scientifically into three\nmajor categories. The goal of all inanimate objects is to\nresist man and ultimately to defeat him, and the three major\nclassifications are based on the method each object uses to\nachieve its purpose.\nAs a general rule, any object capable of breaking down at\nthe moment when it is almost needed will do so. The\nautomobile is typical of the category. With the cunning\ntypical of its breed, the automobile never breaks down while\nentering a filling station. It waits until it reaches a\ndowntown intersection in the middle of the rush hour. Thus\nit creates maximum inconvenience, frustration and\nirritability among its human cargo, thereby reducing its\nowner’s life span.\nMany inanimate objects, of course, find it extremely\ndifficult to break down. Keys, for example, are almost\ntotally incapable of breaking down. Therefore, they have\nhad to evolve a different technique for resisting man. They\nget lost. Science has still not solved the mystery of how they\ndo it, and no man has ever caught one of them in the act of\ngetting lost. The most plausible theory is that they have\ndeveloped a secret method of locomotion which they are\nable to conceal the instant a human eye falls upon them.\nScientists have been struck by the fact that things that\nbreak down virtually never get lost, while things that get lost\nhardly ever break down. A furnace, for example, will\ninvariably break down at the depth of the first winter cold\nwave, but it will never get lost. A woman’s purse, which\nafter all does have some inherent capacity for breaking\ndown, hardly ever does. Some persons believe this\nconstitutes evidence that inanimate objects are not entirely\nhostile to man, and that a negotiated peace is possible.\nThe third class of objects is the most curious of all. These\ninclude such objects as cigarette lighters and flashlights. It is\ninaccurate, of course, to say that they never work. They\nwork once, usually for the first few hours after being\nbrought home, and then quit. Thereafter, they never work\nagain. In fact, it is widely assumed that they are built for the\npurpose of not working.\nThey have truly defeated man by training him never to\nexpect anything of them, and in return they have given man\nthe only peace he receives from inanimate society. He does\nnot expect his cigarette lighter to light or his flashlight to\nilluminate, and when they don’t it does not raise his blood\npressure. He cannot attain that with furnaces and\nkeys, and cars and women’s purses as long as he demands\nthat they work for their keep.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, state THREE methods that inanimate objects use\nto resist man.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

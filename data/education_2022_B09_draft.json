@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_B09",
+    "year": 2022,
+    "number": "B-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage and follow the directions.【4 points】\nWhat did a presidential administration mean when they\nproposed “revenue enhancement” through “user fees”?\nTranslated, “revenue enhancement” through “user fees” is\ntaxes paid by citizens. This is an example of doublespeak.\nDoublespeak is carefully designed and constructed language\nused to make things seem different from what they are, and it\ncomes in several forms.\nOne form of doublespeak is inflated language. Inflated\nlanguage is designed to make the ordinary seem\nextraordinary. Cheap material used to make a purse could be\ndescribed as “genuine imitation leather” or a glass stone in a\npiece of jewelry as a “real counterfeit diamond.” These types\nof descriptions can also be used to describe situations. A guide\ntelling a group of French tourists that their visit to the Eifel\nTower is a “once in a lifetime opportunity” is almost certainly\nusing doublespeak, especially as the attraction is not far from\nhome. This type of language gives a perception of importance\nto situations and things that would not normally be considered\nimportant.\nAnother form of doublespeak is jargon. Jargon as\ndoublespeak occurs when professional language is used with\npeople not “in-the-know.” The use of jargon can be an\nefficient way of communicating within a specialized group.\nBut when used with those not in-the-know, the intention may\nbe to give an air of profundity, authority, and prestige. If a\ncomputer technician tells a novice computer user with an\ninternet connection problem to “power-cycle” their router\nrather than saying “you need to unplug the router and plug it\nback in,” the technician might be using doublespeak.\nDoublespeak is language used to make the bad seem good\nand the basic profound. As shown in the examples above, it is\npresent in many aspects of our lives. Keeping awareness of\nthe definition and forms of doublespeak can help us\ndiscriminate between what someone wants us to believe and\nthe reality.\nWrite a summary following the guidelines below.\n<Guidelines>\n∙Summarize the above passage in one paragraph.\n∙Based on the passage, provide a topic sentence, two\nsupporting details, and a concluding sentence.\n∙Do NOT copy more than FIVE consecutive words from the\npassage.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

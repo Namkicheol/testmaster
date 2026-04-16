@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "linguistics_2013_X30",
+    "year": 2013,
+    "number": "X-30",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "30. Read <A> and <B> and answer the question. [2.5점]\n<A>\nA phonological process commonly found in English is\nneutralization, whereby a phonemic contrast generally\nobserved is not found in a given environment. For\n[ɾ] example, both /t/ and /d/ are realized as the flap\nbetween a stressed and an unstressed vowel in American\n[ɹaɪɾəɹ] English, as can be seen in writer and rider\n[ɹaɪɾəɹ]. By the flapping rule, the phonemic contrast\nbetween /t/ and /d/ is lost between a stressed and an\nunstressed vowel, resulting in the neutralization of the\ncontrast in that position. As another example of\n/ɹ/ neutralization, the vowel /i/ within syllables closed by\n(e.g., beer) is produced somewhere between a tense /i/ and\n/ɪ/ a lax vowel in American English. That is, there is no\ncontrast between a tense and a lax vowel before syllable\n/ɹ/, final even though this distinction exists elsewhere.\n영 어 (15면\n<B>\nbeginning of a stressed syllable, an aspirated stop a. At the\noccurs, and an unaspirated stop does not (e.g., pea, tea,\nkey).\nb. In some accents of English, /p, t, k/ in syllable final\nposition are realized as a glottal stop (e.g., tip, pit, kick).\n/ɪ/ /ɛ/ c. In African American English, and are pronounced\nthe same before nasal consonants (e.g., pin, pen).\nWhich of the following lists all and only the case(s) in <B>\nthat show(s) the phonological process described in <A>?\na a, b a, b, c ① ② ③\nb, c c ④ ⑤",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2013_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2013_X_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2013_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2013_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2013_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2013_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2013_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2013_X_p11.png",
+        "image_count": 2
+      },
+      {
+        "page": 12,
+        "file": "images/img_2013_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2013_X_p13.png",
+        "image_count": 2
+      },
+      {
+        "page": 14,
+        "file": "images/img_2013_X_p14.png",
+        "image_count": 1
+      },
+      {
+        "page": 15,
+        "file": "images/img_2013_X_p15.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

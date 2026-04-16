@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "general_2015_B02",
+    "year": 2015,
+    "number": "B-2",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage and follow the directions.【5 points】\nScientists made a splash last week when they presented\na radical new view of DNA, solving a puzzle that has long\ngnawed at investigators and shedding light on diseases such\nas cancer, heart disease, and Alzheimer’s. Ever since\ndecoding the human genome, scientists have been perplexed\nby the long strands of our DNA that appear to do nothing.\nThey called the idle double helixes “junk DNA,” thinking\nthey were nothing but leftovers from ill-fitting assembly\nparts, useless bits of this and that, last season’s models.\nThe days of junk status are now officially over. Working\nfor almost 10 years on a collaborative project, 440 scientists\nfrom 32 labs across the globe announced that they have\nfinally figured out just what the silent majority of our DNA\ndoes: It’s middle management.\nIt seems these large branches of the DNA family tree―\nformerly called “junk” but now renamed as “dark matter”―\nrun the factory but don’t actually make anything. They’re\nthe deciders, the guys with administrative approval to\ngreenlight a project or stop it cold―in this case to\ndetermine which genes step forward to produce a protein\nand which ones remain stalled, waiting for that second\nchance. And with a million supervisors for every 23,000\ngenes, a ratio of about 50 to 1, it appears middle\nmanagement is well staffed.\nThough perhaps a bit humbling to discover that our\nDNA is so bureaucratic, the insight is likely to result in\nsubstantial medical benefit. Up to now, therapies have\nfocused on influencing the behavior of the gene itself―\nsometimes successfully but often not. The problem is that\ngenetic mutations, though somewhat understood for many\ndiseases, have proven difficult to fix. The realization that\ngenes are surrounded by an entourage of promoters and\nsuppressors expands the list of possible targets for intervention\nconsiderably. In cystic fibrosis, for example, we’ve discovered\nthe genetic mutation that causes disease, but we’ve been\nunable to repair it. Using the new approach, researchers\nmight defuse not the mutant gene itself but one of the bits of\nDNA responsible for greenlighting the bad gene’s expression.\nDescribe what the underlined words mean in the above context,\nand explain why DNA’s “middle management” could be the\nkey to future cures.\n2\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_B_p03.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

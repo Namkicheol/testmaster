@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_B07",
+    "year": 2021,
+    "number": "B-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage in <A> and the interaction in <B>, and follow\nthe directions.【4 points】\n<A>\nSome studies claim that there is a predictable language\ndevelopment. For instance, the following is one way of\nunderstanding developmental stages for question formation,\nwhich posits six stages, each with some prominent features.\nStage Key Feature Example\n1 ∙Rising intonation on word or Airplane?\nphrase\n∙Rising intonation with a You like this? 2\ndeclarative word order\n∙Fronting (e.g., do-fronting, Where the train is going? 3\nwh-fronting, other fronting) Is the boy has a dog?\nWhere is the book? ∙Inversion in wh-questions with a 4\ncopula be\n∙No inversion in wh-questions Where I can draw them?\nwith auxiliaries\n∙Yes/no questions with auxiliaries Can he catch the ball?\nsuch as can and will\n5 ∙Inversion in wh-questions with How can she solve it?\nboth an auxiliary and a copula be\n∙Complex questions (e.g., tag She’s pretty, isn’t she? 6\nquestions, embedded questions) Can you tell me where he is?\nThe information about the sequences in English language\nacquisition like the above is mostly from child native\nspeakers. Familiarity with them can help EFL teachers\nestimate their students’ level of development, which in turn\ncan help determine realistic goals for language instruction.\n<B>\n(Two students are doing an information-gap activity where\nthey are supposed to spot the differences between two\npictures.)\nS1: I see a dog in the middle.\nS2: Me, too.\nS1: Is the girl kicks a ball?\nS2: The boy kicks a ball in my picture. Where you can see the\nduck?\nS1: In the pond.\nS2: I can see the duck in the pond, too.\nS1: Is the boy flies kite?\nS2: No, the girl flies kite. Where are the birds?\nS1: In the trees.\nS2: I find birds on the tree, too.\nNote: S = student\nBased on <A>, identify the developmental stages where S1\nand S2 are, respectively, with evidence from <B>.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

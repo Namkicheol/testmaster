@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2025_B10",
+    "year": 2025,
+    "number": "B-10",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage in <A> and the conversation in <B>, and\nfollow the directions.【4 points】\n<A>\nIntercultural language learning in the classroom can be\nconceptualized as a series of four interrelated processes:\nnoticing, comparing, reflecting, and interacting. First,\nnoticing is for learners to experience new input about culture\nand attempt to understand it. Teachers may use various\nexemplifications of the target culture as input, such as videos,\nwritten texts, and cartoons. Second, comparing occurs when\nlearners are engaged in identifying similarities and differences\nbetween learners’ culture and the target culture. Third,\nreflecting implies that learners make personal interpretations\nof experiences and react to linguistic and cultural diversity.\nFinally, interacting involves learners communicating personal\nmeanings about their experiences, exploring those meanings,\nand reshaping them in response to others.\nThe two excerpts below are parts of students’ speeches in\nclass.\nExcerpt from Seoyeon’s Speech\n“I imagined what I would and wouldn’t like about attending\na U.S. high school. I’d be excited about having many options\nfor extracurricular activities, but I wouldn’t want to join any\nsport teams because I don’t like playing sports.”\nExcerpt from Taesoo’s Speech\n“I think the level of engagement in extracurricular activities\nseems different between Korean and U.S. high school\nstudents. For example, many U.S. high school students tend to\nspend much more time doing community service than Korean\nstudents.”\nAs seen above, Seoyeon is most likely involved in the\n, and Taesoo is most likely involved process of ①\nin the process of . ②\n<B>\n(Seoyeon and Taesoo are talking about their speeches.)\nSeoyeon: I really liked your speech. There are a lot of things\nwe can do for the community when it comes to\nextracurricular activities.\n: Thank you. That was the exact point I wanted to Taesoo\nmake.\nSeoyeon: I’d like to hear more about the ways in which we\ncan serve our communities.\nFill in the blanks and each with the ONE most appropriate ① ②\nword from <A>, in the correct order. Then, explain one of the\nfour processes in <A> that Seoyeon in <B> is most likely\ninvolved in with evidence from <B>.\n영 어 [전공B]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2020_A12",
+    "year": 2020,
+    "number": "A-12",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. Read the passage and follow the directions.【4 points】\nWe’ve come to assume that just about any bug we’re\nsaddled with—from strep to staph—can be wiped out with a\nquick round of antibiotics. But in the U.S. alone, roughly 2\nmillion people every year get infections that can’t be treated\nwith antibiotics, and 23,000 of them die as a result. The\nbacteria to blame are now present in every corner of the\nplanet, according to a landmark report from the World\nHealth Organization (WHO). In some countries, about 50%\nof people infected with K. pneumoniae or E. coli bacteria\nwon’t respond to our most powerful antibiotics, say global\nhealth experts. That suggests doctors are increasingly\nrunning out of (1) the ammunition they rely on to fight these\nharmful microbes.\nBacteria have been evolving to resist the drugs designed\nto kill them since the first antibiotic was discovered in 1928.\nBut our overuse of antibiotics in farming, prescription drugs\nand antibacterial soaps has supercharged (2) the process.\nThe WHO report was a sober warning of a dire future, but\nglobally, progress is slowly being made.\nFrance used to have the highest rate of antibiotic\nprescription in Europe, but a government mandate helped\nlower the number of doctor-issued Rxs by 26% in six years.\nIn Sweden, regulations to phase out preventive use of\nantibiotics in agriculture—in which low doses are given to\nkeep animals healthy and plump—cut sales of the drugs for\nfarming by 67% since 1986. The Netherlands and Denmark\nhave also restricted antibiotic use on livestock.\nProgress in the U.S. has been slower. The Food and Drug\nAdministration recently tried to encourage farmers to\nvoluntarily reduce antibiotics in farming. The agency is also\ntaking steps to curb use of antibacterials in some consumer\ngoods, requiring manufacturers to prove that antibacterials\nare better than simple soap and water in keeping germs at\nbay.\nBefore antibiotics, something as minor as a cut or a sore\nthroat could be a death sentence. While some\nhas recently been made in the right direction, some might\nsay that much more needs to be done.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, specify what the underlined parts (1) and (2)\nrefer to, respectively. Do NOT copy more than THREE\nconsecutive words from the passage.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

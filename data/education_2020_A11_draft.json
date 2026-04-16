@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2020_A11",
+    "year": 2020,
+    "number": "A-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and follow the directions.【4 points】\nYou can learn a lot about a society by examining who or\nwhat it reveres. You can learn even more by studying what it\nis afraid of, as a new exhibit at the Morgan Library and\nMuseum in New York proves. “Medieval Monsters” takes\nthe visitor on a jaunt through Europe’s Middle Ages via its\nbeasties. Artefacts such as illuminated manuscripts and\ntapestries are adorned with unicorns, dragons, antelopes\nwith forked tails, blemmyes—humanoids with no heads,\ntheir faces instead on their chests—and more.\nMonsters were often dispatched in the service of a\nspecific ideology. Medieval power brokers used incredible\ncreatures as a medium to display their magnificence: saints,\nclergymen and kings were depicted as slayers to show that\nthey were extraordinary. King Henry VI’s rule over his land\nwas symbolized through heraldry, which featured an\nantelope with horns thought to be sharp enough to cut down\ntrees. Maps provided another opportunity to wield .\nA 16th-century plot of Iceland shows the island ringed by\nvarious mythological beasts. Their purpose was to scare off\ncompeting traders and keep the waterways clear for colonial\npowers.\nMost of the early manuscripts were produced by monks by\nvirtue of their education, and monsters were a medium through\nwhich the divine and the unknowable could be visualized. As\nships went farther afield in the 15th and 16th centuries, the\nrecurrence of “sea swine” and (1) Leviathan-esque water\ncreatures may reflect an increasing fear of an endless and\ndeadly sea. Demons and the gaping “maw of hell” could\nillustrate a fear of death, or dying without absolution.\nDrawings of unicorns, mermaids and sphinxes reveal a sense\nof wonder about the supernatural.\nHow do the insights of the exhibition apply to modern\nmonsters, and contemporary Western anxieties? (2) Killer\nrobots point to a fear of indestructible, clever, artificial\nintelligence-powered computers. Angela Becerra Vidergar, a\nscholar at Stanford, suggests that the fascination with\nzombies and the undead in media is one of the creative\nlegacies of the Second World War, when the Holocaust and\nthe use of the atomic bomb changed perceptions about\nhumanity’s propensity for mass destruction. Modern art and\nsociety are not yet rid of the instincts found in the Morgan’s\nmedieval collection.\nFill in the blank with the ONE most appropriate word from the\npassage. Then, identify ONE common human emotion that (1)\nand (2) represent, and explain the reason why the identified\nemotion is represented by (2). Do NOT copy more than FOUR\nconsecutive words from the passage.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2020_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2020_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2020_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2020_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2020_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2020_A_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2020_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

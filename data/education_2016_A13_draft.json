@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2016_A13",
+    "year": 2016,
+    "number": "A-13",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "13. Examine part of a test evaluation checklist by a head\nteacher and a student’s reflective journal about the test, and\nfollow the directions.【4 points】\nMr. Kim, a head teacher of high school English, wanted to\nevaluate the achievement test of English reading in order to\nfind to what extent the five major principles of language\nassessment (practicality, reliability, validity, authenticity, and\nwashback) were applied to the test.\nPost-Exam Reflection\nI studied really hard for the test because I\nwanted to move to a higher level class. But I got\n76 and I was so disappointed. Since there were\nno errors in scoring, my score was dependable, I\nthink. The topics were very relevant to my real\nlife. But what was the problem? Did I use the\nwrong study skills? Actually I was very surprised\nwhen I first saw the test. Lots of tasks were very\nunfamiliar and I believe I’ve never done those\nkinds of tasks in class. Furthermore, after the test\nI actually expected the teacher to go over the test\nand give advice on what I should focus on in\nthe future. It never happened. No feedback or\ncomments from the teacher were given. I was not\nsure which items I got wrong. I will have the\nsame type of test next semester and I’m not sure\nhow I can improve my reading skills and get a\nbetter grade.\nIdentify TWO well-applied principles and TWO poorly-applied\nprinciples among the five principles of language assessment\nstated above based on all the data. Then support each of your\nchoices with details from the post-exam reflection ONLY.\n영 어 (8면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

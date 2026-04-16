@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2024_A05",
+    "year": 2024,
+    "number": "A-5",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "5. Read the poem and follow the directions.【4 points】\nI imagine this midnight moment’s forest:\nSomething else is alive\nBeside the clock’s loneliness\nAnd this blank page where my fingers move.\nThrough the window I see no star:\nSomething more near\nThough deeper within darkness\nIs entering the loneliness:\nCold, delicately as the dark snow,\nA fox’s nose touches twig, leaf;\nTwo eyes serve a movement, that now\nAnd again now, and now, and now\nSets neat prints into the snow\nBetween trees, and warily a lame\nShadow lags by stump and in hollow\nOf a body that is bold to come\nAcross clearings, an eye,\nA widening deepening greenness,\nBrilliantly, concentratedly,\nComing about its own business\nTill, with a sudden sharp hot stink of fox\nIt enters the dark hole of the head.\nThe window is starless still; the clock ticks,\nThe page is printed.\nTed Hughes, “The Thought-Fox”\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the poem. Then explain the\nmetaphorical meaning of the underlined part in the poem.\n<Commentary>\nWhen things or concepts are presented in a poem as if they\nhad human attributes, this is called personification. According\n” in the above poem to the definition, the word “\nhas been personified.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

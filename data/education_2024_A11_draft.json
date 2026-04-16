@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2024_A11",
+    "year": 2024,
+    "number": "A-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the conversation in <A> and the draft of the syllabus\nin <B>, and follow the directions.【4 points】\n<A>\nT1: Mr. Choi, can we talk about a syllabus for the Business\nEnglish course next semester? We need to develop one as\nsoon as possible.\nT2: Sure. What type of syllabus do you have in mind?\nT1: Well, I think a multi-layered syllabus would be most\nappropriate.\nT2: I agree. I’d like to cover various aspects of Business\nEnglish, such as topics, functions, skills, activities,\ngrammar, and vocabulary.\n영 어 [전공A]\nT1: Sounds good to me. First of all, I believe all the topics\nshould be business-related. But what about the\nfunctions? Do you have anything in mind?\nT2: I think we should teach functions that are often used in\nbusiness situations.\nT1: Yes. By doing so, we’ll prepare the students to perform\nwell when they get a job.\nT2: We also have to make sure that both receptive and\nproductive skills are included.\nT1: Definitely. We should provide activities where students\ncan practice both skills.\nT2: Okay. How about grammar? I think our students are not\ngood at making connections between ideas, so we need to\nincorporate connective devices in the syllabus as well.\nT1: Good. We also need to make sure there is a vocabulary\ncomponent, right?\nT2: Of course. You know, English courses in our school tend\nto focus on single words but not multi-word units like\ncollocations, idioms, and fixed expressions.\nT1: You’re right. If we teach those multi-word units during\nthe course, students will be able to speak more fluently.\nT2: Great! Based on what we’ve discussed so far, I’ll write a\ndraft. Can you check it later?\nT1: Sure. I look forward to seeing it completed.\nNote: T=teacher\n<B>\nThis is the draft of the syllabus T2 wrote.\nComponents Unit 1 Unit 2 Unit 3\nBusiness Relations Business Business Meetings\nTopics\nNegotiation\nGreeting and Making business Planning business\nintroducing in contracts meetings\nFunctions\nDealing with Attending business work places\norders meetings Receiving buyers\nListening to Reading business Reading tables\nSkills business dialogues contracts Listening to\nmeeting schedules\nInterviewing Information gap Opinion gap\nActivities Role-plays Simulations Group decision\nmaking\nRelative pronouns Modal auxiliaries Wh-questions to be\nto be used to to be used to used at business\ndescribe people, express opinions meetings\nplaces, companies on buying and Conjunctive\nGrammar\nCoordinating selling products adverbs:\nconjunctions: and, Subordinating additionally,\nso, or, but after, consequently, conjunctions:\nwhen, since, unless however, likewise\nemployer sales appointment\nemployee purchase postpone\nVocabulary executive proposal schedule\nmanager supplier portfolio\nadministrator customer presentation\nBased on <A>, choose the TWO components in <B> that do NOT\ncorrespond to the teachers’ ideas about their syllabus. Then\nexplain your answers with evidence from <A> and <B>.\n7\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

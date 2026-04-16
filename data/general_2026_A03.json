@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "id": "general_2026_A03",
+    "year": 2026,
+    "number": "A-3",
+    "subject": "general",
+    "linguistics_domain": "",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": [
+      "drama",
+      "Sam Shepard",
+      "Buried Child",
+      "cultural degeneration"
+    ],
+    "parse_source": "2026_전공A_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Complete the commentary below by filling in the blank with the ONE most appropriate word from the excerpt.",
+    "passage": "HALIE: The most incredible things, roses! Aren't they incredible, Father?\nDEWIS: Yes. Yes they are.\nHALIE: They almost cover the stench of sin in this house. Just magnificent! The smell. We'll have to put some at the foot of Ansel's statue. On the day of the unveiling.\n[HALIE finds a silver flask of whiskey in DEWIS's vest pocket. She pulls it out. DODGE looks on eagerly. HALIE crosses to DODGE, opens the flask, and takes a sip.]\nHALIE: [to DODGE] Ansel's getting a statue, Dodge. Did you know that? Not a plaque but a real live statue. A full bronze. Tip to toe. A basketball in one hand and a rifle in the other.\nBRADLEY: [his back to HALIE] He never played basketball!\nHALIE: You shut up, Bradley! You shut up about Ansel! Ansel played basketball better than anyone! And you know it! He was an All-American! There's no reason to take the glory away from others.\n[HALIE turns away from BRADLEY, crosses back toward DEWIS sipping on the flask and smiling.]\nHALIE: [to DEWIS] Ansel was a great basketball player. One of the greatest.\nDEWIS: I remember Ansel.\nHALIE: Of course! You remember. You remember how he could play. [She turns toward SHELLY.] Of course, nowadays they play a different brand of basketball. More vicious. Isn't that right, dear?\nSHELLY: I don't know.\n[HALIE crosses to SHELLY, sipping on flask. She stops in front of SHELLY.]\nHALIE: Much, much more vicious. They smash into each other. They knock each other's teeth out. There's blood all over the court. Savages.\n[HALIE takes the cup from SHELLY and pours whiskey into it.]\nHALIE: They don't train like they used to. Not at all. They allow themselves to run amuck. Drugs and women. Women mostly.\n[HALIE hands the cup of whiskey back to SHELLY slowly. SHELLY takes it.]\nHALIE: Mostly women. Girls. Sad, pathetic little girls. [She crosses back to FATHER DEWIS.] It's just a reflection of the times, don't you think Father? An indication of where we stand?\nDEWIS: I suppose so, yes.\n\nSam Shepard, Buried Child\n\n<Commentary>\nIn this excerpt, Halie plans to commemorate Ansel by erecting his statue, though her claims about his achievements do not seem to be verified. Halie's endeavor to glorify her long deceased son is tied to her condemnation of her existing family and cultural diagnosis of the present time. In her opinion, the degeneration of culture is occurring as the likes of heroic Ansel are being replaced by __________.",
+    "blanks": [
+      {
+        "label": "빈칸",
+        "context": "heroic Ansel are being replaced by ___"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "Ansel처럼 영웅적인 존재를 대체하는 타락하고 폭력적인 존재 → 지문에서 직접 찾을 수 있는 단어\n- commentary에서 'heroic Ansel are being replaced by ___' — 빈칸은 Ansel의 반대 존재\n- 명사 형태 필요 (replaced by + 명사)\n- 지문(passage)에서 직접 등장한 단어여야 함 — passage-bound 규칙",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'Ansel: All-American, great basketball player, heroic' [antonym]\n→ 현재 선수들: vicious, smash, knock teeth out, blood, Savages\n\n'Halie의 현재 문화 진단: 타락, 폭력, 무절제' [paraphrase]\n→ Commentary: degeneration of culture, heroic Ansel replaced by ___",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- barbarians: ✗ (지문에 등장하지 않는 단어 — passage-bound 규칙 위반)\n- thugs: ✗ (지문에 등장하지 않는 단어)\n- savages: ✓ (정답)",
+        "key_terms": [
+          "savages"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: savages\n\n[content] Halie가 현대 농구 선수들을 묘사하며 직접 사용한 단어: 'They smash into each other. They knock each other's teeth out. There's blood all over the court. Savages.' — 지문에서 그대로 등장\n→ 근거: \"Savages.\"\n\n[parallel] Commentary의 'heroic Ansel are being replaced by ___'은 지문에서 Halie가 Ansel(영웅)과 현재 선수들(야만인)을 대비시키는 구조를 직접 반영\n→ 근거: \"the degeneration of culture is occurring as the likes of heroic Ansel are being replaced by __________.\"",
+        "key_terms": [
+          "savages"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① Commentary의 빈칸은 지문 안에서 직접 찾는다 — passage-bound 원칙 적용\n② Commentary가 지문을 paraphrase하는 구조를 먼저 파악하고, 빈칸이 어느 대사/단어에 대응하는지 확인\n③ 희곡: 인물의 대사가 Commentary 분석의 핵심 근거 — 인물 간 대비(Ansel vs. 현재)를 파악\n\n함정:\n- 지문에 없는 단어를 상식적으로 채우는 오류 (barbarians, thugs 등) → 반드시 지문에서 찾을 것\n- Halie의 과장된 서술을 신뢰할 수 없는 화자 특성으로 분석 — 정답 도출에는 영향 없음",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [
+      {
+        "word": "stench",
+        "pos": "n.",
+        "definition_ko": "악취"
+      },
+      {
+        "word": "unveiling",
+        "pos": "n.",
+        "definition_ko": "제막식"
+      },
+      {
+        "word": "run amuck",
+        "pos": "idiom",
+        "definition_ko": "날뛰다, 통제 불능이 되다"
+      },
+      {
+        "word": "pathetic",
+        "pos": "adj.",
+        "definition_ko": "한심한, 처량한"
+      },
+      {
+        "word": "flask",
+        "pos": "n.",
+        "definition_ko": "휴대용 술병"
+      },
+      {
+        "word": "vicious",
+        "pos": "adj.",
+        "definition_ko": "잔인한, 포악한"
+      }
+    ],
+    "translation": "헤일리: 정말 믿을 수 없어요, 장미라니! 정말 아름답지 않나요, 신부님?\n데위스: 네, 그렇네요.\n헤일리: 이 집 안에 가득 찬 죄악의 악취를 거의 덮어버릴 것 같아요. 정말 장엄해! 그 향기. 안셀의 동상 발치에도 좀 놓아야겠어요. 제막식 날에.\n[헤일리가 데위스의 조끼 주머니에서 은제 위스키 플라스크를 꺼낸다. 닷지는 탐욕스럽게 바라본다. 헤일리가 닷지 쪽으로 걸어가 플라스크를 열고 한 모금 마신다.]\n헤일리: [닷지에게] 안셀이 동상을 세우게 됐어, 닷지. 알고 있었어? 동판이 아니라 진짜 동상이야. 청동으로 전신을. 발끝에서 머리끝까지. 한 손엔 농구공을 들고 다른 손엔 소총을 들고서.\n브래들리: [헤일리에게 등을 돌린 채] 그 사람은 농구를 한 번도 한 적 없어!\n헤일리: 닥쳐, 브래들리! 안셀에 대해서 함부로 입 열지 마! 안셀은 누구보다도 농구를 잘했어! 그건 네도 알잖아! 그는 전국 최고였다고! 다른 사람들의 영광을 빼앗을 이유가 없잖아.\n[헤일리는 브래들리에게서 등을 돌리고 플라스크를 홀짝이며 미소 짓는 데위스 쪽으로 다시 걸어간다.]\n헤일리: [데위스에게] 안셀은 훌륭한 농구 선수였어요. 가장 위대한 선수 중 하나였죠.\n데위스: 안셀이 기억나는군요.\n헤일리: 물론이죠! 기억하시겠죠. 그가 얼마나 잘 뛰었는지. [셸리 쪽으로 돌아서며] 물론, 요즘은 다른 방식으로 농구를 하죠. 훨씬 더 거칠게. 그렇지 않나요, 얘?\n셸리: 잘 모르겠어요.\n[헤일리가 플라스크를 홀짝이며 셸리 쪽으로 걸어가 셸리 앞에 선다.]\n헤일리: <span class=\"trans-hl\">훨씬, 훨씬 더 거칠어. 서로 몸을 박아대고. 서로 이빨을 뽑아버리죠. 코트 위에 온통 피가 낭자해. 야만인들이야.</span>\n[헤일리가 셸리에게서 컵을 가져가 위스키를 따른다.]\n헤일리: <span class=\"trans-hl\">예전처럼 훈련하지 않아요. 전혀. 제멋대로 날뛰도록 내버려 두죠. 마약과 여자. 주로 여자들이지.</span>\n[헤일리가 위스키를 담은 컵을 셸리에게 천천히 돌려준다. 셸리가 받는다.]\n헤일리: 주로 여자들이야. 여자애들. 한심하고 가련한 꼬마 여자애들. [다시 데위스 신부 쪽으로 걸어가며] 그냥 시대의 반영인 것 같지 않으세요, 신부님? 우리가 어디에 서 있는지를 보여주는 징표이지 않나요?\n데위스: 그렇겠죠, 네."
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "빈칸",
+          "answer": "savages"
+        }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        {
+          "criterion": "savages (지문에서 그대로)",
+          "points": 2
+        }
+      ]
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [
+      {
+        "type": "play",
+        "author": "Shepard, Sam",
+        "title": "Buried Child",
+        "year": 1978,
+        "publisher": "Dramatists Play Service",
+        "pages": "",
+        "excerpt": ""
+      }
+    ],
+    "concept_explanation": "Sam Shepard의 《Buried Child》(1978)는 퓰리처상 수상작. 미국 중서부 농가 가족의 붕괴와 비밀을 다루며, 이상화된 과거 대 타락한 현재라는 대비 구조가 핵심이다. 헤일리는 죽은 아들 안셀을 전설적 영웅으로 신화화하며, 현재의 가족과 문화가 그 영광에서 얼마나 멀어졌는지를 비판한다. 헤일리의 대사는 신뢰할 수 없는 화자(unreliable narrator)의 성격을 갖지만, 극의 주제인 문화적 퇴락(cultural degeneration)을 직접 표현한다."
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  }
+}

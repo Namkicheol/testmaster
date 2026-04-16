@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_B11",
+    "year": 2021,
+    "number": "B-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage and follow the directions.【4 points】\nIn the classroom today, there are a growing number of\nchildren who are being raised outside their parents’ home\ncultures after moving across geographic boundaries because\nof their parents’ employment. Children in this situation are\ncalled “Third Culture Kids” (TCKs). To be categorized as a\nTCK, a child must spend more than three years outside their\npassport country during the developmental years, from birth\nto eighteen years old. Living as a TCK can provide benefits as\nwell as undeniable challenges.\nGrowing up internationally, TCKs are able to become\nspeakers of multiple languages. Learning a language can be\neasier if you have daily exposure to it. TCKs attend schools\ntaught in the target language and encounter the language in\neveryday life. This can help them learn the language more\nquickly, especially during their formative years. Depending\non how much time is spent in a country, the level of fluency\ncan vary, but it would not be unlikely for a TCK to be capable\nof speaking three or more languages by the end of high\nschool.\nDespite this benefit, there is an undeniable challenge that\ncomes along with being a TCK. The multiple shifts in location\ncan lead to a sense of isolation for these children. Having to\nrepeat the process of moving and adjusting to new life\ncircumstances can take a serious toll. Such changes can\nprevent children from maintaining relationships with those\noutside their immediate family. Hence, isolation becomes the\nmost common challenge for TCKs.\nGiven the modern context in which the migration and\ntransnational flow is increasing, understanding TCKs’ lives\nwill be a valuable resource for international and global\neducation. It is important that educators support this growing\ncommunity by maximizing the potential benefits of\ncross-cultural experiences while helping them navigate the\nchallenges that arise.\nWrite a summary following the guidelines below.\n<Guidelines>\n∙Summarize the above passage in one paragraph.\n∙Provide a topic sentence, two supporting ideas, and a\nconcluding sentence based on the passage.\n∙Do NOT copy more than FIVE consecutive words from\nthe passage.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

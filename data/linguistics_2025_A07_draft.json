@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2025_A07",
+    "year": 2025,
+    "number": "A-7",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage and follow the directions.【4 points】\nIn general, the matrix subject is semantically associated\nwith the matrix verb, which is called an ordinary subject. In\n(1a), Chris experienced the feeling of wanting to convince\nMax. In some cases, the matrix subject does not have a direct\nsemantic relationship with the matrix verb, but semantically it\nbelongs solely in the embedded clause. This is called a raised\nsubject. The meaning of (1b) is very close to that of Chris\nseemingly convinced Max.\n(1) a. Chris wanted to convince Max.\nb. Chris seemed to convince Max.\nThere are diagnostic tests to distinguish one from the other,\nwhich include using meaningless dummy pronouns and voice\ntransparency. First, a dummy pronoun, such as there or it,\ncannot appear in the ordinary subject position, as shown in\n(2a), which suggests that the subject of want is an ordinary\nsubject. In contrast, the pronoun can appear in the raised\nsubject position, so the appearance of there in (2b) suggests\nthat the subject of seem is a raised subject.\n(2) a. *There wants to be plenty of time.\nb. There seems to be plenty of time.\nThe second diagnostic test involves voice transparency\nbetween active and passive forms, and only the sentence with\na raised subject can denote the same meaning with its passive\ncounterpart. Consider the sentences (3a) and (3b), which are the\npassive counterparts of (1a) and (1b), respectively.\n(3) a. Max wanted to be convinced by Chris.\nb. Max seemed to be convinced by Chris.\nNote that (3a) does not share the same truth condition with\n(1a) as the subject of want refers to Max in (3a) but Chris in\n(1a). In contrast, (3b) is logically equivalent to (1b). Thus, the\ntest results for voice transparency demonstrate that the subject\nof want is an ordinary subject and that of seem is a raised\nsubject. Now, consider the sentences (4a) and (4b).\n(4) a. The fire fighter attempted to save the man.\nb. The fire fighter happened to save the man.\nThe two diagnostic tests can reveal that (4a) contains a(n)\nsubject and (4b) contains a(n) ① ②\nsubject.\nNote: ‘*’ indicates the ungrammaticality of the sentence.\nFill in the blanks and each with the ONE most appropriate ① ②\nword from the passage, in the correct order. Then, first, for the\nraised subject in (4), explain your answer by providing a\nsentence with a meaningless dummy, using the structural frame,\n‘to rain’. Second, for the ordinary subject in (4), explain your\nanswer by providing a sentence, using voice transparency.\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

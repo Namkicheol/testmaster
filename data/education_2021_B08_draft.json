@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_B08",
+    "year": 2021,
+    "number": "B-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the teacher’s note in <A> and the lesson plan in <B>, and\nfollow the directions.【4 points】\n<A>\nTeacher’s Note\nLast week, I attended a teacher training workshop on\nintercultural education. In the workshop, the trainer defined\nculture as the beliefs, way of life, art, and customs that are\nshared and accepted by people in a particular society. She also\nexplained that understanding another culture involves\nconstructing a new frame of reference in terms of the people\nwho created it. I totally agree with her. I believe that in order\nto help my students develop intercultural competence, I need\nto have them understand their own frame of reference as well\nas the target culture’s. I also think that it is necessary to utilize\nvarious materials to arouse students’ interests. Below is the\nlist of instructional techniques that the trainer taught us in the\nworkshop.\nArtifact study: It is designed to help students discern the ◼\ncultural significance of certain unfamiliar objects from the\ntarget culture. The activity involves students in giving\ndescriptions and forming hypotheses about the function of\nthe unknown object.\nCulture capsule: It is a brief description, usually one or ◼\ntwo paragraphs, of some aspect of the target culture,\nfollowed by or incorporated with contrasting information\nabout the students’ native culture. Culture capsules can be\nwritten by teachers or students.\nCulture island: A culture island is an area in the classroom ◼\nwhere posters, maps, objects, and pictures of people,\nlifestyles, or customs of other cultures are displayed to\nattract learners’ attention, evoke comments, and help\nstudents develop a mental image.\nNative informant: Native informants can be valuable ◼\nresources to the classroom teacher, both as sources of\ncurrent information about the target culture and as\nlinguistic models for students. Students can develop a set\nof questions they would like to ask before native speakers\ncome to the class.\n영 어 [전공B]\n<B>\nLesson Plan\nUnit 7 Hello From Around The World\nPeriod 10th out of 12 sessions\nTopic Greeting customs in the UK\nGoal To teach about the ways in which people greet each\nother in the UK and how they are different from\nthose in Korea\nPreparation\nDecorate the culture board in the English classroom with\npictures and posters which illustrate the greeting customs of\nthe UK.\nLesson Steps",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_B_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_B_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

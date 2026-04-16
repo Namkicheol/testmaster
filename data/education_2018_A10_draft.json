@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2018_A10",
+    "year": 2018,
+    "number": "A-10",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passages and follow the directions.【4 points】\n<A>\nTask-based language teaching (TBLT) holds a central place\nin current second language acquisition research and also in\nlanguage pedagogy. Some suggest there are six main steps in\ndesigning, implementing, and evaluating a TBLT program.\nTarget tasks are The target tasks are\nPedagogic tasks are\nidentified through grouped into target\nderived.\na needs analysis. task-types.\nA task syllabus is The task syllabus is\nStudent\ndeveloped with its implemented in\nachievement is\nprimary focus on classrooms via\nassessed using\ncommunication not various techniques\ntask-based tests.\non linguistic forms. of focus on form.\n<B>\nMr. Kim designed and implemented a TBLT program based\non the six steps described in <A>.\n∙Step 1. He did some questionnaire surveys with his\nstudents and interviewed fellow teachers to identify what\nhis students would really want to do in everyday life.\n∙Step 2. He grouped the identified real-world tasks (e.g.,\npurchasing a train ticket, booking a room, renting a car)\ninto more general categories (e.g., planning a trip).\n∙Step 3. He developed tasks that his students would\nperform in the classroom. Those tasks were expected to\nelicit communicative language use in the classroom.\n∙Step 4. He designed a syllabus with a central aim of\npresenting different grammatical items one at a time and\nteaching them separately.\n∙Step 5. He drew student attention to linguistic forms\nwhen needed, while the primary focus of the lessons was\nstill on communication during task performance.\n∙Step 6. He assessed the student outcomes, focusing on\nwhether and how much they accomplished each given task.\nIdentify the step in <B> that does not match with its\ncorresponding suggestion in <A>. Then, explain how that\nidentified step deviates from its suggestion in <A>. Do NOT\ncopy more than FOUR consecutive words from the passage.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

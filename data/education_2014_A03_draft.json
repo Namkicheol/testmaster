@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2014_A03",
+    "year": 2014,
+    "number": "A-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read Mr. Park’s comments in <A> and examine the results\nof a textbook evaluation by a review committee in <B>. Then\nfollow the directions.【3 points】\n<A>\nMr. Park: The goal of my class is to help students use the\nlanguage to communicate and perform authentic tasks.\nSo I want to spend most of my class time letting\nstudents rehearse tasks they need to perform outside\nthe classroom. I also want my students to have a lot\nof opportunities to work together so that they can use\ntheir linguistic knowledge to convey meaning rather\nthan just practice form.\n<B>\nTextbook A Textbook B Textbook C\nEvaluation Criteria\n1 2 3 1 2 3 1 2 3\n✓ ✓ ✓ pattern drill activities\nrole-play based on\n✓ ✓ ✓\nreal-life situations\n✓ ✓ ✓ pronunciation tips\n✓ ✓ ✓ regular grammar review\n✓ ✓ ✓ group projects\n*1=poor, 2=average, 3=good\nConsidering the information in <A> and <B>, identify the\ntextbook you would recommend for Mr. Park and provide\nTWO reasons for recommending it based on its characteristics.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

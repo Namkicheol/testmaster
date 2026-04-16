@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "id": "general_2014_B01",
+    "year": 2014,
+    "number": "B-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and follow the directions.【10 points】\nKorea is quickly becoming an aging society. Consequently,\nwe need to prepare so that we can effectively deal with the\nchanges this situation will bring about. Clearly, these\nchanges will have a wide-ranging impact on different facets\nof the nation. We should consider how we must prepare for\nthe future from both individual and societal perspectives.\nBelow are some of the points to consider within these two\nmain areas.\n∙Possible preparation points at the individual level\nDevelop life-long hobbies\nEmbrace healthier lifestyles\nSeek financial self-sufficiency\n∙Possible preparation points at the societal level\nRe-examine mandatory retirement ages\nImprove the healthcare system\nExpand the existing pension system\nHow must we prepare for the future? Choose one preparation\npoint that you think is most important at each level, and write\na composition following the guidelines below.\n<Guidelines>\n∙Write TWO paragraphs, one for each preparation point.\n∙For each paragraph, include a topic sentence.\n∙Support each preparation point with two specific reasons.\n∙Use neat handwriting.\n영 어 (3면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_B_p02.png",
+        "image_count": 6
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

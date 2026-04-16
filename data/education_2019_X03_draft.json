@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2019_X03",
+    "year": 2019,
+    "number": "X-3",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the dialogue and follow the directions.【2 points】\nT: What are you going to do this weekend?\nS: I will go to a market with my mom.\nT: Is there anything you want to buy?\nS: Eggs. Many eggs.\nT: Is that all you want?\nS: No. I will buy many bread and cheese, too.\nT: (1) Well, you said you will buy... buy...\nS: Buy bread and cheese. Ah, buy a lot of bread. I will buy\na lot of bread and cheese.\nT: Why will you buy them?\nS: I like to make sandwiches. I will make many sandwiches.\nT: Do you have any other plans?\nS: I have many homework so I will study for many hours.\nT: (2) Well, what word do we use with homework?\nS: Many homeworks? No, a lot of? Yes, a lot of homework.\nNote: T=teacher, S=student\n영 어 [전공A]\nFill in the blank with the ONE most appropriate word.\nrefers to a type of the teacher’s corrective\nfeedback that directly induces the correct form of an error\nfrom the learner. One technique of this is to induce the\ncorrect form of an error by prompting the learner to\nreformulate the error and complete his or her own\nutterances, which is seen in the teacher’s first corrective\nfeedback, (1), in the dialogue. Another technique is to use\nquestions to lead the learner to produce correct forms as\nshown in the teacher’s second corrective feedback, (2), in\nthe dialogue.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2019_X_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

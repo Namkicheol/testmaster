@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2018_A08",
+    "year": 2018,
+    "number": "A-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the dialogue and fill in both blanks with the ONE\nmost appropriate word. (Use the SAME word in both blanks.)\n【2 points】\nS: Ms. Lee, can I ask you a question?\nT: Sure, go ahead.\nS: I went over your feedback on my essay, and I really\nappreciate it. You pointed out the expression “die” could\nbe revised to “pass away.”\nT: Yes, I did.\nS: I don’t understand the difference between the two\nexpressions. As far as I understand, they have the same\nmeaning.\n. T: Oh, I see. That’s actually an example of a(n)\nS: Hmm ... .\nT: Let me make it clearer with another example. How do\nyou think someone would feel if they were called\n“poor”?\nS: Well, they may feel bad.\nT: Okay, what about “less privileged”?\nS: Oh, I understand your point. Two words or expressions\nmay mean the same thing, but we may have different\nfeelings and attitudes about them.\nT: That’s the point. A(n) is a polite word or\nexpression that you use instead of a more direct one, to\navoid shocking or upsetting someone.\nS: Interesting!\nT: Good.\nS: Thank you, Ms. Lee. Your feedback is always helpful.\nNote: T=teacher, S=student\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

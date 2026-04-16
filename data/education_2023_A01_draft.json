@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2023_A01",
+    "year": 2023,
+    "number": "A-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the conversation and follow the directions.【2 points】\n(Ms. Kim, a new teacher, and Mr. Song, a head teacher, are\ndiscussing Ms. Kim’s concerns about her student’s writing\nperformance.)\nT1: Ms. Kim, did the process-oriented evaluation in your\nwriting class go well this semester?\nT2: I’m still making comments to students, but there is\nsomething I’m worried about.\nT1: What is it?\nT2: I’m afraid that one of my students is making more errors\nnow than he was at the beginning of the semester.\nT1: He got worse as the semester went on?\nT2: Yes. He turned in the writing assignment. However, there\nwere so many errors in his writing.\nT1: What kinds of errors?\nT2: Unlike the beginning of the semester, now he has\nproblems with irregular verbs.\nT1: Can you give me an example?\nT2: When the semester began, he wrote words like “drank,”\n“wore,” and “heard” without errors. Now I am seeing\nerrors like “drinked,” “weared,” and “heared.” He is\nsuddenly treating irregular verbs like regular verbs.\nT1: Hmm. Now that I think about it, he is probably\nprogressing!\nT2: What are you talking about?\nT1: Well, according to U-shaped course of development, he\nis starting to understand the rules of the past tense.\nT2: Oh, I see.\nNote: T1 = Mr. Song, T2 = Ms. Kim\nFill in the blank with the ONE most appropriate word.\nIn the above conversation, Ms. Kim’s student seems to\nregress, making errors with irregular verbs that he used to use\ncorrectly, due to overgeneralization. This phenomenon is\ncommonly called , in which the learner seems to\nhave grasped a rule or principle but then moves from a correct\nform to an incorrect form.\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n12문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

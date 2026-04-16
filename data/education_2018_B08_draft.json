@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2018_B08",
+    "year": 2018,
+    "number": "B-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage in <A> and the teacher talk in <B>, and\nfollow the directions.【10 points】\n<A>\n(Below are notes that Ms. Shin, a new teacher, took of her\nsenior teacher’s advice on how to make her class\ncommunicatively oriented.)\nSenior teacher’s suggestions\n∙Objective: Get class centered on language\nfunctions rather than grammatical structures.\n∙Error targeted: Focus only on global errors\nimpeding communication of meaning.\n∙Strategy: Encourage the use of communication\nstrategies.\n∙Feedback: Provide correction implicitly.\n<B>\n(Below is Ms. Shin’s talk at the beginning and closure of her\nsingle-activity class.)\nToday, you are going to practice how to make requests using\nthe question forms you learned from the last class. To do\nthis, you will be doing an activity in pairs where you need to\nfill in a book order form by asking your partner for the\nnecessary information. While doing this, you will get a\nchance to use the question forms to make requests. If you\ncan’t come up with the exact words to express the meaning\nyou intend during the activity, you can try using similar\nwords you know or even gestures, instead. Now, I will hand\nout the copies of the order form. Then, you can begin the\nactivity with the student next to you. You’ll work in pairs.\nOK, here are your copies.\n⋮\nAll right, now it’s time to wrap up. I think you all did a great\njob on the form-filling activity exactly as I told you when\nthe class started. But there is one and only one language\nelement I want to briefly point out today. I noticed some of\nyou missed ‘s’ in some verbs like “He come” while talking.\nIt should be “comes” not “come” though meaning is still\nclear without ‘s.’ Apart from this, you seem to be fairly\nfamiliar with making requests now. Next time, we will focus\non how to ask for permission.\n영 어 [전공B]\nWrite TWO paragraphs based on <A> and <B>. In the first\nparagraph, identify TWO suggestions from <A> that Ms. Shin’s\nclass conforms to and provide evidence for each identified\nsuggestion from <B>. In the second paragraph, identify TWO\nsuggestions from <A> that Ms. Shin’s class does not conform to\nand explain how with evidence from <B>.\n<수고하셨습니다.>\n6\n(6면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_B_p05.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

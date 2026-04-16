@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "general_2015_A03",
+    "year": 2015,
+    "number": "A-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt and follow the directions.【5 points】\n(A) There is a time in the life of every boy when he for\nthe first time takes a backward view of life. Perhaps that\nis the moment when he crosses the line into manhood.\nGeorge is walking through the street of his town. He is\nthinking of the future and of the figure he will cut in the\nworld. Ambitions and regrets awake within him. Suddenly\nsomething happens; he stops under a tree and waits as for\na voice calling his name. Ghosts of old things creep into\nhis consciousness; the voices outside of himself whisper a\nmessage concerning the limitations of life. From being\nquite sure of himself and his future he becomes not at all\nsure.\n(B) If he be an imaginative boy a door is torn open and\nfor the first time he looks out upon the world, seeing, as\nthough they marched in procession before him, the\ncountless figures of men who before his time have come\nout of nothingness into the world, lived their lives and\nagain disappeared into nothingness. The sadness of\nsophistication has come to the boy. With a little gasp he\nsees himself as merely a leaf blown by the wind through the\nstreets of his village. He knows that in spite of all the stout\ntalk of his fellows he must live and die in uncertainty, a\nthing blown by the winds, a thing destined like corn to wilt\nin the sun. He shivers and looks eagerly about. The\neighteen years he has lived seem but a moment, a breathing\nspace in the long march of humanity. Already he hears\ndeath calling. With all his heart he wants to come close to\nsome other human, touch someone with his hands, be\ntouched by the hand of another. If he prefers that the other\nbe a woman, that is because he believes that a woman will\nbe gentle, that she will understand. He wants, most of all,\nunderstanding.\nA rite of passage is a transition associated with a crisis or a\nchange of status for an individual. With this in mind, explain\nthe figurative meaning of the underlined words in section (B).\nSupport your explanation with TWO examples from section (A).\nDo NOT copy more than FIVE consecutive words from the\nexcerpt.\n영 어 (7면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2015_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2015_A_p02.png",
+        "image_count": 3
+      },
+      {
+        "page": 3,
+        "file": "images/img_2015_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2015_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2015_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2015_A_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

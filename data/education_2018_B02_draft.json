@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "education_2018_B02",
+    "year": 2018,
+    "number": "B-2",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage and follow the directions.【4 points】\nWhile Ashbury was still in New York, he had written a\nletter to his mother which filled two notebooks. He knew, of\ncourse, that his mother would not understand the letter at\nonce. Her literal mind would require some time to discover\nthe significance of it, but he thought she would be able to\nsee that he forgave her for all she had done to him. For that\nmatter, he supposed that she would realize what she had\ndone to him only through the letter.\nIf reading it would be painful to her, writing it had\nsometimes been unbearable to him—for in order to face her,\nhe had had to face himself. “I came here to escape the\nslave’s atmosphere of home,” he had written, “to find\nfreedom, to liberate my imagination, to take it like a hawk\nand set it ‘whirling off into the widening gyre’ (Yeats) and\nwhat did I find? It was not capable of flight. It was some\nbird you had domesticated, refusing to come out!” The next\nwords were underscored twice. “I have no imagination. I\nhave no talent. I can’t create. I have nothing but the desire\nfor these things. Why didn’t you kill that too? Woman, why\ndid you pinion me?”\nExplain why Ashbury thinks that his mother might not\nimmediately grasp the message he wants to get across through\nhis letter. (Do NOT copy more than THREE consecutive words\nfrom the passage.) Then, complete the commentary below by\nfilling in the blank with the ONE most appropriate word from\nthe passage.\nAshbury employs figurative language to represent his\nimagination as a(n) animal in contrast to Yeats’\nwild hawk.\n2\n(6면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_B_p05.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

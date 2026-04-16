@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2024_A09",
+    "year": 2024,
+    "number": "A-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nMs. Min, a novice middle school English teacher, conducted\na survey on the teaching practices of English teachers. She\nasked 47 local English teachers to vote for one principle they\nuse most often for designing communicative activities. Her\npurpose was to find out design principles other teachers\nfavored and then apply them to her own teaching. She analyzed\nthe survey responses, and the results are shown below.\nVote\nNo. Design Principles\nCounts\nUtilize consensus-building activities in\n1 which students work together to come to 3\nan agreement on given topics.\nMake activities personalized where\n2 students talk about their own thoughts, 16\nopinions, feelings, and experiences.\nAllow students to choose from a list of\n3 topics to talk about so that activities are 8\ncommunicative and manageable.\nUse tasks that require students to produce\n4 concrete and tangible outcomes, such as an 13\nitinerary or map, as a result of communication.\nEmploy fun and playful activities, such as\n5 7\ngames, that have a competitive element.\nTotal Counts 47\n<B>\nAfter the survey, Ms. Min developed communicative\nactivities by applying some of the principles.\n[Activity 1]\nWork in groups. Think about your life at the age of ten.\nAnswer the questions below. Then talk to your group\nmembers and find out if you have any similar experiences.\nDo you remember your teacher? What was s/he like? □\nWere there any places you particularly liked or disliked? □\nWhy?\nWho were your friends? What were they like? □\nWhat did you use to do before/after school or during the □\nbreaks?\nWhat was your favorite game? □\n영 어 [전공A]\n[Activity 2]\nWork in pairs. Each student receives a different card. Ask\nquestions to each other in turn about the things on your card.\nCard A Card B\nAsk your partner questions Ask your partner questions\nabout Australia:\nabout Australia:\n-about big cities and their\n-about its flag\nlocations\n-about wildlife\n-about native people\nHere are the answers to your Here are the answers to your\npartner’s questions: partner’s questions:\n-Big cities and their locations: -Flag:\n-Wildlife: kangaroos, koalas, -Native people: Aboriginals,\nemus, a lot of animals not arrived 65,000 years ago,\nfound elsewhere many tribes, have lived in\nharmony with the land\n[Activity 3]\nWork in pairs. Each student receives either Worksheet A or\nWorksheet B. Talk with your partner to complete Daniel’s\nclass schedule using the example dialogue below.\nExample –S1: Which class does Daniel have on Mondays\nat 9:00?\nS2: He has English.\nWorksheet A\nDaniel’s Class Schedule\nTime Monday Tuesday Wednesday Thursday Friday\n9:00-9:50 Korean\n10:00-10:50 Math Physics Biology English\n11:00-11:50 English Spanish\n11:50-13:00 Break\n13:00-13:50 Sports Music Sports\nWorksheet B\nDaniel’s Class Schedule\nTime Monday Tuesday Wednesday Thursday Friday\n9:00-9:50 English Spanish Korean Arts\n10:00-10:50 Physics\n11:00-11:50 Biology History Math\n11:50-13:00 Break\n13:00-13:50 Music History\nBased on <A>, for each of the two most popular design principles,\nidentify the ONE activity in <B> that the principle has been\napplied to, respectively. Then explain your answers with\nevidence from <A> and <B>.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2024_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2024_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2024_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2024_A_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2024_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2024_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2024_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "id": "linguistics_2026_B04",
+    "year": 2026,
+    "number": "B-4",
+    "subject": "linguistics",
+    "linguistics_domain": "syntax",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "given-new contract",
+      "end weight",
+      "passive voice",
+      "discourse",
+      "syntax"
+    ],
+    "parse_source": "2026_linguistics_B.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Of the examples in <B>, choose the ONE example in which the passive voice is adopted for the given-new contract and the ONE example for the end weight principle. Then explain your answers by showing how the given-new contract or the end weight principle is relevant for the examples you have chosen, based on <A>.",
+    "passage": "<A>\nNative speakers of English follow certain principles that allow them to interpret and produce sentences that are appropriate within the context of a larger discourse. One of them is the given-new contract, which states that in each new sentence, given (previously mentioned) information should appear before new information (information that has not been mentioned previously).\n\n(1) Susan: I don't know what to get Tom for his birthday. Any ideas?\nAnn: a. Give him a book. You know how much he likes to read.\n     b. Give a book to him. You know how much he likes to read.\nAlthough both (1a) and (1b) are grammatical, most native speakers will continue the discourse with (1a) because it conforms to the given-new contract.\n\nAnother principle is that of end weight, a general tendency in English that can be formulated as follows: put long, 'heavy' elements such as complex NPs at the end of a sentence.\n\n(2) a. Bill demonstrated the procedure to Pat.\n    b. *Bill demonstrated to Pat the procedure.\n    c. Bill demonstrated to Pat the method for fixing a watch that Jack's father had recently taught him.\nAlthough (2b) and (2c) have the same structure (i.e., the prepositional phrase to Pat precedes the direct object of the verb), only (2c) is acceptable because the heavy NP is placed at the end of the sentence.\n\nNote: '*' indicates the ungrammaticality of the sentence.\n\n<B>\na. He arrived in Paris as a refugee without any money; luckily for him, France at that time was ruled by an Italian.\nb. In one of my classes, three languages are spoken by everyone. I find that fascinating.\nc. All the lights and appliances in this house are switched on and off daily by this electrical device.\nd. I just learned that a new program was developed by medical staff from the Oslo Sport Trauma Research Center.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "통사론/담화 영역. 수동태의 두 가지 담화 기능(given-new contract, end weight) 식별 문제. <B>의 4개 예문 중 각 원리에 해당하는 것 1개씩 선택 + 근거 설명. 두 원리의 정의를 <A>에서 정확히 파악 후 각 예문 분석.",
+        "key_terms": [
+          "given-new contract",
+          "end weight",
+          "passive voice"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응 — 두 원리 정의 확인",
+        "explanation": "Given-new contract: '각 새 문장에서 구정보(already mentioned)가 신정보(not yet mentioned) 앞에 위치' → 수동태로 구정보를 주어 위치(문두)로 이동.\nEnd weight: '복잡하고 무거운 요소(heavy NP)를 문장 끝에 배치' → 수동태로 긴 by-phrase(행위자)를 문말로 이동.\n두 원리는 동기가 다름: given-new = 정보 구조, end weight = 길이/복잡성.",
+        "key_terms": [
+          "given information",
+          "new information",
+          "heavy NP",
+          "information structure"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "후보 소거 — <B> 예문 분석",
+        "explanation": "(a): 'France' = 앞 문장 'Paris'(프랑스 도시)와 연결된 구정보 → 수동태 주어로 문두 배치. 'an Italian' = 신정보 → 문말. ✓ given-new.\n(b): 'three languages' = 맥락에서 명확히 언급된 구정보인지 불명확. 'everyone'이 화용적으로 주어지기 쉬운 정보. 덜 전형적.\n(c): 'this electrical device' = 비교적 짧고 단순한 NP → end weight 동기 약함.\n(d): 'a new program' = 짧은 NP. 'by medical staff from the Oslo Sport Trauma Research Center' = 매우 긴 복잡 NP → 문말 배치 ✓ end weight.",
+        "key_terms": [
+          "given information",
+          "heavy NP",
+          "complex NP"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 정답 확정",
+        "explanation": "Given-new → (a) 확정:\n'France' ← 앞 문장 'He arrived in Paris' = 구정보 → 수동태 주어(문두).\n'an Italian' = 처음 등장 신정보 → 문말 행위자. <A>의 원리 정확히 적용.\n\nEnd weight → (d) 확정:\n'by medical staff from the Oslo Sport Trauma Research Center' = 매우 복잡한 NP(전치사구 수식 포함). <A> (2c)와 동일 패턴: 행위자 by-phrase가 heavy → 문말 배치.",
+        "key_terms": [
+          "given-new → (a)",
+          "end weight → (d)"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "수동태 기능 분석 출제 패턴: ① 먼저 두 원리 정의 확인(given-new = 정보 순서, end weight = 길이). ② 각 예문에서 수동태 주어와 by-phrase를 구분. ③ 주어가 구정보 → given-new. by-phrase가 복잡하고 길다 → end weight. 두 원리는 동시 적용 가능하므로 더 전형적인 예문을 선택할 것.\n함정: (b)처럼 수동태가 있어도 given-new/end weight 동기가 명확하지 않은 예문이 섞임.",
+        "key_terms": [
+          "passive voice function",
+          "discourse principle",
+          "information structure"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Given-new contract",
+        "definition_en": "A discourse principle stating that given (previously mentioned) information should precede new information within each utterance. Passive voice is one strategy to reorder constituents accordingly.",
+        "definition_ko": "구정보-신정보 계약 — 담화에서 이미 언급된 구정보가 신정보 앞에 오는 원리. 수동태로 목적어를 주어(문두)로 이동하여 구현.",
+        "source_author": "Clark & Haviland",
+        "source_year": 1977,
+        "related_terms": [
+          "information structure",
+          "topic",
+          "focus",
+          "passive voice"
+        ],
+        "exam_usage": "(a) France = given → 수동태 주어로 문두 배치"
+      },
+      {
+        "term": "End weight",
+        "definition_en": "A processing-based principle that heavy (long or complex) constituents, particularly NPs, tend to appear at the end of a sentence.",
+        "definition_ko": "말미중량 원리 — 복잡하고 무거운 요소(heavy NP)를 문장 끝에 배치하는 경향. 수동태로 긴 by-phrase를 문말로 이동.",
+        "source_author": "Quirk",
+        "source_year": 1985,
+        "related_terms": [
+          "heavy NP shift",
+          "extraposition",
+          "passive voice"
+        ],
+        "exam_usage": "(d) 'by medical staff from the Oslo...' = 복잡 NP → 문말 배치"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "given-new contract",
+        "pos": "term",
+        "definition_ko": "구정보가 신정보 앞에 오는 담화 원리",
+        "example": "(a): France(given) was ruled by an Italian(new)."
+      },
+      {
+        "word": "end weight",
+        "pos": "term",
+        "definition_ko": "무겁고 복잡한 요소를 문장 끝에 배치하는 경향",
+        "example": "(d): developed by medical staff from the Oslo... (heavy NP at end)"
+      }
+    ],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Example (a) uses passive voice for the given-new contract. 'France' is given information from the preceding context, so it is placed first as the passive subject. 'An Italian' is new information and appears at the end.\n\nExample (d) uses passive voice for end weight. The agent 'by medical staff from the Oslo Sport Trauma Research Center' is a long, complex NP, which is placed at the end of the sentence following the end weight principle.",
+      "scoring_criteria": [
+        {
+          "criterion": "given-new → (a) 식별",
+          "points": 1
+        },
+        {
+          "criterion": "(a) 근거: France = given(문두), an Italian = new(문말)",
+          "points": 1
+        },
+        {
+          "criterion": "end weight → (d) 식별",
+          "points": 1
+        },
+        {
+          "criterion": "(d) 근거: 'by medical staff from OST...' = 복잡 NP → 문말 배치",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "(a) reflects the given-new contract: the passive voice places 'France,' which is previously mentioned, at the beginning, while 'an Italian' as new information comes at the end. (d) reflects end weight: the passive construction moves the heavy agent NP 'by medical staff from the Oslo Sport Trauma Research Center' to the end of the sentence."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "The given-new contract applies to (a): 'France' (given) becomes the subject through passivization, while 'an Italian' (new) is placed sentence-finally. End weight applies to (d): the passive voice allows the complex NP agent to appear at the end, where heavy elements belong."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Fromkin, V., Rodman, R., & Hyams, N.",
+        "title": "An Introduction to Language (11th ed.)",
+        "year": 2018,
+        "publisher": "Cengage Learning",
+        "pages": "Ch. 5",
+        "excerpt": "<span class=\"ref-hl\">Given information</span> refers to information the <span class=\"ref-hl\">speaker assumes the hearer already knows</span>; <span class=\"ref-hl\">new information</span> is what the speaker is adding to the discourse."
+      },
+      {
+        "type": "textbook",
+        "author": "Birner, B. J.",
+        "title": "Introduction to Pragmatics",
+        "year": 2012,
+        "publisher": "Wiley-Blackwell",
+        "pages": "pp. 73–90",
+        "excerpt": "The <span class=\"ref-hl\">given-new distinction</span> drives many syntactic choices, including <span class=\"ref-hl\">passivization</span>: speakers passivize to bring <span class=\"ref-hl\">given referents to subject position</span>."
+      }
+    ],
+    "concept_explanation": "Two discourse-motivated functions of the passive voice:\n\n① Given-New Contract (Clark & Haviland 1977):\nGiven (previously mentioned) information precedes new information in each utterance.\n  (구정보-신정보 계약: 구정보가 신정보 앞에 위치. 수동태로 목적어를 주어 위치로 이동.)\n  (a): 'France' (given, linked to 'Paris') → passive subject (sentence-initial).\n       'an Italian' (new) → end of sentence.\n\n② End Weight (Quirk et al. 1985):\nHeavy (long, complex) NPs tend to appear at the end of a sentence.\n  (말미중량: 복잡·무거운 NP는 문장 말미에. 수동태로 복잡한 by-phrase를 문말로 이동.)\n  (d): 'by medical staff from the Oslo Sport Trauma Research Center' = complex NP → sentence-final.\n\nKey distinction: Given-new = information status (구정보 여부). End weight = constituent complexity (구조적 복잡성)."
+  },
+  "related": {
+    "enabled": true,
+    "questions": [
+      {
+        "id": "linguistics_2018_B03",
+        "year": 2018,
+        "number": "B-3",
+        "subject": "linguistics",
+        "connection_type": "same_concept",
+        "connection_note": "수동태의 담화 기능(given-new, end weight) 동일 주제",
+        "shared_keywords": [
+          "passive voice",
+          "given-new",
+          "discourse function"
+        ]
+      }
+    ]
+  }
+}

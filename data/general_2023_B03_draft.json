@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2023_B03",
+    "year": 2023,
+    "number": "B-3",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "3. Read the excerpt from a play and follow the directions.\n【4 points】\nOSCAR: They were hiring part-time temps* to replace some\nof the locked-out workers.** I can pick up a couple\nof hours in the mornings, and maybe get a full shift.\nSTAN : Be careful.\nOSCAR: Why?\nSTAN : Why?! Emotions are running high. That’s why.\nOSCAR: Yeah, well, they’re offering eleven dollars an hour.\nSTAN : I know. Looks good from where you’re standing,\nbut that eleven dollars is gonna come outta of the\npockets of a lot of good people. And they ain’t\ngonna like it.\nOSCAR: Well, I’m sorry about that. But it ain’t my problem.\nI been trying to get into that union for two years.\nAnd each time I asked any of ’em, I get nothing but\npushback. So now, I’m willing to be a little flexible\nand they ain’t.\nSTAN : You want my opinion?\nOSCAR: Do I have a choice?\nSTAN : Don’t do it.\nOSCAR: That’s your opinion [...] They’re offering me\nthree dollars more per hour than I make here. Three\ndollars. What they’re offering is better than\nanything I’ve touched since I got outta high school.\nSo yo, I ain’t afraid to cross the line. Let ’em puff\nup their chest, but it don’t scare me no more than\nwalking through my ’hood. I know rough. I ain’t\nafraid to roll in the dirt.\nSTAN : Fine tough guy. But, trust me, you’re gonna make\nsome real enemies. Couple of folks you know.\nOSCAR: They ain’t my friends. They don’t come into my\nhouse and water my plants.\nSTAN : [...] Six months, watch, they’re gonna get another\nset of guys like you who’ll cross the line, and guess\nwhat? They’ll offer them ten dollars. Watch. Then\nyou’ll be outta a job, wanting someone to stand by\nyou. But ain’t nobody gonna do it [...]\nOSCAR: Why are you coming at me that way? I’m not\ndisrespectin’ you. I’m just trying to get paid, that’s\nall. For three years I’ve been carrying nothing but\ncrates. I’ve got twenty-dollar bills taped to my wall,\nand a drawer full of motivational tapes. Got a jar of\nbuena suerte from the botanica, and a candle that I\nkeep lit 24/7. I keep asking for some good fortune.\nThat’s it. A little bit of money. That’s it. My father,\nhe swept up the floor in a factory like Olstead’s―\n[they] wouldn’t even give him a union card. But he\nwoke up every morning at four A.M. because he\nwanted a job in the steel factory, it was the\n영 어 [전공B]\nAmerican way, so he swept [...] floors thinking,\n“One day they’ll let me in.” I know how he feels,\npeople come in here every day. They brush by me\nwithout seeing me, No: “Hello, Oscar.” If they\ndon’t see me, I don’t need to see them.\nSTAN : I hear ya. But, c’mon, really? Look elsewhere, not\nOlstead’s. You don’t wanna do this.\n*temps: temporary workers\n**locked-out workers: employees whose workplace has been temporarily\nclosed by the employer\nLynn Nottage, Sweat\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt. Then, explain\nwhat the underlined part means.\n<Commentary>\nOscar and his father share the same experience. They tried\nto join a(n) , which could have helped them to get\nfull-time employment, but they were rejected. Therefore,\nwhen Oscar discovers the lockout, he considers quitting his\ncurrent position in order to secure a higher salary at Olstead’s\nand realize his American dream. Stan, however, tries to\ndissuade Oscar by warning him of the dangers that await him.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_B_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

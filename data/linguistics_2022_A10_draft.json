@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2022_A10",
+    "year": 2022,
+    "number": "A-10",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "10. Read the passage in <A> and the scenarios in <B>, and follow\nthe directions.【4 points】\n<A>\nIn most intercultural conflict situations, interactants are\nexpected to defend or save their faces when they are\nthreatened. Here, face refers to a person’s sense of favorable\nself-worth or self-image experienced in communication. The\nvarious ways to deal with conflict and face are called\nfacework or facework strategies. There are three general types\nof facework strategies used in intercultural conflict. Below are\nthe three types and the specific behaviors displayed when\nemploying a strategy.\nFacework Strategies Facework Behaviors\nA1. Assault the other verbally A. Dominating:\nan effort to control\nA2. Be firm in one’s demands and\nthe conflict situation\ndo not give in\nB1. Dismiss the conflict that B. Avoiding:\nthreatens the other’s face an attempt to save\nthe other person’s B2. Rely on a third party to\nface manage the conflict\nC1. Offer an apology for the conflict C. Integrating:\nan endeavor for\nC2. Mutually acknowledge each\nclosure of the conflict\nother’s good points\n<B>\nScenario 1\nMichael and Ken are students from different countries\ntaking the same class at an Australian university. They are\npartners for an assignment and decide to meet twice a week.\nHowever, Michael is always late for the meetings. Ken feels\nfrustrated because in his culture, punctuality is highly\nimportant and making others wait is regarded inconsiderate.\nKen finally tells Michael how he feels. Hearing Ken’s\ncomplaints, Michael is upset at first. He thinks Ken is fussing\nover nothing because in Michael’s culture, people are more\nflexible with time. After consideration, he comes to understand\nKen’s position and admits his fault. Then, expressing his\nregret, he promises to be on time.\nScenario 2\nMaria and Sue are students rooming together at a US\nuniversity. They are from different countries. Maria loves\nhanging out with her friends and invites them to the room to\ntalk and eat. They almost always leave after midnight.\nHowever, Sue is irritated because in her culture, staying late at\nsomeone’s place is not normally acceptable. In contrast,\nMaria doesn’t mind her friends staying late since in her\nculture, getting along well with other people is a high priority.\nSue considers directly telling Maria that her friends should not\noutstay their welcome. Not wanting to create an unpleasant\nsituation, however, she instead decides to go to the library\nwhen her roommate’s friends visit.\n영 어 [전공A]\nBased on <A>, identify ONE facework behavior that Michael and\nSue each display to deal with their intercultural conflicts in <B>,\nrespectively. Then, explain your answers with evidence from <B>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_A_p04.png",
+        "image_count": 3
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_A_p07.png",
+        "image_count": 16
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

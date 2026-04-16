@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "id": "education_2026_B06",
+    "year": 2026,
+    "number": "B-6",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "writing assessment",
+      "holistic scoring",
+      "content",
+      "organization",
+      "grammar",
+      "feedback"
+    ],
+    "parse_source": "2026_전공B.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Identify the ONE category in which Mr. Kim's comments do NOT correspond to student 1's restaurant review, and the ONE category in which Mr. Kim's comments do NOT correspond to student 2's restaurant review. Then explain your answers with evidence.",
+    "passage": "Student 1's review: Recently I visited Bamgart, a Chinese restaurant. There were so many dishes on the menu. I ordered seafood noodle soup. It was spicy. It was very delicious. It took some time to order.\nGrade B / Content: Good to Fair / Organization: Good to Fair / Grammar: Excellent\nComments: You did a good job on writing the restaurant review. You addressed the topic well by elaborating it with details. Also, your ideas were smoothly connected using appropriate linking words, but you did not include a concluding sentence. There were no major grammatical errors that obscured the meaning. Keep up the good work!\n\nStudent 2's review: I recently had a lunch at Pizza Club. I ordered a combination pizza. I liked the taste and the reasonable price, but I have to wait long outside before being seated. Restaurant was very crowded, so I eat the pizza quickly. Overall, it was worth visiting this place.\nGrade B / Content: Excellent / Organization: Excellent / Grammar: Good to Fair\nComments: I enjoyed reading your writing. The message was very clear, and it was good to see the details you included. You made good connections between your ideas using appropriate linking words, so it was easy to follow your writing. Regarding grammar, you had some errors in the use of articles, but everything else was good in terms of accuracy. Nice work!",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "발문 조건 확인",
+        "explanation": "각 학생에서 '점수/등급'과 '코멘트' 간에 불일치하는 평가 범주 1개를 찾아야 함. 불일치란: 점수는 높은데 코멘트가 실제 오류/문제를 언급하거나, 점수는 낮은데 코멘트가 잘됐다고 하는 경우. 세 범주(Content, Organization, Grammar)를 각각 점수 ↔ 코멘트로 대조한다.",
+        "key_terms": [
+          "scoring consistency",
+          "construct validity",
+          "holistic scoring",
+          "analytic scoring"
+        ]
+      },
+      {
+        "step": 2,
+        "label": "Student 1 Content/Organization 검토",
+        "explanation": "Content: Good to Fair + 코멘트 'addressed the topic well by elaborating it with details' → 잘됐다는 내용 → Good to Fair와 모순될 수 있지만 'Good to Fair' 범위 내 일관성 있음. Organization: Good to Fair + 'ideas smoothly connected using appropriate linking words, but did not include a concluding sentence' → 결론문 누락 언급 → Good to Fair 등급과 일치 ✓",
+        "key_terms": [
+          "Content",
+          "Organization",
+          "concluding sentence"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "Student 1 Grammar 검토 → 불일치 확인",
+        "explanation": "Grammar 점수: Excellent. 코멘트: 'There were no major grammatical errors that obscured the meaning' → '심각한 오류는 없다'는 표현 자체가 '오류가 존재함'을 암시. Excellent는 사실상 오류가 없어야 함. 또한 실제 글에는 단순 반복 문장(It was spicy. It was very delicious.)이 있어 문장 다양성 부족. 코멘트가 Excellent 등급을 정당화하지 못함 → Grammar 불일치 ✗",
+        "key_terms": [
+          "Grammar",
+          "Excellent vs. no major errors",
+          "implicit error acknowledgment"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "Student 2 Content/Organization 검토",
+        "explanation": "Content: Excellent + 'message was very clear, good details' → 일치 ✓. Organization: Excellent + 'good connections, easy to follow' + concluding sentence 있음('it was worth visiting') → 일치 ✓. Content·Organization 코멘트와 점수 모두 일치.",
+        "key_terms": [
+          "Content Excellent",
+          "Organization Excellent",
+          "coherence"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "Student 2 Grammar 검토 → 불일치 확인",
+        "explanation": "Grammar 점수: Good to Fair. 코멘트: 'errors in the use of articles'만 언급. 실제 글의 오류: 'I have to wait long' (→ had to wait; 시제 오류), 'I eat the pizza quickly' (→ ate; 시제 오류), 'Restaurant was very crowded' (→ The restaurant; 관사 오류). 코멘트는 article 오류만 언급하지만 실제로는 시제 오류 등 다수. 코멘트가 실제 오류 범위를 충분히 반영하지 못함 → Grammar 코멘트 불일치 ✗",
+        "key_terms": [
+          "Grammar",
+          "tense error",
+          "article error",
+          "incomplete feedback"
+        ]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Analytic Scoring (Writing Assessment)",
+        "definition_en": "A writing assessment method that evaluates multiple distinct categories (e.g., content, organization, grammar) separately, each with its own score. Allows detailed diagnostic feedback but requires that scores and written comments be mutually consistent within each category.",
+        "definition_ko": "분석적 채점 — 내용, 구성, 문법 등 여러 범주를 별도 점수로 평가하는 쓰기 평가 방식. 세부 진단 피드백이 가능하나 각 범주 내 점수와 코멘트 간 일관성이 요구됨.",
+        "source_author": "Jacobs, Zinkgraf, Wormuth, Hartfiel & Hughey",
+        "source_year": 1981,
+        "related_terms": [
+          "holistic scoring",
+          "scoring rubric",
+          "feedback consistency"
+        ],
+        "exam_usage": "점수 범주(Content/Organization/Grammar)와 코멘트 간 불일치 판단의 근거"
+      },
+      {
+        "term": "Feedback Consistency (Washback Validity)",
+        "definition_en": "The principle that written comments on assessed work must align with the assigned scores. Inconsistency — where comments imply problems that the score does not reflect, or vice versa — undermines the validity and usefulness of assessment feedback.",
+        "definition_ko": "피드백 일관성(환류 타당도) — 평가 결과물에 대한 서면 코멘트는 부여된 점수와 일치해야 한다는 원칙. 점수와 코멘트 간 불일치는 평가 피드백의 타당성과 유용성을 훼손함.",
+        "source_author": "Brown & Abeywickrama",
+        "source_year": 2019,
+        "related_terms": [
+          "analytic scoring",
+          "construct validity",
+          "washback"
+        ],
+        "exam_usage": "문제 핵심: Mr. Kim의 코멘트가 점수와 불일치하는 범주를 찾는 것"
+      },
+      {
+        "term": "Grammar Accuracy in Writing",
+        "definition_en": "A scoring category measuring the correctness of grammatical forms including verb tense, agreement, article use, and sentence structure. An 'Excellent' grade implies near-absence of errors; 'Good to Fair' indicates noticeable but non-impeding errors.",
+        "definition_ko": "쓰기에서의 문법 정확성 — 시제, 일치, 관사 사용, 문장 구조 등 문법 형식의 정확도를 측정하는 채점 범주. Excellent는 오류가 거의 없어야 하며 Good to Fair는 의사소통을 방해하지 않는 수준의 오류를 허용함.",
+        "source_author": "Brown & Abeywickrama",
+        "source_year": 2019,
+        "related_terms": [
+          "analytic scoring",
+          "error analysis",
+          "rubric"
+        ],
+        "exam_usage": "Student 1(Excellent vs. 오류 암시 코멘트), Student 2(Good to Fair vs. article만 언급)의 불일치 근거"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "For Student 1, the Grammar category does not correspond. Mr. Kim gave 'Excellent' for grammar, but his comment states there were 'no major grammatical errors that obscured the meaning' — implying errors existed but were minor, which is inconsistent with an Excellent grade.\n\nFor Student 2, the Grammar category also does not correspond. Mr. Kim noted only article errors, but the review contains multiple grammatical errors including tense errors ('I have to wait,' 'I eat') and a missing article ('Restaurant was'), suggesting the grammar problems go beyond what the comment acknowledges.",
+      "scoring_criteria": [
+        {
+          "criterion": "Student 1 → Grammar 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Student 1 근거: Excellent 점수이지만 오류 존재 암시하는 코멘트",
+          "points": 1
+        },
+        {
+          "criterion": "Student 2 → Grammar 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Student 2 근거: article 외에도 시제 오류 등 다수 있는데 코멘트가 article만 언급",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Student 1's Grammar grade is inconsistent: Mr. Kim gave Excellent, but his comment says there were no errors that 'obscured meaning,' implying errors did exist. Student 2's Grammar comment is inconsistent: Mr. Kim mentioned only article errors, but the text also contains verb tense errors (e.g., 'I eat') and a missing article ('Restaurant'), indicating more widespread grammatical problems."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "For Student 1, Grammar is misaligned — the Excellent grade contradicts the comment implying some errors existed. For Student 2, the Grammar comment is misaligned — it only mentions article errors, overlooking tense mistakes like 'I have to wait' and 'I eat the pizza quickly.'"
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Brown, H. D. & Abeywickrama, P.",
+        "title": "Language Assessment: Principles and Classroom Practices (3rd ed.)",
+        "year": 2019,
+        "publisher": "Pearson",
+        "pages": "Ch. 11",
+        "excerpt": "In <span class=\"ref-hl\">analytic scoring</span>, <span class=\"ref-hl\">each criterion must be evaluated independently</span> and the accompanying written feedback should accurately reflect the score assigned in order to preserve validity and provide actionable guidance."
+      }
+    ],
+    "concept_explanation": "Analytic writing assessment evaluates Content, Organization, and Grammar as separate dimensions, each with its own score and feedback. For assessment to be valid, scores and comments must be consistent within each category: an 'Excellent' grammar score should not be accompanied by comments implying errors exist, and a 'Good to Fair' comment should account for all observable error types in the student's text.\n  (분석적 쓰기 평가는 내용·구성·문법을 별도 차원으로 평가하며 각각 점수와 피드백을 부여한다. 평가의 타당성을 위해 점수와 코멘트는 범주 내에서 일관되어야 한다: Excellent 문법 점수는 오류 존재를 암시하는 코멘트와 함께 제시될 수 없으며, Good to Fair 코멘트는 학생 글에 존재하는 모든 오류 유형을 반영해야 한다.)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

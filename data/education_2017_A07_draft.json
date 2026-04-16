@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2017_A07",
+    "year": 2017,
+    "number": "A-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage and fill in each blank with TWO words.\n(Use the SAME answer for both blanks.)【2 points】\nS: Could you give me some advice on how I can improve\nmy pronunciation?\nT: Yes, of course. Are you having trouble pronouncing a\nparticular word?\nS: I can’t think of any right now, but there are a lot of\nsounds in English that I can’t pronounce.\nT: Can you give me an example?\nS: The word right. R is very difficult for me.\nT: Oh, that’s because the consonant r doesn’t exist in the\nKorean sound system. Then, you should practice\npronunciation with a lot of . For\nexample, the words river and liver have only one sound\ndifference in the same position, but it makes a big\ndifference in meaning.\nS: Oh, I see. So, I guess fine and pine would be another\nexample of , right?\nT: Yes, you’re right. If you want to be able to pronounce\nright, you first need to be able to hear the difference\nbetween right and light. There are so many other\nexamples, like rice and lice, rode and load, etc.\nS: I can’t hear the difference between those words, either.\nT: I know they are difficult, but with enough practice, you\nwill be able to hear the difference and pronounce them\ncorrectly.\nNote: T=teacher, S=student\n영 어 [전공A]",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2017_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2017_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2017_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2017_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2017_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2017_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2017_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

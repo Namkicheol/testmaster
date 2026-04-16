@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_A01",
+    "year": 2021,
+    "number": "A-1",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the conversation and follow the directions.【2 points】\nT : Today, we are going to read a text about cooking. Are you\ninterested in cooking?\nSs: Yeah.\nT : Great. Let’s study today’s key words first. (The teacher\nbrings out kitchen utensils from a box.) I brought some\ncooking utensils.\nS1: Wow! Are those yours?\nT : Yes, they are. I use them when I cook. (showing a\nsaucepan) You’ve seen this before, right?\nS2: Yes. My mom uses that when she makes jam.\nT : Good. Do you know what it’s called in English?\nS3: It’s a saucepan.\nT : Excellent, it’s a saucepan. Everyone, repeat after me.\nSaucepan.\nSs: Saucepan.\nT : And, (showing a cutting board) what’s this in English?\nS4: A board?\nT : Right, it’s a cutting board. Good job. I also brought a\ncouple of things from my refrigerator. This is one of my\nfavorite vegetables. (The teacher holds up an eggplant.)\nS5: Umm.... It’s an egg...\nT : Nice try! It’s an eggplant.\nNote: T = teacher, S = student\nFill in the blank with the ONE most appropriate word.\nIn this lesson, the teacher is using a type of supplementary\nmaterials called to teach key vocabulary.\nAlong with other visuals, these materials are expected to\nattract students’ attention and to aid understanding and\nretention of vocabulary.\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n12문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

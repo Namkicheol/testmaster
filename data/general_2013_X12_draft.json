@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "general_2013_X12",
+    "year": 2013,
+    "number": "X-12",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "12. What is the main idea of the passage? [2.5점]\nWhy be moral? This question is fundamental for ethics\nbecause even if people can figure out what are the right\nthings to do, we can still ask why they would in fact do\nthese things. The traditional philosophical responses to the\nproblem of moral motivation have been rationalist: We\nshould be more moral because it would be irrational to do\notherwise. The rationality of morality might derive from a\npriori truths about what is right, or from arguments that it\nis rational for people to agree with others to be moral.\nThe philosopher Sean Nichols argues that a major\nproblem for rationalism is that psychopaths, with no\nimpediments in abstract reasoning, nevertheless see nothing\nwrong in harming other people. Nichols argues convincingly\nthat what is wrong with psychopaths is not their reasoning\nbut their emotions. Psychopathy, whose symptoms include\nantisocial behavior, lack of guilt, and poverty of emotions,\nis the result of impairments to emotional learning that derive\nfrom disrupted functioning of the amygdala.\nAccording to Nichols, an adequate account of ethical\nthinking must explain how emotion plays a role in linking\nmoral judgment to motivations, while also allowing a place\nfor reason in moral judgment. His explanation of ethical\nnorms is cultural and historical: Norms are more likely to\nbe preserved in the culture if the norms resonate with our\naffective systems by prohibiting actions that are likely to\nelicit negative affect. Norms that prohibit harm to others\nare virtually ubiquitous across cultures because of this\n“affective resonance.” The adoption of norms enables us to\nreason about what is right and wrong, but these norms have\nan emotional underpinning that intrinsically provides a\nconnection between morality and action.\nIt is imperative we understand psychopathic behavior. ①\nNorms which include not harming others are universal. ②\nMoral action is linked to emotions as well as reasoning. ③\nOne major aspect of psychopathy is an intrinsic lack of ④\nguilt.\nActing emotionally must be seen as irrational in all ⑤\nsocieties.\n영 어 (15면\n16. Read the following and answer the question. [1.5점]\nActivity Procedure",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2013_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2013_X_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2013_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2013_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2013_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2013_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2013_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2013_X_p11.png",
+        "image_count": 2
+      },
+      {
+        "page": 12,
+        "file": "images/img_2013_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2013_X_p13.png",
+        "image_count": 2
+      },
+      {
+        "page": 14,
+        "file": "images/img_2013_X_p14.png",
+        "image_count": 1
+      },
+      {
+        "page": 15,
+        "file": "images/img_2013_X_p15.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

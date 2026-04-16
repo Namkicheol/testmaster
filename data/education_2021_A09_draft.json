@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2021_A09",
+    "year": 2021,
+    "number": "A-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. Read the passage in <A> and the teaching procedure in <B>,\nand follow the directions.【4 points】\n<A>\nMr. Yang, a middle school English teacher, believes that his\nlessons should help students meet the achievement standards\nwhich are specified in the school curriculum. He selects a\ngroup of standards for each semester and tries to incorporate\nthem into his lessons. The following are the achievement\nstandards for this semester.\n[Achievement Standards]\n[Oral Language Skills]\nStudents can\n∙use strategies to open and close conversations.\n∙explain their likes and dislikes.\n∙describe their dreams and future jobs.\n∙talk about their worries and problems.\n[Written Language Skills]\nStudents can\n∙read a book or watch a film and write their feelings and\nimpressions.\n∙read a short text about a familiar topic and write a\nconclusion.\n∙read a short text about a familiar topic and organize\nthe content.\n∙view an object or picture and write their thoughts or\nfeelings about it.\n영 어 [전공A]\n<B>\nTeaching Procedure\nMr. Yang designed a reading lesson for his 2nd year\nstudents based on two of the achievement standards that he set\nout to accomplish this semester.\n<Reading text>\nWhat Should I Do?\nEveryone has worries. When you have things you\nworry about, what do you do?\nSumi’s Worries\nSumi thought Kate was her best friend, but now, she\nfeels that Kate has changed and that she is avoiding her.\nA few days ago, Sumi met Kate in the hallway at\nschool, but Kate turned around and walked away from\nher. Sumi tried to find the reason, but she couldn’t think\nof anything wrong she had done to Kate. So, Sumi\nasked for her older sister’s advice. Sumi’s sister\nsuggested that she simply ask Kate what’s wrong.\nT tells Ss about today’s topic and has Ss predict\nStep 1 the content of the reading text based on the titles\nand pictures.\nStep 2 T introduces new words from the text.\nT asks Ss to skim the text and tell what the text\nStep 3\nis about.\nT has Ss reread the text and complete a\nStep 4\nproblem-solution chart based on what they read.\nT has Ss tell their worries and suggest solutions\nStep 5\nin groups.\nT has Ss write the key words and sentences in\nStep 6\ntheir learning log.\nNote: T = teacher, S = student\nIdentify ONE oral language achievement standard and ONE\nwritten language achievement standard from <A> that the\nteaching procedure in <B> targets. Then, explain how each\nachievement standard is addressed with evidence from <B>.\n6\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

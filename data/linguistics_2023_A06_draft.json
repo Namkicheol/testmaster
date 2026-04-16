@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2023_A06",
+    "year": 2023,
+    "number": "A-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage in <A> and the examples in <B>, and follow\nthe directions.【4 points】\n<A>\nNative speakers’ intuitions about possible and impossible\nwords are heavily influenced by the phonological properties\nof sound sequences, represented by relative differences in\nsonority, i.e., how resonant one sound is compared to the\nother.\nA group of English native speakers were asked to decide\nhow each of the following nonsense words sounds to them,\nand to give each word a numerical rating, from ‘1’ to ‘5’,\naccording to how confident the respondents are that those are\nEnglish-like words. ‘1’ meant that the word is definitely not\nEnglish-like, and ‘5’ meant that it can definitely be an English\nword. Their averaged ratings for the words are shown in (1).\n(1) Words Mean scores\nbod [bad] 4.66\ntimp [tɪmp] 4.30\nrog [rɔg] 4.20\nmbotto [mbato] 1.07\nIt appears that native speakers of English perceive words\nwith simple onset to be more English-like than those with\ncomplex onset, and simply reject words that violate the\nphonotactics in English. However, the presence of onset\nclusters and legitimate phonotactics do not fully explain how\nthe speakers’ intuitions work. Another group of English\nnative speakers were asked to do the same task for a different\nset of nonsense words, as illustrated in (2).\n(2) Words Mean scores\nshliz [ʃlɪz] 4.16\nzloog [zlug] 3.76\nnfape [nfeɪp] 1.98\nmvupe [mvup] 1.76\n<B>\na. kneeb [knib] b. rviss [rvɪs]\nc. znape [zneɪp] d. nkob [nkob]\nBased on <A>, first, identify the TWO nonsense words in <B>\nthat are likely to result in a low rating (closer to ‘1’). Then, state\nthe ONE phonological generalization that can explain both why\nbod, timp, and rog are considered more English-like than mbotto\nin (1) and why shliz and zloog are considered more English-like\nthan nfape and mvupe in (2).\n4\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "education_2019_X04",
+    "year": 2019,
+    "number": "X-4",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the passages and follow the directions.【4 points】\n<A>\n(Below is a student’s writing and a conversation with his\nteacher about the writing.)\nStudent writing\nSomeone first showed the bicycle to the public in the\nlate 18th century. People first thought it was not safe or\ncomfortable. But many creative people improved it. So,\nmany people use the bicycle widely as a form of\ntransportation or for exercise today. Bicycle makers\nmanufacture lighter, faster and stronger bicycles now\nthan before. Because of that, more people ride the\nbicycle around the world these days than any time in the\npast. But they used some unique types of cycles in the\nold days like the four-cycle.\nTeacher-student one-on-one conference\nT: What is this writing about?\nS: It’s about the bicycle. Do you ride a bicycle?\nT: Yes, I sometimes do. So your writing is not about people\nwho produce or use the bicycle.\nS: That’s right.\nT: OK, the main theme is the bicycle. But none of the\nsentences has the bicycle as its subject.\nS: I know. But if the bicycle becomes the subject, then I\nhave to use many passives. They are complicated and\ndifficult. So I tried not to use them.\nT: But it would be better to use the bicycle as the subject in\nmost sentences. That way, it will become clear that the\nmain focus of your writing is the bicycle.\nS: Well, okay. I’ll try.\nT: You used the word “manufacture.” Did you know this\nword?\nS: No, I didn’t. At first, I wanted to use “make” but then the\nsentence looked a bit awkward because the subject is\n“makers.” It would go like “Bicycle makers make.”\nT: I see.\nS: So I looked up a different word in a dictionary that has\nthe same meaning as “make.”\nT: That works. What about this word “four-cycle?” What do\nyou mean? Are you trying to describe a bicycle but with\nfour wheels?\nS: Yes, I am. I added “four” to “cycle” just like “bi” is put\nbefore “cycle” in bicycle.\nT: Oh, it is called “quadricycle.” “Quadri” means four just\nas “bi” means two.\nNote: T=teacher, S=student\n영 어 [전공B]\n<B>\nWhen writing as well as speaking in a second language,\nlearners who have limited command of the second language\nmay have to use a variety of strategies that can compensate\nfor their lack of knowledge of the target language grammar\nand vocabulary in order to effectively get their intended\nmeaning or message across to a reader or listener. Strategies\nemployed for this purpose include avoidance, code\nswitching, word coinage, appeal to authority, and using\nprefabricated patterns. As these strategies constitute a\nsignificant part of strategic competence, advances in the\nlearners’ ability to effectively use them play a considerable\nrole in promoting their communicative competence.\nBased upon the student’s writing and his dialogue with the\nteacher in <A>, identify THREE strategies the student used\nfrom those mentioned in <B>. Then, provide corresponding\nevidence for each identified strategy from <A>.\n4\n(7면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

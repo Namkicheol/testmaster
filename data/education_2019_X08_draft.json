@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "education_2019_X08",
+    "year": 2019,
+    "number": "X-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passage in <A> and the two teachers’ reflections in\n<B>, and follow the directions.【10 points】\n<A>\nMr. Kim and Ms. Jo, English teachers, attended a\nworkshop for language teachers where they both gained a\nlot of useful information to promote student learning. Below\nis part of the information from the workshop.\nTeachers need to...\n(1) keep in mind that their course goals and/or\nprocedures can be modified.\n(2) offer students a variety of learning strategies to\ndevelop learner autonomy.\n(3) involve students in self-/peer-evaluation instead of\nevaluating them alone.\n(4) assess students frequently throughout the semester.\n<B>\n(Below are the two teachers’ reflections after the workshop.)\nMr. Kim’s reflection\nTo develop English writing abilities, my students engaged\nin writing activities. I simply assumed that paragraph\nwriting would be enough for my students. However, I\nrealized that I should change the initial course goal after\nassessing my students’ first classroom writings. Their\nwriting abilities were well above my expectations so I\nchanged the goal set earlier and included essays. Since I\nbelieve that one-shot assessment at the end of the course is\nnot effective for enhancing student learning, I carried out\nassessment periodically over the whole course period. I also\nbelieve assessment should be objective and that students’\nself-assessments are rather subjective in some ways. So, I\ndid all the periodic assessments by myself, not asking\nstudents to evaluate their own work.\nMs. Jo’s reflection\nIn my class, students were expected to develop debating\nskills in English. I organized my lesson in this way: brief\nmini-lectures, short video presentations to provide content\nfor debating practice, followed by small group debating\npractice. I taught a range of learning strategies so that my\nstudents could become independent language learners\nutilizing those strategies whenever needed. For improving\nstudents’ oral skills, I thought that arranging assessments\nmultiple times, not just once, would be better. So I carried\nout assessments every two weeks during my instructional\nperiod. Based on the results of the assessments, I noticed that\n6\n(7면 중 면)\n\nstrictly following the lesson procedure was rather\nchallenging to my students. However, I kept the same\nprocedure over the course period since I believe maintaining\nconsistency is crucial in order not to confuse students.\nWrite TWO paragraphs based on <A> and <B>. In the first\nparagraph, identify TWO elements from <A> that Mr. Kim\nemployed in his course and ONE element that he did not\nemploy, and provide evidence from <B> for each identified one.\nIn the second paragraph, identify TWO elements from <A> that\nMs. Jo employed in her course and ONE element that she did\nnot employ, and provide evidence from <B> for each identified\none.\n영 어 [전공B]\n<수고하셨습니다.>\n7\n(7면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

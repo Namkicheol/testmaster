@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2022_B07",
+    "year": 2022,
+    "number": "B-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage in <A> and the activities in <B>, and follow\nthe directions.【4 points】\n<A>\nOne of the reasons we can communicate successfully,\nespecially in writing, is because we have some understanding\nof genre, socially recognized ways of using language for\nparticular purposes. Genre represents the norms of different\nkinds of writing shared among people within a particular\ncommunity. The emphasis on the social dimension of genre is\na major characteristic of genre-based approaches to teaching\nwriting.\nA genre-based writing instruction involves students in an\nin-depth analysis of texts in the genre in which they are going\nto be writing. In particular, students are asked to analyze three\nessential features of the genre using example texts: 1) the\ncontext, which includes the situation and audience, 2) the\ncontent, which indicates the information and message\nconveyed, and 3) the construction, that is, how the texts of the\ngenre are typically constructed in terms of the layout and\nlanguage. When students are done with this task, they are in a\nposition to create their own writing within the genre.\n<B>\nActivity 1\n(After conducting a reading lesson about volunteering, a\nmiddle school English teacher prepares a poster-making\nactivity for recruiting volunteers. He plans to have his\nstudents analyze the features of the poster genre before they\nmake their own posters.)\nAsk the students to share their volunteering experiences. ◼\nHave the students examine the poster and answer the ◼\nquestions in the worksheet.\nWorksheet",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

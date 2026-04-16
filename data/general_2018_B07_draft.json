@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "general_2018_B07",
+    "year": 2018,
+    "number": "B-7",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "7. Read the passage and follow the directions.【5 points】\nAs children, many of us were taken to museums. In most\ncases this was probably with a group of fellow students from\nour school on a field trip. We were there to learn. The\ndisplays were static and the importance of the so-called\ngreat works escaped many in attendance. As a result, many\nadults rarely revisited museums. Museums were only seen\nas cultural repositories. In the last few decades, however,\nthey have changed their purpose and role in society.\nThroughout human history, museums collected the\nextraordinary as evidence of the past. More recently, they\nhave reevaluated the purpose of their collections and put\nmuch more effort into collecting the ordinary and everyday,\nin recognition of the fact that it is this material which best\nrepresents the lives of most people. Such a change in their\ncollections enables museums to show their relevance to\npeople who previously were underrepresented, and thus\nuninterested in museums.\nMuseums have started to play a new role in society\nthrough their partnerships, as well. It is no longer an option\nfor a museum to remain isolated and aloof. Museums are\nsocial constructs and have assumed their place in mainstream\ncontemporary life. They are now networking their value to\nall sectors of society, not just with traditional allies like the\neducation sector. Political associations and business and\ncommunity sectors are now included.\nIn these ways, the institutions that once were just hallowed\nhalls of important objects are now quickly adapting with new\nattitudes towards what they collect. They also have evolved\nto interact and work with a variety of members within their\ncommunities. Modern museums are reinventing themselves\nas the center of contemporary culture.\nWrite a summary following the guidelines below.\n<Guidelines>\n∙Summarize the above passage in one paragraph.\n∙Provide a topic sentence, two supporting ideas, and a\nconcluding sentence based on the passage.\n∙Do NOT copy more than FIVE consecutive words from\nthe passage.\n5\n(6면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_B_p05.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

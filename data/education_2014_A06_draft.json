@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2014_A06",
+    "year": 2014,
+    "number": "A-6",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage in <A> and examine the teaching procedure\nin <B>. Then follow the directions.【3 points】\n<A>\nProcessing instruction, a type of focus-on-form\ninstruction, is based on the assumption that when\nprocessing input, L2 learners have difficulty in attending to\nform and meaning at the same time due to working\nmemory limitations. Not surprisingly, they tend to give\npriority to meaning and tend not to notice details of form.\nProcessing instruction uses several principles to explain\nwhat learners attend to in the input and why. Below are\nsome of these principles.\nThe Lexical Preference Principle: In (1), both -es and boy\nconvey the same information, ‘the third person singular’.\nYet, learners prefer to focus on the lexical item, boy, to\narrive at meaning, and often ignore the grammatical item,\n-es, while processing the sentence.\n(1) The boy studies in the library, not at home.\nThe First Noun Principle: Learners tend to process the first\nnoun or pronoun they encounter in a sentence as the agent\nof action. For example, they may misinterpret (2) as “Jack\ncollected the data for the project.”\n(2) Jack let Joe collect the data for the project.\nThe Event Possibilities Principle: Event possibilities refer to\nthe likelihood of one noun being the agent of action as\nopposed to another. Since it is more likely in the real world\nthat a dog would bite a man than the other way around,\nlearners would likely misinterpret (3) as “The dog bit the\nfarmer.”\n(3) The dog was bitten by the farmer.\nIn processing instruction, teachers provide students with\nstructured input activities, taking into consideration the\nprinciples above. In a structured input activity, students are\nforced to attend to form in order to comprehend a sentence.\n영 어 (8면\n<B>\nTeaching Procedure",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2018_A01",
+    "year": 2018,
+    "number": "A-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and follow the directions.【2 points】\nLearning a second language (L2) may be viewed as the\ngradual transformation of performance from controlled to\nless controlled. This transformation has been called\nproceduralization or automatization and entails the\nconversion of declarative knowledge into procedural\nknowledge. According to this argument, the learning of\nskills is assumed to start with the explicit provision of\nrelevant declarative knowledge and, through practice, this\nknowledge can hopefully convert into ability for use. At the\nsame time, it is important to understand that learning an L2\nmay proceed in a different way. For example, some have\nwondered if incidental L2 learning is possible as a\nconsequence of doing something else in the L2. Simply put,\nthe question is about the possibility of learning without\nintention. The answer is still open, but, at present, it appears\nthat people learn faster, more and better when they\ndeliberately apply themselves to learning.\nRead Mr. Lee’s teaching log below and fill in the blank with the\nONE most appropriate word from the passage above.\nThrough my teaching experience, I’ve learned that\ndifferent students learn in different ways. Considering\nthe current trend in teaching and learning, I believe that\nstudents should be provided with more opportunities to\nbe exposed to the learning condition.\nMinsu’s case may illustrate that point. At the beginning\nof the semester, Minsu introduced himself as a book\nlover. He wanted to read novels in English but was not\nsure if he could. I suggested that he didn’t have to try to\ncomprehend all the details. Indeed, Minsu has benefitted\na lot from reading novels. He said he learned many\nwords and expressions even though he did not make\nattempts to memorize them. I will continue observing\nhis progress as his way of learning is of great interest.\n영 어 [전공A]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n14문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2018_A_p01.png",
+        "image_count": 4
+      },
+      {
+        "page": 2,
+        "file": "images/img_2018_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2018_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2018_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2018_A_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2018_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2018_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

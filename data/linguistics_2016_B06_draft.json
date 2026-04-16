@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "linguistics_2016_B06",
+    "year": 2016,
+    "number": "B-6",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "6. Read the passage in <A> and the sentences in <B>, and\nfollow the directions.【5 points】\n<A>\nA PP modifier has distinct grammatical functions; it can\nbe either a Complement exemplified by the underlined PP\nin (1a) or an Adjunct as in (1b).\n(1) a. the specialist in phonology\nb. the specialist at the stage\nTwo types of syntactic arguments can be presented for\nthe structural distinction between PP Complements and PP\nAdjuncts. First, they are strictly ordered when they both\noccur as postnominal modifiers, as the contrast in (2)\nshows.\n(2) a. The specialist in phonology at the stage\nb.*The specialist at the stage in phonology\nAnother syntactic argument can be formulated in relation\nto Wh-movement, as shown in (3): NPs within PP\nComplements can be preposed, while NPs within PP\nAdjuncts cannot.\n(3) a. What area of linguistics is he a specialist in?\nb.*Which place is he a specialist at?\nNote:*indicates that the sentence is ungrammatical.\n<B>\na. He is a contender with a knee injury.\nb. He is a contender for the PGA title.\nBased on the description in <A>, identify the grammatical\nfunction of the underlined PPs in <B>. Then provide two pairs\nof evidence for your identification, using BOTH sentences in\n<B>: a pair of NPs and a pair of wh-questions, with\nungrammaticality marked with an asterisk (*) at the beginning\nof the evidence.\n영 어 (6면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_B_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_B_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_B_p03.png",
+        "image_count": 6
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_B_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_B_p05.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

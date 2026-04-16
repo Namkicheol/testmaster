@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "id": "education_2026_A01",
+    "year": 2026,
+    "number": "A-1",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": [
+      "corrective feedback",
+      "recast",
+      "written corrective feedback",
+      "reformulation"
+    ],
+    "parse_source": "2026_전공A_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Fill in the blank with the ONE most appropriate word.",
+    "passage": "Teacher's Journal\n\nI think providing corrective feedback on students' written work is important in that it can facilitate learners' language acquisition and enhance their writing skills. Students usually want me to underline or highlight the errors in their writing and provide corrections underneath. When I do this, however, they just focus on the correct answers and tend not to think about what their errors are and how they can improve their writing. For this reason, I prefer to use techniques that allow me to give not only corrective feedback but also a chance for students to pay attention to their erroneous language use. One technique that I often employ involves my rewriting of students' works by following their ideas closely but improving the language in terms of accuracy and appropriateness.\n\nThis technique, which is called __________, is very effective, but it is also time consuming. For this reason, I tweaked the technique a little bit this week as follows. First, I engaged students in a guided writing task with a set of questions and a sample writing so that the content and organization of their writing were similar. Then I chose only one student's writing instead of every student's and revised it. Afterwards, I had students in groups identify the changes by comparing the student's original writing with mine and then discuss the reasons for the changes made. Finally, I asked students to revise their own drafts based on what they learned during the discussion. Overall, it worked quite well in assisting my students to pay attention to their language errors in grammar and vocabulary and then correct them. I will definitely use this technique again.",
+    "blanks": [
+      {
+        "label": "빈칸",
+        "context": "This technique, which is called ___"
+      }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "written corrective feedback의 한 기법 명칭 — 교사가 학생 글을 다시 쓰는 행위\n- 단일 명사(ONE word) 요구\n- 교사가 학생 글을 내용은 유지하고 언어를 개선해 다시 작성하는 행위\n- WCF 유형 중 교사가 직접 수정본을 제공하는 방식",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'my rewriting of students' works by following their ideas closely but improving t...' [paraphrase]\n→ 교사가 학습자의 의미를 최대한 유지하면서 어휘·문법·문체를 원어민답게 바꾸어 전체를 다시 작성하는 WCF 기법 (목표: native-like quality)\n\n'Students usually want me to underline or highlight the errors... provide correct...' [contrast]\n→ 직접적 WCF (direct corrective feedback) — 오류 위치에 수정 제공",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- recast: ✗ (Recast는 구두(oral) 상호작용에서 교사가 학습자 발화를 즉각적으로 수정 반복하는 oral CF 기법. written feedback 맥락에 적용 불가.)\n- explicit correction: ✗ (Explicit correction은 오류를 명시적으로 지적하고 정답을 제공하는 기법. 두 단어이며 교사가 전체 글을 다시 쓰는 행위와 다름.)\n- reformulation: ✓ (정답)",
+        "key_terms": [
+          "reformulation"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: reformulation\n\n[content] 교사가 학생 글의 아이디어를 그대로 따르면서(following their ideas closely) 언어적 정확성과 적절성만 개선하는 행위 → reformulation의 정의와 정확히 일치.\n→ 근거: \"involves my rewriting of students' works by following their ideas closely but improving the language in terms of accuracy and appropriateness\"\n\n[context_flow] 기법 활용 방식(학생 원고와 교사 수정본 비교, 변경 이유 토론, 본인 글 수정) → reformulation의 전형적 교실 활용 절차.\n→ 근거: \"had students in groups identify the changes by comparing the student's original writing with mine and then discuss the reasons for the changes made\"",
+        "key_terms": [
+          "reformulation"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① WCF 기법 식별 문제는 '교사 행동의 성격'(오류 표시 vs 전체 재작성 vs 구두 반응)을 먼저 파악한다.\n② reformulation은 written 맥락, recast는 oral 맥락 — 매체(mode) 구분이 핵심 소거 기준.\n③ 지문 내 'following their ideas closely but improving the language' 구문이 reformulation의 정의 그 자체.\n\n함정:\n- recast와 혼동 — recast는 구두 상호작용 전용이므로 written journal 문맥에 적용 불가.\n- direct feedback(오류 밑줄 + 수정 제공)은 지문에서 교사가 선호하지 않는 방식으로 명시됨.",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Reformulation",
+        "definition_en": "A written corrective feedback technique in which the teacher rewrites the learner's entire text to make it more native-like, following the learner's meaning as closely as possible while making changes in vocabulary, grammar and style (Ellis, 2008).",
+        "definition_ko": "학습자의 의미를 최대한 유지하면서 어휘·문법·문체를 원어민답게 바꾸어 교사가 전체를 다시 작성하는 서면 수정 피드백 기법.",
+        "source_author": "Ellis, R.",
+        "source_year": 2008,
+        "related_terms": [
+          "written corrective feedback",
+          "recast",
+          "direct feedback",
+          "indirect feedback"
+        ],
+        "exam_usage": "교사 저널 지문에서 교사가 선호하는 WCF 기법으로 빈칸 답 요구"
+      },
+      {
+        "term": "Written Corrective Feedback (WCF)",
+        "definition_en": "Feedback provided on learners' written errors, ranging from direct correction (teacher supplies the correct form) to indirect strategies (indicating an error exists without providing the correction).",
+        "definition_ko": "학습자 작문 오류에 대한 교사 피드백. 직접(수정 제공) ~ 간접(오류 표시만) 연속체로 분류됨.",
+        "source_author": "Bitchener, J. & Ferris, D.",
+        "source_year": 2012,
+        "related_terms": [
+          "reformulation",
+          "direct feedback",
+          "metalinguistic feedback"
+        ],
+        "exam_usage": "배경 개념으로 reformulation, recast 구분 시 활용"
+      },
+      {
+        "term": "Recast",
+        "definition_en": "An implicit oral corrective feedback technique in which the teacher reformulates a learner's erroneous utterance correctly without explicitly indicating an error has occurred.",
+        "definition_ko": "구두 상호작용에서 교사가 학습자의 오류 발화를 즉각적으로 올바른 형태로 반복하는 암시적 피드백 기법.",
+        "source_author": "Long, M.",
+        "source_year": 1996,
+        "related_terms": [
+          "oral corrective feedback",
+          "implicit feedback",
+          "reformulation"
+        ],
+        "exam_usage": "reformulation과의 혼동 방지 — oral vs written 구분"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        {
+          "label": "빈칸",
+          "answer": "reformulation"
+        }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        {
+          "criterion": "reformulation (철자 정확)",
+          "points": 2
+        }
+      ]
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Ellis, R.",
+        "title": "The Study of Second Language Acquisition (2nd ed.)",
+        "year": 2008,
+        "publisher": "Oxford University Press",
+        "pages": "pp. 489–492",
+        "excerpt": "<span class=\"ref-hl\">Reformulation</span> involves a native speaker <span class=\"ref-hl\">rewriting a learner's text</span> in order to make it more native-like. The native speaker <span class=\"ref-hl\">follows the learner's meaning</span> as closely as possible while making changes in vocabulary, grammar and style."
+      }
+    ],
+    "concept_explanation": "Reformulation: a written corrective feedback technique where the teacher rewrites the learner's entire text to make it more native-like, following the learner's meaning as closely as possible while making changes in vocabulary, grammar and style (Ellis, 2008).\n\nContrast with related techniques:\n- Recast: implicit oral CF — teacher reformulates erroneous utterance in real-time conversation (구두 상호작용 전용)\n- Direct feedback: teacher indicates and corrects specific errors without rewriting the whole text (오류 위치에 수정 제공)\n- Indirect feedback: teacher marks error location but does not supply the correction (오류 표시만, 수정 제공 없음)"
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

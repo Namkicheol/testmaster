@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2022_B01",
+    "year": 2022,
+    "number": "B-1",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the excerpt and follow the directions.【2 points】\nThe lock. He had still to replace a lock on one of the doors\nof the screened porch. The task, like most such, proved more\ndifficult than he had imagined. The old lock, aluminum frozen\nby corrosion, had been deliberately rendered obsolete by\nmanufacturers. Three hardware stores had nothing that even\napproximately matched the mortised hole its removal\n(surprisingly easy) left. Another hole had to be gouged, with\nbits too small and saw too big, and the old hole fitted with a\nblock of wood―the chisels dull, the saw rusty, his fingers\nthick with lack of sleep. The sun poured down, beyond the\nporch, on a world of neglect. The bushes already needed\npruning, the windward side of the house was shedding flakes\nof paint, rain would get in when he was gone, insects, rot,\ndeath. His family, all those he would lose, filtered through the\nedges of his awareness as he struggled with screw holes,\nsplinters, opaque instructions, minutiae of metal.\nJohn Updike, “Separating”\nComplete the commentary below by filling in the blank with the\nONE most appropriate word from the excerpt.\n<Commentary>\nIn this excerpt, the narrator creates a sense of melancholy by\nfocusing on parts of the property that have come to be in a\n. The broken lock, a focal point of this state of\nexcerpt, serves as a reminder that his domestic world is in\ncrisis, badly in need of repair.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n11문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2022_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2022_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2022_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2022_B_p04.png",
+        "image_count": 5
+      },
+      {
+        "page": 5,
+        "file": "images/img_2022_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2022_B_p06.png",
+        "image_count": 11
+      },
+      {
+        "page": 7,
+        "file": "images/img_2022_B_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

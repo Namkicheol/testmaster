@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2021_A04",
+    "year": 2021,
+    "number": "A-4",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "4. Read the excerpt from a novel and follow the directions.\n【2 points】\nIt had seemed like a good idea at the time. Of course, Philip\nDanby had only been joking, but he had said it in a serious\ntone in order to humor those idiot New Age clients who\nactually seemed to believe in the stuff. “I want to come back\nas a(n) ,” he’d said, smiling facetiously into the\ncandlelight at the Eskeridge dinner table. He had to hold his\nbreath to keep from laughing as the others babbled about\nreincarnation. The women wanted to come back blonder and\nthinner, and the men wanted to be everything from Dallas\nCowboys to oak trees. Oak trees? And he had to keep a\nstraight face through it all, hoping these dodos would give the\nfirm some business.\nThe things he had to put up with to humor clients. His\npartner, Giles Eskeridge, seemed to have no difficulties in that\nquarter, however. Giles often said that rich and crazy went\ntogether, therefore, architects who wanted a lucrative business\nhad to be prepared to put up with eccentrics. They also had to\nput up with long hours, obstinate building contractors, and\ncapricious zoning boards. Perhaps that was why Danby had\nplumped for life as a cat next time. As he had explained to his\ndinner companions that night, “Cats are independent. They\ndon’t have to kowtow* to anybody; they sleep sixteen hours a\nloved－just day; and yet they get fed and sheltered and even\nfor being their contrary little selves. It sounds like a good deal\nto me.”\n* To be too eager to obey or be polite to someone in authority\nFill in the blank with the ONE most appropriate word from the\nexcerpt.\n3\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2021_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2021_A_p02.png",
+        "image_count": 4
+      },
+      {
+        "page": 3,
+        "file": "images/img_2021_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2021_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2021_A_p05.png",
+        "image_count": 2
+      },
+      {
+        "page": 6,
+        "file": "images/img_2021_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2021_A_p07.png",
+        "image_count": 5
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

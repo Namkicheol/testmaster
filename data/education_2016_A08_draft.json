@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "education_2016_A08",
+    "year": 2016,
+    "number": "A-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the conversation between a teacher and a student and\nfollow the directions.【2 points】\n(Sujin, who is in an exchange programme in England, is\nhaving a conversation with her teacher, Ms. Connor.)\nSujin: Hi, how’re you doing?\nMs. Connor: I’m doing well. Are you alright?\nSujin: Yes. Um ... I have fun ... but still intimidated by\ntalking to people in English.\nMs. Connor: What’s the problem?\nSujin: I have my British friend Kate in my class. Yesterday,\nshe told me, “I like your jacket! Really unusual.\nGreat on you.” So I said, “Really? I don’t think so.”\nI felt she was rather embarrassed and something was\nwrong.\nMs. Connor: Oh, you should just say, “Thank you” in that\nsituation. Remember, cultural norms involving\nlanguage use differ from country to country. Don’t\nworry, you’re on the right track. It’s a normal\nprocess of learning in a new culture.\nSujin: Oh, I see. I should have understood her and said,\n“Thanks.” OK, thank you very much.\nComplete the comments by filling in with TWO words and ①\nby filling in with ONE word. Write your answers in the ②\ncorrect order.\nSujin experienced misunderstanding as she performed a\nof compliment response in an interaction with ①\nher British friend. Since cultures differ from one another\nand language is inextricably interwoven with culture,\ncultural knowledge of language use in context plays a\ncrucial role in cross-cultural communication. This entails\nthe concept of competence, one of the core ②\ncomponents of communicative competence, which enables\nlearners to use the L2 in socioculturally appropriate ways.\n영 어 (8면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2016_A_p01.png",
+        "image_count": 2
+      },
+      {
+        "page": 2,
+        "file": "images/img_2016_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2016_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2016_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2016_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2016_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2016_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

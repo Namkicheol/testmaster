@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "id": "linguistics_2019_X01",
+    "year": 2019,
+    "number": "X-1",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passages and follow the directions.【4 points】\n<A>\nThe vast majority of adjectives in English can appear in\nboth attributive and predicative positions. Attributive\nadjectives modify the head noun in an NP and occur before\nthat head noun (e.g., That elephant has a really big trunk). In\ncontrast, predicative adjectives appear after a verb, not in an\nNP, and function as a predicate (e.g., That elephant’s trunk is\nreally big). However, a number of adjectives function only\nas attributive. Listed below are four types of attributive-only\nadjectives.\n(1) Adjectives of Degree－describe the degree of the\nproperty expressed by the head noun, e.g., a complete\nballplayer\n(2) Quantifying Adjectives－indicate the amount, quantity,\nor frequency of the head noun, e.g., an occasional cloud\n(3) Adjectives of Time and Location－place a head noun\nwithin a particular time frame or location, e.g., a\nprevious version\n(4) Associative Adjectives－do not express literal properties\nof a head noun but instead describe it in terms of some\nentity that is associated with it, e.g., a nuclear physicist\n<B>\nIt was a hot and humid day when a cool, crisp breeze came\nover the mountain. The wind brought sweet relief; it was an\nabsolute welcome, piercing the scorching humidity and\ncooling the sweat dripping down my brow. Nature－in its\nstunning beauty, with the ebb and flow of its continuous\ncycles－once again provided in a time of need. I’m so\nthankful to our urban planners for keeping this park.\nBased on the description in <A>, identify TWO attributive-only\nadjectives in <B>. Then, state what type of adjectives each\nbelongs to.\n영 어 [전공B]\n임용후보자 선정경쟁시험\n어\n성 명 : ( )\n8문항 40점 시험 시간 90분",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2019_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2019_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2019_X_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2019_X_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2019_X_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2019_X_p06.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

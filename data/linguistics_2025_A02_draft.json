@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2025_A02",
+    "year": 2025,
+    "number": "A-2",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "2. Read the passage and follow the directions.【2 points】\nA sentence has a meaning which does not change in\ndifferent contexts. This kind of meaning is called literal\nmeaning (or truth condition). In other words, knowing the\nmeaning of a sentence means knowing what the world would\nhave to look like in order for that sentence to be true. Consider\nthe following example:\n(1) #John has killed a mosquito, but the mosquito is not dead.\nSince the sentence John has killed a mosquito has the result\nstate of a mosquito being dead as part of its literal meaning,\nthe result state cannot be denied.\nHowever, the literal meaning is not the only sort of meaning\nconveyed when language is used for communication.\nNon-literal meanings (i.e., extra-truth-conditional meanings)\ncould arise depending on utterance contexts, as illustrated in (2).\n(2) [Tom and Mary are eating together at a restaurant, and\nTom needs ketchup.]\nTom : Mary, are you using the ketchup?\nThe sentence in (2) literally asks if Mary is using the ketchup.\nHowever, it could also yield a non-literal meaning, Please\npass me the ketchup, which is an example of implicature.\nSimilarly, a non-literal meaning can also be conveyed when\na conversational maxim is intentionally violated. Consider the\nconversation between Tom and Mary in (3).\n(3) [On his way to class, Tom meets his friend, Mary.]\n: Hi, Mary. Tom\nMary: Hi, Tom. You look busy. Where are you going?\nTom : I’m going to my chemistry class.\nMary: How is your chemistry professor? You told me\nbefore that she was ill.\n: She seems fine now. By the way, did you eat lunch? Tom\nHow about Korean food after my class?\nMary: What happened during your interview yesterday?\n: Well, to make a long story short, they didn’t hire me. Tom\nMary: I’m sorry to hear that.\nUttering What happened during your interview yesterday?,\nMary violates the maxim of relation or quantity, which results\nin a non-literal meaning. Meanwhile, without the phrase to make\na long story short in Tom’s last utterance, a conversational\nwould occur.\nNote: ‘#’ indicates that the sentence is semantically unacceptable.\nFill in the blank with the ONE most appropriate word from the\npassage.\n2\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_A_p02.png",
+        "image_count": 6
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_A_p05.png",
+        "image_count": 5
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_A_p06.png",
+        "image_count": 4
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

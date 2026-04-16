@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "general_2013_X11",
+    "year": 2013,
+    "number": "X-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. What would be the best title of the passage? [1.5점]\nYou may argue that music is a purely human\nmanifestation not to be touched by the intrusion of\nelectronic probes. Yet, several successful programs have\nbeen written that seem to produce “quite good” musical\npieces. One such program was written by Steve Larson,\nwho selected three compositions―one by Johann Sebastian\nBach, one by himself, and one by a computer―to be\nplayed before an audience. In an outcome somewhat\nbemusing to Larson, his own composition was judged to\nhave been composed by the computer, while the\ncomputer-generated music was judged to be the authentic\nBach. At least on a limited basis, computer-generated music\nfools some of the people some of the time. Another\nprogram called Improvisor has been written to emulate a\nrange of styles from that of Bach to those of jazz musicians\nlike Louis Armstrong.\nAt the present time, computer-generated music seems to\nbe very convincing. The main weakness in these programs,\nhowever, is in their ability to create music that is\npersuasive over a longer period of time, especially among\nmusical specialists who are sensitive to the nuances of\nspecialized types of music. While a novice may be\nconvinced that a computer-generated piece of music was\ncomposed by Mozart, a Mozart virtuoso could identify the\nartificial Mozart. One might be moved to observe that it\nsounds like Mozart, but it sounds as if he was having a\n‘bad hair day’. Of course, it is possible that future\nprograms will not only produce Mozart-like compositions,\nbut surpass the talented young Austrian and generate\nsuper-Mozart compositions―music that would reincarnate\nthe apotheosis of the boy genius.\nMusical Intelligence: Nature versus Nurture ①\nComposers: Novices and Virtuosos ②\nMarketing via Computer-Generated Music ③\nThe Achievements of Great Musicians ④\nThe Potential of Machine-Generated Music ⑤\n2\n중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2013_X_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2013_X_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2013_X_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2013_X_p04.png",
+        "image_count": 2
+      },
+      {
+        "page": 5,
+        "file": "images/img_2013_X_p05.png",
+        "image_count": 3
+      },
+      {
+        "page": 6,
+        "file": "images/img_2013_X_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2013_X_p07.png",
+        "image_count": 2
+      },
+      {
+        "page": 8,
+        "file": "images/img_2013_X_p08.png",
+        "image_count": 1
+      },
+      {
+        "page": 9,
+        "file": "images/img_2013_X_p09.png",
+        "image_count": 1
+      },
+      {
+        "page": 10,
+        "file": "images/img_2013_X_p10.png",
+        "image_count": 1
+      },
+      {
+        "page": 11,
+        "file": "images/img_2013_X_p11.png",
+        "image_count": 2
+      },
+      {
+        "page": 12,
+        "file": "images/img_2013_X_p12.png",
+        "image_count": 1
+      },
+      {
+        "page": 13,
+        "file": "images/img_2013_X_p13.png",
+        "image_count": 2
+      },
+      {
+        "page": 14,
+        "file": "images/img_2013_X_p14.png",
+        "image_count": 1
+      },
+      {
+        "page": 15,
+        "file": "images/img_2013_X_p15.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

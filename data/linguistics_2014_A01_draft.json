@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "linguistics_2014_A01",
+    "year": 2014,
+    "number": "A-1",
+    "subject": "linguistics",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "1. Read the passage and follow the directions.【3 points】\nIf there is a single most important flaw in the current\nnews style, it is the overwhelming tendency to downplay\nthe big social, economic, or political picture in favor of the\nhuman trials, tragedies, and triumphs that sit at the surface\nof events. For example, instead of focusing on power and\nprocess, the media concentrate on the people engaged in\npolitical combat over the issues. The reasons for this are\nnumerous, from the journalist’s fear that probing analysis\nwill turn off audiences to the relative ease of telling the\nhuman-interest side of a story as opposed to explaining\ndeeper causes and effects.\nWhen people are invited to take the news personally,\nthey can find a wide range of private, emotional meanings\nin it. However, the meanings inspired by personalized news\nmay not add up to the shared critical understandings on\nwhich healthy citizen involvement thrives. The focus on\npersonalities encourages a passive spectator attitude among\nthe public. Whether the focus is on sympathetic heroes and\nvictims or hateful scoundrels and culprits, the media\npreference for personalized human-interest news creates a\n“can’t-see-the-forest-for-the-trees” information bias that\nmakes it difficult to see the big picture that lies beyond the\nmany actors crowding center stage who are caught in the\neye of the news camera.\nThe tendency to personalize the news would be less\nworrisome if human-interest angles were used to hook\naudiences into more serious analysis of issues and\nproblems. Almost all great literature and theater, from the\nGreek dramas to the modern day, use strong characters to\npromote audience identifications and reactions in order to\ndraw people into thinking about larger moral and social\nissues. News often stops at the character development\nstage, however, and leaves the larger lessons and social\nsignificance, if there is any, to the imagination of the\naudience. As a result, the main problem with personalized\nnews is that the focus on personal concerns is seldom\nlinked to more in-depth analysis. What often passes for\nanalysis are opaque news formulas such as “He/She was a\nreflection of us,” a line that was used in the media frenzies\nthat followed the deaths of Britain’s Princess Diana and\nAmerica’s John Kennedy, Jr. Even when large portions of\nthe public reject personalized news formulas, the\npersonalization never stops. This systematic tendency to\npersonalize situations is one of the defining biases of news.\nDescribe the defining characteristic of the current news style,\nand explain how it differs from the common characteristic of\ngreat literature and theater. Do NOT copy more than FIVE\nconsecutive words from the passage.\n영 어 (8면",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2014_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2014_A_p02.png",
+        "image_count": 2
+      },
+      {
+        "page": 3,
+        "file": "images/img_2014_A_p03.png",
+        "image_count": 2
+      },
+      {
+        "page": 4,
+        "file": "images/img_2014_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2014_A_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2014_A_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2014_A_p07.png",
+        "image_count": 1
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

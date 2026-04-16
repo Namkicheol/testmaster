@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "id": "education_2026_A08",
+    "year": 2026,
+    "number": "A-8",
+    "subject": "education",
+    "linguistics_domain": "",
+    "question_type": "essay",
+    "score": 4,
+    "tags": [
+      "language testing",
+      "test validity",
+      "construct validity",
+      "test specifications"
+    ],
+    "parse_source": "2026_전공A_기출.pdf",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Identify the TWO test items that do NOT assess the intended test components accurately. Then support your answers with evidence from <A> and <B>.",
+    "passage": "<A>\nMs. Kim, an English teacher, is developing a final test for her 3rd-grade middle school students. She created test items based on the test specifications below.\n\n<Test specifications>\nItem No. / Skill / Test component / Level / Score\n1 / Listening / To understand the main idea of the discourse / Low / 2\n2 / Reading / To figure out the logical relationship between the sentences / Intermediate / 2\n20 / Reading / To infer the writer's intention from the context / Intermediate / 2\n21 / Writing / To describe personal experiences in writing / High / 10\n\n<B>\n<Test items>\n1. Listen to the following recording, and choose what the woman enjoyed the most during her trip.\n① Traveling by train ② Riding a bicycle ③ Playing board games ④ Going to a concert\n[Script]\nW: During my summer vacation, I visited my cousin Minho, who lives in Seoul. My older sister and I took a train from Busan, and it was a fun experience to take the train by ourselves. All of us did a lot of interesting activities together for a week. I liked riding a bicycle in Yeouido and visiting a board game cafe. We also went to a K-pop concert. That was my favorite part of this trip!\n\n2. Read the following sentence in the box, and find its most appropriate location in the text.\n'The coach is the main character helping the team go through their ups and downs.'\nI was fascinated by this movie that I accidentally watched on TV. (①) The plot of the movie was so amazing that I was stuck to the screen for three hours. (②) The movie is about a rugby team that faces many problems. (③) The movie describes his emotional changes vividly as well. (④) You will enjoy the process of how they grow together as a team.\n\n20. Choose the most appropriate title for the following passage.\n[passage about mobile robots patrolling schools]\n① Responsibilities of the police\n② Dramatic expansion of the robot industry\n③ Replacement of guards and alarm systems\n④ Introduction of mobile robots for school safety\n\n21. Answer each question in one complete sentence.\n1) What was the most challenging part for you when learning English?\n2) What have you tried to overcome it?",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "명세(specification)의 test component와 실제 문항이 측정하는 능력 간 불일치 식별\n- 4개 문항(1, 2, 20, 21)을 각각 명세 test component와 대조\n- 불일치 2개를 찾아 근거 제시\n- Item 번호 + 명세 component + 실제 측정 내용 모두 언급 필요",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "이론 ↔ 지문 대응",
+        "explanation": "'Item 1 명세: To understand the main idea of the discourse' [antonym]\n→ Item 1 실제 문항: choose what the woman enjoyed the most — 특정 세부 정보(specific detail) 파악\n\n'Item 2 명세: To figure out the logical relationship between the sentences' [synonym]\n→ Item 2 실제 문항: 주어진 문장의 적절한 삽입 위치 찾기 — 문장 간 논리적 관계 파악 ✓\n\n'Item 20 명세: To infer the writer's intention from the context' [antonym]\n→ Item 20 실제 문항: 가장 적절한 제목 선택 — 주제 파악(main idea identification), 의도 추론 아님\n\n'Item 21 명세: To describe personal experiences in writing' [synonym]\n→ Item 21 실제 문항: 개인 경험 서술 두 문장 — 명세 일치 ✓",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "- Item 2: ✗ (Item 2는 문장 삽입 위치 찾기 = 문장 간 논리적 관계 파악. 명세 'logical relationship between sentences'와 일치.)\n- Item 21: ✗ (Item 21은 개인 경험을 문장으로 서술. 명세 'describe personal experiences in writing'과 일치.)\n- Item 1: ✓ (정답)\n- Item 20: ✓ (정답)",
+        "key_terms": [
+          "Item 1",
+          "Item 20"
+        ]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "최종 정답: Item 1 and Item 20\n\n[content] Item 1 명세는 '담화의 주제(main idea) 이해'이나, 실제 문항은 '여자가 여행에서 가장 즐긴 것'을 묻는 specific detail 파악 문제. 스크립트에서 주제는 서울 여름 방학 여행 전반이고, 'favorite part'는 세부 내용임.\n→ 근거: \"choose what the woman enjoyed the most during her trip / That was my favorite part of this trip!\"\n\n[content] Item 20 명세는 '맥락에서 필자의 의도(writer's intention) 추론'이나, 실제 문항은 '가장 적절한 제목 선택' — 이는 main idea를 파악하는 task이지, 필자가 글을 쓴 이면의 목적·의도를 추론하는 것이 아님.\n→ 근거: \"Choose the most appropriate title for the following passage\"",
+        "key_terms": [
+          "Item 1 and Item 20"
+        ]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① 구인 타당도(construct validity) 문제는 명세 test component 키워드와 실제 문항의 요구 기술을 정확히 대조하는 것이 핵심.\n② Main idea ≠ specific detail: main idea는 담화 전반의 중심 내용, specific detail은 특정 사실·정보.\n③ Writer's intention ≠ main idea: 제목 선택은 main idea 파악, 의도 추론은 필자가 글을 쓴 목적·숨은 의미를 도출.\n\n함정:\n- Item 1에서 'K-pop concert'가 가장 즐긴 것이라는 점 때문에 main idea로 혼동 — 그러나 문항이 묻는 것(가장 즐긴 것)은 세부 정보.\n- Item 20에서 제목 선택을 '의도 추론'으로 혼동 — 제목은 중심 생각 요약이지 필자 의도 추론이 아님.",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "Construct validity",
+        "definition_en": "The degree to which a test item measures the specific language ability (construct) it is intended to assess, as defined in the test specifications.",
+        "definition_ko": "평가 문항이 명세에서 정의한 언어 능력(구인)을 실제로 측정하는 정도. 명세와 문항 간 불일치가 구인 타당도를 위협함.",
+        "source_author": "Brown, H. D. & Abeywickrama, P.",
+        "source_year": 2019,
+        "related_terms": [
+          "test validity",
+          "test specifications",
+          "washback"
+        ],
+        "exam_usage": "Item 1과 20이 명세와 불일치하여 구인 타당도가 위협됨을 논거로 사용"
+      },
+      {
+        "term": "Test specifications",
+        "definition_en": "Detailed descriptions of what a test item is designed to measure, including the skill, test component, difficulty level, and scoring criteria, used as the blueprint for test development.",
+        "definition_ko": "평가 문항이 측정하고자 하는 기술, 구인, 난이도, 배점 등을 명시한 청사진. 문항 개발 및 타당도 검토의 기준.",
+        "source_author": "Brown, H. D. & Abeywickrama, P.",
+        "source_year": 2019,
+        "related_terms": [
+          "construct validity",
+          "test design",
+          "alignment"
+        ],
+        "exam_usage": "지문 <A>의 명세표가 각 문항의 의도된 구인을 정의함"
+      },
+      {
+        "term": "Main idea vs. specific detail",
+        "definition_en": "Main idea: the central message or topic of the discourse as a whole. Specific detail: a particular piece of information within the text. Testing one as the other constitutes a construct mismatch.",
+        "definition_ko": "주제(main idea): 담화 전체의 핵심 메시지. 세부 정보(specific detail): 지문 내 특정 사실. 하나를 다른 하나로 측정하면 구인 불일치.",
+        "source_author": "Brown, H. D. & Abeywickrama, P.",
+        "source_year": 2019,
+        "related_terms": [
+          "construct validity",
+          "listening comprehension",
+          "reading comprehension"
+        ],
+        "exam_usage": "Item 1에서 main idea 명세 vs. specific detail 문항 불일치의 핵심 개념"
+      },
+      {
+        "term": "Writer's intention vs. main idea",
+        "definition_en": "Writer's intention: the author's underlying purpose or communicative goal. Main idea: the central topic or message. Title selection assesses main idea, not the inferencing of authorial intent.",
+        "definition_ko": "필자의 의도: 글을 쓴 배경 목적·숨은 의미 추론. 주제: 중심 내용 파악. 제목 선택은 주제 파악 과제이지 의도 추론이 아님.",
+        "source_author": "Brown, H. D. & Abeywickrama, P.",
+        "source_year": 2019,
+        "related_terms": [
+          "construct validity",
+          "reading comprehension",
+          "inferencing"
+        ],
+        "exam_usage": "Item 20에서 writer's intention 명세 vs. title selection 문항 불일치의 핵심 개념"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Items 1 and 20 do not assess the intended components accurately.\n\nItem 1 is specified to assess understanding of the main idea, but the question asks what the woman enjoyed most during her trip — a specific detail. The script's main idea is about the woman's overall summer vacation, not her favorite activity.\n\nItem 20 is specified to assess inferring the writer's intention, but the question asks students to select the most appropriate title, which assesses identifying the main idea rather than inferring intention.",
+      "scoring_criteria": [
+        {
+          "criterion": "Item 1 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Item 1 근거: main idea가 아닌 specific detail 측정",
+          "points": 1
+        },
+        {
+          "criterion": "Item 20 식별",
+          "points": 1
+        },
+        {
+          "criterion": "Item 20 근거: 의도 추론이 아닌 main idea/제목 파악 측정",
+          "points": 1
+        }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "variant",
+        "content": "Items 1 and 20 fail to match their specifications. Item 1 aims to test main idea comprehension, but it asks for a specific detail (the woman's favorite activity), not the overall point of the discourse. Item 20 is meant to assess inferring the writer's intention, but choosing a title is a main idea task, not an inference of intent."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "variant",
+        "content": "The two misaligned items are 1 and 20. Item 1 asks about a specific detail rather than the main idea as specified. Item 20 requires selecting a title — which tests main idea identification — rather than inferring the writer's intention as stated in the specifications."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Brown, H. D. & Abeywickrama, P.",
+        "title": "Language Assessment: Principles and Classroom Practices (3rd ed.)",
+        "year": 2019,
+        "publisher": "Pearson",
+        "pages": "Ch. 2, pp. 22–50",
+        "excerpt": "<span class=\"ref-hl\">Construct validity</span> asks whether the test is actually measuring the construct it claims to measure. If a test item designed to measure <span class=\"ref-hl\">main idea</span> comprehension instead elicits <span class=\"ref-hl\">specific detail</span> recognition, the construct is undermined. Test specifications serve as the operational definition of the construct to be assessed."
+      }
+    ],
+    "concept_explanation": "Construct validity: the extent to which a test item measures the specific language ability defined in the test specifications (Brown & Abeywickrama, 2019).\n  (평가 명세에서 정의한 언어 능력을 문항이 실제로 측정하는 정도 — 명세와 문항 간 불일치가 구인 타당도를 위협)\n\nKey construct distinctions in this exam:\n- Main idea (담화 주제) vs. Specific detail (세부 정보): selecting 'the woman's favorite activity' is specific detail, not main idea\n- Writer's intention (필자 의도 추론) vs. Main idea (주제 파악): title selection = main idea task, not intention inferencing\n\nTest specifications: the blueprint document defining skill, test component, level, and score for each item — used to verify construct alignment (구인 일치 여부 검토 기준)."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

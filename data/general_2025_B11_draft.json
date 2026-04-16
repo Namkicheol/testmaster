@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2025_B11",
+    "year": 2025,
+    "number": "B-11",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "11. Read the passage in <A> and the master plan in <B>, and\nfollow the directions.【4 points】\n<A>\nMs. Kim, a high school English teacher, attended an ICT\nworkshop for English teachers. There she learned how to\nselect digital tools that best fit her students’ needs and use\nthem appropriately. Below is the list of principles she took\nnote of during the workshop.\n<Guiding tools> principles for using digital\n① Encourage students to independently explore and\ndiscover language rules.\n② Support learners with diverse learning styles\n(e.g., auditory styles, visual styles).\n③ Teach digital ethics (e.g., citing properly).\n④ Assess student achievement and provide individualized\nfeedback.\n<B>\nDraft of the Master Plan\nUnit Save the Earth\nStudents will be able to:\n∙identify the main idea and details of a text or discourse\nObjectives\n∙write an opinion using textual and non-textual elements\n∙use digital tools responsibly and ethically\nPeriod Contents Technology\n-Online videos ∙Introduce the topic, ‘Save the Earth’\n-Internet search ∙Watch a video on environmental\nengines problems\n1st\n∙Teach how to use the Internet properly\n(e.g., locating information, sourcing,\nnetiquette)\n-Word cloud ∙Make predictions about a text using\ngenerator to titles and pictures\n2nd\nvisualize key ∙Read the passage, ‘Plastic Pollution’\n∙Identify key words and main ideas concepts\n∙Provide definitions of new words -PPT slides\n∙Teach grammar points explicitly 3rd\nusing drills\n… … …\n∙Brainstorm ideas to solve environmental -Online\nproblems and share in groups collaborative\n7th\n∙In groups, create a ‘Save the Earth’ writing platform\nposter\n∙Exhibit groups’ posters on the walls -Online quiz\n8th ∙Conduct a team-based quiz and provide platform\ncomments to groups\nBased on <A>, identify the TWO guiding principles that Ms.\nKim does NOT conform to in her lessons in <B>. Then, explain\nyour answers, respectively, with evidence from <B>.\n<수고하셨습니다.>\n8\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2025_B_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2025_B_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2025_B_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2025_B_p04.png",
+        "image_count": 7
+      },
+      {
+        "page": 5,
+        "file": "images/img_2025_B_p05.png",
+        "image_count": 1
+      },
+      {
+        "page": 6,
+        "file": "images/img_2025_B_p06.png",
+        "image_count": 1
+      },
+      {
+        "page": 7,
+        "file": "images/img_2025_B_p07.png",
+        "image_count": 4
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "id": "general_2023_A08",
+    "year": 2023,
+    "number": "A-8",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "8. Read the passages in <A> and <B>, and follow the directions.\n【4 points】\n<A>\nThere are always sound reasons for adapting materials in\norder to make them as accessible and useful to learners as\npossible. When adapting materials, having clear objectives is\na necessary starting point. The objectives a teacher may hope\nto achieve by adapting classroom materials can be listed as\nfollows:\nTo cater to learners’ language proficiency levels: The ◾\nteacher can modify the difficulty of language features such\nas grammar and vocabulary in the materials.\nTo reinforce learner autonomy: Through materials ◾\nadaptation, the teacher can give students opportunities to\nfocus on their own learning processes to become more\nindependent learners.\nTo enhance higher-level cognitive skills: The teacher can ◾\nadapt materials in such a way as to require students to\nhypothesize, predict, or infer.\nTo encourage learners to tap into their own lives: Through ◾\nmaterials adaptation, the teacher can increase the\nrelevance of the contents or activities in relation to the\nstudents’ experiences.\n<B>\nMs. Lee is teaching first-year high school students, and she\nis preparing for her English reading class next semester.\nBased on the results of a needs analysis, she has decided to\nadapt two chapters of the textbook materials to meet her\nstudents’ needs. For Lesson 2, which is about career paths,\nshe will use magazine pictures of various jobs like engineer,\nbaker, and fashion designer, along with some pictures related\nto jobs in the textbook. She will use these pictures as a\nspringboard to get students in groups to share their dream\njobs. She thinks this adaptation will help students think about\nmore varied jobs in the real world. For Lesson 5, there is a\nreading passage about Simon’s adventure in Kenya in the\ntextbook. However, she worries that there are only simple\nactivities to check students’ understanding of the story. So,\nshe will edit the story, intentionally deleting a few sentences at\nthe end. This will challenge the students to think about the\nstory’s structure and look ahead to possible endings, using the\nstoryline.\nBased on <A>, identify the ONE objective that Ms. Lee wants to\nachieve through adaptation in Lesson 2 and the ONE objective in\nLesson 5. Then, explain your answers with evidence from <A>\nand <B>.\n5\n(8면 중 면)",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2023_A_p01.png",
+        "image_count": 1
+      },
+      {
+        "page": 2,
+        "file": "images/img_2023_A_p02.png",
+        "image_count": 1
+      },
+      {
+        "page": 3,
+        "file": "images/img_2023_A_p03.png",
+        "image_count": 1
+      },
+      {
+        "page": 4,
+        "file": "images/img_2023_A_p04.png",
+        "image_count": 1
+      },
+      {
+        "page": 5,
+        "file": "images/img_2023_A_p05.png",
+        "image_count": 9
+      },
+      {
+        "page": 6,
+        "file": "images/img_2023_A_p06.png",
+        "image_count": 2
+      },
+      {
+        "page": 7,
+        "file": "images/img_2023_A_p07.png",
+        "image_count": 3
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

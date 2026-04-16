@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "id": "general_2012_X09",
+    "year": 2012,
+    "number": "X-9",
+    "subject": "general",
+    "question_type": "short_answer",
+    "score": 0,
+    "tags": []
+  },
+  "problem": {
+    "instruction": "",
+    "passage": "9. 다음에 해당하는 답안은 채점하지 않으니 유의하시오.\n∙ 문항당 답안지 2쪽을 초과하여 작성한 부분\n∙ 답안란 이외에(뒷면 등) 작성한 부분\n∙ 지워지거나 번지는 등 식별이 불가능한 부분\n∙ 수정 테이프나 수정액을 사용하여 수정한 부분\n∙ 개인 정보를 노출한 답안지 전체\n∙ 개인 정보를 암시하는 표시가 있는 답안지 전체\n10. 시험 종료 전까지 답안 작성을 완료해야 합니다. 시험 종료 후 답안 작성은 부정 행위로 간주됩니다.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "",
+      "scoring_criteria": []
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": ""
+  },
+  "related": {
+    "enabled": false,
+    "questions": []
+  },
+  "_extraction": {
+    "image_pages": [
+      {
+        "page": 1,
+        "file": "images/img_2012_X_p01.png",
+        "image_count": 49
+      },
+      {
+        "page": 2,
+        "file": "images/img_2012_X_p02.png",
+        "image_count": 16
+      },
+      {
+        "page": 3,
+        "file": "images/img_2012_X_p03.png",
+        "image_count": 12
+      },
+      {
+        "page": 4,
+        "file": "images/img_2012_X_p04.png",
+        "image_count": 19
+      }
+    ],
+    "note": "자동 추출 초안. passage/meta/answer 모두 수동 보완 필요."
+  }
+}

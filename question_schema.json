@@ -1,0 +1,311 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "전공영어 기출마스터 — 문항 스키마 v3",
+  "description": "카드 탭 구조: 문제 → 도출과정 → 정답(+원전) → 연결문제",
+  "type": "object",
+  "required": ["meta", "problem", "derivation", "answer", "source"],
+
+  "properties": {
+
+    "meta": {
+      "type": "object",
+      "required": ["id", "year", "number", "subject", "question_type", "score"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "고유 ID: {subject}_{year}_{form}{number}",
+          "examples": ["linguistics_2026_B01", "general_2026_A11"]
+        },
+        "year": { "type": "integer", "examples": [2026, 2025] },
+        "number": { "type": "string", "examples": ["B-1", "A-9", "A-11"] },
+        "subject": {
+          "type": "string",
+          "enum": ["linguistics", "general_english", "english_education"]
+        },
+        "linguistics_domain": {
+          "type": "string",
+          "description": "subject=linguistics일 때만",
+          "enum": [
+            "phonetics", "phonology", "morphology", "syntax",
+            "semantics", "pragmatics", "discourse",
+            "sociolinguistics", "psycholinguistics", "second_language_acquisition"
+          ]
+        },
+        "english_education_domain": {
+          "type": "string",
+          "description": "subject=english_education일 때만",
+          "enum": [
+            "curriculum", "teaching_methodology",
+            "reading_instruction", "writing_instruction",
+            "listening_instruction", "speaking_instruction",
+            "vocabulary_instruction", "grammar_instruction",
+            "assessment_evaluation", "lesson_planning",
+            "classroom_interaction", "affective_domain"
+          ]
+        },
+        "question_type": {
+          "type": "string",
+          "enum": ["multiple_choice", "short_answer", "essay"]
+        },
+        "score": { "type": "number", "examples": [2, 4] },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "검색·분류용 키워드"
+        }
+      }
+    },
+
+    "problem": {
+      "type": "object",
+      "description": "문제 탭 — 영어 원문 그대로",
+      "required": ["instruction", "passage"],
+      "properties": {
+        "instruction": {
+          "type": "string",
+          "description": "발문 원문 (영어)"
+        },
+        "passage": {
+          "type": "string",
+          "description": "지문 원문. \\n으로 줄바꿈. 빈칸은 [BLANK_①] 형식으로 표기"
+        },
+        "sub_passages": {
+          "type": "array",
+          "description": "<A><B> 등 복수 지문",
+          "items": {
+            "type": "object",
+            "properties": {
+              "label": { "type": "string", "examples": ["<A>", "<B>"] },
+              "text": { "type": "string" }
+            }
+          }
+        },
+        "blanks": {
+          "type": "array",
+          "description": "단답형 빈칸 목록",
+          "items": {
+            "type": "object",
+            "properties": {
+              "label": { "type": "string", "examples": ["①", "②", "㉠"] },
+              "context": { "type": "string", "description": "빈칸 위치 문맥 요약" }
+            }
+          }
+        },
+        "choices": {
+          "type": "array",
+          "description": "객관식 선지 (question_type=multiple_choice일 때만)",
+          "items": {
+            "type": "object",
+            "required": ["number", "text"],
+            "properties": {
+              "number": { "type": "integer" },
+              "text": { "type": "string" },
+              "is_correct": { "type": "boolean" },
+              "keywords": {
+                "type": "array",
+                "description": "선지 내 키워드 — 다른 카드로 링크 가능",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "term": { "type": "string" },
+                    "linked_question_ids": { "type": "array", "items": { "type": "string" } },
+                    "note": { "type": "string", "description": "툴팁용 설명" }
+                  }
+                }
+              },
+              "distractor_analysis": { "type": "string", "description": "오답 이유 분석" }
+            }
+          }
+        },
+        "images": {
+          "type": "array",
+          "description": "이미지 파일 경로 (수형도·표 등)",
+          "items": { "type": "string" }
+        }
+      }
+    },
+
+    "derivation": {
+      "type": "object",
+      "description": "도출과정 탭. 영어학: steps 중심 / 일반영어: vocabulary + translation + steps",
+      "required": ["steps"],
+      "properties": {
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["step", "label", "explanation"],
+            "properties": {
+              "step": { "type": "integer" },
+              "label": { "type": "string", "examples": ["① 도출", "Iteration 조건", "빈칸"] },
+              "explanation": { "type": "string" },
+              "key_terms": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        },
+        "vocabulary": {
+          "type": "array",
+          "description": "일반영어 핵심 어휘",
+          "items": {
+            "type": "object",
+            "required": ["word", "meaning"],
+            "properties": {
+              "word": { "type": "string" },
+              "pos": { "type": "string", "examples": ["n.", "v.", "adj."] },
+              "meaning": { "type": "string" },
+              "example": { "type": "string" }
+            }
+          }
+        },
+        "translation": {
+          "type": "string",
+          "description": "지문 전문 해석 (일반영어)"
+        }
+      }
+    },
+
+    "answer": {
+      "type": "object",
+      "description": "정답 탭. 모범답안 + 변형답안(A/B) + 채점기준 + 원전은 source 필드에서 여기 렌더링",
+      "required": ["model_answer"],
+      "properties": {
+        "model_answer": {
+          "type": "object",
+          "required": ["content_type"],
+          "properties": {
+            "content_type": {
+              "type": "string",
+              "description": "단답형/서술형 구분",
+              "enum": ["blank_answer", "essay"]
+            },
+            "blank_answers": {
+              "type": "array",
+              "description": "단답형 — 빈칸별 정답 (강사 공통 답, 대안 없음)",
+              "items": {
+                "type": "object",
+                "required": ["label", "answer"],
+                "properties": {
+                  "label": { "type": "string", "examples": ["①", "②"] },
+                  "answer": { "type": "string", "description": "정답 단어 하나" }
+                }
+              }
+            },
+            "essay_text": {
+              "type": "string",
+              "description": "서술형 모범답안 (2~3문장, 채점기준 항목 모두 포함)"
+            },
+            "scoring_criteria": {
+              "type": "array",
+              "description": "채점 기준 — 역대 강사·합격자 답안 분석 후 도출",
+              "items": {
+                "type": "object",
+                "required": ["criterion", "points"],
+                "properties": {
+                  "criterion": { "type": "string" },
+                  "points": { "type": "number" }
+                }
+              }
+            }
+          }
+        },
+        "variants": {
+          "type": "array",
+          "description": "변형 답안 — 서술형만. 강사명/합격자명 없이 '답안 A', '답안 B'로만 표기",
+          "maxItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["label", "content"],
+            "properties": {
+              "label": {
+                "type": "string",
+                "enum": ["답안 A", "답안 B"]
+              },
+              "content": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "source": {
+      "type": "object",
+      "description": "원전 정보 — 정답 탭 하단에 렌더링 (별도 탭 없음)",
+      "required": ["references"],
+      "properties": {
+        "references": {
+          "type": "array",
+          "description": "논문·교재 위주. Wikipedia 지양",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["type", "title"],
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": ["textbook", "paper", "journal_article", "handbook", "book", "other"]
+              },
+              "author": { "type": "string" },
+              "title": { "type": "string" },
+              "year": { "type": "integer" },
+              "publisher": { "type": "string" },
+              "pages": { "type": "string" },
+              "doi": { "type": "string" },
+              "excerpt": {
+                "type": "string",
+                "description": "핵심 인용문 — ref-quote로 렌더링"
+              }
+            }
+          }
+        },
+        "concept_explanation": {
+          "type": "string",
+          "description": "개념 정리 박스 텍스트"
+        }
+      }
+    },
+
+    "related": {
+      "type": "object",
+      "description": "연결문제 탭. linguistics↔linguistics만. general_english는 enabled=false",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "default": false,
+          "description": "general_english이면 반드시 false"
+        },
+        "questions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["year", "number", "subject", "connection_type", "connection_note"],
+            "properties": {
+              "id": { "type": "string", "description": "연결 카드 id (링크용)" },
+              "year": { "type": "integer" },
+              "number": { "type": "string" },
+              "subject": {
+                "type": "string",
+                "enum": ["linguistics", "english_education", "general_english"]
+              },
+              "connection_type": {
+                "type": "string",
+                "enum": [
+                  "same_concept",
+                  "applied_concept",
+                  "contrasting_concept",
+                  "prerequisite",
+                  "extended_topic"
+                ]
+              },
+              "connection_note": { "type": "string" },
+              "shared_keywords": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+
+  }
+}
