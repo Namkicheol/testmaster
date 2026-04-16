@@ -124,7 +124,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Example (a) uses passive voice for the given-new contract. 'France' is given information from the preceding context, so it is placed first as the passive subject. 'An Italian' is new information and appears at the end.\n\nExample (d) uses passive voice for end weight. The agent 'by medical staff from the Oslo Sport Trauma Research Center' is a long, complex NP, which is placed at the end of the sentence following the end weight principle.",
+      "essay_content": "(a) reflects the given-new contract: passive voice places \"France\" (given, mentioned earlier) as subject, while \"an Italian\" (new information) appears sentence-finally. (d) reflects end weight: the passive construction moves the heavy agent NP \"by medical staff from the Oslo Sport Trauma Research Center\" to sentence-final position.",
       "scoring_criteria": [
         {
           "criterion": "given-new → (a) 식별",

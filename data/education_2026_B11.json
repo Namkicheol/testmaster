@@ -134,7 +134,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Mr. Kang incorporated Characteristic 2 (information gap). In the original activity, both students read the same textbook dialogue, so there was no information gap. In the modified activity, Card A gives the customer a budget and needs, while Card B gives the salesperson a price list — each student has different information, creating a genuine information gap.\n\nMs. Shin incorporated Characteristic 5 (language as communication, not grammar practice). The original activity required students to answer using the correct object pronoun, focusing on grammar. The modified activity asks students to share their personal opinions about chores and give reasons, using language to communicate real preferences rather than to practice a specific grammar point.",
+      "essay_content": "Mr. Kang applied Characteristic 2: Card A gives the customer a budget and needs while Card B gives the salesperson a price list, so each student holds different information and must exchange it to complete the task. Ms. Shin applied Characteristic 5: instead of producing correct object pronouns, students share personal opinions about chores and give reasons, using language communicatively.",
       "scoring_criteria": [
         {
           "criterion": "Mr. Kang → Characteristic 2 식별",

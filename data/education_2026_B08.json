@@ -135,7 +135,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Tip 2 is applied to Activity 1. Both low-level and intermediate-level students fill in the same blanks using the same word box, but low-level students receive first-letter hints as additional support, while intermediate students do not. This reflects giving different levels of support in the materials.\n\nTip 5 is applied to Activity 2. Low-level students only match pictures with descriptions, while intermediate students must additionally arrange them in the correct order. The ordering task requires a higher-order cognitive skill (sequencing), whereas matching requires only recognition.",
+      "essay_content": "Activity 1 reflects Tip 2: both groups complete the same blank-filling task using the same word box, but low-level students receive first-letter hints while intermediate students do not, providing different levels of support. Activity 2 reflects Tip 5: low-level students match pictures with descriptions, while intermediate students additionally sequence them, requiring a higher-order cognitive skill.",
       "scoring_criteria": [
         {
           "criterion": "Activity 1 → Tip 2 식별",

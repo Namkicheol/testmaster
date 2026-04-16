@@ -120,7 +120,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Items 1 and 20 do not assess the intended components accurately.\n\nItem 1 is specified to assess understanding of the main idea, but the question asks what the woman enjoyed most during her trip — a specific detail. The script's main idea is about the woman's overall summer vacation, not her favorite activity.\n\nItem 20 is specified to assess inferring the writer's intention, but the question asks students to select the most appropriate title, which assesses identifying the main idea rather than inferring intention.",
+      "essay_content": "Items 1 and 20 are misaligned. Item 1 aims to test main idea comprehension but asks for a specific detail — the woman's favorite activity during her trip. Item 20 is specified to assess inferring the writer's intention, but selecting a title tests main idea identification, not intention.",
       "scoring_criteria": [
         {
           "criterion": "Item 1 식별",

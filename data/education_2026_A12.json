@@ -159,7 +159,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Activities 1 and 4 best address Mr. Park's issue.\n\nActivity 1 addresses sentence stress: students listen to the same sentence with different emphasized words and explain how the meaning changes, directly raising awareness of how sentence stress conveys meaning as noted in <A>.\n\nActivity 4 addresses intonation: students guess the speaker's attitude (interested, surprised, or bored) from the intonation of a single word 'really,' which directly trains students to understand how intonation conveys emotion and attitude as stated in <A>.",
+      "essay_content": "Activities 1 and 4 best address Mr. Park's issue. Activity 1 targets sentence stress by having students identify which word is emphasized and explain how meaning changes accordingly. Activity 4 targets intonation by asking students to infer the speaker's emotional attitude from the same word \"really\" delivered with different intonation patterns.",
       "scoring_criteria": [
         {
           "criterion": "Activity 1 식별",

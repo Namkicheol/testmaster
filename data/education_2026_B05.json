@@ -138,7 +138,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Product 4 best satisfies Ms. Song's needs. It allows students to upload speech recordings and receive feedback from peers online, directly addressing the limited class time for peer feedback. It also enables synchronous interaction, creating the collaborative environment she expects.\n\nProduct 3 best satisfies Mr. Jung's needs. It assesses both fluency (rate of speech, frequency of pauses) and accuracy, and presents results as charts and graphs — the visual data that Mr. Jung requires for more precise assessment.",
+      "essay_content": "Ms. Song's needs are best met by Product 4, which allows students to share recordings and receive peer feedback online, addressing limited class time. Mr. Jung's needs are best met by Product 3, which measures both fluency indicators (speech rate, pauses) and accuracy, presenting results as visual charts.",
       "scoring_criteria": [
         {
           "criterion": "Ms. Song → Product 4 식별",

@@ -126,7 +126,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "For Student 1, the Grammar category does not correspond. Mr. Kim gave 'Excellent' for grammar, but his comment states there were 'no major grammatical errors that obscured the meaning' — implying errors existed but were minor, which is inconsistent with an Excellent grade.\n\nFor Student 2, the Grammar category also does not correspond. Mr. Kim noted only article errors, but the review contains multiple grammatical errors including tense errors ('I have to wait,' 'I eat') and a missing article ('Restaurant was'), suggesting the grammar problems go beyond what the comment acknowledges.",
+      "essay_content": "Student 1's Grammar grade is inconsistent: Mr. Kim awarded Excellent, but his comment notes no errors \"obscured meaning,\" implying errors did exist. Student 2's Grammar comment is inconsistent: it mentions only article errors, yet the text also contains tense errors such as \"I eat\" and \"I have to wait,\" indicating more widespread problems.",
       "scoring_criteria": [
         {
           "criterion": "Student 1 → Grammar 식별",

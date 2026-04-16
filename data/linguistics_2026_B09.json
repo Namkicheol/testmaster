@@ -68,32 +68,72 @@
         "tree": {
           "label": "CP",
           "children": [
-            { "label": "who_i", "children": [] },
+            {
+              "label": "who_i",
+              "children": []
+            },
             {
               "label": "C'",
               "children": [
-                { "label": "C", "children": [{ "label": "do", "children": [] }] },
+                {
+                  "label": "C",
+                  "children": [
+                    {
+                      "label": "do",
+                      "children": []
+                    }
+                  ]
+                },
                 {
                   "label": "TP",
                   "children": [
-                    { "label": "you", "children": [] },
+                    {
+                      "label": "you",
+                      "children": []
+                    },
                     {
                       "label": "T'",
                       "children": [
-                        { "label": "T", "children": [] },
+                        {
+                          "label": "T",
+                          "children": []
+                        },
                         {
                           "label": "VP",
                           "children": [
-                            { "label": "think", "children": [] },
+                            {
+                              "label": "think",
+                              "children": []
+                            },
                             {
                               "label": "CP*",
                               "children": [
-                                { "label": "C", "children": [{ "label": "that", "children": [] }] },
+                                {
+                                  "label": "C",
+                                  "children": [
+                                    {
+                                      "label": "that",
+                                      "children": []
+                                    }
+                                  ]
+                                },
                                 {
                                   "label": "TP",
                                   "children": [
-                                    { "label": "t_i", "trace": true, "children": [] },
-                                    { "label": "T'", "children": [{ "label": "would come", "children": [] }] }
+                                    {
+                                      "label": "t_i",
+                                      "trace": true,
+                                      "children": []
+                                    },
+                                    {
+                                      "label": "T'",
+                                      "children": [
+                                        {
+                                          "label": "would come",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
                                   ]
                                 }
                               ]
@@ -187,7 +227,7 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Examples (a) and (e) are ungrammatical.\n\nIn (a), 'who' is extracted from a subject position in the embedded clause 'that would come,' with the overt complementizer 'that' present. This violates the that-trace effect, which prohibits wh-movement from subject position when followed by an overt 'that.'\n\nIn (e), the head noun 'a legal system' is associated with a subject gap in the relative clause 'that appeared troubled by arrogance,' with the overt complementizer 'that' present. As shown in (4b) of <A>, the that-trace effect also applies to relative clauses, making (e) ungrammatical.",
+      "essay_content": "(a) and (e) are ungrammatical. In (a), \"who\" is extracted from the subject position of the embedded clause while the overt complementizer \"that\" is present, violating the that-trace effect. In (e), the relative clause contains a subject gap after overt \"that,\" and as <A> shows, the that-trace effect applies to relative clauses as well.",
       "scoring_criteria": [
         {
           "criterion": "(a), (e) 정확히 식별",
