@@ -54,6 +54,25 @@ function hlTerms(text, terms) {
   return s;
 }
 
+// HTML 텍스트 내 terms를 지정 클래스 span 또는 em으로 자동 감싸기
+// 이미 해당 태그로 감싸진 경우 중복 적용 방지
+function applyHl(text, terms, cls) {
+  if (!text || !terms?.length) return text;
+  let s = text;
+  terms.forEach(term => {
+    if (!term) return;
+    const esc_term = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    if (cls === 'em') {
+      if (new RegExp(`<em>${esc_term}</em>`).test(s)) return;
+      s = s.replace(new RegExp(esc_term), `<em>${term}</em>`);
+    } else {
+      if (new RegExp(`class="${cls}"[^>]*>${esc_term}`).test(s)) return;
+      s = s.replace(new RegExp(esc_term, 'g'), `<span class="${cls}">${term}</span>`);
+    }
+  });
+  return s;
+}
+
 // ── SVG 통사 트리 렌더러 ──────────────────────────────
 // 노드 스키마: { label, children?, trace?, empty?, movement_target? }
 // movement: root에 movements:[{from:"id", to:"id"}] 배열 (선택)
@@ -240,7 +259,7 @@ function renderMeta(meta) {
 
 // ── 도출과정 렌더러 ──────────────────────────────────
 
-function renderDerivation(derivation, subject) {
+function renderDerivation(derivation, subject, keyTerms) {
   let html = '';
 
   // 스텝
@@ -250,10 +269,13 @@ function renderDerivation(derivation, subject) {
       const terms = (s.key_terms ?? [])
         .map(t => `<span class="kterm">${esc(t)}</span>`).join('');
       let explanation = (s.explanation ?? '').replace(/&/g, '&amp;').replace(/\n/g, '<br>');
-      // key_terms 첫 등장에 <em> 감싸기 → orange 하이라이트
-      (s.key_terms ?? []).forEach(term => {
-        const re = new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), '');
-        explanation = explanation.replace(re, `<em>${term}</em>`);
+      // step.key_terms + 전체 keyTerms → 모든 영역 orange 하이라이트 (첫 등장)
+      const combinedTerms = [...new Set([...(s.key_terms ?? []), ...(keyTerms ?? [])])];
+      combinedTerms.forEach(term => {
+        const ep = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        if (!new RegExp(`<em>${ep}</em>`).test(explanation)) {
+          explanation = explanation.replace(new RegExp(ep), `<em>${term}</em>`);
+        }
       });
       html += `
         <div class="step-item">
@@ -286,14 +308,18 @@ function renderDerivation(derivation, subject) {
             <td><div class="vmean">${def}</div>${ex}</td>
           </tr>`;
     });
-    html += `</tbody></table>`;
+    html += `</div></table>`;
   }
 
   // 지문 해석 (일반영어만)
   if (subject === 'general' && derivation.translation) {
-    html += `<div class="sec-title">지문 해석</div>
-      <div class="trans-box">`;
-    derivation.translation.split(/\n\n+/).forEach(para => {
+    let transText = derivation.translation;
+    // 수동 trans-hl이 없으면 keyTerms로 자동 적용
+    if (!transText.includes('trans-hl') && keyTerms?.length) {
+      transText = applyHl(transText, keyTerms, 'trans-hl');
+    }
+    html += `<div class="sec-title">지문 해석</div><div class="trans-box">`;
+    transText.split(/\n\n+/).forEach(para => {
       if (para.trim()) html += `<p>${para.trim()}</p>`;
     });
     html += `</div>`;
@@ -329,8 +355,8 @@ function renderAnswer(answer, subject, keyTerms) {
       </div>`;
   }
 
-  // 채점 기준
-  if (ma.scoring_criteria?.length) {
+  // 채점 기준 — 서술형만 표시 (단답형은 blank_answers만)
+  if (ma.scoring_criteria?.length && ma.essay_content) {
     const crits = ma.scoring_criteria.map(c =>
       `<div class="crit-line">
         <span class="crit-pts">${c.points}점</span>
@@ -366,9 +392,12 @@ function renderSource(source, subject, keyTerms) {
 
   (source.references ?? []).forEach(ref => {
     const typeLabel = (ref.type ?? 'textbook').charAt(0).toUpperCase() + (ref.type ?? 'textbook').slice(1);
-    const quote = ref.excerpt
-      ? `<div class="ref-quote">${ref.excerpt}</div>`
-      : '';
+    // ref-hl: 수동 span 없으면 keyTerms로 자동 적용
+    let excerptHtml = ref.excerpt ?? '';
+    if (excerptHtml && !excerptHtml.includes('ref-hl') && keyTerms?.length) {
+      excerptHtml = applyHl(excerptHtml, keyTerms, 'ref-hl');
+    }
+    const quote = excerptHtml ? `<div class="ref-quote">${excerptHtml}</div>` : '';
     html += `
       <div class="ref">
         <span class="ref-type">${esc(typeLabel)}</span>
@@ -433,10 +462,12 @@ function renderCard(data) {
   const uid    = meta.id; // 탭 ID prefix
 
   const passageHtml = renderPassage(problem.passage ?? '');
-  // derivation.key_terms 전체 + 각 step.key_terms 수집 → 정답·개념정리 하이라이트용
+  // 모든 영역 하이라이트용 키워드: derivation.key_terms + 각 step.key_terms + blank_answers
+  const answerWords = (answer?.model_answer?.blank_answers ?? []).map(b => b.answer).filter(Boolean);
   const allKeyTerms = [
     ...(derivation?.key_terms ?? []).map(k => k.term),
-    ...(derivation?.steps ?? []).flatMap(s => s.key_terms ?? [])
+    ...(derivation?.steps ?? []).flatMap(s => s.key_terms ?? []),
+    ...answerWords
   ].filter(Boolean);
 
   // 문제 탭
@@ -449,7 +480,7 @@ function renderCard(data) {
   // 도출과정 탭
   const dTab = `
     <div class="tab-panel" id="${uid}-d">
-      ${renderDerivation(derivation ?? {}, meta.subject)}
+      ${renderDerivation(derivation ?? {}, meta.subject, allKeyTerms)}
     </div>`;
 
   // 정답 탭
