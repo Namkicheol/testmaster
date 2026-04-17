@@ -16,17 +16,21 @@
 
 ### 과목 분류
 
-| 코드 | 과목 |
-|------|------|
-| `linguistics` | 영어학 |
-| `education` | 영어교육론 |
-| `general` | 일반영어 (문학 포함) |
+| 코드 | 과목 | 필터 표시 |
+|------|------|----------|
+| `linguistics` | 영어학 | 영어학 |
+| `education` | 영어교육론 | 영어교육론 |
+| `general` (literary 태그 없음) | 일반영어 | 일반영어 |
+| `general` + literary 태그 | 일반영어(문학) | 일반영어(문학) |
+
+**literary 태그**: `novel`, `play`, `poem`, `poetry`, `drama`, `fiction`, `essay`
+→ JSON `meta.subject`는 항상 `"general"`. 태그로 렌더링/필터 분기.
 
 ### 연결문제
 
 * 영어학 ↔ 영어학만 연결
 * 영어교육론 ↔ 영어교육론 연결 / 객관식 답안 키워드 링크
-* 일반영어: 연결문제 없음 (`related.enabled: false`)
+* 일반영어 · 일반영어(문학): 연결문제 없음 (`related.enabled: false`)
 * 미등록 카드: 샘플 안내 표시
 
 ### 필터 UI
@@ -141,9 +145,12 @@ variants[B]   → 합격자 답안 스타일 재작성 (증거 제시 방식 변
 
 | 클래스 | 색상 | 자동 적용 범위 |
 |--------|------|--------------|
-| `step-text em` | orange (`--accent3`) | 모든 step explanation (step.key_terms 우선 → allKeyTerms 순) |
+| `step-text em` | orange (`--accent3`) | step explanation — `step.key_terms` + `answerWords` |
+| `term-hl` | lavender (`#c4a8ff`) | step explanation — `derivation.key_terms[].term` (이론 용어) |
 | `ref-hl` | blue (`--accent`) | ref-quote (수동 span 없으면 allKeyTerms로 fallback) |
 | `trans-hl` | teal (`--accent2`) | 지문 해석 (수동 span 없으면 allKeyTerms로 fallback) |
+
+**하이라이트 우선순위**: `term-hl` 먼저 적용 → `em` 적용 시 이미 태그된 용어 건너뜀.
 
 **trans-hl 적용 기준** (일반영어 translation 필드):
 - 단답형: 빈칸 정답의 직접 근거 문장
@@ -157,7 +164,8 @@ variants[B]   → 합격자 답안 스타일 재작성 (증거 제시 방식 변
 | 영어학 | `tag-ling` | 보라 (`#a897f5`) |
 | 영어교육론 | `tag-edu` | 연초록 (`#b8d070`) |
 | 일반영어 | `tag-gen` | 초록 (`#a8d070`) |
-| 소설/희곡/시 | `tag-novel` | 연보라 (`#d097f5`) |
+| 일반영어(문학) | `tag-lit` | 연보라 (`#d8a0f5`) |
+| 소설/희곡/시 세부 | `tag-novel` | 진보라 (`#d097f5`) |
 
 ### 통사 트리 (SVG)
 
