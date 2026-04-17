@@ -33,8 +33,25 @@ const CONN_CLASS = {
 const SUBJECT_TAG_CLASS = {
   linguistics: 'tag-ling',
   education:   'tag-edu',
-  general:     'tag-gen'
+  general:     'tag-gen',
+  literature:  'tag-lit'
 };
+
+function isLiterary(meta) {
+  if (!meta.tags?.length) return false;
+  const litTypes = ['novel', 'play', 'poem', 'poetry', 'drama', 'fiction', 'essay'];
+  return litTypes.some(t => meta.tags.some(tag => tag.toLowerCase().includes(t)));
+}
+
+function getSubjectKo(meta) {
+  if (meta.subject === 'general' && isLiterary(meta)) return '일반영어(문학)';
+  return SUBJECT_KO[meta.subject] ?? meta.subject;
+}
+
+function getSubjectClass(meta) {
+  if (meta.subject === 'general' && isLiterary(meta)) return 'tag-lit';
+  return SUBJECT_TAG_CLASS[meta.subject] ?? 'tag-ling';
+}
 
 // ── HTML 유틸 ─────────────────────────────────────────
 
@@ -216,8 +233,8 @@ function renderChunk(raw) {
 // ── 메타 태그 렌더러 ──────────────────────────────────
 
 function renderMeta(meta) {
-  const subjectKo = SUBJECT_KO[meta.subject] ?? meta.subject;
-  const subjectClass = SUBJECT_TAG_CLASS[meta.subject] ?? 'tag-ling';
+  const subjectKo = getSubjectKo(meta);
+  const subjectClass = getSubjectClass(meta);
   const form = meta.number.startsWith('A') ? '전공A' : '전공B';
   const num  = meta.number.replace(/^[AB]-/, '');
   const isEssay = meta.question_type === 'essay';
@@ -265,15 +282,29 @@ function renderDerivation(derivation, subject, keyTerms) {
   // 스텝
   if (derivation.steps?.length) {
     html += `<div class="sec-title">풀이</div><div class="steps">`;
+    // derivation.key_terms (이론 용어) → term-hl (보라, 별도 색상)
+    const termWords = (derivation.key_terms ?? []).map(k => k.term).filter(Boolean);
+    // 나머지 keyTerms (step.key_terms + answerWords) → em (주황)
+    const emKeyTerms = (keyTerms ?? []).filter(t => !termWords.includes(t));
+
     derivation.steps.forEach(s => {
       const terms = (s.key_terms ?? [])
         .map(t => `<span class="kterm">${esc(t)}</span>`).join('');
       let explanation = (s.explanation ?? '').replace(/&/g, '&amp;').replace(/\n/g, '<br>');
-      // step.key_terms + 전체 keyTerms → 모든 영역 orange 하이라이트 (첫 등장)
-      const combinedTerms = [...new Set([...(s.key_terms ?? []), ...(keyTerms ?? [])])];
-      combinedTerms.forEach(term => {
+      // 1. derivation.key_terms → term-hl (보라, 이론 용어)
+      termWords.forEach(term => {
         const ep = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        if (!new RegExp(`<em>${ep}</em>`).test(explanation)) {
+        if (!new RegExp(`<em>${ep}</em>`).test(explanation) &&
+            !new RegExp(`class="term-hl"[^>]*>${ep}`).test(explanation)) {
+          explanation = explanation.replace(new RegExp(ep), `<span class="term-hl">${term}</span>`);
+        }
+      });
+      // 2. step.key_terms + emKeyTerms → em (주황, 단계별 키워드)
+      const stepEmTerms = [...new Set([...(s.key_terms ?? []), ...emKeyTerms])];
+      stepEmTerms.forEach(term => {
+        const ep = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        if (!new RegExp(`<em>${ep}</em>`).test(explanation) &&
+            !new RegExp(`class="term-hl"[^>]*>${ep}`).test(explanation)) {
           explanation = explanation.replace(new RegExp(ep), `<em>${term}</em>`);
         }
       });
@@ -537,8 +568,17 @@ function buildFilters() {
 
 function rebuildProbMenu() {
   const filtered = allCards.filter(d => {
-    const matchDomain = filters.domain === 'all' || d.meta.subject === filters.domain;
-    const matchYear   = filters.year   === 'all' || String(d.meta.year) === filters.year;
+    let matchDomain;
+    if (filters.domain === 'all') {
+      matchDomain = true;
+    } else if (filters.domain === 'literature') {
+      matchDomain = d.meta.subject === 'general' && isLiterary(d.meta);
+    } else if (filters.domain === 'general') {
+      matchDomain = d.meta.subject === 'general' && !isLiterary(d.meta);
+    } else {
+      matchDomain = d.meta.subject === filters.domain;
+    }
+    const matchYear = filters.year === 'all' || String(d.meta.year) === filters.year;
     return matchDomain && matchYear;
   });
 
@@ -563,7 +603,7 @@ function rebuildProbMenu() {
   });
 
   filtered.forEach(d => {
-    const subKo = SUBJECT_KO[d.meta.subject] ?? '';
+    const subKo = getSubjectKo(d.meta);
     const domKo = d.meta.linguistics_domain ? ` · ${DOMAIN_KO[d.meta.linguistics_domain] ?? ''}` : '';
     const label = `${d.meta.year} ${d.meta.number} · ${subKo}${domKo}`;
     const btn = document.createElement('button');
@@ -576,7 +616,7 @@ function rebuildProbMenu() {
   // 현재 카드가 필터 결과에 없으면 첫 번째로
   if (!filtered.find(d => d.meta.id === currentId)) {
     const first = filtered[0];
-    const subKo = SUBJECT_KO[first.meta.subject] ?? '';
+    const subKo = getSubjectKo(first.meta);
     const domKo = first.meta.linguistics_domain ? ` · ${DOMAIN_KO[first.meta.linguistics_domain] ?? ''}` : '';
     pickCard(first.meta.id, `${first.meta.year} ${first.meta.number} · ${subKo}${domKo}`);
   }

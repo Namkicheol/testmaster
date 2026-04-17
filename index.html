@@ -62,6 +62,7 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 .tag-ling{background:#1f1840;color:#a897f5;}
 .tag-edu{background:#1a1f10;color:#b8d070;border:1px solid #2a3518;}
 .tag-gen{background:#1a2210;color:#a8d070;}
+.tag-lit{background:#201825;color:#d8a0f5;border:1px solid #3a1550;}
 .tag-sub{background:#1c2535;color:#7eb8f5;border:1px solid #2a3550;}
 .tag-num{background:#0f2018;color:#5dd6b0;}
 .tag-essay{background:#2a1520;color:#ff9eb5;}
@@ -105,6 +106,7 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 .step-label{font-size:11px;font-weight:700;color:var(--accent2);margin-bottom:2px;}
 .step-text{font-size:13.5px;color:var(--text);line-height:1.75;}
 .step-text em{color:var(--accent3);font-style:normal;font-weight:600;}
+.term-hl{color:#c4a8ff;font-style:normal;font-weight:600;}
 .kterms{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;}
 .kterm{background:var(--surface3);border:1px solid var(--border2);border-radius:3px;padding:1px 7px;font-size:11px;color:var(--accent);font-family:'JetBrains Mono',monospace;}
 .vocab-table{width:100%;border-collapse:collapse;margin-bottom:16px;font-size:13px;}
@@ -200,6 +202,7 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
         <button class="dd-item"        data-val="linguistics" onclick="selFilter('domain',this,'영어학')">영어학</button>
         <button class="dd-item"        data-val="education"   onclick="selFilter('domain',this,'영어교육론')">영어교육론</button>
         <button class="dd-item"        data-val="general"     onclick="selFilter('domain',this,'일반영어')">일반영어</button>
+        <button class="dd-item"        data-val="literature"  onclick="selFilter('domain',this,'일반영어(문학)')">일반영어(문학)</button>
       </div>
     </div>
     <div class="dropdown-wrap">
