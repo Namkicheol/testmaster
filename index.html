@@ -4,7 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>전공영어 기출마스터</title>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
   --bg:#f0faf4;--surface:#ffffff;--surface2:#f5fdf8;--surface3:#eaf7f0;
@@ -18,32 +20,28 @@
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 html,body{height:100%;}
-body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-serif;font-size:clamp(15px,2.1vw,16.5px);line-height:1.85;display:flex;flex-direction:column;overflow:hidden;}
+body{background:var(--bg);color:var(--text);font-family:'Pretendard',sans-serif;font-size:clamp(15px,2.1vw,16.5px);line-height:1.85;display:flex;flex-direction:column;overflow:hidden;}
 
 /* ── 헤더 ── */
-.site-header{flex-shrink:0;background:#152e22;position:relative;overflow:hidden;}
+.site-header{flex-shrink:0;background:#fff;position:relative;}
 .site-header::before{
-  content:'';position:absolute;inset:0;
-  background:radial-gradient(ellipse at 15% 50%,rgba(46,125,82,.45) 0%,transparent 55%),
-             radial-gradient(ellipse at 85% 50%,rgba(38,166,154,.3) 0%,transparent 55%);
-  pointer-events:none;
+  content:'';position:absolute;top:0;left:0;right:0;height:4px;
+  background:linear-gradient(90deg,#6a1b9a 0%,#1565c0 33%,#2e7d52 66%,#ad1457 100%);
 }
 .site-header::after{
-  content:'';position:absolute;bottom:0;left:0;right:0;height:3px;
-  background:linear-gradient(90deg,#2e7d52 0%,#26a69a 50%,#52b788 100%);
+  content:'';position:absolute;bottom:0;left:0;right:0;height:1px;
+  background:var(--border);
 }
-.site-header-inner{position:relative;padding:15px 20px 17px;text-align:center;}
+.site-header-inner{padding:20px 20px 16px;text-align:center;}
 .site-title{
-  font-family:'Noto Sans KR',sans-serif;
-  font-size:clamp(18px,3.6vw,23px);
-  font-weight:800;color:#e8f5e9;
-  letter-spacing:-0.3px;line-height:1.25;
+  font-family:'Black Han Sans',sans-serif;
+  font-size:clamp(22px,4.5vw,30px);
+  color:#1a3326;letter-spacing:1px;line-height:1.2;
 }
-.site-title .hl{color:#52b788;}
+.site-title .hl{color:#2e7d52;}
 .site-sub{
-  margin-top:5px;font-size:11px;
-  color:rgba(255,255,255,.45);
-  font-family:'JetBrains Mono',monospace;letter-spacing:.8px;
+  margin-top:6px;font-size:11.5px;
+  color:#888;letter-spacing:.5px;
 }
 
 /* ── 필터 ── */
@@ -81,15 +79,35 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 .score-badge .num{font-size:17px;font-weight:700;color:var(--accent);line-height:1;}
 
 /* ── 탭 ── */
-.tabs{display:flex;border-bottom:1.5px solid var(--border);background:var(--surface2);}
-.tab-btn{flex:1;padding:9px 2px;background:none;border:none;border-bottom:3px solid transparent;font-family:inherit;font-size:11.5px;font-weight:700;cursor:pointer;transition:all .18s;white-space:nowrap;color:var(--text-dim);}
-.tab-btn[data-tab="q"].active{color:var(--tab-q);border-bottom-color:var(--tab-q);background:rgba(106,27,154,.06);}
-.tab-btn[data-tab="derive"].active{color:var(--tab-d);border-bottom-color:var(--tab-d);background:rgba(21,101,192,.06);}
-.tab-btn[data-tab="answer"].active{color:var(--tab-a);border-bottom-color:var(--tab-a);background:rgba(46,125,82,.06);}
-.tab-btn[data-tab="related"].active{color:var(--tab-r);border-bottom-color:var(--tab-r);background:rgba(173,20,87,.06);}
-.tab-btn:hover:not(.active){color:var(--text-sub);background:rgba(46,125,82,.04);}
-.tab-panel{display:none;padding:18px 18px 24px;animation:fadeUp .2s ease;}
+.tabs{display:flex;padding:8px 10px 0;gap:4px;background:var(--surface);border-bottom:1.5px solid var(--border);}
+.tab-btn{
+  flex:1;padding:7px 4px 9px;background:none;border:none;border-bottom:3px solid transparent;
+  font-family:'Pretendard',sans-serif;font-size:12px;font-weight:700;cursor:pointer;
+  transition:all .18s;white-space:nowrap;color:var(--text-dim);border-radius:8px 8px 0 0;
+}
+.tab-btn[data-tab="q"]{color:#9c4dcc;}
+.tab-btn[data-tab="derive"]{color:#1976d2;}
+.tab-btn[data-tab="answer"]{color:#388e3c;}
+.tab-btn[data-tab="related"]{color:#c2185b;}
+.tab-btn[data-tab="q"].active{
+  background:rgba(106,27,154,.09);border-bottom-color:#6a1b9a;color:#6a1b9a;
+}
+.tab-btn[data-tab="derive"].active{
+  background:rgba(21,101,192,.09);border-bottom-color:#1565c0;color:#1565c0;
+}
+.tab-btn[data-tab="answer"].active{
+  background:rgba(46,125,82,.09);border-bottom-color:#2e7d52;color:#2e7d52;
+}
+.tab-btn[data-tab="related"].active{
+  background:rgba(173,20,87,.09);border-bottom-color:#ad1457;color:#ad1457;
+}
+.tab-btn:hover:not(.active){background:rgba(0,0,0,.04);}
+.tab-panel{display:none;padding:18px 18px 24px;animation:fadeUp .2s ease;border-left:3px solid transparent;}
 .tab-panel.active{display:block;}
+.tab-panel[id$="-q"].active{border-left-color:var(--tab-q);}
+.tab-panel[id$="-d"].active{border-left-color:var(--tab-d);}
+.tab-panel[id$="-a"].active{border-left-color:var(--tab-a);}
+.tab-panel[id$="-r"].active{border-left-color:var(--tab-r);}
 @keyframes fadeUp{from{opacity:0;transform:translateY(4px);}to{opacity:1;transform:translateY(0);}}
 
 /* ── 문제 탭 ── */
@@ -198,8 +216,8 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 
 <header class="site-header">
   <div class="site-header-inner">
-    <div class="site-title">전공영어 <span class="hl">기출마스터</span></div>
-    <div class="site-sub">영어학 &nbsp;·&nbsp; 영어교육론 &nbsp;·&nbsp; 일반영어 기출문제 분석</div>
+    <div class="site-title"><span class="hl">기출마스터</span> 전공영어</div>
+    <div class="site-sub">영어학 · 영어교육론 · 일반영어 기출문제 분석</div>
   </div>
 </header>
 
