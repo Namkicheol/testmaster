@@ -32,13 +32,13 @@
         "step": 1,
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "Richards 교육과정 개발 모델에서 Needs Analysis 이전 단계 명칭 — 교육 환경 요인 조사\n- 두 단어(TWO words) 요구\n- 기관·교사·학습자 배경 요인 조사 = 환경 분석\n- Needs Analysis(Step 2) 바로 앞 단계",
-        "key_terms": []
+        "key_terms": ["Needs Analysis"]
       },
       {
         "step": 2,
         "label": "이론 ↔ 지문 대응",
         "explanation": "'Institutional Factors, Teacher Factors, Learner Factors — 각 요인에 대한 체크리스트 조사' [paraphrase]\n→ Richards(2001) 교육과정 개발 모델: Situation Analysis = 기관·교사·학습자 배경 환경을 파악하는 단계\n\n'Step 2: Needs Analysis — 학생 요구·희망 기술 설문' [structural]\n→ Needs Analysis = 학습자의 목표 언어 요구 파악 단계 (Situation Analysis 다음)",
-        "key_terms": []
+        "key_terms": ["Situation Analysis", "Needs Analysis"]
       },
       {
         "step": 3,
@@ -60,7 +60,7 @@
         "step": 5,
         "label": "전략 메모",
         "explanation": "출제 패턴 / 풀이 원칙:\n① Richards(2001) 교육과정 개발 모델의 단계 순서를 암기: Situation Analysis → Needs Analysis → Goal Setting → Material Development → Teaching → Assessment.\n② Step 1 체크리스트의 세 범주(기관·교사·학습자)가 Situation Analysis의 구성 요소임을 확인하면 즉시 식별 가능.\n③ 두 단어 조건 — 'Situation Analysis' 대문자 표기 권장.\n\n함정:\n- Needs Analysis와 혼동 — Needs Analysis는 학습자의 목표 언어 요구를 묻는 것(설문 등), Situation Analysis는 교육 환경 배경 조사.\n- 한 단어로 쓰면(context, environment) 오답 처리.",
-        "key_terms": []
+        "key_terms": ["Situation Analysis", "Needs Analysis"]
       }
     ],
     "key_terms": [

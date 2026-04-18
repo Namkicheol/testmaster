@@ -35,30 +35,25 @@
         "step": 2,
         "label": "이론 ↔ 지문 대응",
         "explanation": "'Material 1: 요청 표현 공손도 순위 매기기 + 맥락 부적절 발화 식별 + 대화 재연' [paraphrase]\n→ Principle 5: Speaking activities include practicing pragmatic skills\n\n'Material 2: 개인 계획 정보 공유 + 'be going to' 구조 반복 사용 + 정보 차이 활동' [paraphrase]\n→ Principle 2: Grammar practice is presented through communicative drills",
-        "key_terms": []
+        "key_terms": ["pragmatic skills", "communicative drills"]
       },
       {
         "step": 3,
         "label": "후보 소거",
         "explanation": "- Principle 3 (group projects): ✗ (Material 2는 그룹 활동을 포함하지만 문화 학습(culture learning)이 목적이 아니므로 Principle 3 해당 없음.)\n- Principle 1 (word-part analysis): ✗ (두 Material 모두 어휘 형태 분석 활동 없음.)\n- Principle 4 (background info for listening): ✗ (두 Material 모두 듣기 활동 아님.)\n- Principle 5 for Material 1: ✓ (정답)\n- Principle 2 for Material 2: ✓ (정답)",
-        "key_terms": [
-          "Principle 5 for Material 1",
-          "Principle 2 for Material 2"
-        ]
+        "key_terms": []
       },
       {
         "step": 4,
         "label": "확정 근거",
         "explanation": "최종 정답: Material 1 → Principle 5 / Material 2 → Principle 2\n\n[content] Material 1 Step 1에서 학습자가 요청 표현의 공손도를 순위 매김 → 화용적 적절성(pragmatic appropriateness) 인식 훈련. Step 2에서 대화 맥락에 부적절한 발화 식별 → 상황별 발화행위 적합성 판단 = 화용 기술 연습.\n→ 근거: \"Order them from the least polite (1) to the most polite (5) / find one utterance that seems inappropriate in the context\"\n\n[content] Material 2에서 학생들이 각자 다른 계획(genuine personal information)을 가지고 'be going to' 구조를 사용하여 실제 정보를 교환 → 문법이 의미 있는 의사소통 맥락에 통합된 communicative drill.\n→ 근거: \"Write down individually what you want to do next week / take turns asking about their plans\"",
-        "key_terms": [
-          "Material 1 → Principle 5 / Material 2 → Principle 2"
-        ]
+        "key_terms": ["communicative drill", "pragmatic skills"]
       },
       {
         "step": 5,
         "label": "전략 메모",
         "explanation": "출제 패턴 / 풀이 원칙:\n① Design principle 매핑 문제: 활동 내용의 핵심 목적(기술 영역 + 연습 방식)을 principle 키워드와 직접 대응시킨다.\n② Principle 5 식별 기준: speaking + politeness / appropriateness / speech acts → pragmatic skills.\n③ Principle 2 식별 기준: grammar structure + real information exchange / meaningful context → communicative drills.\n③ 근거는 지문 내 구체적 활동 지시문(단계 설명)에서 인용한다.\n\n함정:\n- Material 2를 Principle 3(group projects)으로 혼동 — 그룹 활동이 있어도 목적이 grammar practice이면 Principle 2.\n- Principle 5와 Principle 4를 혼동 — Principle 4는 '듣기 활동에 배경 정보 제공'으로 Material 1과 관련 없음.",
-        "key_terms": []
+        "key_terms": ["pragmatic skills", "communicative drills", "information gap"]
       }
     ],
     "key_terms": [

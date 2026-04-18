@@ -34,30 +34,25 @@
         "step": 2,
         "label": "이론 ↔ 지문 대응",
         "explanation": "'Item 1 명세: To understand the main idea of the discourse' [antonym]\n→ Item 1 실제 문항: choose what the woman enjoyed the most — 특정 세부 정보(specific detail) 파악\n\n'Item 2 명세: To figure out the logical relationship between the sentences' [synonym]\n→ Item 2 실제 문항: 주어진 문장의 적절한 삽입 위치 찾기 — 문장 간 논리적 관계 파악 ✓\n\n'Item 20 명세: To infer the writer's intention from the context' [antonym]\n→ Item 20 실제 문항: 가장 적절한 제목 선택 — 주제 파악(main idea identification), 의도 추론 아님\n\n'Item 21 명세: To describe personal experiences in writing' [synonym]\n→ Item 21 실제 문항: 개인 경험 서술 두 문장 — 명세 일치 ✓",
-        "key_terms": []
+        "key_terms": ["main idea", "specific detail", "writer's intention"]
       },
       {
         "step": 3,
         "label": "후보 소거",
         "explanation": "- Item 2: ✗ (Item 2는 문장 삽입 위치 찾기 = 문장 간 논리적 관계 파악. 명세 'logical relationship between sentences'와 일치.)\n- Item 21: ✗ (Item 21은 개인 경험을 문장으로 서술. 명세 'describe personal experiences in writing'과 일치.)\n- Item 1: ✓ (정답)\n- Item 20: ✓ (정답)",
-        "key_terms": [
-          "Item 1",
-          "Item 20"
-        ]
+        "key_terms": []
       },
       {
         "step": 4,
         "label": "확정 근거",
         "explanation": "최종 정답: Item 1 and Item 20\n\n[content] Item 1 명세는 '담화의 주제(main idea) 이해'이나, 실제 문항은 '여자가 여행에서 가장 즐긴 것'을 묻는 specific detail 파악 문제. 스크립트에서 주제는 서울 여름 방학 여행 전반이고, 'favorite part'는 세부 내용임.\n→ 근거: \"choose what the woman enjoyed the most during her trip / That was my favorite part of this trip!\"\n\n[content] Item 20 명세는 '맥락에서 필자의 의도(writer's intention) 추론'이나, 실제 문항은 '가장 적절한 제목 선택' — 이는 main idea를 파악하는 task이지, 필자가 글을 쓴 이면의 목적·의도를 추론하는 것이 아님.\n→ 근거: \"Choose the most appropriate title for the following passage\"",
-        "key_terms": [
-          "Item 1 and Item 20"
-        ]
+        "key_terms": ["main idea", "specific detail", "writer's intention"]
       },
       {
         "step": 5,
         "label": "전략 메모",
         "explanation": "출제 패턴 / 풀이 원칙:\n① 구인 타당도(construct validity) 문제는 명세 test component 키워드와 실제 문항의 요구 기술을 정확히 대조하는 것이 핵심.\n② Main idea ≠ specific detail: main idea는 담화 전반의 중심 내용, specific detail은 특정 사실·정보.\n③ Writer's intention ≠ main idea: 제목 선택은 main idea 파악, 의도 추론은 필자가 글을 쓴 목적·숨은 의미를 도출.\n\n함정:\n- Item 1에서 'K-pop concert'가 가장 즐긴 것이라는 점 때문에 main idea로 혼동 — 그러나 문항이 묻는 것(가장 즐긴 것)은 세부 정보.\n- Item 20에서 제목 선택을 '의도 추론'으로 혼동 — 제목은 중심 생각 요약이지 필자 의도 추론이 아님.",
-        "key_terms": []
+        "key_terms": ["construct validity", "main idea", "specific detail"]
       }
     ],
     "key_terms": [

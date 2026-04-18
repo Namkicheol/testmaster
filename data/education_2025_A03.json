@@ -32,13 +32,13 @@
         "step": 2,
         "label": "원본 ↔ 수정본 차이 분석",
         "explanation": "① 'man's routine' → 'student's routine': 학습자 관련성 강화.\n② 'Individual Work' → 'Pair Work' (➋): 교실 운영 방식 재구성.\n③ 'wear to work' → 'wear on school days': 학생 배경 반영.\n④ 'cook for dinner' → 'eat for dinner': 표현 조정.\n항목 수 동일(추가·삭제 없음). 활동 순서 동일(➊→➋ 유지).",
-        "key_terms": ["students' interests and backgrounds", "classroom management restructuring", "content change"]
+        "key_terms": ["students' interests and backgrounds"]
       },
       {
         "step": 3,
         "label": "후보 검증 — 소거법",
         "explanation": "① adding — 항목 수가 늘지 않음. ✗\n② deleting — 항목이 제거되지 않음. ✗\n③ modifying — (a) 내용을 학생 관심사·배경에 맞게 변경 ✓, (b) Individual→Pair Work로 교실 운영 재구성 ✓. 두 기준 동시 충족. ✓\n④ reordering — ➊➋ 순서 유지, 분리·재묶음 없음. ✗\n최종: modifying.",
-        "key_terms": ["modifying definition", "elimination method", "two criteria"]
+        "key_terms": ["adding", "deleting", "modifying", "reordering"]
       },
       {
         "step": 4,
@@ -50,12 +50,23 @@
         "step": 5,
         "label": "전략 — 교재 수정 기법 식별 원칙",
         "explanation": "(1) 지문의 각 기법 정의를 먼저 정리. (2) 원본-수정본 차이를 항목별로 열거. (3) 각 차이를 기법 정의에 대입하여 소거. (4) 최종 생존 기법 = 정답.\n함정: 내용이 달라졌다고 reordering으로 혼동하기 쉬우나, reordering은 항목 배열 순서 변경이지 내용 변경이 아님.",
-        "key_terms": ["elimination method", "definition match", "materials adaptation"]
+        "key_terms": ["modifying", "reordering"]
       }
     ],
     "vocabulary": [
       { "word": "modifying", "pos": "v/gerund", "definition_ko": "수정하기 — 내용·형식을 학습자 요구에 맞게 변경", "example": "modifying content to suit students' backgrounds" },
       { "word": "reordering", "pos": "v/gerund", "definition_ko": "재배열하기 — 활동 순서 변경, 분리·재묶음 포함", "example": "reordering the sequence of activities" }
+    ],
+    "key_terms": [
+      {
+        "term": "modifying",
+        "definition_en": "A materials adaptation technique that makes internal changes to content or methodology — adjusting language, topics, interaction patterns — to better suit learners' interests, backgrounds, and classroom management needs without adding or deleting items (McDonough et al., 2013).",
+        "definition_ko": "교재 내용이나 교수 방법을 학습자 관심사·배경·교실 운영 방식에 맞게 내적으로 변경하는 교재 수정 기법. 항목 추가·삭제 없이 기존 자료를 조정함.",
+        "source_author": "McDonough, J., Shaw, C. & Masuhara, H.",
+        "source_year": 2013,
+        "related_terms": ["adding", "deleting", "reordering", "materials adaptation"],
+        "exam_usage": "원본-수정본 비교에서 내용 학습자화(studentization) + 교실 운영 재구성이 동시 관찰되면 modifying"
+      }
     ],
     "translation": ""
   },

@@ -33,13 +33,13 @@
         "step": 1,
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "written corrective feedback의 한 기법 명칭 — 교사가 학생 글을 다시 쓰는 행위\n- 단일 명사(ONE word) 요구\n- 교사가 학생 글을 내용은 유지하고 언어를 개선해 다시 작성하는 행위\n- WCF 유형 중 교사가 직접 수정본을 제공하는 방식",
-        "key_terms": []
+        "key_terms": ["written corrective feedback", "WCF"]
       },
       {
         "step": 2,
         "label": "이론 ↔ 지문 대응",
         "explanation": "'my rewriting of students' works by following their ideas closely but improving t...' [paraphrase]\n→ 교사가 학습자의 의미를 최대한 유지하면서 어휘·문법·문체를 원어민답게 바꾸어 전체를 다시 작성하는 WCF 기법 (목표: native-like quality)\n\n'Students usually want me to underline or highlight the errors... provide correct...' [contrast]\n→ 직접적 WCF (direct corrective feedback) — 오류 위치에 수정 제공",
-        "key_terms": []
+        "key_terms": ["WCF", "native-like"]
       },
       {
         "step": 3,
@@ -61,7 +61,7 @@
         "step": 5,
         "label": "전략 메모",
         "explanation": "출제 패턴 / 풀이 원칙:\n① WCF 기법 식별 문제는 '교사 행동의 성격'(오류 표시 vs 전체 재작성 vs 구두 반응)을 먼저 파악한다.\n② reformulation은 written 맥락, recast는 oral 맥락 — 매체(mode) 구분이 핵심 소거 기준.\n③ 지문 내 'following their ideas closely but improving the language' 구문이 reformulation의 정의 그 자체.\n\n함정:\n- recast와 혼동 — recast는 구두 상호작용 전용이므로 written journal 문맥에 적용 불가.\n- direct feedback(오류 밑줄 + 수정 제공)은 지문에서 교사가 선호하지 않는 방식으로 명시됨.",
-        "key_terms": []
+        "key_terms": ["reformulation", "recast"]
       }
     ],
     "key_terms": [
@@ -80,7 +80,7 @@
         "exam_usage": "교사 저널 지문에서 교사가 선호하는 WCF 기법으로 빈칸 답 요구"
       },
       {
-        "term": "Written Corrective Feedback (WCF)",
+        "term": "Written Corrective Feedback",
         "definition_en": "Feedback provided on learners' written errors, ranging from direct correction (teacher supplies the correct form) to indirect strategies (indicating an error exists without providing the correction).",
         "definition_ko": "학습자 작문 오류에 대한 교사 피드백. 직접(수정 제공) ~ 간접(오류 표시만) 연속체로 분류됨.",
         "source_author": "Bitchener, J. & Ferris, D.",
