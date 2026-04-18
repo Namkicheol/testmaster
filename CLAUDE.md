@@ -152,6 +152,27 @@ variants[B]   → 합격자 답안 스타일 재작성 (증거 제시 방식 변
 
 **하이라이트 우선순위**: `term-hl` 먼저 적용 → `em` 적용 시 이미 태그된 용어 건너뜀.
 
+### ⚠️ key_terms 작성 금지 패턴 (하이라이트 실패 원인)
+
+render.js는 `key_terms[].term`을 **문자열 그대로 case-insensitive 검색**하여 `concept_explanation`·`step.explanation`에 하이라이트를 적용한다.  
+term 형태가 실제 텍스트와 다르면 매칭 실패 → 하이라이트 없음.
+
+| ❌ 실패 패턴 | 실제 사례 | ✅ 올바른 형태 |
+|------------|----------|-------------|
+| 괄호로 부가 설명 병기 | `Geminate (consonant)` | `Geminate` |
+| 대괄호로 음성 기호 표기 | `[anterior]` | `anterior` |
+| 괄호로 별칭(alias) 병기 | `Yod-dropping (j-dropping)` | `Yod-dropping` |
+| 괄호로 독일어/학술명 병기 | `Lexical aspect (Aktionsart)` | `lexical aspect` |
+| 괄호로 약어 병기 | `Complementizer (C)` | `complementizer` |
+| 서술적 구문으로 작성 | `Constructive Alignment`, `Context Clue Strategy` | `alignment`, `context clue` |
+| 단어 나열형 | `Grammatical category` (concept에 `category`만 있는 경우) | concept에 맞는 최소 핵심어 |
+
+**규칙 요약:**
+1. `term`은 반드시 `concept_explanation` 또는 `step.explanation` 본문에 **그 형태 그대로** 등장해야 한다.
+2. 괄호·대괄호·별칭·약어 병기 금지 — 핵심어 단독으로.
+3. term 작성 후 concept_explanation에 해당 단어가 포함되어 있는지 **반드시 확인**.
+4. concept_explanation이 없으면 term이 있어도 하이라이트 불가 → concept 작성 필수.
+
 **trans-hl 적용 기준** (일반영어 translation 필드):
 - 단답형: 빈칸 정답의 직접 근거 문장
 - 서술형: 채점 포인트별 핵심 근거 문장
