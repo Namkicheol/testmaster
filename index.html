@@ -18,21 +18,23 @@
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
 html,body{height:100%;}
-body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-serif;font-size:clamp(14px,2vw,15.5px);line-height:1.85;display:flex;flex-direction:column;overflow:hidden;}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-serif;font-size:clamp(15px,2.1vw,16.5px);line-height:1.85;display:flex;flex-direction:column;overflow:hidden;}
 
 /* ── 헤더 ── */
-.site-header{text-align:center;padding:20px 16px 0;flex-shrink:0;}
-.site-logo{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:11px;color:#2e7d52;background:rgba(46,125,82,.1);border:1px solid rgba(46,125,82,.3);padding:4px 14px;border-radius:20px;letter-spacing:2px;text-transform:uppercase;margin-bottom:10px;}
+.site-header{text-align:center;padding:0;flex-shrink:0;background:linear-gradient(135deg,rgba(46,125,82,.08) 0%,rgba(38,166,154,.06) 100%);border-bottom:1.5px solid var(--border);}
+.site-header-inner{padding:20px 16px 16px;}
+.site-logo{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:11px;color:#2e7d52;background:rgba(46,125,82,.12);border:1px solid rgba(46,125,82,.35);padding:4px 14px;border-radius:20px;letter-spacing:2.5px;text-transform:uppercase;margin-bottom:10px;}
 .site-title{
   font-family:'Noto Sans KR',sans-serif;
-  font-size:clamp(22px,4vw,30px);
+  font-size:clamp(24px,4.5vw,32px);
   font-weight:700;
-  background:linear-gradient(135deg,#2e7d52 0%,#26a69a 100%);
+  background:linear-gradient(135deg,#1b5e3a 0%,#2e7d52 40%,#26a69a 100%);
   -webkit-background-clip:text;background-clip:text;
   -webkit-text-fill-color:transparent;color:transparent;
-  margin-bottom:2px;
+  margin-bottom:4px;letter-spacing:-0.5px;
 }
 .site-title .dot{-webkit-text-fill-color:#26a69a;color:#26a69a;}
+.site-sub{font-size:12px;color:var(--text-sub);font-family:'JetBrains Mono',monospace;letter-spacing:.5px;}
 
 /* ── 필터 ── */
 .filter-bar{padding:12px 16px 0;max-width:720px;margin:0 auto;width:100%;flex-shrink:0;}
@@ -103,8 +105,8 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 .step-body{flex:1;}
 .step-label{font-size:11px;font-weight:700;color:var(--accent2);margin-bottom:3px;font-family:'JetBrains Mono',monospace;letter-spacing:.5px;text-transform:uppercase;}
 .step-text{font-size:clamp(13.5px,1.9vw,14.5px);color:var(--text);line-height:1.85;}
-.step-text em{background:rgba(198,40,40,.13);color:#b71c1c;padding:1px 5px;border-radius:4px;font-style:normal;font-weight:700;font-family:'JetBrains Mono',monospace;font-size:.88em;}
-.term-hl{color:#e65100;font-style:normal;font-weight:700;border-bottom:2px solid rgba(230,81,0,.4);}
+.step-text em{background:rgba(183,28,28,.12);color:#b71c1c;padding:2px 6px;border-radius:4px;font-style:normal;font-weight:700;}
+.term-hl{color:#bf360c;font-style:normal;font-weight:700;border-bottom:2.5px solid rgba(191,54,12,.45);}
 .kterms{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;}
 .kterm{background:rgba(46,125,82,.1);border:1px solid rgba(46,125,82,.25);border-radius:4px;padding:2px 8px;font-size:11px;color:var(--accent);font-family:'JetBrains Mono',monospace;font-weight:600;}
 .vocab-table{width:100%;border-collapse:collapse;margin-bottom:16px;font-size:13px;}
@@ -118,7 +120,7 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 .trans-box{background:var(--surface2);border:1.5px solid var(--border);border-left:3px solid var(--accent2);border-radius:var(--radius-sm);padding:15px 18px;font-size:clamp(13.5px,1.9vw,14.5px);line-height:1.95;color:var(--text);}
 .trans-box p{margin-bottom:9px;}
 .trans-box p:last-child{margin-bottom:0;}
-.trans-hl{color:#00796b;font-weight:700;border-bottom:2px solid rgba(0,121,107,.4);}
+.trans-hl{color:#00695c;font-weight:700;border-bottom:2.5px solid rgba(0,105,92,.45);}
 
 /* ── 정답 탭 ── */
 .answer-box{background:var(--surface2);border:1.5px solid rgba(46,125,82,.3);border-left:3px solid var(--tab-a);border-radius:var(--radius-sm);padding:14px 16px;margin-bottom:12px;}
@@ -130,7 +132,7 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 .model-answer{background:var(--surface2);border:1.5px solid rgba(46,125,82,.3);border-left:3px solid var(--tab-a);border-radius:var(--radius-sm);padding:14px 16px;margin-bottom:10px;}
 .model-answer-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--tab-a);margin-bottom:8px;font-family:'JetBrains Mono',monospace;}
 .ma-body{font-size:clamp(13.5px,1.9vw,14.5px);color:var(--text);line-height:1.9;}
-.ma-body em,.v-text em,.concept em{background:rgba(198,40,40,.13);color:#b71c1c;padding:1px 5px;border-radius:4px;font-style:normal;font-weight:700;font-family:'JetBrains Mono',monospace;font-size:.88em;}
+.ma-body em,.v-text em,.concept em{background:rgba(183,28,28,.12);color:#b71c1c;padding:2px 6px;border-radius:4px;font-style:normal;font-weight:700;}
 .criteria-box{background:var(--surface3);border:1px solid var(--border2);border-radius:var(--radius-sm);padding:12px 15px;margin-bottom:12px;}
 .criteria-box-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text-dim);margin-bottom:8px;font-family:'JetBrains Mono',monospace;}
 .crit-lines{display:flex;flex-direction:column;gap:0;}
@@ -153,7 +155,7 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 .ref-author{font-size:12px;color:var(--text-sub);margin-bottom:1px;}
 .ref-pages{font-size:11px;color:var(--accent);font-family:'JetBrains Mono',monospace;font-weight:600;}
 .ref-quote{margin-top:8px;padding:8px 12px;background:rgba(38,166,154,.06);border-left:3px solid #26a69a;border-radius:0 6px 6px 0;font-size:12.5px;color:#2a5040;line-height:1.7;font-style:italic;}
-.ref-hl{background:rgba(46,125,82,.18);color:#1b5e3a;padding:2px 6px;border-radius:4px;font-style:normal;font-weight:700;font-family:'JetBrains Mono',monospace;font-size:.88em;}
+.ref-hl{background:rgba(46,125,82,.18);color:#1b5e3a;padding:2px 6px;border-radius:4px;font-style:normal;font-weight:700;}
 .concept{background:rgba(38,166,154,.05);border:1.5px solid rgba(38,166,154,.25);border-radius:var(--radius-sm);padding:14px 16px;font-size:clamp(13px,1.8vw,14px);line-height:1.9;color:var(--text);}
 .concept strong{color:var(--accent);}
 /* ── 통사 트리 ── */
@@ -185,8 +187,11 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 <body>
 
 <header class="site-header">
-  <div class="site-logo">중등임용</div>
-  <div class="site-title">전공영어 기출마스터<span class="dot">.</span></div>
+  <div class="site-header-inner">
+    <div class="site-logo">중등임용 전공영어</div>
+    <div class="site-title">기출마스터<span class="dot">.</span></div>
+    <div class="site-sub">영어학 · 영어교육론 · 일반영어 기출문제 분석</div>
+  </div>
 </header>
 
 <div class="filter-bar">
