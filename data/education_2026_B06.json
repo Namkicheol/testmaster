@@ -38,18 +38,17 @@
       },
       {
         "step": 2,
-        "label": "Student 1 Content/Organization 검토",
-        "explanation": "Content: Good to Fair + 코멘트 'addressed the topic well by elaborating it with details' → 잘됐다는 내용 → Good to Fair와 모순될 수 있지만 'Good to Fair' 범위 내 일관성 있음. Organization: Good to Fair + 'ideas smoothly connected using appropriate linking words, but did not include a concluding sentence' → 결론문 누락 언급 → Good to Fair 등급과 일치 ✓",
+        "label": "Student 1 Organization 검토 → 불일치 확인",
+        "explanation": "Organization: Good to Fair. 코멘트: 'ideas were smoothly connected using appropriate linking words'. 실제 글 확인: 'It was spicy. It was very delicious. It took some time to order.' → 모두 단순 나열 문장, linking words 전혀 없음. 코멘트는 linking words를 칭찬하지만 실제 글에는 연결어가 없음 → Organization 코멘트와 실제 글 불일치 ✗",
         "key_terms": [
-          "Content",
           "Organization",
-          "concluding sentence"
+          "linking words"
         ]
       },
       {
         "step": 3,
-        "label": "Student 1 Grammar 검토 → 불일치 확인",
-        "explanation": "Grammar 점수: Excellent. 코멘트: 'There were no major grammatical errors that obscured the meaning' → '심각한 오류는 없다'는 표현 자체가 '오류가 존재함'을 암시. Excellent는 사실상 오류가 없어야 함. 또한 실제 글에는 단순 반복 문장(It was spicy. It was very delicious.)이 있어 문장 다양성 부족. 코멘트가 Excellent 등급을 정당화하지 못함 → Grammar 불일치 ✗",
+        "label": "Student 1 Grammar 검토 → 일치 확인",
+        "explanation": "Grammar: Excellent. 코멘트: 'There were no major grammatical errors that obscured the meaning.' 실제 글 문법 확인: 문장들이 단순하지만 문법적 오류 없음. 'no major grammatical errors' = Excellent 등급과 일치 ✓ → Grammar는 불일치 아님.",
         "key_terms": [
           "Grammar",
           "Excellent"
@@ -57,7 +56,7 @@
       },
       {
         "step": 4,
-        "label": "Student 2 Content/Organization 검토",
+        "label": "Student 2 Content/Organization 검토 → 일치 확인",
         "explanation": "Content: Excellent + 'message was very clear, good details' → 일치 ✓. Organization: Excellent + 'good connections, easy to follow' + concluding sentence 있음('it was worth visiting') → 일치 ✓. Content·Organization 코멘트와 점수 모두 일치.",
         "key_terms": [
           "Content",
@@ -122,14 +121,14 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "Student 1's Grammar grade is inconsistent: Mr. Kim awarded Excellent, but his comment notes no errors \"obscured meaning,\" implying errors did exist. Student 2's Grammar comment is inconsistent: it mentions only article errors, yet the text also contains tense errors such as \"I eat\" and \"I have to wait,\" indicating more widespread problems.",
+      "essay_content": "Student 1's Organization comment is inconsistent: Mr. Kim states that ideas were smoothly connected using appropriate linking words, but the actual review contains only simple, unconnected sentences with no linking words at all. Student 2's Grammar comment is inconsistent: Mr. Kim mentions only article errors, but the text also contains tense errors such as \"I eat\" and \"I have to wait,\" which are not addressed in the feedback.",
       "scoring_criteria": [
         {
-          "criterion": "Student 1 → Grammar 식별",
+          "criterion": "Student 1 → Organization 식별",
           "points": 1
         },
         {
-          "criterion": "Student 1 근거: Excellent 점수이지만 오류 존재 암시하는 코멘트",
+          "criterion": "Student 1 근거: 코멘트는 linking words 칭찬하지만 실제 글에 linking words 없음",
           "points": 1
         },
         {
@@ -137,7 +136,7 @@
           "points": 1
         },
         {
-          "criterion": "Student 2 근거: article 외에도 시제 오류 등 다수 있는데 코멘트가 article만 언급",
+          "criterion": "Student 2 근거: article 외에도 시제 오류('I eat', 'I have to wait') 있는데 코멘트가 article만 언급",
           "points": 1
         }
       ]
@@ -146,12 +145,12 @@
       {
         "label": "답안 A",
         "source_type": "variant",
-        "content": "Student 1's Grammar grade is inconsistent: Mr. Kim gave Excellent, but his comment says there were no errors that 'obscured meaning,' implying errors did exist. Student 2's Grammar comment is inconsistent: Mr. Kim mentioned only article errors, but the text also contains verb tense errors (e.g., 'I eat') and a missing article ('Restaurant'), indicating more widespread grammatical problems."
+        "content": "Student 1's Organization comment is inconsistent: Mr. Kim praises the use of appropriate linking words, but the review consists only of short, simple sentences with no connectors at all. Student 2's Grammar comment is inconsistent: although Mr. Kim mentions only article errors, the text also includes tense errors such as 'I eat' and 'I have to wait,' which go unaddressed."
       },
       {
         "label": "답안 B",
         "source_type": "variant",
-        "content": "For Student 1, Grammar is misaligned — the Excellent grade contradicts the comment implying some errors existed. For Student 2, the Grammar comment is misaligned — it only mentions article errors, overlooking tense mistakes like 'I have to wait' and 'I eat the pizza quickly.'"
+        "content": "For Student 1, Organization is misaligned — Mr. Kim's comment claims ideas were smoothly connected with linking words, but no linking words appear in the actual writing. For Student 2, Grammar is misaligned — the comment focuses only on article errors while tense errors like 'I eat the pizza quickly' and 'I have to wait' are overlooked."
       }
     ]
   },
