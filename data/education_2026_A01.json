@@ -139,7 +139,7 @@
         "excerpt": "<span class=\"ref-hl\">Reformulation</span> involves a native speaker <span class=\"ref-hl\">rewriting a learner's text</span> in order to make it more native-like. The native speaker <span class=\"ref-hl\">follows the learner's meaning</span> as closely as possible while making changes in vocabulary, grammar and style."
       }
     ],
-    "concept_explanation": "Reformulation: a written corrective feedback technique where the teacher rewrites the learner's entire text to make it more native-like, following the learner's meaning as closely as possible while making changes in vocabulary, grammar and style (Ellis, 2008).\n\nContrast with related techniques:\n- Recast: implicit oral CF — teacher reformulates erroneous utterance in real-time conversation (구두 상호작용 전용)\n- Direct feedback: teacher indicates and corrects specific errors without rewriting the whole text (오류 위치에 수정 제공)\n- Indirect feedback: teacher marks error location but does not supply the correction (오류 표시만, 수정 제공 없음)"
+    "concept_explanation": "Reformulation: a Written Corrective Feedback (WCF) technique where the teacher rewrites the learner's entire text to make it more native-like, following the learner's meaning as closely as possible while making changes in vocabulary, grammar and style (Ellis, 2008).\n\nContrast with related techniques:\n- Recast: implicit oral CF — teacher reformulates erroneous utterance in real-time conversation (구두 상호작용 전용)\n- Direct feedback: teacher indicates and corrects specific errors without rewriting the whole text (오류 위치에 수정 제공)\n- Indirect feedback: teacher marks error location but does not supply the correction (오류 표시만, 수정 제공 없음)"
   },
   "related": {
     "enabled": true,

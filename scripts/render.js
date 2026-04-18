@@ -61,30 +61,30 @@ function esc(s) {
     .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
-// key_terms 배열로 텍스트 내 첫 등장 <em> 감싸기 (escape 포함)
+// key_terms 배열로 텍스트 내 첫 등장 <em> 감싸기 (대소문자 무시)
 function hlTerms(text, terms) {
   let s = esc(text).replace(/\n/g, '<br>');
   (terms ?? []).forEach(term => {
-    const re = new RegExp(esc(term).replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), '');
-    s = s.replace(re, `<em>${esc(term)}</em>`);
+    const ep = esc(term).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    if (new RegExp(`<em>${ep}</em>`, 'i').test(s)) return;
+    s = s.replace(new RegExp(ep, 'i'), `<em>$&</em>`);
   });
   return s;
 }
 
-// HTML 텍스트 내 terms를 지정 클래스 span 또는 em으로 자동 감싸기
-// 이미 해당 태그로 감싸진 경우 중복 적용 방지
+// HTML 텍스트 내 terms를 지정 클래스 span 또는 em으로 자동 감싸기 (대소문자 무시)
 function applyHl(text, terms, cls) {
   if (!text || !terms?.length) return text;
   let s = text;
   terms.forEach(term => {
     if (!term) return;
-    const esc_term = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const ep = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     if (cls === 'em') {
-      if (new RegExp(`<em>${esc_term}</em>`).test(s)) return;
-      s = s.replace(new RegExp(esc_term), `<em>${term}</em>`);
+      if (new RegExp(`<em>${ep}</em>`, 'i').test(s)) return;
+      s = s.replace(new RegExp(ep, 'i'), `<em>$&</em>`);
     } else {
-      if (new RegExp(`class="${cls}"[^>]*>${esc_term}`).test(s)) return;
-      s = s.replace(new RegExp(esc_term, 'g'), `<span class="${cls}">${term}</span>`);
+      if (new RegExp(`class="${cls}"[^>]*>${ep}`, 'i').test(s)) return;
+      s = s.replace(new RegExp(ep, 'gi'), `<span class="${cls}">$&</span>`);
     }
   });
   return s;
@@ -291,21 +291,21 @@ function renderDerivation(derivation, subject, keyTerms) {
       const terms = (s.key_terms ?? [])
         .map(t => `<span class="kterm">${esc(t)}</span>`).join('');
       let explanation = (s.explanation ?? '').replace(/&/g, '&amp;').replace(/\n/g, '<br>');
-      // 1. derivation.key_terms → term-hl (보라, 이론 용어)
+      // 1. derivation.key_terms → term-hl (이론 용어, 대소문자 무시)
       termWords.forEach(term => {
         const ep = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        if (!new RegExp(`<em>${ep}</em>`).test(explanation) &&
-            !new RegExp(`class="term-hl"[^>]*>${ep}`).test(explanation)) {
-          explanation = explanation.replace(new RegExp(ep), `<span class="term-hl">${term}</span>`);
+        if (!new RegExp(`<em>${ep}</em>`, 'i').test(explanation) &&
+            !new RegExp(`class="term-hl"[^>]*>${ep}`, 'i').test(explanation)) {
+          explanation = explanation.replace(new RegExp(ep, 'i'), `<span class="term-hl">$&</span>`);
         }
       });
-      // 2. step.key_terms + emKeyTerms → em (주황, 단계별 키워드)
+      // 2. step.key_terms + emKeyTerms → em (대소문자 무시)
       const stepEmTerms = [...new Set([...(s.key_terms ?? []), ...emKeyTerms])];
       stepEmTerms.forEach(term => {
         const ep = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        if (!new RegExp(`<em>${ep}</em>`).test(explanation) &&
-            !new RegExp(`class="term-hl"[^>]*>${ep}`).test(explanation)) {
-          explanation = explanation.replace(new RegExp(ep), `<em>${term}</em>`);
+        if (!new RegExp(`<em>${ep}</em>`, 'i').test(explanation) &&
+            !new RegExp(`class="term-hl"[^>]*>${ep}`, 'i').test(explanation)) {
+          explanation = explanation.replace(new RegExp(ep, 'i'), `<em>$&</em>`);
         }
       });
       html += `
