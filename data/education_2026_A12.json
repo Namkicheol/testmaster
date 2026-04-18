@@ -94,7 +94,7 @@
         "exam_usage": "<A>에서 학생들이 취약한 영역으로 제시; 활동 선택 기준"
       },
       {
-        "term": "Sentence Stress (Contrastive Stress)",
+        "term": "sentence stress",
         "definition_en": "The relative prominence given to certain words within a sentence to highlight meaning or contrast. Shifting stress to different words in the same sentence alters the communicative focus and can change the meaning entirely.",
         "definition_ko": "문장 강세(대조 강세) — 문장 내 특정 단어에 상대적 두드러짐을 부여해 의미나 대조를 부각. 강세 위치 이동으로 동일 문장의 의미가 바뀔 수 있음.",
         "source_author": "Brazil",
@@ -121,7 +121,7 @@
         "exam_usage": "Activity 4에서 'Really?'의 억양 변화로 감정·태도 구별 훈련"
       },
       {
-        "term": "Pronunciation Awareness",
+        "term": "pronunciation",
         "definition_en": "A pedagogical goal in which learners develop conscious attention to phonological features — including suprasegmentals — and their communicative effects, as a precondition for production improvement.",
         "definition_ko": "발음 인식 — 학습자가 음운적 특성(초분절음 포함)과 그 의사소통 효과에 의식적 주의를 기울이게 되는 교육적 목표. 발화 향상의 선행 조건.",
         "source_author": "Celce-Murcia, Brinton & Goodwin",
@@ -204,7 +204,7 @@
         "excerpt": "<span class=\"ref-hl\">Suprasegmental features</span> — <span class=\"ref-hl\">stress, rhythm, and intonation</span> — are more likely than segmental errors to interfere with communication and should receive explicit instructional attention."
       }
     ],
-    "concept_explanation": "Suprasegmental features are phonological properties operating above the level of individual sounds: sentence stress (prominence that shifts meaning focus), rhythm (the stress-timed beat of English), and intonation (pitch patterns signaling emotion, attitude, and discourse structure). Unlike segmental errors, suprasegmental mismatches frequently cause communicative breakdown.\n  (초분절음은 개별 음소 이상에서 작용하는 음운적 특성: 문장 강세(의미 초점 이동), 리듬(영어의 강세 박자), 억양(감정·태도·담화 구조를 나타내는 음높이 패턴). 분절음 오류보다 의사소통 실패를 유발하는 경우가 많아 명시적 교수가 필요하다.)"
+    "concept_explanation": "Suprasegmental features are phonological properties operating above the level of individual sounds: sentence stress (prominence that shifts meaning focus), rhythm (the stress-timed beat of English), and intonation (pitch patterns signaling emotion, attitude, and discourse structure). Unlike segmental errors, suprasegmental mismatches frequently cause communicative breakdown.\n  (초분절음은 개별 음소 이상에서 작용하는 음운적 특성: 문장 강세(의미 초점 이동), 리듬(영어의 강세 박자), 억양(감정·태도·담화 구조를 나타내는 음높이 패턴). 분절음 오류보다 의사소통 실패를 유발하는 경우가 많아 명시적 교수가 필요하다.)\n\nPronunciation awareness involves explicit attention to suprasegmental features such as sentence stress, rhythm, and intonation to improve intelligibility in spoken English."
   },
   "related": {
     "enabled": true,

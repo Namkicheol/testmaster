@@ -86,32 +86,6 @@
           "alignment"
         ],
         "exam_usage": "지문 <A>의 명세표가 각 문항의 의도된 구인을 정의함"
-      },
-      {
-        "term": "Main idea vs. specific detail",
-        "definition_en": "Main idea: the central message or topic of the discourse as a whole. Specific detail: a particular piece of information within the text. Testing one as the other constitutes a construct mismatch.",
-        "definition_ko": "주제(main idea): 담화 전체의 핵심 메시지. 세부 정보(specific detail): 지문 내 특정 사실. 하나를 다른 하나로 측정하면 구인 불일치.",
-        "source_author": "Brown, H. D. & Abeywickrama, P.",
-        "source_year": 2019,
-        "related_terms": [
-          "construct validity",
-          "listening comprehension",
-          "reading comprehension"
-        ],
-        "exam_usage": "Item 1에서 main idea 명세 vs. specific detail 문항 불일치의 핵심 개념"
-      },
-      {
-        "term": "Writer's intention vs. main idea",
-        "definition_en": "Writer's intention: the author's underlying purpose or communicative goal. Main idea: the central topic or message. Title selection assesses main idea, not the inferencing of authorial intent.",
-        "definition_ko": "필자의 의도: 글을 쓴 배경 목적·숨은 의미 추론. 주제: 중심 내용 파악. 제목 선택은 주제 파악 과제이지 의도 추론이 아님.",
-        "source_author": "Brown, H. D. & Abeywickrama, P.",
-        "source_year": 2019,
-        "related_terms": [
-          "construct validity",
-          "reading comprehension",
-          "inferencing"
-        ],
-        "exam_usage": "Item 20에서 writer's intention 명세 vs. title selection 문항 불일치의 핵심 개념"
       }
     ],
     "vocabulary": [],

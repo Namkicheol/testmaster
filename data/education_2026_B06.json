@@ -81,7 +81,7 @@
     ],
     "key_terms": [
       {
-        "term": "Analytic Scoring (Writing Assessment)",
+        "term": "Analytic",
         "definition_en": "A writing assessment method that evaluates multiple distinct categories (e.g., content, organization, grammar) separately, each with its own score. Allows detailed diagnostic feedback but requires that scores and written comments be mutually consistent within each category.",
         "definition_ko": "분석적 채점 — 내용, 구성, 문법 등 여러 범주를 별도 점수로 평가하는 쓰기 평가 방식. 세부 진단 피드백이 가능하나 각 범주 내 점수와 코멘트 간 일관성이 요구됨.",
         "source_author": "Jacobs, Zinkgraf, Wormuth, Hartfiel & Hughey",
@@ -94,7 +94,7 @@
         "exam_usage": "점수 범주(Content/Organization/Grammar)와 코멘트 간 불일치 판단의 근거"
       },
       {
-        "term": "Feedback Consistency (Washback Validity)",
+        "term": "washback",
         "definition_en": "The principle that written comments on assessed work must align with the assigned scores. Inconsistency — where comments imply problems that the score does not reflect, or vice versa — undermines the validity and usefulness of assessment feedback.",
         "definition_ko": "피드백 일관성(환류 타당도) — 평가 결과물에 대한 서면 코멘트는 부여된 점수와 일치해야 한다는 원칙. 점수와 코멘트 간 불일치는 평가 피드백의 타당성과 유용성을 훼손함.",
         "source_author": "Brown & Abeywickrama",
@@ -107,7 +107,7 @@
         "exam_usage": "문제 핵심: Mr. Kim의 코멘트가 점수와 불일치하는 범주를 찾는 것"
       },
       {
-        "term": "Grammar Accuracy in Writing",
+        "term": "Grammar",
         "definition_en": "A scoring category measuring the correctness of grammatical forms including verb tense, agreement, article use, and sentence structure. An 'Excellent' grade implies near-absence of errors; 'Good to Fair' indicates noticeable but non-impeding errors.",
         "definition_ko": "쓰기에서의 문법 정확성 — 시제, 일치, 관사 사용, 문장 구조 등 문법 형식의 정확도를 측정하는 채점 범주. Excellent는 오류가 거의 없어야 하며 Good to Fair는 의사소통을 방해하지 않는 수준의 오류를 허용함.",
         "source_author": "Brown & Abeywickrama",
@@ -171,7 +171,7 @@
         "excerpt": "In <span class=\"ref-hl\">analytic scoring</span>, <span class=\"ref-hl\">each criterion must be evaluated independently</span> and the accompanying written feedback should accurately reflect the score assigned in order to preserve validity and provide actionable guidance."
       }
     ],
-    "concept_explanation": "Analytic writing assessment evaluates Content, Organization, and Grammar as separate dimensions, each with its own score and feedback. For assessment to be valid, scores and comments must be consistent within each category: an 'Excellent' grammar score should not be accompanied by comments implying errors exist, and a 'Good to Fair' comment should account for all observable error types in the student's text.\n  (분석적 쓰기 평가는 내용·구성·문법을 별도 차원으로 평가하며 각각 점수와 피드백을 부여한다. 평가의 타당성을 위해 점수와 코멘트는 범주 내에서 일관되어야 한다: Excellent 문법 점수는 오류 존재를 암시하는 코멘트와 함께 제시될 수 없으며, Good to Fair 코멘트는 학생 글에 존재하는 모든 오류 유형을 반영해야 한다.)"
+    "concept_explanation": "Analytic writing assessment evaluates Content, Organization, and Grammar as separate dimensions, each with its own score and feedback. For assessment to be valid, scores and comments must be consistent within each category: an 'Excellent' grammar score should not be accompanied by comments implying errors exist, and a 'Good to Fair' comment should account for all observable error types in the student's text.\n  (분석적 쓰기 평가는 내용·구성·문법을 별도 차원으로 평가하며 각각 점수와 피드백을 부여한다. 평가의 타당성을 위해 점수와 코멘트는 범주 내에서 일관되어야 한다: Excellent 문법 점수는 오류 존재를 암시하는 코멘트와 함께 제시될 수 없으며, Good to Fair 코멘트는 학생 글에 존재하는 모든 오류 유형을 반영해야 한다.)\n\nWashback validity: the extent to which assessment scores and feedback consistently reflect actual learner performance, ensuring that teaching and learning behaviors align with assessment goals."
   },
   "related": {
     "enabled": true,

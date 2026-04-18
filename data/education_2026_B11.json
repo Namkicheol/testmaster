@@ -89,7 +89,7 @@
         "exam_usage": "Mr. Kang의 수정본: Card A(고객)/Card B(판매원)으로 정보 격차 도입"
       },
       {
-        "term": "Communicative Language Teaching (CLT)",
+        "term": "CLT",
         "definition_en": "An approach to language teaching that prioritizes the development of communicative competence, viewing language as a tool for meaning-making in real-world contexts. CLT tasks are characterized by authentic purpose, information exchange, and focus on communication rather than form.",
         "definition_ko": "의사소통 중심 교수법(CLT) — 언어를 실세계 맥락에서 의미 생성의 도구로 보고 의사소통 능력 개발을 우선시하는 교수 접근법. CLT 과제는 실제적 목적, 정보 교환, 형식보다 의사소통 중심이 특징.",
         "source_author": "Hymes",
@@ -102,7 +102,7 @@
         "exam_usage": "<A>의 5가지 특성이 CLT 원리를 반영"
       },
       {
-        "term": "Language as Communication vs. Grammar Practice",
+        "term": "language as communication",
         "definition_en": "A distinction central to CLT: in grammar-focused activities, language production is a vehicle for demonstrating correct form; in communicative activities, language is the means through which learners express genuine meaning and achieve real-world goals. Characteristic 5 in <A> captures this distinction.",
         "definition_ko": "의사소통 수단 vs. 문법 연습 — CLT의 핵심 구분: 문법 중심 활동에서는 언어 산출이 올바른 형식 시연 수단이지만, 의사소통 활동에서는 학습자가 실제 의미를 표현하고 실세계 목적을 달성하는 수단. <A>의 Characteristic 5가 이 구분을 포착함.",
         "source_author": "Widdowson",
@@ -115,7 +115,7 @@
         "exam_usage": "Ms. Shin의 원본(object pronoun 연습) → 수정본(의견 표현 의사소통)의 차이 근거"
       },
       {
-        "term": "Interpersonal Communication Activity",
+        "term": "interpersonal communication",
         "definition_en": "A task type in which learners exchange information, ideas, or opinions with a partner or group, characterized by genuine meaning negotiation, a communicative goal, and use of language as a real interactional tool rather than a formal display.",
         "definition_ko": "대인 의사소통 활동 — 학습자가 파트너나 그룹과 정보·아이디어·의견을 교환하는 과제 유형. 진정한 의미 협상, 의사소통 목표, 형식 과시가 아닌 실제 상호작용 수단으로서 언어 사용이 특징.",
         "source_author": "Nunan",
@@ -179,7 +179,7 @@
         "excerpt": "A <span class=\"ref-hl\">communicative task</span> involves an <span class=\"ref-hl\">information gap</span>: participants must <span class=\"ref-hl\">exchange information</span> they do not share, and language serves as the primary instrument for achieving this exchange."
       }
     ],
-    "concept_explanation": "Interpersonal communication activities are distinguished from mechanical drills by five key characteristics: (1) a concrete outcome, (2) an information gap, (3) authentic materials, (4) opportunities for language reflection, and (5) language used to communicate rather than to practice form. An information gap (Characteristic 2) is present when participants hold different information that must be exchanged to complete the task; without it, communication is merely performative. Language as communication (Characteristic 5) is realized when learners express genuine meaning rather than demonstrating a target grammatical structure.\n  (대인 의사소통 활동은 기계적 드릴과 달리 5가지 핵심 특성으로 구분된다: ① 구체적 결과물, ② 정보 격차, ③ 실제 자료, ④ 언어 사용 성찰 기회, ⑤ 형식 연습이 아닌 의사소통 수단으로서 언어 사용. 정보 격차(Characteristic 2)는 참여자가 서로 다른 정보를 보유하고 교환해야 과제가 완수될 때 성립한다. 의사소통 수단으로서 언어 사용(Characteristic 5)은 목표 문법 구조 시연이 아닌 실제 의미 표현 시 실현된다.)"
+    "concept_explanation": "Interpersonal communication activities are distinguished from mechanical drills by five key characteristics: (1) a concrete outcome, (2) an information gap, (3) authentic materials, (4) opportunities for language reflection, and (5) language used to communicate rather than to practice form. An information gap (Characteristic 2) is present when participants hold different information that must be exchanged to complete the task; without it, communication is merely performative. Language as communication (Characteristic 5) is realized when learners express genuine meaning rather than demonstrating a target grammatical structure.\n  (대인 의사소통 활동은 기계적 드릴과 달리 5가지 핵심 특성으로 구분된다: ① 구체적 결과물, ② 정보 격차, ③ 실제 자료, ④ 언어 사용 성찰 기회, ⑤ 형식 연습이 아닌 의사소통 수단으로서 언어 사용. 정보 격차(Characteristic 2)는 참여자가 서로 다른 정보를 보유하고 교환해야 과제가 완수될 때 성립한다. 의사소통 수단으로서 언어 사용(Characteristic 5)은 목표 문법 구조 시연이 아닌 실제 의미 표현 시 실현된다.)\n\nCLT (Communicative Language Teaching): an approach that treats language as a means of communication rather than a formal system to be memorized, prioritizing meaningful interaction and functional language use over explicit grammar practice."
   },
   "related": {
     "enabled": true,
