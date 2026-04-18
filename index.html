@@ -21,20 +21,30 @@ html,body{height:100%;}
 body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-serif;font-size:clamp(15px,2.1vw,16.5px);line-height:1.85;display:flex;flex-direction:column;overflow:hidden;}
 
 /* ── 헤더 ── */
-.site-header{text-align:center;padding:0;flex-shrink:0;background:linear-gradient(135deg,rgba(46,125,82,.08) 0%,rgba(38,166,154,.06) 100%);border-bottom:1.5px solid var(--border);}
-.site-header-inner{padding:20px 16px 16px;}
-.site-logo{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:11px;color:#2e7d52;background:rgba(46,125,82,.12);border:1px solid rgba(46,125,82,.35);padding:4px 14px;border-radius:20px;letter-spacing:2.5px;text-transform:uppercase;margin-bottom:10px;}
+.site-header{flex-shrink:0;background:#152e22;position:relative;overflow:hidden;}
+.site-header::before{
+  content:'';position:absolute;inset:0;
+  background:radial-gradient(ellipse at 15% 50%,rgba(46,125,82,.45) 0%,transparent 55%),
+             radial-gradient(ellipse at 85% 50%,rgba(38,166,154,.3) 0%,transparent 55%);
+  pointer-events:none;
+}
+.site-header::after{
+  content:'';position:absolute;bottom:0;left:0;right:0;height:3px;
+  background:linear-gradient(90deg,#2e7d52 0%,#26a69a 50%,#52b788 100%);
+}
+.site-header-inner{position:relative;padding:15px 20px 17px;text-align:center;}
 .site-title{
   font-family:'Noto Sans KR',sans-serif;
-  font-size:clamp(24px,4.5vw,32px);
-  font-weight:700;
-  background:linear-gradient(135deg,#1b5e3a 0%,#2e7d52 40%,#26a69a 100%);
-  -webkit-background-clip:text;background-clip:text;
-  -webkit-text-fill-color:transparent;color:transparent;
-  margin-bottom:4px;letter-spacing:-0.5px;
+  font-size:clamp(18px,3.6vw,23px);
+  font-weight:800;color:#e8f5e9;
+  letter-spacing:-0.3px;line-height:1.25;
 }
-.site-title .dot{-webkit-text-fill-color:#26a69a;color:#26a69a;}
-.site-sub{font-size:12px;color:var(--text-sub);font-family:'JetBrains Mono',monospace;letter-spacing:.5px;}
+.site-title .hl{color:#52b788;}
+.site-sub{
+  margin-top:5px;font-size:11px;
+  color:rgba(255,255,255,.45);
+  font-family:'JetBrains Mono',monospace;letter-spacing:.8px;
+}
 
 /* ── 필터 ── */
 .filter-bar{padding:12px 16px 0;max-width:720px;margin:0 auto;width:100%;flex-shrink:0;}
@@ -188,9 +198,8 @@ body{background:var(--bg);color:var(--text);font-family:'Noto Sans KR',sans-seri
 
 <header class="site-header">
   <div class="site-header-inner">
-    <div class="site-logo">중등임용 전공영어</div>
-    <div class="site-title">기출마스터<span class="dot">.</span></div>
-    <div class="site-sub">영어학 · 영어교육론 · 일반영어 기출문제 분석</div>
+    <div class="site-title">전공영어 <span class="hl">기출마스터</span></div>
+    <div class="site-sub">영어학 &nbsp;·&nbsp; 영어교육론 &nbsp;·&nbsp; 일반영어 기출문제 분석</div>
   </div>
 </header>
 
