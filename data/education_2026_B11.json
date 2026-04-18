@@ -28,12 +28,7 @@
         "step": 1,
         "label": "발문 및 조건 확인",
         "explanation": "각 교사의 수정 전/후 활동을 비교해 <A>의 특성 중 수정본에 새롭게 포함된 1개를 찾아야 함. 핵심 방법: 원본 활동에 없던 것이 수정본에 추가되었는가를 각 Characteristic과 대조. Characteristic 1(구체적 결과물), 2(정보 격차), 3(실제 자료), 4(언어 사용 성찰), 5(의사소통 수단).",
-        "key_terms": [
-          "interpersonal communication",
-          "CLT",
-          "information gap",
-          "authentic task"
-        ]
+        "key_terms": []
       },
       {
         "step": 2,
@@ -41,7 +36,6 @@
         "explanation": "원본: 교과서 대화를 그대로 읽고 역할극 → 두 학생이 같은 텍스트를 읽으므로 정보 격차 없음. Characteristic 2 부재. 수정본: Card A(고객 — 예산 $40, 필요 물품)와 Card B(판매원 — 상품 목록)로 각자 다른 정보 보유 → 서로에게 없는 정보를 교환해야 과제 완수 가능. Characteristic 2(information gap) 새로 포함 ✓",
         "key_terms": [
           "information gap",
-          "Card A/B",
           "Characteristic 2"
         ]
       },
@@ -50,8 +44,7 @@
         "label": "Mr. Kang 다른 Characteristic 소거",
         "explanation": "Characteristic 1(결과물): 원본에도 역할극 수행이 있으나 수정본에도 명시적 결과물 추가는 아님. Characteristic 3(실제 자료): 여행 중 지연된 수하물 상황은 실제적이지만, 핵심 변화는 정보 격차 도입. Characteristic 5: 원본도 의사소통 지향적. → 가장 명확히 새로 도입된 것은 Characteristic 2.",
         "key_terms": [
-          "elimination",
-          "Characteristic 2 primary change"
+          "Characteristic 2"
         ]
       },
       {
@@ -59,8 +52,7 @@
         "label": "Ms. Shin 원본 vs. 수정본 대조",
         "explanation": "원본: 정해진 질문에 올바른 목적격 대명사를 사용해 완전한 문장으로 대답 → 특정 문법 포인트(object pronoun) 연습이 목적. Characteristic 5 부재. 수정본: 1–5 척도로 집안일에 대한 개인 의견 표현 + 이유 설명 → 정해진 문법 구조 없음, 자신의 실제 선호도를 전달하는 의사소통. Characteristic 5(언어를 문법 연습 수단이 아닌 의사소통 수단으로 사용) 새로 포함 ✓",
         "key_terms": [
-          "language as communication",
-          "grammar practice eliminated",
+          "object pronoun",
           "Characteristic 5"
         ]
       },
@@ -69,8 +61,8 @@
         "label": "최종 확정",
         "explanation": "Mr. Kang → Characteristic 2: 수정본에서 Card A/B로 정보 격차 도입. Ms. Shin → Characteristic 5: 수정본에서 문법 연습이 아닌 실제 의사소통 목적으로 언어 사용. 각각 원본 활동에 없던 것이 수정을 통해 추가된 것임을 지문 근거로 확인.",
         "key_terms": [
-          "Characteristic 2 for Mr. Kang",
-          "Characteristic 5 for Ms. Shin"
+          "Characteristic 2",
+          "Characteristic 5"
         ]
       }
     ],

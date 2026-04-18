@@ -40,9 +40,8 @@
         "label": "Activity 1 분석",
         "explanation": "같은 문장에서 강조 위치가 달라질 때 의미가 달라짐('not the red jumper' → 강조 이동). 학생들이 강조된 단어를 찾고(underline) 의미 변화를 설명. Sentence stress가 의미 전달에 미치는 영향 직접 인식 → <A> 조건 충족 ✓",
         "key_terms": [
-          "sentence stress",
-          "contrastive stress",
-          "meaning change"
+          "Sentence stress",
+          "underline"
         ]
       },
       {
@@ -50,9 +49,10 @@
         "label": "Activity 2 분석",
         "explanation": "단어의 음절 수와 강세 위치 파악 → word-level stress 연습. Word stress는 초분절음이지만 <A>가 명시한 sentence stress, rhythm, intonation이 아님. 또한 의사소통에서의 의미·감정·태도 전달과 직접 연결되지 않음 → <A> 조건에 부분적으로만 해당 ✗",
         "key_terms": [
-          "word stress",
-          "syllable",
-          "segmental vs suprasegmental"
+          "word-level stress",
+          "Word stress",
+          "sentence stress",
+          "intonation"
         ]
       },
       {
@@ -73,8 +73,7 @@
         "key_terms": [
           "intonation",
           "attitude",
-          "emotion",
-          "same word different meaning"
+          "emotion"
         ]
       }
     ],

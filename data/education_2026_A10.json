@@ -29,9 +29,7 @@
         "label": "발문 및 목표 조건 확인",
         "explanation": "발문: 교수학습 활동이 달성 가능한 목표 2개를 식별하고 근거를 제시하라. 핵심 판단 기준: 각 Objective에 대응하는 구체적 활동이 지문에 존재하는지 여부. Objective 1(세계 속담 특성 이해), 2(영어 속담 의미 파악), 3(한국어↔영어 속담 문화 차이 토론), 4(조사 결과 기반 발표)를 각각 대조한다.",
         "key_terms": [
-          "lesson objective",
-          "teaching activity",
-          "alignment"
+          "Objective"
         ]
       },
       {
@@ -39,8 +37,7 @@
         "label": "Objective 2 ↔ 활동 대응",
         "explanation": "Step 2: 'T asks Ss to guess the meanings of the proverbs using context and write them in Worksheet 1. T explains meanings.' → 학생들이 문맥을 이용해 속담 의미를 추측하고 기록한 뒤 교사 설명 확인. Objective 2(영어 속담 의미 파악)와 직접 대응. 활동 증거 충분 ✓",
         "key_terms": [
-          "context clues",
-          "meaning inference",
+          "context",
           "Worksheet 1"
         ]
       },
@@ -49,9 +46,7 @@
         "label": "Objective 3 ↔ 활동 대응 검토",
         "explanation": "Objective 3: 한국어와 영어 음식 관련 속담의 문화적 차이를 토론. Step 2의 토론 주제는 'how the proverbs are related to the food culture of English speaking countries' → 영어권 문화와 속담의 연관성 토론이지, 한국어 vs 영어 문화 비교가 아님. 한국 속담과 비교하는 활동이 없으므로 Obj 3 달성 불가 ✗",
         "key_terms": [
-          "cultural comparison",
-          "Korean proverbs",
-          "absence of activity"
+          "food culture"
         ]
       },
       {
@@ -59,10 +54,8 @@
         "label": "Objective 4 ↔ 활동 대응",
         "explanation": "Step 3: 그룹이 온라인으로 새 영어 속담을 찾고, Worksheet 2(Proverb / Possible misunderstanding / Meaning)로 소개 계획 수립, 뉴스 카드 제작 후 전체 발표. Objective 4 'present food-related English proverbs based on their findings'와 정확히 대응. 자신들의 조사 결과(findings)를 발표(present) ✓",
         "key_terms": [
-          "presentation",
-          "news card",
-          "group work",
-          "findings"
+          "findings",
+          "present"
         ]
       },
       {
@@ -70,8 +63,7 @@
         "label": "최종 선택 및 Objective 1 검토",
         "explanation": "Objective 1(세계 속담 특성 이해): Step 1에서 공통점 찾기, Step 2에서 문화와 속담 연관성 논의가 간접적으로 해당되나, '세계 속담'의 '특성'을 체계적으로 이해하는 활동이 명시적이지 않음. 반면 Objective 2(의미 파악)와 Objective 4(발표)는 각각 Step 2와 Step 3에서 명확히 달성 가능. 최종 답: Objectives 2 and 4.",
         "key_terms": [
-          "objective alignment",
-          "evidence-based selection"
+          "Objectives 2 and 4"
         ]
       }
     ],

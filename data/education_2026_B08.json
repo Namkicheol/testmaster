@@ -28,20 +28,15 @@
         "step": 1,
         "label": "발문 및 조건 확인",
         "explanation": "각 Activity에서 어느 Tip이 적용되었는지 찾아야 함. 핵심 판단 기준: ① 두 수준 간 '무엇이 다른가'를 정확히 파악하고, ② 그 차이가 Tip 1~5 중 어느 정의와 대응하는지 매핑. Tip 1(내용 수준 차이), Tip 2(자료 지원 수준 차이), Tip 3(일찍 끝낸 학생 활동), Tip 4(역할 배분), Tip 5(인지 기술 수준 차이).",
-        "key_terms": [
-          "differentiated instruction",
-          "mixed-ability",
-          "Bloom's taxonomy"
-        ]
+        "key_terms": []
       },
       {
         "step": 2,
         "label": "Activity 1 차이점 분석",
         "explanation": "두 수준 모두 같은 '빈칸 채우기' 과제 + 같은 단어 박스(word box). 차이: 저수준은 각 단어의 첫 글자 힌트 제공, 중간수준은 힌트 없음. 과제 내용(content)은 동일, 역할도 없음. 차이는 오직 '지원(support)' 수준 — 첫 글자 힌트 = scaffold 제공 여부. → Tip 2 적용 ✓",
         "key_terms": [
-          "scaffolding",
-          "first-letter hint",
-          "support level",
+          "word box",
+          "scaffold",
           "Tip 2"
         ]
       },
@@ -50,8 +45,9 @@
         "label": "Activity 1 다른 Tip 소거",
         "explanation": "Tip 1(내용 차이): 두 수준 모두 같은 빈칸 채우기 → 내용 차이 없음 ✗. Tip 4(역할 배분): 개인 과제, 역할 없음 ✗. Tip 5(인지 기술 차이): 두 수준 모두 빈칸 채우기(recall/recognition) → 같은 인지 과정 ✗. → Tip 2만 해당.",
         "key_terms": [
-          "elimination",
-          "same task different support"
+          "recall",
+          "recognition",
+          "Tip 2"
         ]
       },
       {
@@ -59,9 +55,9 @@
         "label": "Activity 2 차이점 분석",
         "explanation": "저수준: 사진-설명 매칭(matching). 중간수준: 매칭 + 순서 배열(ordering). 같은 자료, 같은 역할, 지원 수준 같음. 차이: 중간수준에는 추가 과제(ordering)가 있고 이는 더 높은 인지적 요구(sequencing/analysis). 매칭 = recognition/understanding, 순서 배열 = analysis(Bloom). 다른 인지 기술 적용 → Tip 5 ✓",
         "key_terms": [
-          "cognitive skills",
-          "matching vs. ordering",
-          "Bloom's taxonomy",
+          "matching",
+          "ordering",
+          "analysis",
           "Tip 5"
         ]
       },
@@ -70,8 +66,8 @@
         "label": "최종 확정",
         "explanation": "Activity 1 → Tip 2: 같은 과제와 자료에서 힌트(첫 글자) 유무로 지원 수준 차별화. Activity 2 → Tip 5: 저수준은 매칭(이해 수준 인지), 중간수준은 매칭+순서 배열(분석 수준 인지) — 다른 인지 기술 요구. 각각 지문 증거로 뒷받침.",
         "key_terms": [
-          "Tip 2 for Activity 1",
-          "Tip 5 for Activity 2"
+          "Tip 2",
+          "Tip 5"
         ]
       }
     ],

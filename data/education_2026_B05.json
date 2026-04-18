@@ -28,13 +28,7 @@
         "step": 1,
         "label": "발문 및 조건 확인",
         "explanation": "각 교사의 문제(problem)와 기대 결과(expected outcomes)를 정확히 파악해야 함. Ms. Song: 피어 피드백 시간 부족 + 온라인 협력 환경 필요. Mr. Jung: 정확성만 측정하는 현재 도구의 한계 → 유창성+정확성 피드백 + 시각 데이터 기반 평가 필요. 각 Product의 기능을 두 조건과 매핑한다.",
-        "key_terms": [
-          "peer feedback",
-          "fluency",
-          "accuracy",
-          "visual data",
-          "CALL"
-        ]
+        "key_terms": []
       },
       {
         "step": 2,
@@ -42,9 +36,7 @@
         "explanation": "Ms. Song 조건: ① 학생들이 온라인에서 서로 말하기에 피드백 제공 + 자기성찰, ② 협력 환경 제공. Product 4: 학생들이 녹음 업로드 → 피어 피드백 수신 + 자기평가 + 동기적(synchronously) 상호작용 → 두 조건 모두 충족. Product 1은 자기 성찰(reflection)은 있지만 피어 피드백과 협력 상호작용이 없음 → 탈락.",
         "key_terms": [
           "Product 4",
-          "peer scaffolding",
-          "synchronous interaction",
-          "self-evaluation"
+          "synchronously"
         ]
       },
       {
@@ -52,8 +44,8 @@
         "label": "Product 1 vs. Product 4 소거",
         "explanation": "Product 1: 녹음→청취→자기 반성 작성, 교사 로그 검토 → 피어 피드백 없음, 협력 환경 아님 → Ms. Song 조건 불충족 ✗. Product 4: peer scaffolding + 피어 피드백 + synchronous interaction → Ms. Song 조건 정확히 충족 ✓",
         "key_terms": [
-          "self-reflection vs. peer feedback",
-          "collaborative environment"
+          "peer scaffolding",
+          "synchronous interaction"
         ]
       },
       {
@@ -62,10 +54,8 @@
         "explanation": "Mr. Jung 조건: ① 정확성 AND 유창성 피드백, ② 시각 데이터 기반 평가. Product 3: 교사가 발화 속도(speech rate) + 휴지 빈도(pauses) → 유창성 측정, 정확성 포함, 차트/그래프 제공 → 시각 데이터. 두 조건 모두 충족 ✓. Product 2는 정확성 피드백 + 시각 파형 있지만 유창성(속도·휴지) 측정 없음 → 탈락.",
         "key_terms": [
           "Product 3",
-          "rate of speech",
-          "frequency of pauses",
-          "charts/graphs",
-          "fluency + accuracy"
+          "speech rate",
+          "pauses"
         ]
       },
       {
@@ -73,8 +63,10 @@
         "label": "최종 확정",
         "explanation": "Ms. Song → Product 4: peer feedback + self-evaluation + synchronous collaboration. Mr. Jung → Product 3: fluency(rate, pauses) + accuracy + visual charts. 각 선택이 <A>의 문제와 기대 결과에 항목별로 대응됨을 근거로 제시.",
         "key_terms": [
-          "Product 4 for Ms. Song",
-          "Product 3 for Mr. Jung"
+          "peer feedback",
+          "self-evaluation",
+          "fluency",
+          "accuracy"
         ]
       }
     ],
