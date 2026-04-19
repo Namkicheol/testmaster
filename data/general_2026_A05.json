@@ -137,13 +137,13 @@
     "variants": [
       {
         "label": "답안 A",
-        "source_type": "variant",
-        "content": "The narrator feels ashamed because her mother's overdressed appearance stands out among the poor neighbors, drawing unwanted attention. The narrator wishes to blend into the community but is forced to appear conspicuously different, causing her to feel ridiculed and alienated."
+        "source_type": "instructor",
+        "content": "Their elegant, overdressed appearance sharply contrasts with the poverty around them, making the narrator feel exposed, out of place, and publicly mocked."
       },
       {
         "label": "답안 B",
-        "source_type": "variant",
-        "content": "The narrator is embarrassed by how conspicuously different she and her mother look compared to the neighbors. Her mother's refusal to adapt to their new circumstances highlights the gap between them and the community, making the narrator feel like an object of mockery rather than a member of the neighborhood."
+        "source_type": "instructor",
+        "content": "Their refined appearance looks out of place in the poor neighborhood, making the narrator feel conspicuous and ridiculed — not part of the community she must now live in."
       }
     ]
   },

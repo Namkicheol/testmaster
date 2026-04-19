@@ -132,13 +132,13 @@
     "variants": [
       {
         "label": "답안 A",
-        "source_type": "variant",
-        "content": "The narrator recalls this detail with irritation because, lacking intimacy with Mala, he views her emotional fragility as an inconvenience rather than something to empathize with. Watching the Indian woman struggle made him think of Mala's dependence, but his emotional distance prevents genuine concern."
+        "source_type": "instructor",
+        "content": "Her past tears over a minor separation reveal her dependence and foreshadow the burdens he must bear alone in America, which irritates him given their lack of intimacy."
       },
       {
         "label": "답안 B",
-        "source_type": "variant",
-        "content": "The narrator recalls Mala's weeping over a small separation with irritation because he has no emotional bond with her. The Indian woman's mishap makes him aware of his duty to protect Mala, but this awareness is practical, not emotional — reflecting the lack of intimacy between them."
+        "source_type": "instructor",
+        "content": "Mala's weeping over a five-mile separation shows how vulnerable and dependent she is, reminding him of the sole responsibility he must bear for a wife he barely knows."
       }
     ]
   },

@@ -46,24 +46,23 @@
       {
         "step": 3,
         "label": "후보 소거",
-        "explanation": "- grief: ✗ (지문에 'grief'라는 단어가 직접 등장하지 않음)\n- loneliness: ✓ (정답)\n- solitude: ✓ (정답)",
+        "explanation": "- grief: ✗ (지문에 'grief'라는 단어가 직접 등장하지 않음)\n- solitude: ✗ (지문에 직접 등장하지 않는 단어 — passage-bound 규칙 위반)\n- loneliness: ✓ (정답) — 마지막 연 'And my own loneliness.'에 직접 등장",
         "key_terms": [
-          "loneliness",
-          "solitude"
+          "loneliness"
         ]
       },
       {
         "step": 4,
         "label": "확정 근거",
-        "explanation": "최종 정답: solitude\n\n[content] 마지막 연에 'And my own loneliness.'가 명시됨. Commentary의 blank target은 이 감정 상태를 지칭. solitude와 loneliness 모두 시에서 지지되지만, 채점 기준상 solitude가 모범답안\n→ 근거: \"And my own loneliness.\"\n\n[context_flow] 혼자 마지막 채소를 수확하고, 아버지의 환영을 보고, 홀로 식사를 준비하는 전체 맥락이 '고독한 순간'을 구성\n→ 근거: \"I've pulled the last of the year's young onions. / The garden is bare now.\"",
+        "explanation": "최종 정답: loneliness\n\n[content] 마지막 연에 'And my own loneliness.'가 명시됨. Commentary의 blank target은 이 감정 상태를 지칭. 지문에 직접 등장하는 단어이므로 passage-bound 규칙을 충족\n→ 근거: \"And my own loneliness.\"\n\n[context_flow] 혼자 마지막 채소를 수확하고, 아버지의 환영을 보고, 홀로 식사를 준비하는 전체 맥락이 '고독한 순간'을 구성\n→ 근거: \"I've pulled the last of the year's young onions. / The garden is bare now.\"",
         "key_terms": [
-          "solitude"
+          "loneliness"
         ]
       },
       {
         "step": 5,
         "label": "전략 메모",
-        "explanation": "출제 패턴 / 풀이 원칙:\n① 시에서 빈칸은 지문(시)에 등장한 단어를 찾는다 — passage-bound 원칙\n② Commentary의 '변환(transforms)' 구조 파악: X → reflection/remembrance. X = 시가 다루는 핵심 감정 상태\n③ 마지막 연에 정답 단서가 집중되는 경우가 많음 — 결말 연 우선 확인\n\n함정:\n- grief, loss, mourning 등 지문에 없는 단어로 답하는 오류\n- loneliness도 정답으로 인정 가능 — 채점 기준 확인 필요",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① 시에서 빈칸은 지문(시)에 등장한 단어를 찾는다 — passage-bound 원칙\n② Commentary의 '변환(transforms)' 구조 파악: X → reflection/remembrance. X = 시가 다루는 핵심 감정 상태\n③ 마지막 연에 정답 단서가 집중되는 경우가 많음 — 결말 연 우선 확인\n\n함정:\n- grief, loss, mourning 등 지문에 없는 단어로 답하는 오류\n- solitude는 지문에 직접 등장하지 않으므로 passage-bound 규칙상 불가",
         "key_terms": []
       }
     ],
@@ -112,13 +111,13 @@
       "blank_answers": [
         {
           "label": "빈칸",
-          "answer": "solitude"
+          "answer": "loneliness"
         }
       ],
       "essay_content": "",
       "scoring_criteria": [
         {
-          "criterion": "solitude (또는 loneliness)",
+          "criterion": "loneliness (또는 solitude)",
           "points": 2
         }
       ]
@@ -137,7 +136,7 @@
         "excerpt": ""
       }
     ],
-    "concept_explanation": "Li-Young Lee의 「Eating Alone」: 혼자 식사를 준비하는 일상적 순간이 돌아가신 아버지에 대한 기억과 애도로 자연스럽게 연결된다. solitude(고독)는 단순한 외로움이 아니라 성찰(reflection)과 추억(remembrance)의 공간이 된다.\n\n시의 구조:\n- 1연: 현재 — 텅 빈 정원, 마지막 양파 수확 → 고독한 현재\n- 2연: 과거 — 아버지와 함께 걷던 기억 → 썩은 배 속의 말벌\n- 3연: 환각/환영 — 아버지의 모습이 삽으로 대체 → 상실의 확인\n- 4연: 현재 — 혼자 식사 준비, '나 자신의 고독' 직접 언급\n\n핵심 이미지: 양파, 썩은 배, 삽 — 평범한 사물들이 감정적 연결을 유지하는 매개체."
+    "concept_explanation": "Li-Young Lee의 「Eating Alone」: 혼자 식사를 준비하는 일상적 순간이 돌아가신 아버지에 대한 기억과 애도로 자연스럽게 연결된다. loneliness(고독/외로움)는 단순한 쓸쓸함이 아니라 성찰(reflection)과 추억(remembrance)의 공간이 된다.\n\n시의 구조:\n- 1연: 현재 — 텅 빈 정원, 마지막 양파 수확 → 고독한 현재\n- 2연: 과거 — 아버지와 함께 걷던 기억 → 썩은 배 속의 말벌\n- 3연: 환각/환영 — 아버지의 모습이 삽으로 대체 → 상실의 확인\n- 4연: 현재 — 혼자 식사 준비, '나 자신의 고독' 직접 언급\n\n핵심 이미지: 양파, 썩은 배, 삽 — 평범한 사물들이 감정적 연결을 유지하는 매개체."
   },
   "related": {
     "enabled": false,

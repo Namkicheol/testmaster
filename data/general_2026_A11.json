@@ -124,18 +124,18 @@
           "answer": "close-up"
         }
       ],
-      "essay_content": "The close-up singles out a character from the surrounding crowd, revealing inner emotional isolation — a mental loneliness that stage soliloquy, requiring physical solitude, cannot capture.",
+      "essay_content": "The close-up reveals a character's unspoken inner feelings through subtle facial expressions, exposing the silent emotional truth that contrasts with the words being spoken aloud.",
       "scoring_criteria": [
         {
           "criterion": "빈칸 — close-up",
           "points": 1
         },
         {
-          "criterion": "군중 속에서도 인물을 고립시켜 보여준다는 내용",
+          "criterion": "얼굴(표정)의 미세한 움직임을 통해 내면의 진실을 드러낸다는 내용",
           "points": 1.5
         },
         {
-          "criterion": "정신적(내면적) 고독을 드러낸다는 내용",
+          "criterion": "소리로 오가는 대화와 대비되는 내면의 무언 독백/진실이라는 내용",
           "points": 1.5
         }
       ]
@@ -144,12 +144,12 @@
       {
         "label": "답안 A",
         "source_type": "variant",
-        "content": "It means the close-up exposes a character's inner isolation even when surrounded by others, revealing mental loneliness that stage soliloquy cannot express."
+        "content": "It means the close-up forces viewers to perceive the character's unspoken inner feelings, exposing the silent emotional truth that contrasts with the dialogue being spoken aloud."
       },
       {
         "label": "답안 B",
         "source_type": "variant",
-        "content": "The close-up reveals psychological solitude even in a crowd — capturing mental loneliness that the stage monologue, requiring physical isolation, cannot show."
+        "content": "The close-up allows the audience to notice a character's true inner feelings through silent facial expressions, revealing what cannot be expressed through spoken words alone."
       }
     ]
   },
@@ -174,7 +174,7 @@
         "excerpt": ""
       }
     ],
-    "concept_explanation": "Béla Balázs의 클로즈업 이론: 영화의 클로즈업은 인물의 얼굴을 확대하여 내면을 가시화하는 기법이다. Balázs는 무대와 영화를 다음과 같이 대비한다.\n\n무대 독백: 물리적으로 혼자일 때만 가능 → 정신적 고독을 표현하는 데 한계\n영화 클로즈업: 군중 속에 있어도 인물을 고립시켜 내면의 정신적 고독을 포착 가능\n\n핵심 대비 구조:\n- spoken soliloquy(구어 독백) ↔ silent soliloquy / mute face(침묵의 독백)\n- physical solitude(물리적 고독) ↔ mental loneliness(정신적 고독)\n- stage(무대의 한계) ↔ close-up(영화의 확장된 가능성)\n\n'crowded solitude'(군중 속 고독)은 클로즈업만이 포착 가능한 역설적 상태를 의미한다."
+    "concept_explanation": "Béla Balázs의 클로즈업 이론: 영화의 클로즈업은 인물의 얼굴을 확대하여 내면을 가시화하는 기법이다. Balázs는 무대와 영화를 다음과 같이 대비한다.\n\n무대: 물리적으로 혼자일 때만 독백 가능. 표정 미세 근육 읽기 불가 → 내면 표현 한계\n영화 클로즈업: 대화 도중에도 인물의 내면을 얼굴 표정으로 드러냄 → 말로 하는 것과 다른 진실(mute soliloquy) 포착 가능\n\n핵심 대비 구조:\n- spoken soliloquy(구어 독백) ↔ silent/mute soliloquy(침묵의 독백/얼굴 표정)\n- stage(대화 상대에게 들키지 않는 내면을 표현 못함) ↔ close-up(안면 근육의 미세 움직임으로 내면까지 포착)\n- 밑줄 설명 핵심: 클로즈업이 얼굴 표정을 통해 대화와 대비되는 내면의 진실을 드러낸다는 것\n\n'crowded solitude'(군중 속 고독)은 클로즈업이 포착 가능한 역설적 상태 — 빈칸(close-up)을 유추하는 맥락 단서로도 활용."
   },
   "related": {
     "enabled": false,
