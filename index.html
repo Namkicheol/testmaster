@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="ko" style="background:#f0faf4;color:#1a3326;">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>전공영어 기출마스터</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f0faf4;--surface:#ffffff;--surface2:#f5fdf8;--surface3:#eaf7f0;
+  --border:#b2dfcc;--border2:#c8ead8;
+  --accent:#2e7d52;--accent-dim:rgba(46,125,82,.1);
+  --accent2:#26a69a;--accent3:#e65100;--accent4:#c62828;
+  --text:#1a3326;--text-sub:#4a7a62;--text-dim:#8ab8a0;
+  --blank-bg:rgba(46,125,82,.12);--blank-border:#2e7d52;--blank-text:#1b5e3a;
+  --tab-q:#6a1b9a;--tab-d:#1565c0;--tab-a:#2e7d52;--tab-r:#ad1457;
+  --radius:14px;--radius-sm:10px;--radius-xs:6px;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html,body{height:100%;}
+body{background:var(--bg);color:var(--text);font-family:'Pretendard',sans-serif;font-size:clamp(15px,2.1vw,16.5px);line-height:1.85;display:flex;flex-direction:column;overflow:hidden;}
+
+/* ── 헤더 ── */
+.site-header{flex-shrink:0;background:#ddeee6;position:relative;}
+.site-header::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:4px;
+  background:linear-gradient(90deg,#6a1b9a 0%,#1565c0 33%,#2e7d52 66%,#ad1457 100%);
+}
+.site-header::after{
+  content:'';position:absolute;bottom:0;left:0;right:0;height:1px;
+  background:var(--border);
+}
+.site-header-inner{padding:20px 20px 16px;text-align:center;}
+.site-title{
+  font-family:'Black Han Sans',sans-serif;
+  font-size:clamp(22px,4.5vw,30px);
+  color:#1a3326;letter-spacing:1px;line-height:1.2;
+}
+.site-title .hl{color:#2e7d52;}
+.site-sub{
+  margin-top:6px;font-size:11.5px;
+  color:#4a7a62;letter-spacing:.5px;
+}
+
+/* ── 필터 ── */
+.filter-bar{padding:12px 16px 0;max-width:720px;margin:0 auto;width:100%;flex-shrink:0;}
+.filter-row{display:flex;gap:7px;align-items:flex-start;flex-wrap:nowrap;}
+.dropdown-wrap{position:relative;}
+.dropdown-btn{display:flex;align-items:center;gap:5px;padding:6px 14px;border-radius:20px;font-size:12px;font-weight:600;background:var(--surface);border:1.5px solid var(--border);color:var(--text-sub);cursor:pointer;transition:all .15s;white-space:nowrap;}
+.dropdown-btn.open,.dropdown-btn:hover{border-color:var(--accent);color:var(--accent);background:var(--accent-dim);}
+.dd-arrow{font-size:10px;transition:transform .15s;}
+.dropdown-btn.open .dd-arrow{transform:rotate(180deg);}
+.dropdown-menu{display:none;position:absolute;top:calc(100% + 5px);left:0;background:var(--surface);border:1.5px solid var(--border2);border-radius:var(--radius-sm);overflow:hidden;z-index:100;min-width:120px;box-shadow:0 6px 24px rgba(46,125,82,.15);}
+.dropdown-menu.open{display:block;}
+.dd-item{display:block;width:100%;padding:9px 16px;background:none;border:none;text-align:left;font-family:inherit;font-size:13px;color:var(--text-sub);cursor:pointer;transition:background .12s;}
+.dd-item:hover{background:var(--surface3);color:var(--text);}
+.dd-item.active{color:var(--accent);font-weight:700;background:var(--accent-dim);}
+
+/* ── 카드 뷰 ── */
+.card-view{flex:1;overflow-y:auto;padding:14px 16px 60px;-webkit-overflow-scrolling:touch;}
+.card{background:var(--surface);border:1.5px solid var(--border);border-radius:var(--radius);max-width:720px;margin:0 auto;overflow:hidden;box-shadow:0 2px 12px rgba(46,125,82,.1);display:none;}
+.card.active{display:block;}
+
+/* ── 카드 메타 ── */
+.card-meta{padding:13px 18px 11px;display:flex;flex-wrap:wrap;gap:5px;align-items:center;border-bottom:1.5px solid var(--border);}
+.tag{display:inline-flex;align-items:center;padding:2px 9px 3px;border-radius:20px;font-size:11px;font-weight:600;white-space:nowrap;font-family:'JetBrains Mono',monospace;}
+.tag-year{background:rgba(46,125,82,.08);color:#2e7d52;border:1px solid rgba(46,125,82,.25);}
+.tag-ling{background:rgba(106,27,154,.1);color:#6a1b9a;border:1px solid rgba(106,27,154,.25);}
+.tag-edu{background:rgba(21,101,192,.1);color:#1565c0;border:1px solid rgba(21,101,192,.25);}
+.tag-gen{background:rgba(38,166,154,.1);color:#00796b;border:1px solid rgba(38,166,154,.3);}
+.tag-lit{background:rgba(173,20,87,.1);color:#ad1457;border:1px solid rgba(173,20,87,.25);}
+.tag-sub{background:rgba(46,125,82,.08);color:#2e7d52;border:1px solid var(--border);}
+.tag-num{background:rgba(38,166,154,.12);color:#00796b;border:1px solid rgba(38,166,154,.3);}
+.tag-essay{background:rgba(198,40,40,.08);color:#c62828;border:1px solid rgba(198,40,40,.2);}
+.tag-novel{background:rgba(173,20,87,.08);color:#880e4f;border:1px solid rgba(173,20,87,.2);}
+.score-badge{margin-left:auto;font-size:11px;color:var(--text-sub);display:flex;align-items:baseline;gap:2px;font-family:'JetBrains Mono',monospace;}
+.score-badge .num{font-size:17px;font-weight:700;color:var(--accent);line-height:1;}
+
+/* ── 탭 ── */
+.tabs{display:flex;padding:8px 10px 0;gap:4px;background:var(--surface);border-bottom:1.5px solid var(--border);}
+.tab-btn{
+  flex:1;padding:7px 4px 9px;background:none;border:none;
+  border-top:3px solid transparent;border-bottom:3px solid transparent;
+  font-family:'Pretendard',sans-serif;font-size:12px;font-weight:700;cursor:pointer;
+  transition:all .18s;white-space:nowrap;opacity:.55;
+}
+.tab-btn[data-tab="q"]{
+  color:#6a1b9a;background:rgba(106,27,154,.07);border-top-color:rgba(106,27,154,.35);
+}
+.tab-btn[data-tab="derive"]{
+  color:#1565c0;background:rgba(21,101,192,.07);border-top-color:rgba(21,101,192,.35);
+}
+.tab-btn[data-tab="answer"]{
+  color:#2e7d52;background:rgba(46,125,82,.07);border-top-color:rgba(46,125,82,.35);
+}
+.tab-btn[data-tab="related"]{
+  color:#ad1457;background:rgba(173,20,87,.07);border-top-color:rgba(173,20,87,.35);
+}
+.tab-btn[data-tab="q"].active{
+  background:rgba(106,27,154,.12);border-top-color:#6a1b9a;
+  border-bottom-color:#6a1b9a;color:#6a1b9a;opacity:1;
+}
+.tab-btn[data-tab="derive"].active{
+  background:rgba(21,101,192,.12);border-top-color:#1565c0;
+  border-bottom-color:#1565c0;color:#1565c0;opacity:1;
+}
+.tab-btn[data-tab="answer"].active{
+  background:rgba(46,125,82,.12);border-top-color:#2e7d52;
+  border-bottom-color:#2e7d52;color:#2e7d52;opacity:1;
+}
+.tab-btn[data-tab="related"].active{
+  background:rgba(173,20,87,.12);border-top-color:#ad1457;
+  border-bottom-color:#ad1457;color:#ad1457;opacity:1;
+}
+.tab-btn:hover:not(.active){opacity:.8;}
+.tab-panel{display:none;padding:18px 18px 24px;animation:fadeUp .2s ease;border-left:3px solid transparent;}
+.tab-panel.active{display:block;}
+.tab-panel[id$="-q"].active{border-left-color:var(--tab-q);}
+.tab-panel[id$="-d"].active{border-left-color:var(--tab-d);}
+.tab-panel[id$="-a"].active{border-left-color:var(--tab-a);}
+.tab-panel[id$="-r"].active{border-left-color:var(--tab-r);}
+@keyframes fadeUp{from{opacity:0;transform:translateY(4px);}to{opacity:1;transform:translateY(0);}}
+
+/* ── 문제 탭 ── */
+.prob-instruction{font-size:13px;color:var(--text-sub);background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius-xs);padding:9px 13px;margin-bottom:13px;line-height:1.7;}
+.prob-instruction strong{color:var(--text);}
+.prob-passage{background:var(--surface2);border:1.5px solid var(--border2);border-left:3px solid var(--tab-q);border-radius:var(--radius-sm);padding:18px 20px;font-size:clamp(14px,2vw,15px);line-height:2;}
+.prob-passage p{margin-bottom:11px;}
+.prob-passage p:last-child{margin-bottom:0;}
+.prob-section-label{font-size:11px;font-weight:700;letter-spacing:.8px;color:var(--accent);margin:12px 0 6px;font-family:'JetBrains Mono',monospace;}
+.prob-section-label:first-child{margin-top:0;}
+.blank{display:inline-flex;align-items:center;background:var(--blank-bg);border:1.5px solid var(--blank-border);border-radius:4px;padding:0 8px 1px;font-size:12px;font-weight:700;color:var(--blank-text);font-family:'JetBrains Mono',monospace;vertical-align:middle;margin:0 2px;}
+.eg-block{background:var(--surface3);border:1px solid var(--border);border-radius:var(--radius-xs);padding:9px 13px;margin:7px 0;font-size:13.5px;font-family:'JetBrains Mono',monospace;line-height:1.8;}
+.psource{font-size:11.5px;color:var(--text-dim);text-align:right;margin-top:10px;font-style:italic;}
+.uline{text-decoration:underline;text-underline-offset:3px;}
+
+/* ── 도출과정 탭 ── */
+.sec-title{font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:var(--text-dim);margin:14px 0 9px;display:flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;}
+.sec-title::after{content:'';flex:1;height:1px;background:var(--border);}
+.sec-title:first-child{margin-top:0;}
+.steps{display:flex;flex-direction:column;gap:10px;margin-bottom:14px;}
+.step-item{display:flex;gap:12px;align-items:flex-start;}
+.step-num{width:24px;height:24px;flex-shrink:0;background:linear-gradient(135deg,#2e7d52,#26a69a);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;font-family:'JetBrains Mono',monospace;margin-top:2px;}
+.step-body{flex:1;}
+.step-label{font-size:11px;font-weight:700;color:var(--accent2);margin-bottom:3px;font-family:'JetBrains Mono',monospace;letter-spacing:.5px;text-transform:uppercase;}
+.step-text{font-size:clamp(13.5px,1.9vw,14.5px);color:var(--text);line-height:1.85;}
+.step-text em{background:rgba(183,28,28,.12);color:#b71c1c;padding:2px 6px;border-radius:4px;font-style:normal;font-weight:700;}
+.term-hl{color:#bf360c;font-style:normal;font-weight:700;border-bottom:2.5px solid rgba(191,54,12,.45);}
+.kterms{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px;}
+.kterm{background:rgba(46,125,82,.1);border:1px solid rgba(46,125,82,.25);border-radius:4px;padding:2px 8px;font-size:11px;color:var(--accent);font-family:'JetBrains Mono',monospace;font-weight:600;}
+.vocab-table{width:100%;border-collapse:collapse;margin-bottom:16px;font-size:13px;}
+.vocab-table th{padding:7px 10px;background:var(--surface3);color:var(--text-sub);font-size:10px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;text-align:left;border-bottom:1.5px solid var(--border);}
+.vocab-table td{padding:8px 10px;border-bottom:1px solid var(--border);vertical-align:top;}
+.vocab-table tr:last-child td{border-bottom:none;}
+.vword{font-family:'JetBrains Mono',monospace;color:var(--accent);font-weight:600;}
+.vpos{font-size:10px;color:var(--text-dim);margin-top:1px;}
+.vmean{color:var(--text);}
+.vex{font-size:12px;color:var(--text-sub);margin-top:2px;font-style:italic;}
+.trans-box{background:var(--surface2);border:1.5px solid var(--border);border-left:3px solid var(--accent2);border-radius:var(--radius-sm);padding:15px 18px;font-size:clamp(13.5px,1.9vw,14.5px);line-height:1.95;color:var(--text);}
+.trans-box p{margin-bottom:9px;}
+.trans-box p:last-child{margin-bottom:0;}
+.trans-hl{color:#00695c;font-weight:700;border-bottom:2.5px solid rgba(0,105,92,.45);}
+
+/* ── 정답 탭 ── */
+.answer-box{background:var(--surface2);border:1.5px solid rgba(46,125,82,.3);border-left:3px solid var(--tab-a);border-radius:var(--radius-sm);padding:14px 16px;margin-bottom:12px;}
+.answer-box-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--tab-a);margin-bottom:9px;font-family:'JetBrains Mono',monospace;}
+.blank-rows{display:flex;flex-direction:column;gap:8px;}
+.blank-row{display:flex;align-items:baseline;gap:9px;font-size:clamp(13.5px,1.9vw,14.5px);}
+.bl{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--blank-text);background:var(--blank-bg);border:1.5px solid var(--blank-border);border-radius:4px;padding:1px 7px;font-size:12px;flex-shrink:0;}
+.ba{color:var(--text);font-weight:600;}
+.model-answer{background:var(--surface2);border:1.5px solid rgba(46,125,82,.3);border-left:3px solid var(--tab-a);border-radius:var(--radius-sm);padding:14px 16px;margin-bottom:10px;}
+.model-answer-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--tab-a);margin-bottom:8px;font-family:'JetBrains Mono',monospace;}
+.ma-body{font-size:clamp(13.5px,1.9vw,14.5px);color:var(--text);line-height:1.9;}
+.ma-body em,.v-text em,.concept em{background:rgba(183,28,28,.12);color:#b71c1c;padding:2px 6px;border-radius:4px;font-style:normal;font-weight:700;}
+.criteria-box{background:var(--surface3);border:1px solid var(--border2);border-radius:var(--radius-sm);padding:12px 15px;margin-bottom:12px;}
+.criteria-box-label{font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--text-dim);margin-bottom:8px;font-family:'JetBrains Mono',monospace;}
+.crit-lines{display:flex;flex-direction:column;gap:0;}
+.crit-line{display:flex;gap:10px;align-items:baseline;padding:6px 0;border-bottom:1px solid var(--border);}
+.crit-line:last-child{border-bottom:none;}
+.crit-pts{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:700;color:var(--accent);flex-shrink:0;min-width:30px;}
+.crit-text{font-size:13px;color:var(--text-sub);}
+.variants{display:flex;flex-direction:column;gap:8px;margin-top:12px;}
+.variant{background:var(--surface2);border:1.5px solid var(--border);border-radius:var(--radius-sm);padding:12px 15px;}
+.v-head{display:flex;align-items:center;gap:6px;margin-bottom:6px;}
+.vbadge{font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;font-family:'JetBrains Mono',monospace;}
+.vb-a{background:rgba(21,101,192,.12);color:#1565c0;border:1px solid rgba(21,101,192,.3);}
+.vb-b{background:rgba(173,20,87,.1);color:#ad1457;border:1px solid rgba(173,20,87,.25);}
+.vb-c{background:rgba(38,166,154,.12);color:#00796b;border:1px solid rgba(38,166,154,.3);}
+.v-text{font-size:clamp(13px,1.8vw,14px);color:var(--text);line-height:1.85;white-space:pre-wrap;}
+.source-divider{margin:18px 0 13px;border:none;border-top:1.5px solid var(--border);}
+.ref{background:var(--surface2);border:1.5px solid var(--border2);border-radius:var(--radius-sm);padding:12px 14px;margin-bottom:8px;}
+.ref-type{display:inline-block;font-size:9.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;padding:2px 7px;border-radius:4px;margin-bottom:5px;background:rgba(46,125,82,.1);color:var(--accent);border:1px solid rgba(46,125,82,.25);font-family:'JetBrains Mono',monospace;}
+.ref-title{font-size:13.5px;font-weight:600;color:var(--text);margin-bottom:2px;}
+.ref-author{font-size:12px;color:var(--text-sub);margin-bottom:1px;}
+.ref-pages{font-size:11px;color:var(--accent);font-family:'JetBrains Mono',monospace;font-weight:600;}
+.ref-quote{margin-top:8px;padding:8px 12px;background:rgba(38,166,154,.06);border-left:3px solid #26a69a;border-radius:0 6px 6px 0;font-size:12.5px;color:#2a5040;line-height:1.7;font-style:italic;}
+.ref-hl{background:rgba(46,125,82,.18);color:#1b5e3a;padding:2px 6px;border-radius:4px;font-style:normal;font-weight:700;}
+.concept{background:rgba(38,166,154,.05);border:1.5px solid rgba(38,166,154,.25);border-radius:var(--radius-sm);padding:14px 16px;font-size:clamp(13px,1.8vw,14px);line-height:1.9;color:var(--text);}
+.concept strong{color:var(--accent);}
+/* ── 통사 트리 ── */
+.tree-wrap{overflow-x:auto;margin:12px 0 6px;padding-bottom:4px;}
+.tree-wrap svg{display:block;}
+
+/* ── 연결문제 탭 ── */
+.related-notice{background:rgba(173,20,87,.06);border:1px solid rgba(173,20,87,.2);border-radius:var(--radius-xs);padding:8px 12px;font-size:12px;color:#ad1457;margin-bottom:11px;}
+.no-related{background:rgba(173,20,87,.06);border:1px solid rgba(173,20,87,.2);border-radius:var(--radius-xs);padding:10px 14px;font-size:13px;color:#ad1457;}
+.rel-card{background:var(--surface2);border:1.5px solid var(--border);border-radius:var(--radius-sm);padding:12px 14px;margin-bottom:8px;display:block;cursor:pointer;transition:border-color .18s;}
+.rel-card:hover{border-color:var(--tab-r);}
+.rel-top{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:5px;align-items:center;}
+.conn{font-size:10px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;padding:2px 7px;border-radius:20px;border:1px solid;font-family:'JetBrains Mono',monospace;}
+.conn-same{color:#1565c0;border-color:#1565c0;background:rgba(21,101,192,.1);}
+.conn-strat{color:#2e7d52;border-color:#2e7d52;background:rgba(46,125,82,.1);}
+.conn-prereq{color:#ad1457;border-color:#ad1457;background:rgba(173,20,87,.1);}
+.rel-note{font-size:13.5px;color:var(--text);line-height:1.65;margin-bottom:5px;}
+.skws{display:flex;flex-wrap:wrap;gap:4px;}
+.skw{background:rgba(46,125,82,.08);border:1px solid rgba(46,125,82,.2);border-radius:4px;padding:1px 7px;font-size:11px;color:var(--text-sub);font-family:'JetBrains Mono',monospace;}
+
+/* ── 로딩 ── */
+.loading{text-align:center;padding:60px 20px;color:var(--text-dim);font-size:14px;}
+.loading-dot{display:inline-block;animation:blink 1.2s infinite;color:var(--accent);}
+.loading-dot:nth-child(2){animation-delay:.2s;}
+.loading-dot:nth-child(3){animation-delay:.4s;}
+@keyframes blink{0%,80%,100%{opacity:0;}40%{opacity:1;}}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <div class="site-title"><span class="hl">기출마스터</span> 전공영어</div>
+    <div class="site-sub">영어학 · 영어교육론 · 일반영어 기출문제 분석</div>
+  </div>
+</header>
+
+<div class="filter-bar">
+  <div class="filter-row">
+    <div class="dropdown-wrap">
+      <button class="dropdown-btn" onclick="toggleDD('domain-menu',this)">
+        <span id="domain-label">영역</span><span class="dd-arrow">▾</span>
+      </button>
+      <div class="dropdown-menu" id="domain-menu">
+        <button class="dd-item active" data-val="all"         onclick="selFilter('domain',this,'영역')">전체</button>
+        <button class="dd-item"        data-val="linguistics" onclick="selFilter('domain',this,'영어학')">영어학</button>
+        <button class="dd-item"        data-val="education"   onclick="selFilter('domain',this,'영어교육론')">영어교육론</button>
+        <button class="dd-item"        data-val="general"     onclick="selFilter('domain',this,'일반영어')">일반영어</button>
+        <button class="dd-item"        data-val="literature"  onclick="selFilter('domain',this,'일반영어(문학)')">일반영어(문학)</button>
+      </div>
+    </div>
+    <div class="dropdown-wrap">
+      <button class="dropdown-btn" onclick="toggleDD('year-menu',this)">
+        <span id="year-label">연도</span><span class="dd-arrow">▾</span>
+      </button>
+      <div class="dropdown-menu" id="year-menu">
+        <button class="dd-item active" data-val="all" onclick="selFilter('year',this,'연도')">전체</button>
+      </div>
+    </div>
+    <div class="dropdown-wrap" style="flex:1;">
+      <button class="dropdown-btn" id="prob-select-btn" style="width:100%;" onclick="toggleDD('prob-menu',this)">
+        <span id="prob-label" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;text-align:left;">문제 선택</span>
+        <span class="dd-arrow">▾</span>
+      </button>
+      <div class="dropdown-menu" id="prob-menu" style="min-width:220px;right:0;left:auto;max-height:320px;overflow-y:auto;"></div>
+    </div>
+  </div>
+</div>
+
+<div class="card-view" id="card-view">
+  <div class="loading">
+    <span class="loading-dot">●</span>
+    <span class="loading-dot">●</span>
+    <span class="loading-dot">●</span>
+    <br><br>데이터 로딩 중…
+  </div>
+</div>
+
+<script src="scripts/render.js"></script>
+</body>
+</html>
