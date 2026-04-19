@@ -31,8 +31,7 @@
         "explanation": "통사론/담화 영역. 수동태의 두 가지 담화 기능(given-new contract, end weight) 식별 문제. <B>의 4개 예문 중 각 원리에 해당하는 것 1개씩 선택 + 근거 설명. 두 원리의 정의를 <A>에서 정확히 파악 후 각 예문 분석.",
         "key_terms": [
           "given-new contract",
-          "end weight",
-          "passive voice"
+          "end weight"
         ]
       },
       {
@@ -40,10 +39,7 @@
         "label": "이론 ↔ 지문 대응 — 두 원리 정의 확인",
         "explanation": "Given-new contract: '각 새 문장에서 구정보(already mentioned)가 신정보(not yet mentioned) 앞에 위치' → 수동태로 구정보를 주어 위치(문두)로 이동.\nEnd weight: '복잡하고 무거운 요소(heavy NP)를 문장 끝에 배치' → 수동태로 긴 by-phrase(행위자)를 문말로 이동.\n두 원리는 동기가 다름: given-new = 정보 구조, end weight = 길이/복잡성.",
         "key_terms": [
-          "given information",
-          "new information",
-          "heavy NP",
-          "information structure"
+          "end weight"
         ]
       },
       {
@@ -51,9 +47,8 @@
         "label": "후보 소거 — <B> 예문 분석",
         "explanation": "(a): 'France' = 앞 문장 'Paris'(프랑스 도시)와 연결된 구정보 → 수동태 주어로 문두 배치. 'an Italian' = 신정보 → 문말. ✓ given-new.\n(b): 'three languages' = 맥락에서 명확히 언급된 구정보인지 불명확. 'everyone'이 화용적으로 주어지기 쉬운 정보. 덜 전형적.\n(c): 'this electrical device' = 비교적 짧고 단순한 NP → end weight 동기 약함.\n(d): 'a new program' = 짧은 NP. 'by medical staff from the Oslo Sport Trauma Research Center' = 매우 긴 복잡 NP → 문말 배치 ✓ end weight.",
         "key_terms": [
-          "given information",
-          "heavy NP",
-          "complex NP"
+          "given",
+          "heavy NP"
         ]
       },
       {
@@ -61,8 +56,8 @@
         "label": "확정 근거 — 정답 확정",
         "explanation": "Given-new → (a) 확정:\n'France' ← 앞 문장 'He arrived in Paris' = 구정보 → 수동태 주어(문두).\n'an Italian' = 처음 등장 신정보 → 문말 행위자. <A>의 원리 정확히 적용.\n\nEnd weight → (d) 확정:\n'by medical staff from the Oslo Sport Trauma Research Center' = 매우 복잡한 NP(전치사구 수식 포함). <A> (2c)와 동일 패턴: 행위자 by-phrase가 heavy → 문말 배치.",
         "key_terms": [
-          "given-new → (a)",
-          "end weight → (d)"
+          "given information",
+          "end weight"
         ]
       },
       {
@@ -70,9 +65,8 @@
         "label": "전략 메모",
         "explanation": "수동태 기능 분석 출제 패턴: ① 먼저 두 원리 정의 확인(given-new = 정보 순서, end weight = 길이). ② 각 예문에서 수동태 주어와 by-phrase를 구분. ③ 주어가 구정보 → given-new. by-phrase가 복잡하고 길다 → end weight. 두 원리는 동시 적용 가능하므로 더 전형적인 예문을 선택할 것.\n함정: (b)처럼 수동태가 있어도 given-new/end weight 동기가 명확하지 않은 예문이 섞임.",
         "key_terms": [
-          "passive voice function",
-          "discourse principle",
-          "information structure"
+          "given-new",
+          "end weight"
         ]
       }
     ],

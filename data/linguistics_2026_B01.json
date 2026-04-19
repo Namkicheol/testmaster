@@ -39,9 +39,8 @@
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "형태론(morphology) 영역. inflectional suffix vs derivational suffix의 세 가지 구별 기준을 다루는 지문. 빈칸 ①②는 각각 서로 다른 기준에 해당하며 ONE word 조건 적용. ①은 '품사/문법적 속성' 기준, ②는 '의미 예측성' 기준임을 앞뒤 문맥으로 파악.",
         "key_terms": [
-          "inflectional morpheme",
-          "derivational morpheme",
-          "grammatical category"
+          "inflectional",
+          "derivational"
         ]
       },
       {
@@ -49,9 +48,8 @@
         "label": "이론 ↔ 지문 대응 — 3기준 매핑",
         "explanation": "Fromkin 3기준 ↔ 지문 단락 대응:\n기준1(품사): '굴절 접사 → 품사 불변' ↔ 'do not change the grammatical [①] of the stem'\n기준2(순서): '파생→굴절 순' ↔ 'neighbor-hood-s ✓ / neighbor-s-hood ✗'\n기준3(의미): '굴절 의미 예측 가능' ↔ 'the [②] of an inflectional suffix is predictable'",
         "key_terms": [
-          "syntactic category",
-          "ordering constraint",
-          "semantic predictability"
+          "category",
+          "ordering"
         ]
       },
       {
@@ -77,8 +75,8 @@
         "label": "전략 메모",
         "explanation": "형태론 굴절/파생 구별 출제 패턴: 3기준(품사·순서·의미) 중 빈칸이 어느 기준에 해당하는지 단락 위치로 먼저 확정. 앞 단락의 핵심 명사('semantic contribution')가 빈칸의 정답 후보가 되는 경우 많음. ONE word 조건이면 합성 표현(예: 'syntactic category') 불가 → 단어 하나(category, meaning)로 범위 좁힘.",
         "key_terms": [
-          "3-criterion distinction",
-          "ONE word constraint"
+          "inflectional",
+          "category"
         ]
       }
     ],
@@ -97,7 +95,7 @@
         "exam_usage": "지문 전체 주제: 굴절 접사의 3가지 특성 설명"
       },
       {
-        "term": "Grammatical category",
+        "term": "category",
         "definition_en": "The part-of-speech class assigned to a word (noun, verb, adjective, adverb, etc.); also called syntactic category.",
         "definition_ko": "문법 범주 (= 통사 범주) — 품사 분류: 명사, 동사, 형용사 등.",
         "source_author": "Fromkin",
@@ -111,7 +109,7 @@
         "exam_usage": "① 빈칸: 굴절 접사가 바꾸지 않는 것 = grammatical category"
       },
       {
-        "term": "Ordering constraint (Affix ordering)",
+        "term": "ordering constraint",
         "definition_en": "Derivational morphemes must attach to the base before inflectional morphemes: [[base + deriv] + inflect]. Attested: nation-al-iz-ation-s; Unattested: *nation-s-al.",
         "definition_ko": "접사 순서 제약 — 파생 접사는 굴절 접사 안쪽(어기에 더 가까이) 위치. neighbor-hood-s ✓ / *neighbor-s-hood ✗.",
         "source_author": "Fromkin",
@@ -174,7 +172,7 @@
         "excerpt": "The <span class=\"ref-hl\">meaning contribution</span> of inflectional affixes is <span class=\"ref-hl\">predictable and consistent</span> across all words to which they attach."
       }
     ],
-    "concept_explanation": "Three criteria distinguishing inflectional from derivational morphemes (Fromkin 2018):\n\n① Category: Inflectional morphemes do not change the syntactic category of the stem.\n  (품사 불변: 굴절은 어기의 품사를 바꾸지 않음. 파생은 가능 — teach [V] → teacher [N].)\n\n② Ordering: Derivational morphemes must attach before inflectional morphemes.\n  Attested: nation-al-iz-ation-s ✓   Unattested: *neighbor-s-hood ✗\n  (순서 제약: 파생 접사는 굴절 접사 안쪽에 위치.)\n\n③ Meaning: The meaning contribution of inflectional morphemes is transparent and predictable; derivational meaning may be idiosyncratic.\n  (의미 예측성: 굴절 의미는 예측 가능. 파생은 어휘 특이적 — actor ≠ professor.)"
+    "concept_explanation": "Three criteria distinguishing inflectional from derivational morphemes (Fromkin 2018):\n\n① Category: Inflectional morphemes do not change the syntactic category of the stem.\n  (품사 불변: 굴절은 어기의 품사를 바꾸지 않음. 파생은 가능 — teach [V] → teacher [N].)\n\n② Ordering: Derivational morphemes must attach before inflectional morphemes.\n  Attested: nation-al-iz-ation-s ✓   Unattested: *neighbor-s-hood ✗\n  (순서 제약: 파생 접사는 굴절 접사 안쪽에 위치.)\n\n③ Meaning: The meaning contribution of inflectional morphemes is transparent and predictable; derivational meaning may be idiosyncratic.\n  (의미 예측성: 굴절 의미는 예측 가능. 파생은 어휘 특이적 — actor ≠ professor.)\n\nOrdering constraint: the rule that derivational morphemes must attach to a stem before inflectional morphemes. Grammatical category (syntactic category): the syntactic class (N, V, Adj, etc.) of a word or stem."
   },
   "related": {
     "enabled": true,

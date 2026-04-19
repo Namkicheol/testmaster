@@ -7,86 +7,118 @@
     "linguistics_domain": "pragmatics",
     "question_type": "short_answer",
     "score": 2,
-    "tags": ["implicature", "conversational implicature", "cooperative principle", "Gricean maxim", "hedge", "non-literal meaning"],
+    "tags": [
+      "implicature",
+      "conversational implicature",
+      "cooperative principle",
+      "Gricean maxim",
+      "hedge",
+      "non-literal meaning"
+    ],
     "parse_source": "2025_A형_기출_PDF",
     "parse_confidence": "high",
     "verified": true
   },
-
   "problem": {
     "instruction": "Fill in the blank with the ONE most appropriate word from the passage.",
     "passage": "A sentence has a meaning which does not change in different contexts. This kind of meaning is called literal meaning (or truth condition). In other words, knowing the meaning of a sentence means knowing what the world would have to look like in order for that sentence to be true. Consider the following example:\n\n(1) #John has killed a mosquito, but the mosquito is not dead.\n\nSince the sentence 'John has killed a mosquito' has the result state of a mosquito being dead as part of its literal meaning, the result state cannot be denied.\n\nHowever, the literal meaning is not the only sort of meaning conveyed when language is used for communication. Non-literal meanings (i.e., extra-truth-conditional meanings) could arise depending on utterance contexts, as illustrated in (2).\n\n(2) [Tom and Mary are eating together at a restaurant, and Tom needs ketchup.]\n    Tom : Mary, are you using the ketchup?\n\nThe sentence in (2) literally asks if Mary is using the ketchup. However, it could also yield a non-literal meaning, 'Please pass me the ketchup', which is an example of implicature.\n\nSimilarly, a non-literal meaning can also be conveyed when a conversational maxim is intentionally violated. Consider the conversation between Tom and Mary in (3).\n\n(3) [On his way to class, Tom meets his friend, Mary.]\n    Tom  : Hi, Mary.\n    Mary : Hi, Tom. You look busy. Where are you going?\n    Tom  : I'm going to my chemistry class.\n    Mary : How is your chemistry professor? You told me before that she was ill.\n    Tom  : She seems fine now. By the way, did you eat lunch? How about Korean food after my class?\n    Mary : What happened during your interview yesterday?\n    Tom  : Well, to make a long story short, they didn't hire me.\n    Mary : I'm sorry to hear that.\n\nUttering 'What happened during your interview yesterday?', Mary violates the maxim of relation or quantity, which results in a non-literal meaning. Meanwhile, without the phrase 'to make a long story short' in Tom's last utterance, a conversational [BLANK] would occur.\n\nNote: '#' indicates that the sentence is semantically unacceptable.",
     "blanks": [
-      { "label": "①", "context": "a conversational [①] would occur — 지문에서 이미 정의된 non-literal meaning 용어" }
+      {
+        "label": "①",
+        "context": "a conversational [①] would occur — 지문에서 이미 정의된 non-literal meaning 용어"
+      }
     ]
   },
-
   "derivation": {
     "steps": [
       {
         "step": 1,
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "ONE word from the passage 조건. 지문에 명시된 non-literal meaning 관련 기술어를 찾아야 함. 후보: literal meaning, truth condition, non-literal meaning, implicature, maxim. '(a) conversational ___' 자리이므로 'conversational' 뒤에 collocate 가능한 명사로 압축된다.",
-        "key_terms": ["conversational", "collocation constraint", "non-literal meaning"]
+        "key_terms": [
+          "conversational",
+          "non-literal meaning"
+        ]
       },
       {
         "step": 2,
         "label": "대응쌍 확인 — 지문 (2) ↔ 빈칸 문장",
         "explanation": "지문 (2)에서 'Please pass me the ketchup'이 non-literal meaning으로 발생한 것을 'an example of implicature'로 정의. 빈칸 문장은 (3)의 Tom 발화에서 hedge 제거 시 동일한 메커니즘이 작동함을 기술. (2)의 implicature ↔ 빈칸의 conversational [?] 대응쌍.",
-        "key_terms": ["implicature definition", "non-literal meaning", "parallel construction"]
+        "key_terms": [
+          "implicature",
+          "non-literal meaning"
+        ]
       },
       {
         "step": 3,
         "label": "후보 검증 — collocation 및 pragmatic function",
         "explanation": "① 'conversational implicature' — Grice의 전문 용어, 지문 정의와 일치. ✓\n② 'conversational maxim' — 지문에도 등장하나 maxim은 '지켜야 할 규칙'이지 '발생(occur)하는 것'이 아님. Tom이 maxim을 occur시킨다는 표현 비문. ✗\n③ 'conversational meaning' — 지문에 없는 표현. parse_source 조건 위반. ✗\n최종: implicature만 생존.",
-        "key_terms": ["conversational implicature", "would occur", "verb collocation"]
+        "key_terms": [
+          "conversational implicature",
+          "maxim"
+        ]
       },
       {
         "step": 4,
         "label": "확정 근거 — hedge의 화용적 기능",
         "explanation": "'to make a long story short'는 Manner 및 Quantity maxim 준수를 명시적으로 선언하는 hedge. 이 hedge가 없다면 Tom의 짧은 답변('they didn't hire me')은 Quantity/Manner maxim 위반처럼 보이게 되어 Mary가 추가 의미를 추론하게 됨 → 이것이 바로 conversational implicature의 생성 메커니즘. 지문 (2)와 동일한 generation 과정.",
-        "key_terms": ["hedge", "quantity maxim", "manner maxim", "implicature cancellation"]
+        "key_terms": [
+          "hedge",
+          "quantity",
+          "manner"
+        ]
       },
       {
         "step": 5,
         "label": "전략 — 'ONE word from the passage' 풀이 원칙",
         "explanation": "(1) 지문에 등장한 단어만 후보. 외부 지식 용어(예: 'inference', 'entailment') 도입 금지. (2) 빈칸 앞뒤 collocation 필수 일치 — 'conversational ___' + 'would occur'. (3) 지문에서 해당 개념이 이미 동일 구조로 정의된 곳(여기선 (2))을 대응쌍으로 확인. 함정: maxim이 지문에 빈번히 등장하지만 collocation과 의미가 맞지 않음.",
-        "key_terms": ["passage-bound answer", "collocation check", "definition parallelism"]
+        "key_terms": [
+          "implicature",
+          "maxim"
+        ]
       }
     ],
     "vocabulary": [
-      { "word": "implicature", "pos": "n", "definition_ko": "함축 — 문장의 literal meaning을 넘어서 추론되는 비문자적 의미", "example": "Are you using the ketchup? → Please pass me the ketchup." },
-      { "word": "maxim", "pos": "n", "definition_ko": "격률 — 협력 대화를 위한 규칙 (Quantity/Quality/Relation/Manner)", "example": "Grice's maxims of conversation" },
-      { "word": "hedge", "pos": "n", "definition_ko": "울타리 표현 — 발화의 정확도·양·태도를 명시적으로 제한하는 장치", "example": "to make a long story short, sort of, I think" }
+      {
+        "word": "implicature",
+        "pos": "n",
+        "definition_ko": "함축 — 문장의 literal meaning을 넘어서 추론되는 비문자적 의미",
+        "example": "Are you using the ketchup? → Please pass me the ketchup."
+      },
+      {
+        "word": "maxim",
+        "pos": "n",
+        "definition_ko": "격률 — 협력 대화를 위한 규칙 (Quantity/Quality/Relation/Manner)",
+        "example": "Grice's maxims of conversation"
+      },
+      {
+        "word": "hedge",
+        "pos": "n",
+        "definition_ko": "울타리 표현 — 발화의 정확도·양·태도를 명시적으로 제한하는 장치",
+        "example": "to make a long story short, sort of, I think"
+      }
     ],
     "translation": ""
   },
-
   "answer": {
     "model_answer": {
       "content_type": "blank_answer",
       "blank_answers": [
-        { "label": "①", "answer": "implicature" }
+        {
+          "label": "①",
+          "answer": "implicature"
+        }
       ],
       "essay_content": "",
       "scoring_criteria": [
-        { "criterion": "implicature", "points": 2 }
+        {
+          "criterion": "implicature",
+          "points": 2
+        }
       ]
     },
-    "variants": [
-      {
-        "source_type": "instructor",
-        "label": "답안 A",
-        "content": "implicature"
-      },
-      {
-        "source_type": "passer",
-        "label": "답안 B",
-        "content": "implicature\n(근거: 지문 (2)에서 'Please pass me the ketchup'을 'an example of implicature'로 정의. Tom의 hedge 'to make a long story short'가 없다면 Quantity maxim 위반으로 인한 동일한 conversational implicature 발생.)"
-      }
-    ]
+    "variants": []
   },
-
   "source": {
     "references": [
       {
@@ -119,7 +151,6 @@
     ],
     "concept_explanation": "Grice (1975) 협력 원리(Cooperative Principle)와 네 격률:\n- Quantity: 필요한 만큼의 정보 (부족/과다 금지)\n- Quality: 참이라고 믿는 것만 (거짓·근거 없는 주장 금지)\n- Relation: 관련 있는 말 (Relevance)\n- Manner: 명료·간결·질서 있게\n\nConversational implicature 생성 메커니즘:\n(i) 화자가 격률을 표면적으로 어긴 것처럼 보임 (flouting)\n(ii) 청자는 화자가 여전히 협력적이라고 가정\n(iii) 청자는 표면 의미 너머의 추가 의미를 추론 → implicature\n\nHedge의 역할:\n- 'to make a long story short', 'roughly speaking', 'as far as I know' 등\n- 격률 준수를 명시적으로 선언하여 implicature 발생을 차단\n- 본 문제의 Tom 발화는 hedge로 Quantity/Manner maxim 준수를 플래그 → hedge 부재 시 저발화(underinformativity)로 implicature 유발\n\n본 문제의 두 축:\n① Mary의 화제 전환 = flouting relation/quantity → non-literal meaning\n② Tom의 hedge 부재 시 = 동일한 implicature 생성"
   },
-
   "related": {
     "enabled": true,
     "questions": [
@@ -130,7 +161,11 @@
         "subject": "linguistics",
         "connection_type": "same_concept",
         "connection_note": "Grice 협력 원리·격률 위반·implicature 도출. 동일 이론 틀.",
-        "shared_keywords": ["Gricean maxim", "implicature", "cooperative principle"]
+        "shared_keywords": [
+          "Gricean maxim",
+          "implicature",
+          "cooperative principle"
+        ]
       },
       {
         "id": "linguistics_2017_A05",
@@ -139,7 +174,11 @@
         "subject": "linguistics",
         "connection_type": "same_strategy",
         "connection_note": "지문 내 정의된 pragmatics 용어를 문맥에서 채워넣는 전략 동일.",
-        "shared_keywords": ["conversational implicature", "non-literal meaning", "passage-bound fill-in"]
+        "shared_keywords": [
+          "conversational implicature",
+          "non-literal meaning",
+          "passage-bound fill-in"
+        ]
       },
       {
         "id": "linguistics_2023_A06",
@@ -148,7 +187,12 @@
         "subject": "linguistics",
         "connection_type": "same_concept",
         "connection_note": "Quantity/Manner maxim flouting 및 hedge의 화용적 기능. 병렬 적용 사례.",
-        "shared_keywords": ["maxim flouting", "hedge", "quantity", "manner"]
+        "shared_keywords": [
+          "maxim flouting",
+          "hedge",
+          "quantity",
+          "manner"
+        ]
       }
     ]
   }

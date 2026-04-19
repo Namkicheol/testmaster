@@ -30,10 +30,8 @@
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "통사론(syntax) 영역. that-trace effect: wh-이동이 주어 위치에서 일어날 때 overt 'that' 보문소가 있으면 비문. 목적어 위치 이동은 'that' 있어도 허용.\n<A> 규칙:\n- 목적어 wh-이동 + that: OK (1b)\n- 주어 wh-이동 + that 없음: OK (2a)\n- 주어 wh-이동 + that 있음: 비문 (2b) ← that-trace effect\n- 관계절에도 동일 적용 (4b 비문)",
         "key_terms": [
-          "that-trace effect",
-          "wh-movement",
-          "subject position",
-          "complementizer"
+          "that-trace",
+          "overt"
         ]
       },
       {
@@ -41,10 +39,8 @@
         "label": "이론 ↔ 지문 대응 — 각 예문 분석",
         "explanation": "(a) 'Who do you think [that they told me [that ___ would come]]?'\n→ 가장 안쪽 절 'that ___ would come'에서 주어 위치 이동 + overt 'that' → that-trace ✗\n\n(b) 'a program [I feel ___ will help]' → 'that' 없음 + 주어 위치 → OK ✓\n\n(c) 'What assurance do I have [that this food is good]?' → 'what'은 목적어('assurance' 수식) → OK ✓\n\n(d) 'Who did Sam say [Tim wanted [...to hire ___]]?' → 목적어 위치 추출, 'that' 없음 → OK ✓\n\n(e) 'a legal system [critics said [that ___ appeared troubled]]' → 관계절 주어 위치 + overt 'that' → that-trace ✗",
         "key_terms": [
-          "subject extraction",
-          "object extraction",
-          "that-trace",
-          "relative clause"
+          "overt",
+          "that-trace"
         ]
       },
       {
@@ -52,8 +48,8 @@
         "label": "후보 소거 — 비문 2개 확정",
         "explanation": "문법문 확인:\n(b): 'I feel will help' → overt 'that' 없음 → 주어 이동 OK → 정문 ✓\n(c): 'What' = free relative / 목적어 위치, 내포절의 주어 없음 아님 → 정문 ✓\n(d): 긴 연속 이동이지만 전부 목적어 위치에서의 추출 → 정문 ✓\n\n비문 확정:\n(a): 주어 추출 + overt 'that' → ✗\n(e): 관계절 주어 갭 + overt 'that' → ✗",
         "key_terms": [
-          "(a) ungrammatical",
-          "(e) ungrammatical"
+          "overt",
+          "relative"
         ]
       },
       {
@@ -61,9 +57,8 @@
         "label": "확정 근거 — 정답 확정",
         "explanation": "(a) 비문 이유:\n'who'가 내포절 'that would come'의 주어 위치에서 추출됨. 이 내포절에 overt 보문소 'that' 존재 → <A> (2b) 패턴과 동일 → that-trace effect 위반.\n\n(e) 비문 이유:\n'a legal system'이 관계절 내 'critics said that ___ appeared troubled'의 주어 위치에서 갭을 가짐. 관계절 내 overt 'that' 존재 → <A> (4b) 패턴 적용 → that-trace effect 위반.",
         "key_terms": [
-          "that-trace effect",
-          "subject gap",
-          "relative clause violation"
+          "that-trace",
+          "overt"
         ],
         "tree": {
           "label": "CP",
@@ -154,9 +149,8 @@
         "label": "전략 메모",
         "explanation": "that-trace effect 출제 패턴:\n① 이동 원소가 주어 위치에서 나왔는지 확인 (주어 위치 = TP 명시어).\n② overt 'that' 보문소 존재 여부 확인.\n③ wh-의문문과 관계절 모두 적용됨 (4b 핵심).\n함정:\n- (d)처럼 긴 추출이어도 목적어 위치이면 OK.\n- (b)처럼 주어 추출이어도 'that' 없으면 OK.\n서술 순서: 비문 2개 명시 → 각각 주어 위치 + overt 'that' → that-trace 위반 명시.",
         "key_terms": [
-          "subject gap",
-          "overt complementizer",
-          "that-trace"
+          "that-trace",
+          "overt"
         ]
       }
     ],
@@ -175,7 +169,7 @@
         "exam_usage": "(a)와 (e)가 that-trace effect 위반으로 비문"
       },
       {
-        "term": "Complementizer (C)",
+        "term": "complementizer",
         "definition_en": "A functional head that introduces embedded clauses (that, if, whether, for). In the that-trace effect, the overt complementizer 'that' blocks government of the subject trace.",
         "definition_ko": "보문소 — that, if, whether 등 내포절을 도입하는 기능범주. overt 'that'이 주어 흔적의 통치를 차단.",
         "source_author": "Carnie",

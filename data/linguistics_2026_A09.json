@@ -31,9 +31,7 @@
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "의미론(semantics) 영역. Vendler(1957) 어휘상(lexical aspect) 4분류 중 'achievement verb'와 iteration(반복 해석) 관계 문제. 발문 조건: (1) iteration 의미 가진 예문 2개 선택, (2) 동사 유형 반드시 명시, (3) 이유 설명. iteration 발생 조건: achievement 동사(순간적·punctual) + progressive 또는 for-phrase → 단일 사건으로 지속 불가 → 반복 해석 강제.",
         "key_terms": [
-          "lexical aspect",
-          "achievement verb",
-          "iterative reading",
+          "achievement",
           "progressive",
           "for-phrase"
         ]
@@ -43,10 +41,10 @@
         "label": "이론 ↔ 지문 대응 — Vendler 4분류 ↔ <B> 동사 분석",
         "explanation": "<A> 4분류 ↔ <B> 동사 대응:\nState: [-dynamic, -telic] — 예: hate, know\nActivity: [+dynamic, +durative, -telic] — 예: run, swim\nAccomplishment: [+dynamic, +durative, +telic] — 예: write a book, draw a house\nAchievement: [+dynamic, -durative, +telic] — 예: kick, hit, bounce\n\n<B> 동사 분류:\n(a) hit: 발로 치는 순간적 행위 → achievement ✓\n(b) draw a big house: 완성점 있고 지속적 → accomplishment ✓\n(c) swim: 지속적, 종결점 없음 → activity ✓\n(d) bounce: 공을 튀기는 순간적 행위 → achievement ✓",
         "key_terms": [
-          "hit = achievement",
-          "draw = accomplishment",
-          "swim = activity",
-          "bounce = achievement"
+          "state",
+          "activity",
+          "accomplishment",
+          "achievement"
         ]
       },
       {
@@ -54,8 +52,9 @@
         "label": "후보 소거 — iteration 아닌 예문 제거",
         "explanation": "(b) draw a big house + progressive:\n→ draw = accomplishment(지속적·telic). Progressive + accomplishment = 단순 진행 중 해석 가능('She was in the process of drawing'). Iteration 아님.\n\n(c) swim + for an hour:\n→ swim = activity(비완결적·지속적). Activity + for-phrase = 자연스러운 지속 기간 표현. 반복 강제 아님.\n\n→ iteration = achievement 동사일 때만 발생.",
         "key_terms": [
-          "accomplishment + progressive ≠ iteration",
-          "activity + for-phrase ≠ iteration"
+          "accomplishment",
+          "progressive",
+          "activity"
         ]
       },
       {
@@ -63,8 +62,10 @@
         "label": "확정 근거 — (a),(d) iteration 근거",
         "explanation": "(a) She was hitting a sandbag:\nhit = achievement verb(순간적 사건). Progressive 'was hitting'은 단일 순간 사건을 지속할 수 없음 → 반복된 hitting 사건들의 연속 = iterative reading 강제.\n\n(d) She bounced the ball for 10 minutes:\nbounce = achievement verb(순간적). 'for 10 minutes'는 지속 시간 표시 → 단일 bounce는 순간적이므로 10분 동안 지속 불가 → 반복된 bounce 사건들 = iterative reading 강제.",
         "key_terms": [
-          "hit = achievement + progressive → iteration",
-          "bounce = achievement + for-phrase → iteration"
+          "hit",
+          "achievement",
+          "bounce",
+          "iterative"
         ]
       },
       {
@@ -72,14 +73,14 @@
         "label": "전략 메모",
         "explanation": "어휘상 iteration 출제 패턴:\n① 동사 유형 먼저 분류(4분류) → achievement 동사 특정.\n② achievement + progressive or for-phrase = iteration 강제 조건 확인.\n③ accomplishment + progressive ≠ iteration (단순 진행), activity + for-phrase ≠ iteration (정상 지속) 구별.\n서술 순서: 예문 2개 명시 → 동사 유형(achievement) 명시 → progressive/for-phrase 이유 → iterative reading 도출.",
         "key_terms": [
-          "achievement verb identification",
-          "coercion to iterative reading"
+          "achievement",
+          "progressive"
         ]
       }
     ],
     "key_terms": [
       {
-        "term": "Lexical aspect (Aktionsart)",
+        "term": "lexical aspect",
         "definition_en": "The inherent temporal/dynamic properties of a verb or verb phrase, classified by Vendler (1957) into four types: state, activity, accomplishment, and achievement.",
         "definition_ko": "어휘상 — 동사 자체에 내재된 시간적·역동적 속성. Vendler(1957) 4분류: 상태, 활동, 완성, 달성.",
         "source_author": "Vendler",
