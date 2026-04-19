@@ -112,7 +112,7 @@
           "error analysis",
           "rubric"
         ],
-        "exam_usage": "Student 1(Excellent vs. 오류 암시 코멘트), Student 2(Good to Fair vs. article만 언급)의 불일치 근거"
+        "exam_usage": "Student 2(Good to Fair 점수 vs. article 오류만 언급한 코멘트 — 시제 오류 누락)의 불일치 근거; Student 1은 Grammar 일치(Excellent + 오류 없음), Organization이 불일치"
       }
     ],
     "vocabulary": [],
