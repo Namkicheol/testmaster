@@ -33,33 +33,26 @@ body{background:var(--bg);color:var(--text);font-family:'Pretendard',sans-serif;
   background:var(--border);
 }
 .site-header-inner{padding:16px 20px 14px;text-align:center;}
-.site-logo{display:inline-flex;align-items:center;gap:8px;margin-bottom:4px;}
+.site-logo{display:inline-flex;align-items:center;gap:10px;margin-bottom:4px;}
+.logo-left{display:flex;flex-direction:column;align-items:flex-end;gap:0;}
 .logo-gichul{
-  font-family:'Jua',sans-serif;
-  font-size:clamp(28px,6.5vw,40px);
-  color:#1a5c3a;
-  letter-spacing:-1px;
-  position:relative;
-  padding-bottom:5px;
-}
-.logo-gichul::after{
-  content:'';position:absolute;bottom:0;left:0;right:0;
-  height:4px;border-radius:2px;
-  background:linear-gradient(90deg,#2e7d52,#26a69a);
+  font-family:'Gowun Dodum',sans-serif;
+  font-size:clamp(11px,2.5vw,14px);
+  color:#4a9a6a;letter-spacing:2px;
+  line-height:1;margin-bottom:1px;
 }
 .logo-wiki{
   font-family:'Black Han Sans',sans-serif;
-  font-size:clamp(18px,4.5vw,28px);
-  color:#fff;
-  background:linear-gradient(135deg,#2e7d52 0%,#26a69a 100%);
-  padding:3px 13px 5px;border-radius:10px;
-  letter-spacing:4px;
-  box-shadow:0 4px 14px rgba(46,125,82,.4),inset 0 1px 0 rgba(255,255,255,.25);
+  font-size:clamp(36px,9vw,54px);
+  background:linear-gradient(135deg,#1a5c3a 0%,#2e9d6a 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+  letter-spacing:3px;line-height:1;
 }
 .logo-subject{
   font-family:'Jua',sans-serif;
-  font-size:clamp(20px,4.5vw,28px);
-  color:#1a3326;letter-spacing:1px;margin-left:4px;
+  font-size:clamp(18px,4vw,24px);
+  color:#2a6648;letter-spacing:1px;
+  border-left:2px solid #b2dfcc;padding-left:10px;
 }
 .site-sub{
   margin-top:6px;font-family:'Gowun Dodum',sans-serif;
@@ -252,8 +245,10 @@ body{background:var(--bg);color:var(--text);font-family:'Pretendard',sans-serif;
 <header class="site-header">
   <div class="site-header-inner">
     <div class="site-logo">
-      <span class="logo-gichul">기출</span>
-      <span class="logo-wiki">WIKI</span>
+      <div class="logo-left">
+        <span class="logo-gichul">기출</span>
+        <span class="logo-wiki">WIKI</span>
+      </div>
       <span class="logo-subject">전공영어</span>
     </div>
     <div class="site-sub">영어학 · 영어교육론 · 일반영어 기출문제 wiki</div>
