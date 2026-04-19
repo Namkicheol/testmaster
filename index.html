@@ -33,14 +33,33 @@ body{background:var(--bg);color:var(--text);font-family:'Pretendard',sans-serif;
   background:var(--border);
 }
 .site-header-inner{padding:16px 20px 14px;text-align:center;}
-.site-title{
+.site-logo{display:inline-flex;align-items:center;gap:8px;margin-bottom:4px;}
+.logo-gichul{
   font-family:'Jua',sans-serif;
-  font-size:clamp(24px,5.5vw,34px);
-  color:#1a3326;letter-spacing:1px;line-height:1.2;
+  font-size:clamp(28px,6.5vw,40px);
+  color:#1a5c3a;
+  letter-spacing:-1px;
+  position:relative;
+  padding-bottom:5px;
 }
-.site-title .hl{
-  color:#2e7d52;
-  text-decoration:underline;text-decoration-thickness:3px;text-underline-offset:3px;
+.logo-gichul::after{
+  content:'';position:absolute;bottom:0;left:0;right:0;
+  height:4px;border-radius:2px;
+  background:linear-gradient(90deg,#2e7d52,#26a69a);
+}
+.logo-wiki{
+  font-family:'Black Han Sans',sans-serif;
+  font-size:clamp(18px,4.5vw,28px);
+  color:#fff;
+  background:linear-gradient(135deg,#2e7d52 0%,#26a69a 100%);
+  padding:3px 13px 5px;border-radius:10px;
+  letter-spacing:4px;
+  box-shadow:0 4px 14px rgba(46,125,82,.4),inset 0 1px 0 rgba(255,255,255,.25);
+}
+.logo-subject{
+  font-family:'Jua',sans-serif;
+  font-size:clamp(20px,4.5vw,28px);
+  color:#1a3326;letter-spacing:1px;margin-left:4px;
 }
 .site-sub{
   margin-top:6px;font-family:'Gowun Dodum',sans-serif;
@@ -232,7 +251,11 @@ body{background:var(--bg);color:var(--text);font-family:'Pretendard',sans-serif;
 
 <header class="site-header">
   <div class="site-header-inner">
-    <div class="site-title"><span class="hl">기출 WIKI</span> 전공영어</div>
+    <div class="site-logo">
+      <span class="logo-gichul">기출</span>
+      <span class="logo-wiki">WIKI</span>
+      <span class="logo-subject">전공영어</span>
+    </div>
     <div class="site-sub">영어학 · 영어교육론 · 일반영어 기출문제 분석</div>
   </div>
 </header>
