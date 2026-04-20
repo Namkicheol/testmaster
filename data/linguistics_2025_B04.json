@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "linguistics_2025_B04",
+    "year": 2025,
+    "number": "B-4",
+    "subject": "linguistics",
+    "linguistics_domain": "phonology",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["stress", "primary stress", "prosody", "name game", "syllable"],
+    "parse_source": "2025_전공B",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the examples in <B>, and follow the directions.",
+    "passage": "<A>\nMany word games in English rely on dominant stress patterns in English, in a way that if words do not meet phonological criteria on where stressed and unstressed syllables appear, they simply cannot be played. The name game, illustrated in the song The Name Game, is not an exception to this. Below are parts of the lyrics from the song, which show how the game is played with three common English names: Tony [tónɪ], Lana [lǽnə], and Kit [kít]. The phonetic transcription of the lyrics is provided below:\n\nTony, Tony, bo-bo-ney [tónɪ tónɪ bo bónɪ]\nBo-na-na fana, fo-fo-ny [bə nǽnə fǽnə fo fónɪ]\nFee-fi-mo-mo-ney [fi faɪ mo mónɪ]\nTo-ny [tónɪ]\n\nLana, Lana bo-ba-na [lǽnə lǽnə bo bǽnə]\nBo-na-na fana, fo-fa-na [bə nǽnə fǽnə fo fǽnə]\nFee-fi-mo-ma-na [fi faɪ mo mǽnə]\nLa-na [lǽnə]\n\nKit, Kit bo-bi-it [kít kít bo bít]\nBo-na-na fana, fo-fi-it [bə nǽnə fǽnə fo fít]\nFee-fi-mo-mi-it [fi faɪ mo mít]\nKi-it [kít]\n\nAs shown in the lyrics above, the name game works with various names that consist of different segments or differ in length. However, some names are not permissible for the game, such as Jerome [ʤəɹóm], Michelle [mɪʃɛˊl], and Olivia [əlívɪə].\n\n<B>\na. Annette [ənɛt]   b. Miranda [məɹændə]   c. Nelson [nɛlsən]   d. Pat [pæt]\n\nNote: Some prosodic information has been intentionally left out for the names above.\n\nBased on <A>, choose the TWO names in <B> that CANNOT be played for the name game. Then, state the prosodic condition necessary for names permissible for the game.",
+    "blanks": [
+      { "label": "①", "context": "TWO names in <B> that cannot be played" },
+      { "label": "②", "context": "prosodic condition for permissible names" }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "가능한 이름 패턴 분석 — <A>",
+        "explanation": "Tony [tónɪ], Lana [lǽnə], Kit [kít] — 모두 첫 음절에 primary stress가 있다. 불가 이름인 Jerome [ʤəɹóm], Michelle [mɪʃɛˊl], Olivia [əlívɪə] — 모두 첫 음절이 비강세(/ə/ 또는 약모음)다.",
+        "key_terms": ["primary stress"]
+      },
+      {
+        "step": 2,
+        "label": "<B> 분류",
+        "explanation": "a. Annette [ənɛt]: 첫 음절 /ə/ 비강세 → 불가. b. Miranda [məɹændə]: 첫 음절 /mə/ 비강세 → 불가. c. Nelson [nɛlsən]: 첫 음절 /nɛl/ 강세 → 가능. d. Pat [pæt]: 단음절, 강세 있음 → 가능(Kit와 동일 패턴).",
+        "key_terms": ["Annette", "Miranda"]
+      },
+      {
+        "step": 3,
+        "label": "prosodic 조건 정리",
+        "explanation": "Name Game에서 이름이 허용되려면 첫 번째 음절에 primary stress가 위치해야 한다. 첫 음절이 비강세(/ə/ 등 약모음)이면 게임의 음운 규칙을 위반한다.",
+        "key_terms": ["primary stress"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "primary stress",
+        "definition_en": "The strongest degree of stress in a word, marked by greater loudness, higher pitch, and longer duration.",
+        "definition_ko": "단어에서 가장 강한 강세. 더 큰 음량, 높은 음높이, 긴 지속시간으로 실현됨.",
+        "source_author": "Fromkin, Rodman & Hyams",
+        "source_year": 2018,
+        "related_terms": ["stress", "syllable", "prosody"],
+        "exam_usage": "Name Game 허용 조건으로 출제 — 첫 음절에 primary stress 필요"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        { "label": "①", "answer": "a (Annette), b (Miranda)" }
+      ],
+      "essay_content": "The prosodic condition necessary for names permissible for the name game is that the primary stress must be on the first syllable of the name.",
+      "scoring_criteria": [
+        { "criterion": "① Annette, Miranda 두 개 모두 선택", "points": 2 },
+        { "criterion": "prosodic 조건: 첫 번째 음절에 primary stress가 있어야 함", "points": 2 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "The two names are (a) and (b). The primary stress must be on the initial syllable of the name."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Fromkin, Rodman & Hyams",
+        "title": "An Introduction to Language (11th ed.)",
+        "year": 2018,
+        "publisher": "Cengage Learning",
+        "pages": "",
+        "excerpt": "Primary stress is the strongest stress in a word; secondary stress is weaker than primary stress but stronger than unstressed syllables."
+      }
+    ],
+    "concept_explanation": "The Name Game은 이름의 첫 음절 자음을 /b/, /f/, /m/으로 교체하는 게임이다. 게임이 작동하려면 이름의 첫 음절이 강세(primary stress)를 가져야 한다. 첫 음절이 비강세인 이름(Jerome, Michelle, Olivia, Annette, Miranda)은 게임의 음운 규칙에 맞지 않아 사용 불가다. 첫 음절 강세가 있는 이름(Tony, Lana, Kit, Nelson, Pat)은 사용 가능하다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
