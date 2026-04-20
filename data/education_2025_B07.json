@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "id": "education_2025_B07",
+    "year": 2025,
+    "number": "B-7",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["listening instruction", "intensive listening", "creative activities", "lesson plan"],
+    "parse_source": "2025_전공B",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the conversation in <A> and the lesson plans in <B>, and follow the directions.",
+    "passage": "<A>\n(Mr. Choi, a supervising teacher, is talking with his student teacher, Ms. Han, about her lesson plan.)\n\nSupT: Ms. Han, I checked your lesson plan and found a couple of things that may help improve it.\nST: Oh, did I miss anything?\nSupT: As you know, before you get to the main listening stage, we want students to recognize the purpose of listening, right?\nST: Yeah, and it sounds quite challenging. How can I do that?\nSupT: You can try activating schemata. Making connections between personal experiences and learning can facilitate students' comprehension.\nST: Oh, I see.\nSupT: And I recommend intensive listening. You know, authentic conversations have a lot of contractions. So, how about playing parts of a radio show focusing on particular language features?\nST: Good idea. Thank you. Is there anything else I missed?\nSupT: Hmm, why don't you also try making some creative activities? Students can sing a song or chant, or they can record their own voice.\nST: Got it. I'll try to find some that are exciting.\nSupT: Great. That's all I wanted to point out.\nST: Your suggestions are extremely helpful. I'll make some changes following your advice.\nSupT: If you have any questions, don't hesitate to ask.\nST: I really appreciate your advice.\n\nNote: SupT = supervising teacher, ST = student teacher\n\n<B>\nAfter the conversation, Ms. Han revised her lesson plan based on Mr. Choi's suggestions. Below are the original and modified lesson plans.\n\nOriginal Lesson Plan\n| Stage | Teaching & Learning Activities |\n|-------|--------------------------------|\n| Pre-listening | T shows the aim of the listening activity. / Tasks about what will happen to a person in a picture. / T engages Ss in small talk. |\n| While-listening | Tasks Ss to listen to a story. / Tasks Ss to make inferences about the main topic of the story. / Tasks Ss to retell the story. |\n| Post-listening | Tasks Ss to write a summary on the story. / Tasks Ss to present on their summaries. / T provides comments on Ss' presentations. |\n\nModified Lesson Plan\n| Stage | Teaching & Learning Activities |\n|-------|--------------------------------|\n| Pre-listening | T presents the purpose of the listening activity. / Tasks Ss to predict what will happen to a person in a picture. / T engages Ss in small talk. |\n| While-listening | Tasks Ss to listen to a story. / Tasks Ss to guess what the main topic of the story is. / Tasks Ss to do a gap-filling activity. |\n| Post-listening | Tasks Ss to summarize the story. / Tasks Ss to act out assigned scenes from the story. / T provides feedback on Ss' performances. |\n\nNote: T = teacher, Ss = students\n\nIdentify the supervising teacher's TWO suggestions from <A> that are reflected in the modified lesson plan in <B>. Then, explain your answers, respectively, with evidence from <B>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "Intensive listening 반영 확인",
+        "explanation": "<A>에서 SupT는 특정 언어 특징에 집중하는 intensive listening을 권고했다. Modified Plan의 While-listening 단계에서 original의 'retell the story'가 'gap-filling activity'로 교체되었다. Gap-filling은 특정 언어 정보(contractions 등)에 집중하는 intensive listening 활동이다.",
+        "key_terms": ["intensive listening"]
+      },
+      {
+        "step": 2,
+        "label": "Creative activities 반영 확인",
+        "explanation": "<A>에서 SupT는 노래·챈트·녹음 등 creative activities를 권고했다. Modified Plan의 Post-listening 단계에서 original의 'present on their summaries'가 'act out assigned scenes from the story'로 교체되었다. 역할극(act out)은 참여적이고 창의적인 활동에 해당한다.",
+        "key_terms": ["creative activities"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "intensive listening",
+        "definition_en": "A listening approach in which learners focus on specific linguistic features such as sounds, contractions, or grammar in a text.",
+        "definition_ko": "특정 언어 특징(소리, 축약형, 문법 등)에 집중하며 듣는 청취 방식.",
+        "source_author": "Brown",
+        "source_year": 2004,
+        "related_terms": ["extensive listening", "while-listening"],
+        "exam_usage": "While-listening에서 gap-filling activity로 반영"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Intensive listening and creative activities are reflected in the modified plan. First, in the while-listening stage, the original story-retelling task is replaced with a gap-filling activity, which focuses on particular language features as suggested. Second, in the post-listening stage, students act out assigned scenes from the story instead of presenting summaries, incorporating creative and engaging activities.",
+      "scoring_criteria": [
+        { "criterion": "Intensive listening 식별", "points": 1 },
+        { "criterion": "근거: While-listening에서 gap-filling activity 언급", "points": 1 },
+        { "criterion": "Creative activities 식별", "points": 1 },
+        { "criterion": "근거: Post-listening에서 act out assigned scenes 언급", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "Intensive listening: In the while-listening stage, students complete a gap-filling activity, focusing on specific language features, as suggested. Creative activities: In the post-listening stage, students act out scenes from the story, making the lesson more engaging and interactive."
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "Intensive listening은 특정 언어 항목(발음, 축약형, 어휘 등)에 의식적으로 집중하며 듣는 활동으로, gap-filling이 대표적이다. Creative activities는 학습자가 노래·챈트·역할극 등 창의적·참여적 활동을 통해 언어를 사용하도록 하는 방식이다. Activating schemata는 이미 original plan의 picture 예측 활동에 어느 정도 반영되어 있어 modified plan에서의 변화가 두드러지지 않는다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
