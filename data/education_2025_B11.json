@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "id": "education_2025_B11",
+    "year": 2025,
+    "number": "B-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["ICT", "digital tools", "discovery learning", "individualized feedback", "lesson plan"],
+    "parse_source": "2025_전공B",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the master plan in <B>, and follow the directions.",
+    "passage": "<A>\nMs. Kim, a high school English teacher, attended an ICT workshop for English teachers. There she learned how to select digital tools that best fit her students' needs and use them appropriately. Below is the list of principles she took note of during the workshop.\n\n<Guiding Principles for Using Digital Tools>\n① Encourage students to independently explore and discover language rules.\n② Support learners with diverse learning styles (e.g., auditory styles, visual styles).\n③ Teach digital ethics (e.g., citing properly).\n④ Assess student achievement and provide individualized feedback.\n\n<B>\nDraft of the Master Plan\n\nUnit: Save the Earth\n\nObjectives:\n  Students will be able to:\n  · identify the main idea and details of a text or discourse\n  · write an opinion using textual and non-textual elements\n  · use digital tools responsibly and ethically\n\n| Period | Contents | Technology |\n|--------|----------|------------|\n| 1st | · Introduce the topic, 'Save the Earth' | Online videos / Internet search engines |\n|     | · Watch a video on environmental problems | |\n|     | · Teach how to use the Internet properly (e.g., locating information, sourcing, netiquette) | |\n| 2nd | · Make predictions about a text using titles and pictures | Word cloud generator to visualize key concepts |\n|     | · Read the passage, 'Plastic Pollution' | |\n|     | · Identify key words and main ideas | |\n| 3rd | · Provide definitions of new words | PPT slides |\n|     | · Teach grammar points explicitly using drills | |\n| … | … | … |\n| 7th | · Brainstorm ideas to solve environmental problems and share in groups | Online collaborative writing platform |\n|     | · In groups, create a 'Save the Earth' poster | |\n| 8th | · Exhibit groups' posters on the walls | Online quiz platform |\n|     | · Conduct a team-based quiz and provide comments to groups | |\n\nBased on <A>, identify the TWO guiding principles that Ms. Kim does NOT conform to in her lessons in <B>. Then, explain your answers, respectively, with evidence from <B>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "① 불준수 — 3rd period: 명시적 문법 지도",
+        "explanation": "Principle ①은 학생이 언어 규칙을 스스로 탐구하고 발견(independently explore and discover)하도록 장려하는 것이다. 그러나 3rd period에서 Ms. Kim은 PPT slides로 새 단어 정의를 직접 제공하고 drills를 통해 문법을 명시적으로(explicitly) 지도했다. 이는 학생 주도의 발견 학습(discovery learning)이 아니라 교사 주도의 직접 교수(explicit instruction)이므로 ①에 어긋난다.",
+        "key_terms": ["explicitly", "discovery learning"]
+      },
+      {
+        "step": 2,
+        "label": "④ 불준수 — 8th period: 집단 피드백만 제공",
+        "explanation": "Principle ④는 학생 성취도를 평가하고 개별화된 피드백(individualized feedback)을 제공하는 것이다. 그러나 8th period에서 Ms. Kim은 팀 기반 퀴즈(team-based quiz)를 실시하고 그룹 전체에 대한 코멘트(comments to groups)를 제공했다. 개인별 성취 평가 및 개인 피드백이 없으므로 ④에 어긋난다.",
+        "key_terms": ["individualized feedback", "team-based quiz"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "discovery learning",
+        "definition_en": "An instructional approach in which learners actively construct knowledge by exploring, investigating, and finding patterns on their own, rather than receiving direct instruction.",
+        "definition_ko": "학습자가 교사의 직접 설명 없이 스스로 탐구·조사·패턴 발견을 통해 능동적으로 지식을 구성하는 교수 접근법.",
+        "source_author": "Bruner",
+        "source_year": 1961,
+        "related_terms": ["inductive learning", "inquiry-based learning"],
+        "exam_usage": "Principle ①: 학생이 언어 규칙을 독립적으로 탐구·발견하도록 장려"
+      },
+      {
+        "term": "individualized feedback",
+        "definition_en": "Feedback tailored to each individual learner's specific performance, needs, or progress, as opposed to general or group-level feedback.",
+        "definition_ko": "집단 전체가 아닌 각 학습자 개인의 수행, 필요, 진도에 맞춰 제공되는 피드백.",
+        "source_author": "",
+        "source_year": null,
+        "related_terms": ["formative assessment", "personalized feedback"],
+        "exam_usage": "Principle ④: 개별 학생 성취 평가 및 개인화 피드백 — 8th period 집단 코멘트와 대비"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Principles ① and ④ are not conformed to. First, in the 3rd period, Ms. Kim teaches grammar points explicitly using drills, which contradicts principle ①, which calls for students to independently explore and discover language rules. Second, in the 8th period, she conducts a team-based quiz and provides comments to groups, rather than assessing individual achievement and offering individualized feedback as required by principle ④.",
+      "scoring_criteria": [
+        { "criterion": "Principle ① 식별 (not conformed)", "points": 1 },
+        { "criterion": "근거: 3rd period에서 문법을 drills로 명시적 지도 (explicit teaching, not discovery)", "points": 1 },
+        { "criterion": "Principle ④ 식별 (not conformed)", "points": 1 },
+        { "criterion": "근거: 8th period에서 팀 기반 퀴즈 + 그룹 코멘트 (not individualized feedback)", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "Principles 1 and 4 are not conformed to. In the 3rd period, the teacher provides definitions and teaches grammar points explicitly using drills rather than discovery learning. In the 8th period, the teacher conducts a team-based quiz and provides comments to groups rather than individual feedback."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "instructor",
+        "content": "Ms. Kim does not conform to principles ① and ④. First, she explicitly teaches grammar points through drills instead of encouraging students to independently explore and discover language rules. Additionally, she conducts a team-based quiz and provides comments to groups rather than assessing individual performance and offering personalized feedback."
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "ICT 통합 수업에서 디지털 도구 활용 원리 중 ①은 Bruner의 발견 학습(discovery learning)에 근거하여 학생이 귀납적으로 언어 규칙을 탐구하도록 유도한다. 3rd period의 explicit grammar drills는 이 원리와 배치된다. ④는 형성 평가(formative assessment)와 연관되어 개별 학습자에 맞춤화된 피드백 제공을 요구한다. 8th period의 team-based quiz와 group comments는 개별화 요건을 충족하지 못한다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}

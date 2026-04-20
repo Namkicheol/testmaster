@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": "education_2025_B10",
+    "year": 2025,
+    "number": "B-10",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["intercultural learning", "noticing", "comparing", "reflecting", "interacting"],
+    "parse_source": "2025_전공B",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the conversation in <B>, and follow the directions.",
+    "passage": "<A>\nIntercultural language learning in the classroom can be conceptualized as a series of four interrelated processes: noticing, comparing, reflecting, and interacting. First, noticing is for learners to experience new input about culture and attempt to understand it. Teachers may use various exemplifications of the target culture as input, such as videos, written texts, and cartoons. Second, comparing occurs when learners are engaged in identifying similarities and differences between learners' culture and the target culture. Third, reflecting implies that learners make personal interpretations of experiences and react to linguistic and cultural diversity. Finally, interacting involves learners communicating personal meanings about their experiences, exploring those meanings, and reshaping them in response to others.\n\nThe two excerpts below are parts of students' speeches in class.\n\nExcerpt from Seoyeon's Speech\n\"I imagined what I would and wouldn't like about attending a U.S. high school. I'd be excited about having many options for extracurricular activities, but I wouldn't want to join any sport teams because I don't like playing sports.\"\n\nExcerpt from Taesoo's Speech\n\"I think the level of engagement in extracurricular activities seems different between Korean and U.S. high school students. For example, many U.S. high school students tend to spend much more time doing community service than Korean students.\"\n\nAs seen above, Seoyeon is most likely involved in the process of ①________, and Taesoo is most likely involved in the process of ②________.\n\n<B>\n(Seoyeon and Taesoo are talking about their speeches.)\nSeoyeon: I really liked your speech. There are a lot of things we can do for the community when it comes to extracurricular activities.\nTaesoo: Thank you. That was the exact point I wanted to make.\nSeoyeon: I'd like to hear more about the ways in which we can serve our communities.\n\nFill in the blanks ① and ② each with the ONE most appropriate word from <A>, in the correct order. Then, explain one of the four processes in <A> that Seoyeon in <B> is most likely involved in with evidence from <B>.",
+    "blanks": [
+      { "label": "①", "context": "Seoyeon is involved in the process of ___ (ONE word from <A>)" },
+      { "label": "②", "context": "Taesoo is involved in the process of ___ (ONE word from <A>)" }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "①Seoyeon 스피치 분석 — reflecting",
+        "explanation": "Seoyeon은 미국 고등학교 생활을 '상상'하며 개인적 해석과 반응을 표현했다('I'd be excited...', 'I wouldn't want...'). 이는 reflecting의 정의 'learners make personal interpretations of experiences'와 일치한다.",
+        "key_terms": ["reflecting"]
+      },
+      {
+        "step": 2,
+        "label": "②Taesoo 스피치 분석 — comparing",
+        "explanation": "Taesoo는 한국과 미국 고등학생의 과외 활동 참여도 차이를 비교했다('seems different between Korean and U.S.'). 이는 comparing의 정의 'identifying similarities and differences between learners' culture and the target culture'와 일치한다.",
+        "key_terms": ["comparing"]
+      },
+      {
+        "step": 3,
+        "label": "<B>에서 Seoyeon — interacting",
+        "explanation": "<B>에서 Seoyeon은 Taesoo의 발표를 듣고 개인적 의미를 공유하며('There are a lot of things we can do...'), Taesoo와의 상호작용에 반응하여 이해를 재형성하고 더 알고 싶어한다('I'd like to hear more about...'). 이는 interacting의 정의 'communicating personal meanings, exploring those meanings, and reshaping them in response to others'와 일치한다.",
+        "key_terms": ["interacting"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "reflecting",
+        "definition_en": "A process in intercultural language learning in which learners make personal interpretations of experiences and react to linguistic and cultural diversity.",
+        "definition_ko": "학습자가 경험에 대한 개인적 해석을 형성하고 언어적·문화적 다양성에 반응하는 문화 간 학습 과정.",
+        "source_author": "Liddicoat et al.",
+        "source_year": 2003,
+        "related_terms": ["noticing", "comparing", "interacting"],
+        "exam_usage": "Seoyeon 스피치: 미국 학교 경험에 대한 개인적 반응 표현"
+      },
+      {
+        "term": "comparing",
+        "definition_en": "A process in intercultural language learning in which learners identify similarities and differences between their own culture and the target culture.",
+        "definition_ko": "학습자가 자신의 문화와 목표 문화 사이의 유사점과 차이점을 파악하는 문화 간 학습 과정.",
+        "source_author": "Liddicoat et al.",
+        "source_year": 2003,
+        "related_terms": ["noticing", "reflecting", "interacting"],
+        "exam_usage": "Taesoo 스피치: 한국·미국 학생 과외활동 참여도 차이 비교"
+      },
+      {
+        "term": "interacting",
+        "definition_en": "A process in intercultural language learning in which learners communicate personal meanings about their experiences, explore those meanings, and reshape them in response to others.",
+        "definition_ko": "학습자가 경험에 대한 개인적 의미를 소통하고, 그 의미를 탐색하며 타인과의 상호작용 속에서 재형성하는 문화 간 학습 과정.",
+        "source_author": "Liddicoat et al.",
+        "source_year": 2003,
+        "related_terms": ["reflecting", "comparing"],
+        "exam_usage": "<B>에서 Seoyeon: Taesoo와 대화하며 이해 재형성"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        { "label": "①", "answer": "reflecting" },
+        { "label": "②", "answer": "comparing" }
+      ],
+      "essay_content": "Seoyeon in <B> is involved in interacting. She communicates personal meanings about extracurricular activities in her first turn, and in her second turn, she reshapes her understanding in response to Taesoo by expressing a desire to explore further ways to serve the community.",
+      "scoring_criteria": [
+        { "criterion": "① reflecting, ② comparing (순서 포함)", "points": 2 },
+        { "criterion": "<B>에서 Seoyeon의 과정: interacting 식별", "points": 1 },
+        { "criterion": "근거: 개인적 의미 소통 + Taesoo에 반응하여 이해 재형성 설명", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "Seoyeon in <B> engages in the process of interacting as she shares her personal meanings after learning about extracurricular activities in the U.S. and reshapes her understanding to include diverse ways to provide community services through her interaction with Taesoo."
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "Liddicoat et al.(2003)의 문화 간 언어 학습 4단계: noticing(새 문화 정보 접촉·이해 시도), comparing(자문화와 목표 문화 비교), reflecting(개인적 해석·반응), interacting(개인적 의미 소통 및 재형성). Seoyeon의 스피치(reflecting)와 Taesoo의 스피치(comparing)는 각각 다른 과정에 해당하며, <B> 대화에서 Seoyeon은 interacting 과정으로 전환된다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
