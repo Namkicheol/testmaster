@@ -24,21 +24,33 @@
     "steps": [
       {
         "step": 1,
-        "label": "가능한 이름 패턴 분석 — <A>",
-        "explanation": "Tony [tónɪ], Lana [lǽnə], Kit [kít] — 모두 첫 음절에 primary stress가 있다. 불가 이름인 Jerome [ʤəɹóm], Michelle [mɪʃɛˊl], Olivia [əlívɪə] — 모두 첫 음절이 비강세(/ə/ 또는 약모음)다.",
+        "label": "범위 설정 — Name Game 허용 조건 추출",
+        "explanation": "<A>의 가능 이름: Tony [tónɪ], Lana [lǽnə], Kit [kít] — 모두 첫 음절에 primary stress 위치.\n<A>의 불가 이름: Jerome [ʤəɹóm], Michelle [mɪʃɛˊl], Olivia [əlívɪə] — 모두 첫 음절이 /ə/ 등 비강세 음절.\n가설: Name Game 허용 조건 = 이름의 첫 음절에 primary stress가 있어야 함.",
         "key_terms": ["primary stress"]
       },
       {
         "step": 2,
-        "label": "<B> 분류",
-        "explanation": "a. Annette [ənɛt]: 첫 음절 /ə/ 비강세 → 불가. b. Miranda [məɹændə]: 첫 음절 /mə/ 비강세 → 불가. c. Nelson [nɛlsən]: 첫 음절 /nɛl/ 강세 → 가능. d. Pat [pæt]: 단음절, 강세 있음 → 가능(Kit와 동일 패턴).",
-        "key_terms": ["Annette", "Miranda"]
+        "label": "이론↔지문 대응 — <B> 각 이름 분류",
+        "explanation": "a. Annette [ənɛt]: 첫 음절 /ə/ → 비강세, primary stress 없음 → 불가.\nb. Miranda [məɹændə]: 첫 음절 /mə/ → 비강세 → 불가.\nc. Nelson [nɛlsən]: 첫 음절 /nɛl/ → 강세 있음 → 가능.\nd. Pat [pæt]: 단음절 → 강세 있음(Kit 패턴과 동일) → 가능.\n불가 이름: Annette(a), Miranda(b).",
+        "key_terms": []
       },
       {
         "step": 3,
-        "label": "prosodic 조건 정리",
-        "explanation": "Name Game에서 이름이 허용되려면 첫 번째 음절에 primary stress가 위치해야 한다. 첫 음절이 비강세(/ə/ 등 약모음)이면 게임의 음운 규칙을 위반한다.",
+        "label": "확정 근거 — prosodic 조건",
+        "explanation": "Name Game 허용을 위한 prosodic 조건: 이름의 첫 음절에 primary stress가 있어야 한다. 첫 음절이 비강세(/ə/ 등 약모음)인 이름은 게임의 자음 교체 규칙이 작동할 강세 패턴을 제공하지 못해 불가.",
         "key_terms": ["primary stress"]
+      },
+      {
+        "step": 4,
+        "label": "패턴 일반화 — 음절 수 무관",
+        "explanation": "Kit(1음절), Tony(2음절), Lana(2음절)의 공통점은 음절 수가 아니라 첫 음절 primary stress다. Nelson(2음절)도 첫 음절 강세이므로 가능. Pat(1음절)도 단음절 강세이므로 가능. 음절 수나 모음 종류가 아니라 primary stress 위치가 결정 요인.",
+        "key_terms": ["primary stress"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — prosodic condition 서술 방식",
+        "explanation": "답안 서술: 'The primary stress must be on the first syllable of the name.' 또는 'The name must have primary stress on its initial syllable.'\n함정 주의: 단음절 이름(Kit, Pat)을 별도 조건으로 제시하지 않아도 됨 — 단음절은 자동으로 첫 음절에 primary stress. 모음의 질(/ə/ 여부)이 아니라 primary stress의 위치가 핵심 조건.",
+        "key_terms": []
       }
     ],
     "key_terms": [
@@ -82,8 +94,17 @@
         "title": "An Introduction to Language (11th ed.)",
         "year": 2018,
         "publisher": "Cengage Learning",
-        "pages": "",
-        "excerpt": "Primary stress is the strongest stress in a word; secondary stress is weaker than primary stress but stronger than unstressed syllables."
+        "pages": "pp. 233–247 · Ch. 7",
+        "excerpt": "<span class=\"ref-hl\">Primary stress</span> is the strongest degree of stress in a word, realized with greater loudness, higher pitch, and longer duration than unstressed or secondarily stressed syllables. In English, the location of <span class=\"ref-hl\">primary stress</span> is predictable in many environments but must also be specified in the lexical entry. Words whose first syllable is reduced to schwa typically bear stress on a later syllable."
+      },
+      {
+        "type": "textbook",
+        "author": "Hayes, B.",
+        "title": "Introductory Phonology",
+        "year": 2009,
+        "publisher": "Wiley-Blackwell",
+        "pages": "pp. 109–128 · Ch. 6",
+        "excerpt": "Prosodic structure in English words is organized around <span class=\"ref-hl\">primary stress</span>, which anchors the metrical foot. A word game or rhyme scheme that operates on stress-initial words relies on the predictable salience of the initial stressed syllable; names with initial unstressed syllables — typically containing a reduced vowel — fail to satisfy the prosodic template such games impose."
       }
     ],
     "concept_explanation": "The Name Game은 이름의 첫 음절 자음을 /b/, /f/, /m/으로 교체하는 게임이다. 게임이 작동하려면 이름의 첫 음절이 강세(primary stress)를 가져야 한다. 첫 음절이 비강세인 이름(Jerome, Michelle, Olivia, Annette, Miranda)은 게임의 음운 규칙에 맞지 않아 사용 불가다. 첫 음절 강세가 있는 이름(Tony, Lana, Kit, Nelson, Pat)은 사용 가능하다."

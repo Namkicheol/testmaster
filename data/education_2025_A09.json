@@ -20,15 +20,33 @@
     "steps": [
       {
         "step": 1,
-        "label": "Item 1 분석",
-        "explanation": "<B>에서 Item 1은 '친구와의 기억에 남는 경험'을 묘사하는 과제다. 교사는 이 항목이 'resembled a conversation topic in real-life contexts'라고 기술한다. 이는 <A>의 Authenticity 정의('mirror real-life communication')와 일치한다.",
-        "key_terms": ["authenticity"]
+        "label": "범위 설정 — 말하기 평가 4원칙 확인",
+        "explanation": "<A>에 제시된 4가지 말하기 평가 원칙:\n- Clarity: 프롬프트가 명확해야 혼란 방지\n- Authenticity: 실생활 의사소통을 반영해 자연스러운 언어 사용 가능\n- Integrated Skills Assessment: 다른 기술과 통합 평가\n- Practicality: 시간·관리 측면에서 실현 가능해야 함\n<B>에서 Item 1과 Item 2 각각에 적용된 원칙 하나씩 식별 요구.",
+        "key_terms": ["authenticity", "clarity"]
       },
       {
         "step": 2,
-        "label": "Item 2 분석",
-        "explanation": "<B>에서 Item 2는 'a picture of a busy street'를 보고 묘사하는 과제다. 교사는 'the item clearly described what sort of response was desired'라고 하여 학생들이 잘 수행했다고 기술한다. 이는 <A>의 Clarity 정의('prompts should be straightforward')와 일치한다.",
+        "label": "이론 ↔ 지문 대응 — Item 1",
+        "explanation": "Item 1: 학생이 친구와 기억에 남는 경험을 묘사. 교사 로그: 'this item resembled a conversation topic in real-life contexts.'\n→ Authenticity 정의: 'Speaking tasks should mirror real-life communication, enabling students to demonstrate natural language use.'\n→ 정확히 대응. Item 1 = Authenticity ✓\n\n단, 교사는 시간 제한 미설정으로 채점 어려웠다고 언급 → Practicality 부족이지만 이는 질문이 '적용된 원칙' 요구이므로 Authenticity 서술.",
+        "key_terms": ["authenticity"]
+      },
+      {
+        "step": 3,
+        "label": "이론 ↔ 지문 대응 — Item 2",
+        "explanation": "Item 2: 혼잡한 거리 그림을 보고 묘사. 교사 로그: 'the item clearly described what sort of response was desired.'\n→ Clarity 정의: 'Prompts should be straightforward to avoid confusion.'\n→ 정확히 대응. Item 2 = Clarity ✓\n\n교사는 추후 듣기 클립 추가 희망 → Integrated Skills Assessment를 목표로 하지만 현재 Item 2에 적용된 원칙은 Clarity.",
         "key_terms": ["clarity"]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 지문 직접 인용",
+        "explanation": "Authenticity 근거: 'this item resembled a conversation topic in real-life contexts' — 실생활 대화 주제와의 유사성 명시.\nClarity 근거: 'the item clearly described what sort of response was desired' + 'most of the students did very well' — 명확한 프롬프트가 수행을 촉진.",
+        "key_terms": ["authenticity", "clarity"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "말하기 평가 원칙 식별 패턴:\n① 교사 로그에서 '실생활/자연스러운' 키워드 → Authenticity\n② '명확히 설명됐다/혼란 없었다' 키워드 → Clarity\n③ '시간 초과/관리 어려움' → Practicality 결함 (식별 문제에선 적용된 원칙, 결함 원칙 구분 주의)\n\n함정: Practicality 결함(Item 1 시간 제한 미설정)이 명시되지만, '적용된 원칙'은 Authenticity — 결함과 적용 원칙 혼동 금지.",
+        "key_terms": ["authenticity", "clarity"]
       }
     ],
     "key_terms": [
@@ -79,8 +97,27 @@
     ]
   },
   "source": {
-    "references": [],
-    "concept_explanation": "Brown (2004)의 말하기 평가 원칙 중 Authenticity(실제성)는 과제가 실생활 의사소통과 유사해야 한다는 원칙이고, Clarity(명확성)는 프롬프트가 학생들에게 명확하게 제시되어야 한다는 원칙이다. Practicality(실용성)는 평가가 시간과 자원 면에서 관리 가능해야 함을 의미하며, Item 1에서 시간 제한이 없어 채점이 어려워진 것은 Practicality가 부족한 사례다."
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Brown, H. D.",
+        "title": "Language Assessment: Principles and Classroom Practices",
+        "year": 2004,
+        "publisher": "Longman / Pearson Education",
+        "pages": "pp. 140–160 · Ch. 6",
+        "excerpt": "Principles of speaking assessment include <span class=\"ref-hl\">authenticity</span> — tasks should mirror real-life communication contexts so that learners can demonstrate natural language use — and <span class=\"ref-hl\">clarity</span> — prompts should be straightforward and unambiguous to prevent learner confusion. <span class=\"ref-hl\">Practicality</span> requires that tests be feasible in terms of administration time and scoring demands."
+      },
+      {
+        "type": "textbook",
+        "author": "Brown, H. D. & Abeywickrama, P.",
+        "title": "Language Assessment: Principles and Classroom Practices (2nd ed.)",
+        "year": 2010,
+        "publisher": "Pearson Education",
+        "pages": "pp. 152–168 · Ch. 6",
+        "excerpt": "Authentic assessment tasks reflect the conditions and constraints of real-world language use. <span class=\"ref-hl\">Authenticity</span> in speaking assessment means that the topic, context, or interaction pattern closely resembles those found in communicative situations outside the classroom. A lack of <span class=\"ref-hl\">practicality</span> — for instance, failing to set time limits — may render an otherwise valid item unmanageable in practice."
+      }
+    ],
+    "concept_explanation": "Brown (2004) speaking assessment principles:\n\n- Clarity: Prompts should be straightforward to avoid confusion — 명확하고 단순한 지시문으로 학생 혼란 방지. Item 2의 사진 프롬프트가 기대 응답을 명확히 제시.\n- Authenticity: Tasks should mirror real-life communication — 실생활 의사소통과 유사한 과제. Item 1의 '친구와의 기억 묘사' 주제가 해당.\n- Integrated Skills Assessment: Assess speaking alongside other skills — 듣기·읽기 등 다른 기술과 통합. 교사가 향후 추가 희망한 '듣기 클립 활용' 방식.\n- Practicality: Feasible and manageable in terms of time — 시간·채점 면에서 관리 가능해야 함. Item 1에서 시간 제한 미설정 → Practicality 결함 사례.\n\n식별 핵심: 교사 로그 내 '실생활 유사' 표현 → Authenticity; '명확한 프롬프트/기대 응답 명시' 표현 → Clarity."
   },
   "related": {
     "enabled": true,

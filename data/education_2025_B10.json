@@ -23,21 +23,33 @@
     "steps": [
       {
         "step": 1,
-        "label": "①Seoyeon 스피치 분석 — reflecting",
-        "explanation": "Seoyeon은 미국 고등학교 생활을 '상상'하며 개인적 해석과 반응을 표현했다('I'd be excited...', 'I wouldn't want...'). 이는 reflecting의 정의 'learners make personal interpretations of experiences'와 일치한다.",
-        "key_terms": ["reflecting"]
+        "label": "범위 설정 — 4단계 문화 간 학습 과정 확인",
+        "explanation": "<A>에 제시된 Liddicoat et al.(2003)의 intercultural language learning 4과정:\n- noticing: 새 문화 정보 접촉·이해 시도\n- comparing: 자문화와 목표 문화 간 유사점·차이점 파악\n- reflecting: 경험에 대한 개인적 해석·반응\n- interacting: 개인적 의미 소통 + 타인과의 상호작용 속 이해 재형성\n스피치 두 편과 <B> 대화에서 각각 어느 과정이 실현되는지를 식별하는 과제.",
+        "key_terms": ["noticing", "comparing", "reflecting", "interacting"]
       },
       {
         "step": 2,
-        "label": "②Taesoo 스피치 분석 — comparing",
-        "explanation": "Taesoo는 한국과 미국 고등학생의 과외 활동 참여도 차이를 비교했다('seems different between Korean and U.S.'). 이는 comparing의 정의 'identifying similarities and differences between learners' culture and the target culture'와 일치한다.",
-        "key_terms": ["comparing"]
+        "label": "이론↔지문 대응 — ①Seoyeon 스피치 → reflecting",
+        "explanation": "Seoyeon은 미국 고등학교 생활을 '상상'하며 개인적 감정과 판단을 표현한다('I'd be excited...', 'I wouldn't want...'). 이는 reflecting의 정의 'learners make personal interpretations of experiences and react to linguistic and cultural diversity'와 일치한다. noticing(새 정보 수용)이나 comparing(한국·미국 비교)과 달리, 자신의 개인적 반응이 중심이므로 reflecting.",
+        "key_terms": ["reflecting"]
       },
       {
         "step": 3,
-        "label": "<B>에서 Seoyeon — interacting",
-        "explanation": "<B>에서 Seoyeon은 Taesoo의 발표를 듣고 개인적 의미를 공유하며('There are a lot of things we can do...'), Taesoo와의 상호작용에 반응하여 이해를 재형성하고 더 알고 싶어한다('I'd like to hear more about...'). 이는 interacting의 정의 'communicating personal meanings, exploring those meanings, and reshaping them in response to others'와 일치한다.",
+        "label": "이론↔지문 대응 — ②Taesoo 스피치 → comparing",
+        "explanation": "Taesoo는 한국과 미국 고등학생의 과외 활동 참여도 차이를 명시적으로 비교한다('seems different between Korean and U.S. high school students'). 이는 comparing의 정의 'identifying similarities and differences between learners' culture and the target culture'와 정확히 일치한다. 단순 개인 반응이 아니라 두 문화 간 차이 식별이 핵심.",
+        "key_terms": ["comparing"]
+      },
+      {
+        "step": 4,
+        "label": "<B> 대화 분석 — Seoyeon → interacting",
+        "explanation": "<B>에서 Seoyeon은 Taesoo의 발표에 반응하여 개인적 의미를 소통하고('There are a lot of things we can do for the community'), Taesoo와의 상호작용에 반응하여 이해를 재형성하며 더 탐색하려 한다('I'd like to hear more about the ways in which we can serve our communities'). 이는 interacting의 정의 'communicating personal meanings, exploring those meanings, and reshaping them in response to others'와 일치한다.",
         "key_terms": ["interacting"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — 4과정 구별 기준",
+        "explanation": "식별 기준:\n- noticing: 새 문화 정보에 노출·이해 시도 단계 → 교사 자료 투입 후 첫 접촉\n- comparing: 두 문화를 명시적으로 대조 → 'different between A and B' 표현이 핵심 근거\n- reflecting: 개인적 감정·판단·해석 → 'I'd be excited', 'I wouldn't want' 등 1인칭 정의적 표현\n- interacting: 대화 상대방과의 상호작용에서 의미 교환·재형성 → <B> 대화 장면\n\n함정: Seoyeon이 '상상'하는 것은 경험 없이 개인 반응 → noticing 아님; 비교도 아님 → reflecting 확정.",
+        "key_terms": []
       }
     ],
     "key_terms": [
@@ -48,7 +60,7 @@
         "source_author": "Liddicoat et al.",
         "source_year": 2003,
         "related_terms": ["noticing", "comparing", "interacting"],
-        "exam_usage": "Seoyeon 스피치: 미국 학교 경험에 대한 개인적 반응 표현"
+        "exam_usage": "Seoyeon 스피치: 미국 학교 생활에 대한 개인적 감정·선호 반응 표현"
       },
       {
         "term": "comparing",
@@ -57,7 +69,7 @@
         "source_author": "Liddicoat et al.",
         "source_year": 2003,
         "related_terms": ["noticing", "reflecting", "interacting"],
-        "exam_usage": "Taesoo 스피치: 한국·미국 학생 과외활동 참여도 차이 비교"
+        "exam_usage": "Taesoo 스피치: 한국·미국 학생 과외활동 참여도 차이 명시적 비교"
       },
       {
         "term": "interacting",
@@ -66,7 +78,16 @@
         "source_author": "Liddicoat et al.",
         "source_year": 2003,
         "related_terms": ["reflecting", "comparing"],
-        "exam_usage": "<B>에서 Seoyeon: Taesoo와 대화하며 이해 재형성"
+        "exam_usage": "<B> 대화: Seoyeon이 Taesoo와 교류하며 이해를 재형성하고 더 탐색"
+      },
+      {
+        "term": "noticing",
+        "definition_en": "A process in intercultural language learning in which learners experience new input about culture and attempt to understand it, often through teacher-provided exemplifications.",
+        "definition_ko": "학습자가 목표 문화에 관한 새 정보(동영상, 텍스트 등)에 접촉하고 이해를 시도하는 문화 간 학습의 첫 단계.",
+        "source_author": "Liddicoat et al.",
+        "source_year": 2003,
+        "related_terms": ["comparing", "reflecting", "interacting"],
+        "exam_usage": "본 문제에서는 직접 출제되지 않은 과정이나, 4단계 이해를 위해 필수 개념"
       }
     ],
     "vocabulary": [],
@@ -94,8 +115,27 @@
     ]
   },
   "source": {
-    "references": [],
-    "concept_explanation": "Liddicoat et al.(2003)의 문화 간 언어 학습 4단계: noticing(새 문화 정보 접촉·이해 시도), comparing(자문화와 목표 문화 비교), reflecting(개인적 해석·반응), interacting(개인적 의미 소통 및 재형성). Seoyeon의 스피치(reflecting)와 Taesoo의 스피치(comparing)는 각각 다른 과정에 해당하며, <B> 대화에서 Seoyeon은 interacting 과정으로 전환된다."
+    "references": [
+      {
+        "type": "report",
+        "author": "Liddicoat, A. J., Papademetre, L., Scarino, A. & Kohler, M.",
+        "title": "Report on Intercultural Language Learning",
+        "year": 2003,
+        "publisher": "Commonwealth of Australia, Department of Education, Science and Training",
+        "pages": "pp. 1–50",
+        "excerpt": "Intercultural language learning can be conceptualized as a series of four interrelated processes: <span class=\"ref-hl\">noticing</span>, <span class=\"ref-hl\">comparing</span>, <span class=\"ref-hl\">reflecting</span>, and <span class=\"ref-hl\">interacting</span>. Noticing involves experiencing new cultural input and attempting to understand it. Comparing requires learners to identify similarities and differences between their own culture and the target culture. Reflecting involves learners making personal interpretations of cultural experiences and reacting to diversity. Interacting requires learners to communicate personal meanings, explore those meanings collaboratively, and reshape them in response to others."
+      },
+      {
+        "type": "textbook",
+        "author": "Scarino, A. & Liddicoat, A. J.",
+        "title": "Teaching and Learning Languages: A Guide",
+        "year": 2009,
+        "publisher": "Curriculum Corporation / DEEWR, Commonwealth of Australia",
+        "pages": "pp. 34–48 · Ch. 3",
+        "excerpt": "The four processes of intercultural language learning are best understood as cyclical and mutually reinforcing. A learner who is <span class=\"ref-hl\">reflecting</span> on personal experience with a target culture moves beyond mere observation to form personal interpretations. When two learners then engage in dialogue — <span class=\"ref-hl\">interacting</span> — they communicate these meanings, negotiate understanding, and reshape their views in light of what the other shares."
+      }
+    ],
+    "concept_explanation": "Liddicoat et al.(2003)의 문화 간 언어 학습 4과정:\n\n1. noticing: 목표 문화에 관한 새 정보 접촉·이해 시도 (교사 제공 자료 활용)\n2. comparing: 자문화와 목표 문화 간 유사점·차이점 파악\n3. reflecting: 경험에 대한 개인적 해석과 문화적 다양성에 대한 반응\n4. interacting: 개인적 의미 소통·탐색, 타인 반응에 따른 의미 재형성\n\n4과정 구별 핵심:\n- reflecting vs. noticing: reflecting은 단순 수용이 아니라 개인적 감정·판단 포함\n- comparing vs. reflecting: comparing은 두 문화를 명시적으로 대조; reflecting은 개인 반응 중심\n- interacting: 대화 상대방과의 실시간 상호작용에서 의미 재형성이 발생\n\n본 문제: Seoyeon 스피치(reflecting) → Taesoo 스피치(comparing) → <B> 대화 속 Seoyeon(interacting)"
   },
   "related": {
     "enabled": true,

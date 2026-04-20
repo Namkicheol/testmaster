@@ -20,26 +20,53 @@
     "steps": [
       {
         "step": 1,
-        "label": "S1 → P4 매핑",
-        "explanation": "S1은 이해되지 않을 때 건너뛰는 경향이 있으며, '마음속에 그림을 그리면(draw a picture in my mind) 더 잘 이해할 것'이라고 말한다. 이는 <A>의 P4 'I try to visualize information to help understand what I read'와 직접 대응한다.",
-        "key_terms": ["visualize"]
+        "label": "범위 설정 — MARSI 3범주 확인",
+        "explanation": "Metacognitive Awareness of Reading Strategy Inventory(MARSI, Mokhtari & Reichard 2002)의 세 범주:\n- GLOB(Global Reading Strategies): 전략적 읽기 계획(G1~G4 등)\n- SUP(Support Reading Strategies): 보조 도구·방법 활용\n- PROB(Problem-Solving Strategies): 이해 어려움 시 문제 해결 전략\n<B>의 S1·S2 인터뷰 발언에서 각자가 필요로 하는 전략을 파악하여 <A>의 GLOB·PROB 항목에 대응시키는 과제.",
+        "key_terms": []
       },
       {
         "step": 2,
-        "label": "S2 → G3 매핑",
-        "explanation": "S2는 문장 단위로 분석(analyze texts sentence-by-sentence)하는 습관이 있으며, '선택적 읽기(reading selectively)가 더 효율적인 독자가 되는 데 도움이 될 것'이라고 한다. 이는 <A>의 G3 'I decide what to read and what to ignore'와 직접 대응한다.",
+        "label": "이론↔지문 대응 — S1 → P4 (visualize)",
+        "explanation": "S1: 이해되지 않으면 skip하는 경향이 있고, '마음속에 그림을 그리면(draw a picture in my mind) 더 잘 이해할 것'이라고 말한다. PROB 범주의 P4는 'I try to visualize information to help understand what I read'로, S1의 'draw a picture in my mind'가 visualize의 직접적 근거다.",
+        "key_terms": ["visualize"]
+      },
+      {
+        "step": 3,
+        "label": "이론↔지문 대응 — S2 → G3 (reading selectively)",
+        "explanation": "S2: 문장 단위로 분석(analyze texts sentence-by-sentence)하는 비효율적 습관을 인식하고, reading selectively가 도움이 될 것이라고 말한다. GLOB 범주의 G3는 'I decide what to read and what to ignore'로, 선택적으로 읽는 reading selectively 전략과 정확히 대응한다.",
+        "key_terms": ["reading selectively"]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 지문 직접 인용",
+        "explanation": "P4 근거: S1 'draw a picture in my mind' → P4의 visualize information과 동일 개념. S1이 skip 습관 개선을 원한다는 점이 PROB(문제 해결) 전략으로의 귀속을 지지.\nG3 근거: S2 'reading selectively may help me become a more efficient reader' → G3 'I decide what to read and what to ignore'와 완전 대응. sentence-by-sentence 분석의 비효율성 인식이 G3 필요성의 증거.",
+        "key_terms": ["visualize", "reading selectively"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — 함정 구별",
+        "explanation": "함정 주의:\n① S1이 skip하는 것 → P1(re-read) 혼동 주의. S1이 원하는 것은 re-reading이 아니라 visualize로 이해를 높이는 것.\n② S2의 sentence-by-sentence 분석 → G2(배경지식 활용) 혼동 주의. S2가 원하는 것은 reading selectively(G3)로 효율성 향상.\n③ MARSI 항목은 설문지 번호(G3, P4)로 답해야 함. 번호와 설명 모두 기재 권장.",
         "key_terms": []
       }
     ],
     "key_terms": [
       {
         "term": "visualize",
-        "definition_en": "A problem-solving reading strategy in which readers create mental images to enhance comprehension of text.",
-        "definition_ko": "텍스트 이해를 높이기 위해 마음속에 이미지를 그리는 문제 해결 읽기 전략.",
+        "definition_en": "A problem-solving (PROB) reading strategy in which readers create mental images or pictures to enhance comprehension of text.",
+        "definition_ko": "텍스트 이해를 높이기 위해 마음속에 이미지를 그리는 문제 해결(PROB) 읽기 전략.",
         "source_author": "Mokhtari & Reichard",
         "source_year": 2002,
         "related_terms": ["PROB", "metacognitive strategies"],
-        "exam_usage": "S1: 이해 불확실 시 skip하는 학습자에게 P4(시각화) 전략 적용"
+        "exam_usage": "S1: 이해 불확실 시 skip → P4(visualize information, 'draw a picture in my mind') 전략 필요"
+      },
+      {
+        "term": "reading selectively",
+        "definition_en": "A global reading strategy (GLOB) in which readers decide what parts of a text to read carefully and what to ignore, improving reading efficiency.",
+        "definition_ko": "텍스트의 어떤 부분을 집중하여 읽고 어떤 부분을 건너뛸지 결정하는 전략적 읽기 방법(GLOB).",
+        "source_author": "Mokhtari & Reichard",
+        "source_year": 2002,
+        "related_terms": ["GLOB", "metacognitive strategies"],
+        "exam_usage": "S2: sentence-by-sentence 분석 비효율 인식 → G3(reading selectively) 전략 필요"
       }
     ],
     "vocabulary": [],
@@ -48,10 +75,10 @@
   "answer": {
     "model_answer": {
       "blank_answers": [],
-      "essay_content": "G3 and P4 may be applied. For S2, Ms. Yu can instruct students to decide what to read and what to ignore (G3), encouraging selective reading instead of analyzing texts sentence-by-sentence. For S1, Ms. Yu can guide students to visualize information (P4), helping them draw a picture in their mind to understand texts better rather than skipping over unclear parts.",
+      "essay_content": "G3 and P4 may be applied. For S2, Ms. Yu can instruct students to decide what to read and what to ignore (G3), encouraging reading selectively instead of analyzing texts sentence-by-sentence. For S1, Ms. Yu can guide students to visualize information (P4), helping them draw a picture in their mind to understand texts better rather than skipping over unclear parts.",
       "scoring_criteria": [
         { "criterion": "두 항목 모두 정확히 식별: G3 + P4", "points": 2 },
-        { "criterion": "G3 근거: S2의 sentence-by-sentence → selective reading(G3) 연결 설명", "points": 1 },
+        { "criterion": "G3 근거: S2의 sentence-by-sentence → reading selectively(G3) 연결 설명", "points": 1 },
         { "criterion": "P4 근거: S1의 skip → visualize/draw a picture in mind(P4) 연결 설명", "points": 1 }
       ]
     },
@@ -71,16 +98,25 @@
   "source": {
     "references": [
       {
-        "type": "textbook",
-        "author": "Mokhtari, K. & Reichard, C.",
+        "type": "paper",
+        "author": "Mokhtari, K. & Reichard, C. A.",
         "title": "Assessing Students' Metacognitive Awareness of Reading Strategies",
         "year": 2002,
-        "publisher": "Journal of Educational Psychology",
-        "pages": "",
-        "excerpt": "The MARSI questionnaire measures three categories: Global Reading Strategies (GLOB), Support Reading Strategies (SUP), and Problem-Solving Strategies (PROB)."
+        "publisher": "Journal of Educational Psychology, 94(2), 249–259",
+        "pages": "pp. 249–259",
+        "excerpt": "The Metacognitive Awareness of Reading Strategy Inventory (MARSI) consists of 30 items reflecting three broad categories of reading strategies used by readers: Global Reading Strategies (<span class=\"ref-hl\">GLOB</span>), Problem-Solving Strategies (<span class=\"ref-hl\">PROB</span>), and Support Reading Strategies (SUP). GLOB strategies represent a general approach to reading such as having a purpose and deciding what to read carefully and what to ignore (G3). PROB strategies, such as re-reading and trying to <span class=\"ref-hl\">visualize</span> information (P4), are local, focused tactics used when a problem arises."
+      },
+      {
+        "type": "textbook",
+        "author": "Anderson, N. J.",
+        "title": "Exploring Second Language Reading: Issues and Strategies",
+        "year": 1999,
+        "publisher": "Heinle & Heinle",
+        "pages": "pp. 68–85 · Ch. 4",
+        "excerpt": "Metacognitive reading strategies allow readers to monitor and regulate their own reading processes. Readers who read <span class=\"ref-hl\">reading selectively</span> — choosing which sections require close attention and which can be skimmed or skipped — demonstrate strategic, efficient reading. Similarly, the ability to <span class=\"ref-hl\">visualize</span> content creates mental images that scaffold comprehension, particularly when text meaning is not immediately transparent."
       }
     ],
-    "concept_explanation": "MARSI(Metacognitive Awareness of Reading Strategy Inventory, Mokhtari & Reichard 2002)는 독자의 메타인지 읽기 전략 인식을 세 범주로 측정한다. GLOB(전략적 계획 수립), SUP(보조 도구 활용), PROB(문제 해결). G3('decide what to read and what to ignore')는 선택적 읽기 전략으로, 효율적인 독자는 모든 텍스트를 동일 비중으로 읽지 않는다. P4('visualize information')는 읽기 내용을 시각화하는 문제 해결 전략이다."
+    "concept_explanation": "MARSI(Metacognitive Awareness of Reading Strategy Inventory, Mokhtari & Reichard 2002)는 독자의 메타인지 읽기 전략 인식을 세 범주로 측정한다.\n\n- GLOB(Global Reading Strategies): 전략적 읽기 계획. G3 'I decide what to read and what to ignore' = reading selectively. 텍스트 전체를 동일 비중으로 읽지 않고 선별적으로 읽는 능력.\n- PROB(Problem-Solving Strategies): 이해 어려움 시 문제 해결. P4 'I try to visualize information' = 내용을 머릿속으로 시각화하여 이해 향상.\n- SUP(Support Reading Strategies): 사전·노트 등 보조 도구 활용.\n\n본 문제 핵심:\n- S1: skip 습관 + 'draw a picture in my mind' → P4(visualize)\n- S2: sentence-by-sentence 분석 + reading selectively 인식 → G3\n\n판별 원칙: 학습자의 자기 보고(self-report)에서 원하는 전략을 직접 언급한 표현을 MARSI 항목 설명과 대조."
   },
   "related": {
     "enabled": true,

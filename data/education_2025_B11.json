@@ -20,35 +20,53 @@
     "steps": [
       {
         "step": 1,
-        "label": "① 불준수 — 3rd period: 명시적 문법 지도",
-        "explanation": "Principle ①은 학생이 언어 규칙을 스스로 탐구하고 발견(independently explore and discover)하도록 장려하는 것이다. 그러나 3rd period에서 Ms. Kim은 PPT slides로 새 단어 정의를 직접 제공하고 drills를 통해 문법을 명시적으로(explicitly) 지도했다. 이는 학생 주도의 발견 학습(discovery learning)이 아니라 교사 주도의 직접 교수(explicit instruction)이므로 ①에 어긋난다.",
-        "key_terms": ["explicitly", "discovery learning"]
+        "label": "범위 설정 — 4개 원칙 확인",
+        "explanation": "<A>의 디지털 도구 활용 4원칙:\n① 학생이 언어 규칙을 independently explore하고 discover하도록 장려 (discovery learning)\n② 다양한 학습 스타일 지원 (auditory, visual 등)\n③ 디지털 윤리 교육 (인용 등)\n④ 학생 성취를 평가하고 individualized feedback 제공\n<B>의 각 수업 기간을 위 원칙과 대조하여 위반 사례를 찾는 과제.",
+        "key_terms": ["discovery learning", "individualized feedback"]
       },
       {
         "step": 2,
-        "label": "④ 불준수 — 8th period: 집단 피드백만 제공",
-        "explanation": "Principle ④는 학생 성취도를 평가하고 개별화된 피드백(individualized feedback)을 제공하는 것이다. 그러나 8th period에서 Ms. Kim은 팀 기반 퀴즈(team-based quiz)를 실시하고 그룹 전체에 대한 코멘트(comments to groups)를 제공했다. 개인별 성취 평가 및 개인 피드백이 없으므로 ④에 어긋난다.",
+        "label": "이론↔지문 대조 — 각 기간 검토",
+        "explanation": "1st: 인터넷 사용법 교육 → 원칙 ③(디지털 윤리) 부합. ✓\n2nd: Word cloud로 개념 시각화, 읽기 활동 → 원칙 ②(다양한 학습 스타일) 부합. ✓\n3rd: 단어 정의 직접 제공 + drills로 명시적 문법 지도 → ① 위반 후보 ✓\n7th: 협력 글쓰기 플랫폼 사용, 그룹 포스터 제작 → 특별한 위반 없음. ✓\n8th: 팀 기반 퀴즈 + 그룹 코멘트 제공 → ④ 위반 후보 ✓",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "Principle ① 불준수 — 3rd period",
+        "explanation": "Principle ①은 학생이 언어 규칙을 independently explore and discover하도록 장려하는 것이다(discovery learning). 그러나 3rd period에서 Ms. Kim은 PPT slides로 새 단어 정의를 직접 제공하고 drills를 통해 문법을 explicitly 지도했다. 이는 교사 주도의 직접 교수(explicit instruction)로, 학생의 자율 탐구를 요구하는 ①에 어긋난다.",
+        "key_terms": ["explicitly", "discovery learning"]
+      },
+      {
+        "step": 4,
+        "label": "Principle ④ 불준수 — 8th period",
+        "explanation": "Principle ④는 개별 학생 성취를 평가하고 individualized feedback을 제공하는 것이다. 그러나 8th period에서 Ms. Kim은 team-based quiz를 실시하고 그룹 전체에 대한 코멘트(comments to groups)만 제공했다. 이는 개인별 성취 평가 및 individualized feedback 요건을 충족하지 못하므로 ④에 어긋난다.",
         "key_terms": ["individualized feedback", "team-based quiz"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — 함정 구별",
+        "explanation": "함정 주의:\n① 원칙 ①은 결과적으로 문법을 가르치는 것이 문제가 아니라, explicitly/직접 교수 방식이 문제. 'drills'와 '직접 정의 제공'이 핵심 근거.\n② 원칙 ④에서 quiz 자체가 문제가 아니라 team-based(집단 단위)로 진행하고 comments도 groups에게만 제공된다는 점이 핵심. 개인별 피드백 부재가 이탈 근거.\n③ 원칙 ②는 2nd period의 Word cloud(시각 자료)가 이미 충족. ③은 1st period가 충족. 혼동 주의.",
+        "key_terms": []
       }
     ],
     "key_terms": [
       {
         "term": "discovery learning",
-        "definition_en": "An instructional approach in which learners actively construct knowledge by exploring, investigating, and finding patterns on their own, rather than receiving direct instruction.",
-        "definition_ko": "학습자가 교사의 직접 설명 없이 스스로 탐구·조사·패턴 발견을 통해 능동적으로 지식을 구성하는 교수 접근법.",
+        "definition_en": "An instructional approach, rooted in Bruner (1961), in which learners actively construct knowledge by exploring and finding patterns on their own rather than receiving direct instruction.",
+        "definition_ko": "교사의 직접 설명 대신 학습자가 스스로 탐구·발견을 통해 능동적으로 지식을 구성하는 교수 접근법 (Bruner 1961).",
         "source_author": "Bruner",
         "source_year": 1961,
         "related_terms": ["inductive learning", "inquiry-based learning"],
-        "exam_usage": "Principle ①: 학생이 언어 규칙을 독립적으로 탐구·발견하도록 장려"
+        "exam_usage": "Principle ①: 학생이 언어 규칙을 independently explore하고 discover하도록 장려 — 3rd period 명시적 문법 드릴과 대비"
       },
       {
         "term": "individualized feedback",
-        "definition_en": "Feedback tailored to each individual learner's specific performance, needs, or progress, as opposed to general or group-level feedback.",
-        "definition_ko": "집단 전체가 아닌 각 학습자 개인의 수행, 필요, 진도에 맞춰 제공되는 피드백.",
+        "definition_en": "Feedback tailored to each individual learner's specific performance, needs, or progress, as distinguished from group-level or generic feedback.",
+        "definition_ko": "집단 전체가 아닌 각 학습자 개인의 수행, 필요, 진도에 맞춰 제공되는 피드백. 집단 코멘트와 구별됨.",
         "source_author": "",
         "source_year": null,
         "related_terms": ["formative assessment", "personalized feedback"],
-        "exam_usage": "Principle ④: 개별 학생 성취 평가 및 개인화 피드백 — 8th period 집단 코멘트와 대비"
+        "exam_usage": "Principle ④: 8th period에서 team-based quiz + comments to groups만 제공 — individualized feedback 부재"
       }
     ],
     "vocabulary": [],
@@ -74,13 +92,32 @@
       {
         "label": "답안 B",
         "source_type": "instructor",
-        "content": "Ms. Kim does not conform to principles ① and ④. First, she explicitly teaches grammar points through drills instead of encouraging students to independently explore and discover language rules. Additionally, she conducts a team-based quiz and provides comments to groups rather than assessing individual performance and offering personalized feedback."
+        "content": "Ms. Kim does not conform to principles ① and ④. First, she explicitly teaches grammar points through drills instead of encouraging students to independently explore and discover language rules. Additionally, she conducts a team-based quiz and provides comments to groups rather than assessing individual performance and offering individualized feedback."
       }
     ]
   },
   "source": {
-    "references": [],
-    "concept_explanation": "ICT 통합 수업에서 디지털 도구 활용 원리 중 ①은 Bruner의 발견 학습(discovery learning)에 근거하여 학생이 귀납적으로 언어 규칙을 탐구하도록 유도한다. 3rd period의 explicit grammar drills는 이 원리와 배치된다. ④는 형성 평가(formative assessment)와 연관되어 개별 학습자에 맞춤화된 피드백 제공을 요구한다. 8th period의 team-based quiz와 group comments는 개별화 요건을 충족하지 못한다."
+    "references": [
+      {
+        "type": "paper",
+        "author": "Bruner, J. S.",
+        "title": "The Act of Discovery",
+        "year": 1961,
+        "publisher": "Harvard Educational Review, 31(1), 21–32",
+        "pages": "pp. 21–32",
+        "excerpt": "The hypothesis that <span class=\"ref-hl\">discovery learning</span> — where the learner constructs knowledge through guided exploration rather than reception of explicit information — leads to better retention and transfer. When the learner discovers a principle independently, it is more readily available for later application than when the same principle is presented through direct instruction."
+      },
+      {
+        "type": "textbook",
+        "author": "Black, P. & Wiliam, D.",
+        "title": "Inside the Black Box: Raising Standards Through Classroom Assessment",
+        "year": 1998,
+        "publisher": "Phi Delta Kappa International",
+        "pages": "pp. 1–13",
+        "excerpt": "Effective formative assessment requires that feedback be <span class=\"ref-hl\">individualized feedback</span> — targeted at the specific learner's understanding and misconceptions — rather than generic group-level comment. When teachers provide comments only to the class as a whole, students cannot identify what they personally need to do to improve, and the feedback loses much of its formative power."
+      }
+    ],
+    "concept_explanation": "ICT 통합 수업에서 디지털 도구 활용 4원칙:\n\n① discovery learning (Bruner 1961) 기반: 학생이 언어 규칙을 independently explore하고 discover하도록 유도. 3rd period의 explicit grammar drills는 교사 주도의 직접 교수로 이 원칙과 배치된다.\n② 다양한 학습 스타일 지원: auditory·visual 등 다양한 양식 제공.\n③ 디지털 윤리 교육: 인용, 출처 표기, 네티켓 등.\n④ 개별 평가 + individualized feedback: 각 학습자 개인의 성취에 맞춤화된 피드백 제공. 8th period의 team-based quiz와 group comments는 집단 단위 평가로, individualized feedback 원칙을 충족하지 못한다."
   },
   "related": {
     "enabled": true,

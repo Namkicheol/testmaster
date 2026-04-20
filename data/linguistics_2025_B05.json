@@ -21,15 +21,33 @@
     "steps": [
       {
         "step": 1,
-        "label": "(a) 분석 — ditransitive put",
-        "explanation": "put은 ditransitive predicate로 3개의 논항(subject, direct object, goal/locative)을 요구한다. (a)에는 'Susan'(subject)과 'the book'(direct object)만 있고, goal theta-role을 받을 argument(예: 'on the shelf')가 없다. theta-criterion 조건 (ii)에 따르면 each theta-role must be assigned to only one argument인데, put의 goal theta-role이 배당될 argument가 없으므로 위반이다.",
+        "label": "범위 설정 — theta-criterion 두 조건 확인",
+        "explanation": "<A>에 제시된 theta-criterion의 두 조건:\n(i) each argument must receive only one theta-role\n(ii) each theta-role must be assigned to only one argument\n<B>의 (a)와 (b)가 각각 어떤 조건을 위반하는지 분석하는 과제. 또한 theta-grid 개념과 ditransitive vs transitive 구분이 필요.",
         "key_terms": ["theta-criterion", "theta-role"]
       },
       {
         "step": 2,
-        "label": "(b) 분석 — object relative clause + 'it'",
-        "explanation": "'The ball John hit it broke the window'에서 'the ball'은 관계절의 목적어로, Øwh가 object position에서 이동한 trace(twh)가 hit의 theme theta-role을 받는다. 즉 hit은 이미 John(agent)과 twh(theme)에 두 theta-role을 배당했다. 그런데 'it'이 추가 argument로 관계절에 삽입되어 있는데, 이 'it'에게 배당할 theta-role이 없다. theta-criterion 조건 (i)에 따르면 each argument must receive only one theta-role인데, 'it'는 theta-role을 받지 못하므로 위반이다.",
-        "key_terms": ["theta-criterion"]
+        "label": "이론↔지문 대응 — (a) 분석: ditransitive put",
+        "explanation": "put은 ditransitive predicate로 <A>에 따르면 subject + direct object + objective predicative complement의 3개 논항이 필요하다. (a) *Susan put the book.에는 Susan(subject)과 the book(direct object)만 있고, put이 요구하는 goal/locative theta-role을 받을 세 번째 argument가 없다. theta-criterion 조건 (ii): each theta-role must be assigned to only one argument — goal theta-role이 배당될 argument 없음 → 조건 (ii) 위반.",
+        "key_terms": ["theta-criterion", "theta-role"]
+      },
+      {
+        "step": 3,
+        "label": "이론↔지문 대응 — (b) 분석: relative clause + 'it'",
+        "explanation": "(b) *The ball John hit it broke the window는 object relative clause 구조다. Øwh(silent relative pronoun)가 hit의 object position에서 SpecCP로 이동하며 trace(twh)를 남긴다. hit은 이미 John(agent)과 twh(theme)에 두 theta-role을 배당 완료했다. 그런데 'it'이 추가 argument로 남아 있는데, hit의 theta-grid <Agent, Theme>에는 남은 theta-role이 없다. theta-criterion 조건 (i): each argument must receive only one theta-role — 'it'가 theta-role 없이 argument로 존재 → 조건 (i) 위반.",
+        "key_terms": ["theta-criterion", "theta-role"]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 조건 구별",
+        "explanation": "(a) 조건 (ii) 위반: put의 goal theta-role이 배당되지 않음. theta-role에 대응하는 argument가 없는 경우.\n(b) 조건 (i) 위반: 'it'이 theta-role을 받지 못함. argument에 대응하는 theta-role이 없는 경우.\n두 조건의 방향이 다름: (ii)는 theta-role 과잉(argument 부족), (i)는 argument 과잉(theta-role 부족).",
+        "key_terms": ["theta-criterion", "theta-role"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — 두 조건 혼동 방지",
+        "explanation": "함정 주의:\n① (a)를 '논항이 적다'는 이유로 조건 (i) 위반이라고 혼동 금지. 조건 (i)는 argument가 theta-role을 받지 못할 때 위반. (a)는 theta-role이 배당되지 않으므로 조건 (ii).\n② (b)를 '중복 argument'라고 조건 (ii) 위반이라고 혼동 금지. 'it'은 theta-role 없이 남아 있으므로 조건 (i).\n③ 조건 (i) = argument가 theta-role 없음, 조건 (ii) = theta-role이 argument 없음 — 대응 방향 반드시 구분.",
+        "key_terms": []
       }
     ],
     "key_terms": [
@@ -81,12 +99,21 @@
     "references": [
       {
         "type": "textbook",
+        "author": "Chomsky, N.",
+        "title": "Lectures on Government and Binding",
+        "year": 1981,
+        "publisher": "Foris Publications",
+        "pages": "pp. 36–37",
+        "excerpt": "The <span class=\"ref-hl\">theta-criterion</span>: Each argument bears one and only one <span class=\"ref-hl\">theta-role</span>, and each theta-role is assigned to one and only one argument. Violations occur in either direction: when an argument lacks a theta-role assignment, or when a theta-role has no argument to which it can be assigned."
+      },
+      {
+        "type": "textbook",
         "author": "Radford, A.",
-        "title": "Transformational Grammar",
+        "title": "Transformational Grammar: A First Course",
         "year": 1988,
         "publisher": "Cambridge University Press",
-        "pages": "",
-        "excerpt": "The theta-criterion: each argument bears one and only one theta-role, and each theta-role is assigned to one and only one argument."
+        "pages": "pp. 374–400 · Ch. 7",
+        "excerpt": "The <span class=\"ref-hl\">theta-criterion</span> ensures that the mapping between predicate-argument structure and syntax is well-formed. A <span class=\"ref-hl\">theta-role</span> that remains unassigned (no argument receives it) violates the criterion in one direction, while an argument that fails to receive any theta-role violates it in the other direction. In object relative clauses, the trace left by wh-movement absorbs the theta-role of the verb; adding an overt pronoun in the same position thus leaves an argument without a theta-role."
       }
     ],
     "concept_explanation": "Theta-criterion (Chomsky 1981)은 논항과 theta-role의 일대일 대응을 요구한다. 조건 (i): 각 argument는 정확히 하나의 theta-role만 받아야 한다 — argument가 theta-role 없이 남으면 위반. 조건 (ii): 각 theta-role은 정확히 하나의 argument에만 배당되어야 한다 — theta-role이 배당될 argument가 없으면 위반. 관계절에서 trace(twh)가 이미 theta-role을 받았으므로 추가 대명사 'it'은 theta-role을 받지 못한다."

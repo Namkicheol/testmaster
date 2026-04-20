@@ -20,18 +20,55 @@
     "steps": [
       {
         "step": 1,
-        "label": "Reception 목표 찾기 — Step 2",
-        "explanation": "Step 2에서 학생들은 AI 관련 오디오 클립을 듣고 T/F 문제와 매칭 문제를 푼다. 이는 담화에서 특정 세부 정보(specific details)를 식별하는 활동으로, R2('identify specific details from a text or discourse')에 해당한다.",
-        "key_terms": ["specific details"]
+        "label": "범위 설정 — 학습 목표 6개 확인",
+        "explanation": "<A>의 수용(reception) 목표 3개와 표현(production) 목표 3개를 확인한다.\n- R1: 축약된 소리 인식 (음성)\n- R2: 텍스트·담화에서 specific details 파악 (세부 정보)\n- R3: 문자적·함축적 의미 구별 (의미)\n- P1: 사건 순서 설명 (순서)\n- P2: 일지·편지·이메일 쓰기 (작문)\n- P3: 주제에 대해 찬반을 정중하게 argue하기 (토론/쓰기)\n<B>의 각 Step 활동 내용과 위 목표 중 하나씩 대응시키는 것이 과제.",
+        "key_terms": ["specific details", "argue"]
       },
       {
         "step": 2,
-        "label": "Production 목표 찾기 — Step 3",
-        "explanation": "Step 3에서 학생들은 디지털 도구 사용 규칙을 함께 작성하는데, 정중한 동의·반대 표현(useful expressions for polite agreement or disagreement)을 사용한다. 이는 주제에 대해 찬반 논거를 정중하게 표현하는 P3('argue for and against a topic in a respectful manner')에 해당한다.",
+        "label": "이론↔지문 대응 — Step 2 → R2 (Reception)",
+        "explanation": "Step 2에서 학생들은 오디오 클립을 듣고 워크시트를 완성한다. 워크시트는 (A) T/F 문항과 (B) 인물-걱정사항 매칭으로 구성된다. 이 두 과제 모두 담화(discourse)에서 specific details(특정 세부 정보)를 파악해야 완성 가능하다. R2('identify specific details from a text or discourse')가 정확히 실현되며, R1(음성)·R3(함축)와의 소거로 확정.",
+        "key_terms": ["specific details"]
+      },
+      {
+        "step": 3,
+        "label": "이론↔지문 대응 — Step 3 → P3 (Production)",
+        "explanation": "Step 3에서 학생들은 디지털 도구 사용 규칙을 협력하여 작성한다. 활동 지시문에 'useful expressions for polite agreement or disagreement'가 명시되어 있으며, 이는 주제에 대해 찬반(for and against)을 정중하게 argue하는 P3의 정의와 일치한다. P1(순서 설명)·P2(편지 작문)는 이 활동과 맞지 않으므로 소거.",
         "key_terms": ["argue"]
+      },
+      {
+        "step": 4,
+        "label": "확정 근거 — 지문 직접 인용",
+        "explanation": "R2 근거: Step 2 워크시트 A항목 'Mark the sentences True or False' + B항목 'Match the person with his or her concern' → 담화에서 specific details를 듣고 식별하는 활동.\nP3 근거: Step 3 'using useful expressions for polite agreement or disagreement' → 찬반 의견을 정중하게 argue하는 활동 명시.",
+        "key_terms": ["specific details", "argue"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — 함정 구별",
+        "explanation": "Step 1(브레인스토밍+마인드맵)은 찬반 논의 활동이나, 쓰기 결과물이나 정중한 표현 지시가 없어 P3로 보기 어렵다. 핵심은 Step 3의 'polite agreement or disagreement' 지시문이 P3의 'respectful manner'와 직접 대응한다는 점.\nStep 2에서 R3(함축 의미 구별) 혼동 주의 — T/F와 매칭은 specific details 파악이지, 함축 의미 구별이 아니다.",
+        "key_terms": []
       }
     ],
-    "key_terms": [],
+    "key_terms": [
+      {
+        "term": "specific details",
+        "definition_en": "Particular pieces of information in a text or discourse that listeners or readers must identify accurately, as opposed to main ideas or inferred meanings.",
+        "definition_ko": "텍스트나 담화 속의 특정 세부 정보. 주제나 함축 의미와 달리, 정확하게 파악해야 하는 구체적 사실 정보.",
+        "source_author": "Nation & Newton",
+        "source_year": 2009,
+        "related_terms": ["reception", "listening comprehension"],
+        "exam_usage": "R2 목표: Step 2의 T/F 문항과 매칭 과제에서 담화의 specific details 파악 능력 평가"
+      },
+      {
+        "term": "argue",
+        "definition_en": "A production skill in which learners present reasons for and against a position in a structured and respectful way.",
+        "definition_ko": "학습자가 주제에 대한 찬반 근거를 구조적이고 정중하게 표현하는 표현 기술.",
+        "source_author": "Brown",
+        "source_year": 2004,
+        "related_terms": ["production", "speaking"],
+        "exam_usage": "P3 목표: Step 3에서 polite agreement/disagreement 표현을 활용하여 디지털 도구 사용 규칙에 대해 찬반 argue"
+      }
+    ],
     "vocabulary": [],
     "translation": ""
   },
@@ -43,7 +80,7 @@
         { "criterion": "Reception 목표: R2 식별", "points": 1 },
         { "criterion": "R2 근거: Step 2, T/F + matching으로 specific details 식별 설명", "points": 1 },
         { "criterion": "Production 목표: P3 식별", "points": 1 },
-        { "criterion": "P3 근거: Step 3, 정중한 동의/반대 표현으로 규칙 작성 설명", "points": 1 }
+        { "criterion": "P3 근거: Step 3, 정중한 동의/반대 표현으로 규칙 작성(argue) 설명", "points": 1 }
       ]
     },
     "variants": [
@@ -60,8 +97,27 @@
     ]
   },
   "source": {
-    "references": [],
-    "concept_explanation": "언어 학습 목표는 수용(reception) 기술과 표현(production) 기술로 구분된다. 수용 기술은 읽기·듣기로, T/F 문제와 matching 문제는 담화에서 specific details를 파악하는 R2 목표를 실현한다. 표현 기술은 말하기·쓰기로, 찬반 의견을 정중하게 표현하며 규칙을 작성하는 활동은 P3 목표를 실현한다."
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Richards, J. C.",
+        "title": "Curriculum Development in Language Teaching",
+        "year": 2001,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 111–130 · Ch. 5",
+        "excerpt": "Language learning objectives are typically framed in terms of skills: <span class=\"ref-hl\">reception</span> skills (reading and listening) and <span class=\"ref-hl\">production</span> (speaking and writing) skills... Listening objectives may specify that learners can identify main ideas, <span class=\"ref-hl\">specific details</span>, or implied meanings from spoken discourse. Speaking objectives may require learners to present opinions, <span class=\"ref-hl\">argue</span> a position, or narrate events in sequence."
+      },
+      {
+        "type": "textbook",
+        "author": "Nation, I. S. P. & Newton, J.",
+        "title": "Teaching ESL/EFL Listening and Speaking",
+        "year": 2009,
+        "publisher": "Routledge",
+        "pages": "pp. 48–60 · Ch. 3",
+        "excerpt": "Listening tasks that require identification of <span class=\"ref-hl\">specific details</span> — such as true/false judgment or information matching — place demands on learners to process discourse at a fine-grained level, attending to particular facts rather than gist or inferred meaning."
+      }
+    ],
+    "concept_explanation": "언어 학습 목표는 수용(reception) 기술과 표현(production) 기술로 구분된다.\n\nReception 목표:\n- R1: 축약 발음 인식 → 음성 지각 능력\n- R2: specific details 파악 → T/F·매칭 과제에서 실현\n- R3: 함축 의미 구별 → 문자적·비문자적 의미 변별\n\nProduction 목표:\n- P1: 사건 순서 설명\n- P2: 일지·편지·이메일 작성\n- P3: 주제에 대해 찬반을 정중하게 argue하기\n\n본 문제 핵심: Step 2의 T/F + 매칭은 담화에서 specific details를 파악하는 R2. Step 3의 polite agreement or disagreement 표현 사용은 P3의 'argue for and against a topic in a respectful manner'와 대응."
   },
   "related": {
     "enabled": true,

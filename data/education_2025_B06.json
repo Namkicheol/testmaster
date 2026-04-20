@@ -20,18 +20,64 @@
     "steps": [
       {
         "step": 1,
-        "label": "Week 1 이탈 분석",
-        "explanation": "<A>: 학생들이 협력하여 목표와 범위를 설정한다. <B> Week 1: Ms. Park이 직접 목표(tourist brochures)를 결정하고 학생들에게 발표했다. 학생들이 목표 설정에 참여하지 못했으므로 PBL 절차를 따르지 않는다.",
-        "key_terms": []
+        "label": "범위 설정 — PBL 절차 5단계 확인",
+        "explanation": "<A>에 제시된 PBL 절차 핵심 원칙:\n(1) 학생들이 collaboratively 목표와 범위를 설정\n(2) 그룹이 포함 내용을 논의·결정\n(3) 정보 수집 → 통합적 언어 기술 발달\n(4) 그룹이 collaboratively 결과물 제작\n(5) 수업에서 발표; 교사는 process와 product 모두에 초점을 맞춰 평가\n<B>의 6주 실행에서 위 원칙을 위반한 주차 두 개를 찾는 것이 과제.",
+        "key_terms": ["process", "product"]
       },
       {
         "step": 2,
-        "label": "Week 6 이탈 분석",
-        "explanation": "<A>: 교사는 과정(process)과 결과물(product) 모두에 초점을 맞춰 평가한다. <B> Week 6: Ms. Park은 루브릭(어휘, 문법, 레이아웃)을 기반으로 최종 결과물(brochures)만 평가했다. 과정 평가가 누락되었으므로 PBL 절차를 따르지 않는다.",
+        "label": "이론↔지문 Week별 대조 — Week 2~5 확인",
+        "explanation": "Week 2: 정보 탐색·분석 → (3) 정보 수집 단계에 부합. ✓\nWeek 3: 설문 실시·요약 → 추가 정보 수집 및 언어 기술 사용. ✓\nWeek 4: 그룹 제작 + 발표 준비 → (4) 협력 제작 단계. ✓\nWeek 5: 발표 + 지역 배포 준비 → (5) 발표 단계. ✓\nWeek 1과 Week 6이 문제 주차 후보로 남는다.",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "Week 1 이탈 분석 — 목표 설정 주체",
+        "explanation": "<A>: 학생들이 collaboratively 목표와 범위를 설정해야 한다('Students collaboratively set the goal and scope'). <B> Week 1: Ms. Park이 직접 목표를 결정('I decided on a specific goal')하고 학생들에게 발표만 했다. 학생들은 목표 설정 과정에 전혀 참여하지 못했으므로 collaboratively set the goal 원칙에 위반된다.",
+        "key_terms": ["collaboratively"]
+      },
+      {
+        "step": 4,
+        "label": "Week 6 이탈 분석 — 평가 범위",
+        "explanation": "<A>: 교사는 학습 진도를 평가하되 process와 product 모두에 초점을 맞춘다('focusing on the process as well as the product'). <B> Week 6: Ms. Park은 루브릭(어휘, 문법, 레이아웃)을 기반으로 최종 결과물(brochures)만 평가했다. 탐구·협업·발표 등 process 평가가 누락되었으므로 PBL 평가 원칙에 위반된다.",
+        "key_terms": ["process", "product"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — 함정 구별",
+        "explanation": "함정 주의:\n① Week 1 — 목표(tourist brochures)가 교사 주도로 설정. '그룹 배정'이나 '가이드라인 제공'은 부수적 문제가 아니라 목표 설정 주체가 핵심.\n② Week 6 — 루브릭 자체가 문제가 아니라 루브릭이 최종 product만 다룬다는 점이 핵심. process 평가(예: 협업 과정, 탐구 과정) 부재가 이탈 근거.\n③ Week 5 배포 준비 — <A>에 '지역사회 배포'가 명시되지 않으나, <A>의 발표 단계와 어긋나지 않으므로 이탈 아님.",
         "key_terms": []
       }
     ],
-    "key_terms": [],
+    "key_terms": [
+      {
+        "term": "process",
+        "definition_en": "In PBL assessment, the learning progress, collaboration, and inquiry activities students engage in throughout the project, as opposed to only the final product.",
+        "definition_ko": "PBL 평가에서 최종 결과물과 달리, 학생들이 프로젝트 수행 과정에서 보이는 학습 진도·협업·탐구 활동.",
+        "source_author": "Stoller",
+        "source_year": 2006,
+        "related_terms": ["product", "PBL", "formative assessment"],
+        "exam_usage": "Week 6: Ms. Park이 brochure(product)만 평가하고 process 평가를 누락"
+      },
+      {
+        "term": "product",
+        "definition_en": "The final tangible outcome of a PBL project — the artifact students create and present.",
+        "definition_ko": "PBL 프로젝트의 최종 유형 결과물. 학생들이 만들어 발표하는 완성 작품.",
+        "source_author": "Stoller",
+        "source_year": 2006,
+        "related_terms": ["process", "PBL"],
+        "exam_usage": "Week 6에서 루브릭으로 평가한 brochure가 product에 해당"
+      },
+      {
+        "term": "collaboratively",
+        "definition_en": "Working jointly with others in a shared endeavor; in PBL, students collaboratively set the goal and create the project together.",
+        "definition_ko": "PBL에서 학생들이 함께 목표를 설정하고 결과물을 만들어 가는 협력적 작업 방식.",
+        "source_author": "Thomas",
+        "source_year": 2000,
+        "related_terms": ["PBL", "student agency"],
+        "exam_usage": "Week 1: Ms. Park이 단독으로 목표를 설정 — collaboratively set the goal 원칙 위반"
+      }
+    ],
     "vocabulary": [],
     "translation": ""
   },
@@ -41,9 +87,9 @@
       "essay_content": "Week 1 and Week 6 do not follow the PBL procedure. In Week 1, Ms. Park predetermined the project goal and announced it to students, whereas in <A>, students should collaboratively set the goal and scope of the project. In Week 6, Ms. Park evaluated only the final product based on a rubric, whereas in <A>, the teacher should assess both the learning process and the product.",
       "scoring_criteria": [
         { "criterion": "Week 1 식별", "points": 1 },
-        { "criterion": "Week 1 이탈 설명: 교사가 단독 목표 설정 vs. 학생 협력 설정", "points": 1 },
+        { "criterion": "Week 1 이탈 설명: 교사 단독 목표 설정 vs. 학생 collaboratively 설정", "points": 1 },
         { "criterion": "Week 6 식별", "points": 1 },
-        { "criterion": "Week 6 이탈 설명: 결과물만 평가 vs. 과정+결과물 평가", "points": 1 }
+        { "criterion": "Week 6 이탈 설명: 결과물(product)만 평가 vs. process + product 평가", "points": 1 }
       ]
     },
     "variants": [
@@ -60,8 +106,27 @@
     ]
   },
   "source": {
-    "references": [],
-    "concept_explanation": "Project-Based Learning(PBL)의 핵심 원칙은 학생 주도성(student agency)과 과정 중심 평가다. PBL에서 목표 설정은 학생들이 협력하여 결정해야 하며(Week 1 위반), 평가는 최종 결과물뿐 아니라 탐구·협업·발표 등 전 과정을 포함해야 한다(Week 6 위반)."
+    "references": [
+      {
+        "type": "paper",
+        "author": "Thomas, J. W.",
+        "title": "A Review of Research on Project-Based Learning",
+        "year": 2000,
+        "publisher": "The Autodesk Foundation",
+        "pages": "pp. 1–45",
+        "excerpt": "In project-based learning, students are the primary agents of their projects. The process of inquiry and <span class=\"ref-hl\">collaboratively</span> setting goals at the outset is essential to PBL's success; when teachers predetermine the goals and hand them to students, the motivational and cognitive benefits of PBL are undermined. Moreover, effective PBL assessment must attend to both the <span class=\"ref-hl\">process</span> — including collaboration, inquiry, and revision — and the final <span class=\"ref-hl\">product</span>."
+      },
+      {
+        "type": "paper",
+        "author": "Stoller, F. L.",
+        "title": "Establishing a Theoretical Foundation for Project-Based Learning in Second and Foreign Language Contexts",
+        "year": 2006,
+        "publisher": "In G. H. Buck & K. Riordan (Eds.), Project-Based Learning in Second Language Acquisition (pp. 11–50). Information Age Publishing",
+        "pages": "pp. 11–50",
+        "excerpt": "PBL evaluation should be ongoing and multidimensional, capturing student growth in the <span class=\"ref-hl\">process</span> — collaboration, language use during tasks — as well as the quality of the <span class=\"ref-hl\">product</span>. Limiting assessment to the final artifact misses much of what makes PBL educationally powerful. Students' active participation in goal-setting reflects core principles of learner agency that distinguish PBL from conventional instruction."
+      }
+    ],
+    "concept_explanation": "Project-Based Learning(PBL)의 두 핵심 원칙:\n\n① 학생 주도 목표 설정: 학생들이 collaboratively 프로젝트 목표와 범위를 설정한다. 교사가 일방적으로 목표를 지정하면 PBL의 핵심인 학생 주체성(student agency)이 무너진다.\n\n② 과정 + 결과물 통합 평가: PBL에서 교사는 최종 product뿐 아니라 탐구·협업·발표 등 학습 process 전반을 평가한다. product만 평가하면 PBL이 아니라 일반 과제 제출과 다르지 않다.\n\n본 문제 핵심 이탈:\n- Week 1: Ms. Park이 단독으로 목표를 설정 → collaboratively set the goal 원칙 위반\n- Week 6: 루브릭으로 brochure(product)만 평가 → process 평가 누락"
   },
   "related": {
     "enabled": true,

@@ -20,26 +20,53 @@
     "steps": [
       {
         "step": 1,
-        "label": "Intensive listening 반영 확인",
-        "explanation": "<A>에서 SupT는 특정 언어 특징에 집중하는 intensive listening을 권고했다. Modified Plan의 While-listening 단계에서 original의 'retell the story'가 'gap-filling activity'로 교체되었다. Gap-filling은 특정 언어 정보(contractions 등)에 집중하는 intensive listening 활동이다.",
-        "key_terms": ["intensive listening"]
+        "label": "범위 설정 — SupT의 3가지 제안 확인",
+        "explanation": "<A>에서 SupT가 제안한 3가지:\n① Activating schemata: 개인 경험과 학습을 연결하여 이해 촉진\n② Intensive listening: 특정 언어 특징에 집중하는 청취 활동 (gap-filling, 라디오 쇼 활용)\n③ Creative activities: 노래·챈트·녹음 등 참여적·창의적 활동\n<B>에서 Original→Modified 변경 사항을 위 제안과 대조하여 반영된 두 개를 찾는 과제.",
+        "key_terms": ["intensive listening", "creative activities"]
       },
       {
         "step": 2,
+        "label": "이론↔지문 대조 — 각 단계 변경 사항 확인",
+        "explanation": "Pre-listening: 'shows the aim' → 'presents the purpose' (표현 수정), picture 활동 유지. Activating schemata가 반영되었다고 보기 어려움 — original에도 picture 예측이 있으므로 변화 미미. While-listening: 'retell the story' → 'gap-filling activity' — 언어 특징 집중 활동으로 변경. Post-listening: 'present on summaries' → 'act out assigned scenes' — 역할극으로 변경.",
+        "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "Intensive listening 반영 확인",
+        "explanation": "<A>에서 SupT: 축약형 등 particular language features에 집중하는 intensive listening 권고. <B> Modified While-listening: original의 'retell the story'(내용 재현)가 'gap-filling activity'(특정 언어 항목 집중)로 교체됨. Gap-filling은 특정 어휘·음운·문법 항목을 집중하여 듣는 intensive listening의 대표 활동이다.",
+        "key_terms": ["intensive listening"]
+      },
+      {
+        "step": 4,
         "label": "Creative activities 반영 확인",
-        "explanation": "<A>에서 SupT는 노래·챈트·녹음 등 creative activities를 권고했다. Modified Plan의 Post-listening 단계에서 original의 'present on their summaries'가 'act out assigned scenes from the story'로 교체되었다. 역할극(act out)은 참여적이고 창의적인 활동에 해당한다.",
+        "explanation": "<A>에서 SupT: 노래·챈트·녹음 등 creative activities 권고. <B> Modified Post-listening: original의 'present on their summaries'(요약 발표)가 'act out assigned scenes from the story'(역할극)로 교체됨. 역할극은 학습자가 창의적·참여적으로 언어를 사용하는 creative activities에 해당한다.",
         "key_terms": ["creative activities"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — Activating schemata 소거",
+        "explanation": "함정 주의: Activating schemata도 SupT의 제안이지만, <B>의 modified plan에서 명확한 변화가 없다. Pre-listening 'predict what will happen to a person in a picture'는 original의 'Tasks about what will happen to a person in a picture'와 실질적 차이가 없음. Activating schemata가 반영되었다고 볼 증거가 불충분하므로 소거. '반영된' 두 가지는 intensive listening + creative activities.",
+        "key_terms": []
       }
     ],
     "key_terms": [
       {
         "term": "intensive listening",
-        "definition_en": "A listening approach in which learners focus on specific linguistic features such as sounds, contractions, or grammar in a text.",
-        "definition_ko": "특정 언어 특징(소리, 축약형, 문법 등)에 집중하며 듣는 청취 방식.",
+        "definition_en": "A focused listening approach in which learners attend closely to specific linguistic features — such as sounds, contractions, or grammar — in a spoken text.",
+        "definition_ko": "발음, 축약형, 문법 등 특정 언어 특징에 의식적으로 집중하며 듣는 청취 방식.",
         "source_author": "Brown",
         "source_year": 2004,
-        "related_terms": ["extensive listening", "while-listening"],
-        "exam_usage": "While-listening에서 gap-filling activity로 반영"
+        "related_terms": ["extensive listening", "while-listening", "gap-filling"],
+        "exam_usage": "While-listening에서 gap-filling activity로 반영 — particular language features 집중"
+      },
+      {
+        "term": "creative activities",
+        "definition_en": "Post-listening activities — such as singing, chanting, role-playing, or recording — that encourage learners to engage creatively and interactively with language.",
+        "definition_ko": "노래·챈트·역할극·녹음 등 학습자가 창의적·참여적으로 언어를 사용하도록 유도하는 듣기 후 활동.",
+        "source_author": "Brown",
+        "source_year": 2004,
+        "related_terms": ["post-listening", "extensive listening"],
+        "exam_usage": "Post-listening에서 act out assigned scenes — 역할극으로 creative activities 반영"
       }
     ],
     "vocabulary": [],
@@ -65,8 +92,27 @@
     ]
   },
   "source": {
-    "references": [],
-    "concept_explanation": "Intensive listening은 특정 언어 항목(발음, 축약형, 어휘 등)에 의식적으로 집중하며 듣는 활동으로, gap-filling이 대표적이다. Creative activities는 학습자가 노래·챈트·역할극 등 창의적·참여적 활동을 통해 언어를 사용하도록 하는 방식이다. Activating schemata는 이미 original plan의 picture 예측 활동에 어느 정도 반영되어 있어 modified plan에서의 변화가 두드러지지 않는다."
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Brown, H. D.",
+        "title": "Teaching by Principles: An Interactive Approach to Language Pedagogy (3rd ed.)",
+        "year": 2007,
+        "publisher": "Pearson Longman",
+        "pages": "pp. 294–316 · Ch. 16",
+        "excerpt": "<span class=\"ref-hl\">Intensive listening</span> focuses learners on small units of spoken language — sounds, words, intonation, grammatical forms — often through tasks such as gap-filling or dictation. In contrast to extensive listening, intensive listening asks learners to pay close attention to particular language features. <span class=\"ref-hl\">Creative activities</span> such as songs, chants, role plays, and drama capitalize on the affective and kinesthetic dimensions of language learning, enhancing motivation and retention."
+      },
+      {
+        "type": "textbook",
+        "author": "Vandergrift, L. & Goh, C.",
+        "title": "Teaching and Learning Second Language Listening: Metacognition in Action",
+        "year": 2012,
+        "publisher": "Routledge",
+        "pages": "pp. 77–96 · Ch. 4",
+        "excerpt": "While-listening tasks should be purposeful and appropriately focused. <span class=\"ref-hl\">Intensive listening</span> tasks — gap-fills, transcript verification, feature-spotting — train learners to process form as well as meaning. At the post-listening stage, <span class=\"ref-hl\">creative activities</span> encourage learners to personalize and extend what they have heard, supporting deeper processing and long-term retention."
+      }
+    ],
+    "concept_explanation": "청취 수업의 3단계 구조:\n\n- Pre-listening: 배경 지식 활성화(activating schemata), 목적 제시, 예측 활동\n- While-listening: 본 청취 과제 수행\n  - Intensive listening: 특정 언어 특징(발음·축약형·문법)에 집중. gap-filling이 대표 활동.\n  - Extensive listening: 전반적 이해에 집중\n- Post-listening: 청취 내용을 바탕으로 한 확장 활동\n  - Creative activities: 노래·챈트·역할극(act out)·녹음 등 창의적·참여적 언어 사용\n\n본 문제 핵심:\n- Intensive listening → While-listening의 gap-filling으로 반영\n- Creative activities → Post-listening의 act out assigned scenes으로 반영\n- Activating schemata → Pre-listening 변화가 미미하여 명확히 반영되지 않음 → 소거"
   },
   "related": {
     "enabled": true,
