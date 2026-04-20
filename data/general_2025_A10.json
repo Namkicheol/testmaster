@@ -125,7 +125,17 @@
     ]
   },
   "source": {
-    "references": [],
+    "references": [
+      {
+        "type": "book",
+        "author": "Kearney, R.",
+        "title": "On Stories",
+        "year": 2002,
+        "publisher": "Routledge",
+        "pages": "pp. 1–5",
+        "excerpt": "\"Telling <span class=\"ref-hl\">stories</span> is as basic to human beings as eating. More so, in fact, for while food makes us live, stories are what make our lives worth living.\" Kearney argues that <span class=\"ref-hl\">narrative</span> is the primary mode through which human beings make sense of existence — including its failures. The meaning we seek, symbolized as the '<span class=\"ref-hl\">pearl</span>,' can only be found at the story's end."
+      }
+    ],
     "concept_explanation": "이 글은 실패와 서사(narrative)의 관계를 탐구하는 에세이다. 핵심 주장은 스토리가 삶에 의미를 부여하며, 그 의미(\"pearl\")는 이야기가 끝에 이르러야만 발견된다는 것이다. pearl은 성경적·민담적 상징으로, 고난을 견딘 끝에 얻는 궁극적 가치를 가리킨다. 스토리를 중도에 포기하는 것은 그 의미를 영영 잃는 것이다."
   },
   "related": {

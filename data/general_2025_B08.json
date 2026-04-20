@@ -136,7 +136,17 @@
     ]
   },
   "source": {
-    "references": [],
+    "references": [
+      {
+        "type": "book",
+        "author": "Lembke, A.",
+        "title": "Dopamine Nation: Finding Balance in the Age of Indulgence",
+        "year": 2021,
+        "publisher": "Dutton",
+        "pages": "pp. 1–20",
+        "excerpt": "\"We are <span class=\"ref-hl\">cacti in the rain forest</span>,\" said Dr. Tom Finucane, who studies diabetes in the setting of chronic sedentary feeding. Our brains evolved for a world of <span class=\"ref-hl\">scarcity</span>, yet we now live in a world of overwhelming <span class=\"ref-hl\">abundance</span>. The dopaminergic machinery that once helped us survive by pursuing reward is now driving compulsive overconsumption."
+      }
+    ],
     "concept_explanation": "이 글은 쾌락-고통 균형(pleasure-pain balance)과 과잉 풍요 문제를 다루는 에세이다. 핵심 은유 'cacti in the rain forest'는 인간의 뇌가 결핍(scarcity)을 위해 진화했지만 현대의 풍요(abundance) 속에서 적응하지 못해 과소비·중독이 발생한다는 주장을 함축한다."
   },
   "related": {
