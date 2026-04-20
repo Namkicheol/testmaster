@@ -164,6 +164,15 @@
         "publisher": "Pearson",
         "pages": "Ch. 11",
         "excerpt": "In <span class=\"ref-hl\">analytic scoring</span>, <span class=\"ref-hl\">each criterion must be evaluated independently</span> and the accompanying written feedback should accurately reflect the score assigned in order to preserve validity and provide actionable guidance."
+      },
+      {
+        "type": "textbook",
+        "author": "Weigle, S. C.",
+        "title": "Assessing Writing",
+        "year": 2002,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 107–135",
+        "excerpt": "<span class=\"ref-hl\">Analytic scoring</span> evaluates writing along multiple separate dimensions — such as content, organization, vocabulary, language use, and mechanics — assigning a score to each. Unlike holistic scoring, <span class=\"ref-hl\">analytic scoring</span> allows raters and students to identify specific strengths and weaknesses. Crucially, the written feedback comments should be consistent with the subscores assigned; inconsistency between scores and commentary undermines the diagnostic value of the assessment and reduces rater credibility."
       }
     ],
     "concept_explanation": "Analytic writing assessment evaluates Content, Organization, and Grammar as separate dimensions, each with its own score and feedback. For assessment to be valid, scores and comments must be consistent within each category: an 'Excellent' grammar score should not be accompanied by comments implying errors exist, and a 'Good to Fair' comment should account for all observable error types in the student's text.\n  (분석적 쓰기 평가는 내용·구성·문법을 별도 차원으로 평가하며 각각 점수와 피드백을 부여한다. 평가의 타당성을 위해 점수와 코멘트는 범주 내에서 일관되어야 한다: Excellent 문법 점수는 오류 존재를 암시하는 코멘트와 함께 제시될 수 없으며, Good to Fair 코멘트는 학생 글에 존재하는 모든 오류 유형을 반영해야 한다.)\n\nFeedback consistency: the extent to which written comments accurately reflect the scores assigned in each category. Inconsistency — an 'Excellent' grade with comments implying errors, or a 'Good to Fair' comment that omits visible errors — reduces the diagnostic and instructional value of assessment feedback (Brown & Abeywickrama, 2019).\n\nNote: Washback (backwash) refers to the effect of testing on teaching and learning behavior — a separate concept from score-comment consistency."

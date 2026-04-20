@@ -173,6 +173,15 @@
         "publisher": "ISCA",
         "pages": "",
         "excerpt": "Effective <span class=\"ref-hl\">CALL speaking tools</span> should provide <span class=\"ref-hl\">feedback</span> not only on segmental accuracy but also on <span class=\"ref-hl\">fluency</span> dimensions such as speech rate and pause distribution."
+      },
+      {
+        "type": "textbook",
+        "author": "Liu, J. & Hansen, J. G.",
+        "title": "Peer Response in Second Language Writing Classrooms",
+        "year": 2002,
+        "publisher": "University of Michigan Press",
+        "pages": "pp. 3–25",
+        "excerpt": "<span class=\"ref-hl\">Peer feedback</span> engages learners as both givers and receivers of response, fostering collaborative learning and critical thinking. Research shows that <span class=\"ref-hl\">peer feedback</span> promotes learner autonomy and develops metalinguistic awareness when students are trained in response strategies. Compared to teacher feedback, <span class=\"ref-hl\">peer feedback</span> increases the quantity of response and encourages more negotiation of meaning, though its quality depends on systematic training and clear task structure."
       }
     ],
     "concept_explanation": "CALL-based speaking assessment tools vary in what they measure and how feedback is delivered. Tools that capture fluency (speech rate, pause frequency) alongside accuracy provide more comprehensive oral proficiency data than accuracy-only systems. Peer feedback platforms add a collaborative dimension by enabling asynchronous or synchronous learner-to-learner evaluation, which is distinct from self-reflection tools.\n  (CALL 기반 말하기 평가 도구는 측정 항목과 피드백 방식이 다양하다. 유창성(발화 속도, 휴지 빈도)과 정확성을 함께 측정하는 도구가 정확성만 측정하는 시스템보다 포괄적인 구어 숙달도 정보를 제공한다. 피어 피드백 플랫폼은 학습자 간 평가를 가능하게 해 자기 성찰 도구와 구별된다.)\n\nASR (Automatic Speech Recognition): software that converts spoken language to text, enabling automated oral proficiency scoring. CALL (Computer-Assisted Language Learning): technology-mediated language instruction using digital tools for speaking, listening, reading, or writing practice."
