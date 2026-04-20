@@ -82,12 +82,49 @@
         ]
       }
     ],
+    "key_terms": [
+      {
+        "term": "entailment",
+        "definition_en": "A truth relation between sentences p and q such that the truth of p guarantees the truth of q and the falsity of q guarantees the falsity of p.",
+        "definition_ko": "p의 참이 q의 참을 보장하고 q의 거짓이 p의 거짓을 보장하는 문장 간 진리 관계.",
+        "source_author": "Saeed",
+        "source_year": 2016,
+        "related_terms": ["one-way", "mutual", "paraphrase"],
+        "exam_usage": "finish→stop(one-way), not connected↔disconnected(mutual) 판별"
+      },
+      {
+        "term": "one-way",
+        "definition_en": "A type of entailment where p entails q but q does not entail p — unidirectional truth preservation.",
+        "definition_ko": "p⇒q이지만 q⇏p인 단방향 함의. 완료-중단, 하위어-상위어 쌍에서 전형적으로 나타남.",
+        "source_author": "Saeed",
+        "source_year": 2016,
+        "related_terms": ["entailment", "mutual"],
+        "exam_usage": "'finished the presentation' entails 'stopped' but not vice versa"
+      },
+      {
+        "term": "mutual",
+        "definition_en": "A type of entailment where p and q entail each other — they are logically equivalent (paraphrases).",
+        "definition_ko": "p⇔q인 양방향 함의 관계. 논리적 동치(paraphrase). 능동-수동, 부정접사-부정문 쌍에서 전형적.",
+        "source_author": "Saeed",
+        "source_year": 2016,
+        "related_terms": ["entailment", "one-way", "paraphrase"],
+        "exam_usage": "'not connected' ↔ 'disconnected' — mutual entailment의 대표 사례"
+      },
+      {
+        "term": "paraphrase",
+        "definition_en": "Two sentences that mutually entail each other, sharing the same truth value in every situation.",
+        "definition_ko": "서로를 양방향으로 함의하여 모든 상황에서 동일한 진리값을 갖는 두 문장.",
+        "source_author": "Hurford, Heasley & Smith",
+        "source_year": 2007,
+        "related_terms": ["mutual", "entailment"],
+        "exam_usage": "'disconnected' ↔ 'not connected' — mutual entailment의 paraphrase 관계"
+      }
+    ],
     "vocabulary": [],
     "translation": ""
   },
   "answer": {
     "model_answer": {
-      "content_type": "blank_answer",
       "blank_answers": [
         {
           "label": "①",

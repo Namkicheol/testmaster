@@ -26,31 +26,31 @@
         "step": 1,
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "ONE word from the excerpt 조건. Commentary 빈칸은 '역할을 ___ her role from X to Y' 구조. 동사원형 자리. 후보는 지문에 실제로 등장한 단어 중 이 collocation에 맞는 것으로 한정.",
-        "key_terms": ["one word from excerpt", "verb", "role change collocation"]
+        "key_terms": ["collocation"]
       },
       {
         "step": 2,
         "label": "대응쌍 — 지문 ↔ Commentary",
         "explanation": "지문: 'we were going through life in reverse' → 역할이 뒤바뀐 상황을 명시.\n지문: 어머니(과거) = 시장 탐색 능력자, 나(과거) = 의존자\n지문: 나(현재) = 어머니를 안내하는 주체, 어머니(현재) = 피보호자\nCommentary: '___ her role from that which was played in their homeland to an unfamiliar one'\n→ 역할이 반전됨 = reverse",
-        "key_terms": ["role reversal", "reverse", "narrator becomes caretaker"]
+        "key_terms": ["reverse"]
       },
       {
         "step": 3,
         "label": "후보 검증 — 지문 내 등장 단어 필터",
         "explanation": "'shift' — 지문에 없음. ✗\n'change' — 지문에 없음. ✗\n'adapt' — 지문에 없음. ✗\n'reverse' — 지문에 명시: 'going through life in reverse'. ✓\ncollocation: 'reverse her role from X to Y' 문법적으로 적격.\n의미: 고국에서 맡던 역할(의존자)과 정반대의 역할(보호자)로의 전환. ✓",
-        "key_terms": ["reverse", "passage-bound", "collocation check"]
+        "key_terms": ["reverse", "collocation"]
       },
       {
         "step": 4,
         "label": "확정 근거 — 서사적 맥락",
         "explanation": "고국에서 어머니는 시장을 혼자 능숙하게 탐색하는 '강하고 경험 많은' 인물. 새로운 땅에서 어머니의 능력은 'undone'되고, 화자가 어머니를 'scoop out of harm's way'하며 'sanctuary'를 제공하는 역할로 역전. 'going through life in reverse'는 이 역할 역전의 직접 표현이며, Commentary가 요구하는 빈칸과 정확히 대응.",
-        "key_terms": ["role reversal", "first-generation immigrant", "caretaker narrative"]
+        "key_terms": ["reverse"]
       },
       {
         "step": 5,
         "label": "전략 — 일반영어 commentary 빈칸 풀이 원칙",
         "explanation": "(1) Commentary 문장을 지문의 어느 부분과 연결되는지 먼저 확인. (2) 빈칸 앞뒤 collocation 제약 파악 (품사·전치사 연어). (3) 그 collocation에 맞는 단어를 지문에서 검색. (4) 지문에 없는 단어는 정답 불가 — 외부 지식 금지.\n함정: 'shift'는 자연스러운 표현이지만 지문에 없음. 반드시 지문 내 단어로 한정.",
-        "key_terms": ["passage-bound answer", "collocation check", "commentary mapping"]
+        "key_terms": ["collocation"]
       }
     ],
     "vocabulary": [
@@ -69,7 +69,6 @@
 
   "answer": {
     "model_answer": {
-      "content_type": "blank_answer",
       "blank_answers": [
         { "label": "①", "answer": "reverse" }
       ],
@@ -78,18 +77,7 @@
         { "criterion": "① reverse", "points": 2 }
       ]
     },
-    "variants": [
-      {
-        "source_type": "instructor",
-        "label": "답안 A",
-        "content": "reverse"
-      },
-      {
-        "source_type": "passer",
-        "label": "답안 B",
-        "content": "reverse\n(근거: 지문 'going through life in reverse' — 어머니(고국의 탐색자)와 화자(현재의 안내자) 역할이 반전됨. Commentary의 'from X to Y' 구조와 정확히 대응.)"
-      }
-    ]
+    "variants": []
   },
 
   "source": {

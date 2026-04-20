@@ -78,6 +78,35 @@
         ]
       }
     ],
+    "key_terms": [
+      {
+        "term": "implicature",
+        "definition_en": "A non-literal meaning conveyed indirectly, arising when a speaker appears to violate a conversational maxim yet is assumed to be cooperative.",
+        "definition_ko": "화자가 격률을 위반하는 것처럼 보이지만 협력적이라고 가정했을 때 추론되는 비문자적 의미.",
+        "source_author": "Grice",
+        "source_year": 1975,
+        "related_terms": ["maxim", "cooperative principle", "hedge"],
+        "exam_usage": "'to make a long story short' 제거 시 Quantity/Manner 격률 위반 → implicature 발생"
+      },
+      {
+        "term": "maxim",
+        "definition_en": "One of Grice's four conversational principles (Quantity, Quality, Relation, Manner) governing cooperative communication.",
+        "definition_ko": "협력적 대화를 위한 Grice의 네 격률(양, 질, 관계, 방법) 중 하나.",
+        "source_author": "Grice",
+        "source_year": 1975,
+        "related_terms": ["implicature", "cooperative principle"],
+        "exam_usage": "Mary의 화제 전환 = relation/quantity maxim 위반 → non-literal meaning"
+      },
+      {
+        "term": "hedge",
+        "definition_en": "A linguistic expression (e.g., 'to make a long story short') that explicitly signals adherence to a maxim, thereby blocking conversational implicature.",
+        "definition_ko": "Quantity/Manner 격률 준수를 명시적으로 선언하여 implicature 발생을 차단하는 언어 표현.",
+        "source_author": "Levinson",
+        "source_year": 1983,
+        "related_terms": ["implicature", "maxim"],
+        "exam_usage": "'to make a long story short' — hedge 부재 시 Quantity/Manner maxim 위반으로 implicature 유발"
+      }
+    ],
     "vocabulary": [
       {
         "word": "implicature",
@@ -102,7 +131,6 @@
   },
   "answer": {
     "model_answer": {
-      "content_type": "blank_answer",
       "blank_answers": [
         {
           "label": "①",

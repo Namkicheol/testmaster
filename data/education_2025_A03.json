@@ -73,7 +73,6 @@
 
   "answer": {
     "model_answer": {
-      "content_type": "blank_answer",
       "blank_answers": [
         { "label": "①", "answer": "modifying" }
       ],
