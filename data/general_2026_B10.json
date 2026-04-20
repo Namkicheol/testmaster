@@ -47,9 +47,7 @@
         "step": 4,
         "label": "확정 근거",
         "explanation": "최종 정답: 4-sentence summary paragraph\n\n[content] Topic sentence 근거: 단락 1 마지막 문장 'the field of sport is under pressure due to its negative impacts on the environment'가 전체 주제를 제시함.\n→ 근거: \"the field of sport is under pressure due to its negative impacts on the environment\"\n\n[content] Supporting idea 1 근거: 단락 2에서 골프장 확산이 자연 경관 파괴와 화학 비료 사용으로 이어진다고 구체적으로 서술.\n→ 근거: \"Part of the natural landscape is destroyed … huge amounts of chemical fertilizer are put into the soil\"\n\n[content] Supporting idea 2 근거: 단락 3에서 관중 스포츠가 플라스틱 폐기물 및 소음 공해를 유발한다고 서술.\n→ 근거: \"Hundreds and thousands of plastic waste … noise emission from the arrival and departure of spectators\"\n\n[context_flow] Concluding sentence 근거: 단락 4에서 스포츠 단체의 선제적 환경 정책 추진과 지속가능성 보호를 촉구함.\n→ 근거: \"Sport organizations should be more proactive … This will protect the long term viability and sustainability of sport\"",
-        "key_terms": [
-          "4-sentence summary paragraph"
-        ]
+        "key_terms": []
       },
       {
         "step": 5,
