@@ -39,8 +39,8 @@
       },
       {
         "step": 2,
-        "label": "'give-and-take' 문맥 파악",
-        "explanation": "14행의 'nature's give-and-take'는 자연의 상호교환 원칙을 가리킨다. 부모의 목소리에서 이 표현은 양육(nurturing)과 상실(letting go)이라는 두 축을 은유한다. 시의 마지막 행 'love is proved in the letting go'와 연결된다.",
+        "label": "'give-and-take' 위치 확인 + 시 전체 구조",
+        "explanation": "13–15행: 'About nature's give-and-take―the small, the scorching / Ordeals which fire one's irresolute clay.' → give-and-take는 자연의 상호교환 원칙. 발문 조건: 'the speaker assumes a parent's voice' → 부모의 관점으로만 해석.\n시 전체 흐름 확인: 1행 'It is eighteen years ago' → 18년간의 양육 회상. 19–20행(마지막) 'selfhood begins with a walking away, / And love is proved in the letting go.' → 이 두 줄이 give/take 은유의 핵심 근거.",
         "key_terms": [
           "give-and-take",
           "letting go"
@@ -48,15 +48,19 @@
       },
       {
         "step": 3,
-        "label": "'give'의 은유적 의미",
-        "explanation": "부모의 관점에서 'give'는 자녀에게 사랑과 양육을 베푸는 행위를 은유한다. 18년간 자녀를 키우며 쏟아온 돌봄과 헌신이 'give'에 담겨 있다.",
-        "key_terms": []
+        "label": "'give'의 은유적 의미 도출",
+        "explanation": "부모의 관점에서 'give': 시의 1행 'It is eighteen years ago'부터 이어지는 18년간의 양육 — 첫 축구 경기를 지켜보고, 멀어지는 아이를 기억하는 화자의 헌신이 'give'(부모가 자녀에게 베푸는 사랑과 돌봄)에 해당.\n근거 구절: 'I watched you play / Your first game of football' → 수년간 자녀와 함께하며 쏟아온 돌봄의 구체적 표현.\n→ 'give' = the parent's act of nurturing and offering love to the child.",
+        "key_terms": [
+          "nurturing"
+        ]
       },
       {
         "step": 4,
-        "label": "'take'의 은유적 의미",
-        "explanation": "부모의 관점에서 'take'는 자녀가 성장하여 떠나면서 부모가 겪는 이별의 고통과 감정적 상실을 은유한다. 자녀가 독립하는 과정에서 부모가 감수해야 하는 시련이 'take'로 표현된다.",
-        "key_terms": []
+        "label": "'take'의 은유적 의미 도출",
+        "explanation": "부모의 관점에서 'take': 자녀를 보내주며 치러야 하는 이별의 고통(대가).\n가장 명확한 근거: 20행 'love is proved in the letting go' — 사랑이 '보내줌'으로 증명된다는 역설은, letting go가 부모가 감수해야 할 고통(cost)임을 함축. 이 고통이 바로 'take'(부모가 받아들여야 하는 상실과 이별).\n추가 근거: 16행 'I have had worse partings, but none that so / Gnaws at my mind still' → 이별이 여전히 마음을 갉아먹는 고통임을 직접 표현.\n→ 'take' = the emotional pain and loss of parting that the parent must accept as the child walks away.",
+        "key_terms": [
+          "parting"
+        ]
       },
       {
         "step": 5,
@@ -110,7 +114,7 @@
         "example": "Gnaws at my mind still"
       }
     ],
-    "translation": "거의 꼭 18년 전 그날이었다―\n잎사귀가 막 물들기 시작하던 화창한 날,\n새로 그어진 터치라인 옆에서 나는 너의\n첫 축구 경기를 지켜보았지. 그러고는 너는\n궤도에서 이탈한 인공위성처럼 아이들 무리 너머로\n멀리 떠내려갔다. 나는 지금도 선하게 보인다,\n나를 등지고 학교를 향해 걸어가는 너의 모습을.\n반쯤 자란 채 풀려난 것의 <span class=\"trans-hl\">애잔함</span>을 품고,\n황야로 내던져진 듯, 있어야 할 길을\n찾지 못하는 자의 걸음걸이로.\n그 머뭇거리는 모습, 소용돌이치듯 멀어지며\n어미 줄기에서 떨어진 날개 달린 씨앗처럼,\n그것은 자연의 give-and-take에 대해\n내가 미처 다 담아내지 못한 무언가를 전한다―\n작지만 타오르는, <span class=\"trans-hl\">우유부단한 점토를 달구는 혹독한 시련들을</span>.\n더 힘든 이별도 있었지만, 이토록\n아직도 마음을 갉아먹는 건 없었다. 이것은 아마\n신만이 완벽하게 보여줄 수 있는 것을 서툴게 말하는 것이리라―\n<span class=\"trans-hl\">자아란 걸어 떠나는 것에서 시작되고,\n사랑은 보내주는 데서 증명된다고.</span>"
+    "translation": "거의 꼭 18년 전 그날이었다―\n잎사귀가 막 물들기 시작하던 화창한 날,\n새로 그어진 터치라인이 있던 곳에서, 나는 너의\n첫 축구 경기를 지켜보았지. 그러고는 너는,\n궤도에서 이탈한 인공위성처럼, 뿔뿔이 흩어진 아이들 무리 뒤로\n멀리 떠내려갔다. 나는 지금도 선하게 보인다,\n나를 등지고 학교를 향해 걸어가는 너의 모습을.\n반쯤 자란 채 광야로 홀로 풀려난 것의 <span class=\"trans-hl\">애잔함</span>을 품고,\n길이 있어야 할 곳에 아무 길도 찾지 못하는\n자의 걸음걸이로.\n그 머뭇거리는 모습, 소용돌이치듯 멀어지며\n어미 줄기에서 떨어져 나온 날개 달린 씨앗처럼,\n그것은 자연의 give-and-take에 대해\n내가 미처 다 담아내지 못한 무언가를 전한다―\n작지만 타오르는, <span class=\"trans-hl\">우유부단한 점토를 달구어 굳히는 혹독한 시련들을</span>.(불로 구워야 단단해지는 점토처럼, 시련이 아직 형태가 잡히지 않은 자아를 단단히 빚어냄)\n더 힘든 이별도 있었지만, 이토록\n아직도 마음을 갉아먹는 건 없었다. 이것은 아마\n신만이 완벽하게 보여줄 수 있는 것을 서툴게 말하는 것이리라―\n<span class=\"trans-hl\">자아란 걸어 떠나는 것에서 시작되고,\n사랑은 보내주는 데서 증명된다고.</span>"
   },
   "answer": {
     "model_answer": {

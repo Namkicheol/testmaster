@@ -52,7 +52,7 @@
       {
         "step": 5,
         "label": "전략 메모",
-        "explanation": "출제 패턴 / 풀이 원칙:\n① 지침 구조 우선 확인: topic sentence / supporting ideas 개수 / concluding sentence 여부를 먼저 파악하고 작성 틀을 고정한다.\n② 단락 수 = 요약문 구성요소 수 대응 원칙: 지문의 각 단락이 요약문의 각 구성요소(TS, SI1, SI2, CS)와 대응하는 경우가 많다. 단락별 핵심 문장을 먼저 표시한다.\n③ 4단어 연속 인용 금지 준수: 핵심 내용은 동의어·paraphrase로 재진술. 고유명사(golf courses, plastic waste 등)는 그대로 사용 가능.\n③ Topic sentence는 지문 전체 주제를 포괄해야 한다 — 한 단락의 내용만 반영하면 감점.\n③ Concluding sentence는 단순 반복이 아닌 시사점 또는 해결 방향을 포함해야 한다.\n\n함정:\n- 도입부 배경 정보(스포츠의 건강 혜택)를 topic sentence로 삼는 오류 — 지문 전체 주제와 불일치\n- supporting idea를 3개 이상 나열하거나 concluding sentence를 생략하는 지침 위반\n- 지문 문장을 4단어 이상 그대로 옮기는 오류 — 채점 기준 위반\n- 지문에 없는 외부 정보(예: 기후변화, 탄소 배출)를 추가하는 오류",
+        "explanation": "Summary 시험 전략 (밍우·❤️ 기반):\n① 결론(마지막 단락)부터 먼저 읽기 — concluding sentence에 들어갈 내용과 지문 전체 방향을 먼저 파악. 이 지문의 마지막 단락: 'Sport organizations should be more proactive to overcome these difficulties' → 결론 방향: 스포츠 단체의 선제적 환경 정책 추진으로 지속가능성 확보.\n② 결론 확인 후 도입단락 확인: 'the field of sport is under pressure due to its negative impacts on the environment' → 전체 주제 = 스포츠의 환경적 부정 영향.\n③ Topic sentence에 도입단락 배경 정보(건강 혜택 등)는 배제 — 전체 주제(환경 영향)만 포함.\n\n출제 패턴 / 풀이 원칙:\n① 지침 구조 우선 확인: topic sentence / supporting ideas 개수 / concluding sentence 여부를 먼저 파악하고 작성 틀을 고정한다.\n② 단락 수 = 요약문 구성요소 수 대응 원칙: 지문의 각 단락이 요약문의 각 구성요소(TS, SI1, SI2, CS)와 대응하는 경우가 많다. 단락별 핵심 문장을 먼저 표시한다.\n③ 4단어 연속 인용 금지 준수: 핵심 내용은 동의어·paraphrase로 재진술. 고유명사(golf courses, plastic waste 등)는 그대로 사용 가능.\n\n함정:\n- 도입부 배경 정보(스포츠의 건강 혜택)를 topic sentence로 삼는 오류 — 지문 전체 주제와 불일치\n- supporting idea를 3개 이상 나열하거나 concluding sentence를 생략하는 지침 위반\n- 지문 문장을 4단어 이상 그대로 옮기는 오류 — 채점 기준 위반\n- 지문에 없는 외부 정보(예: 기후변화, 탄소 배출)를 추가하는 오류",
         "key_terms": []
       }
     ],

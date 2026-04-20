@@ -38,8 +38,8 @@
       },
       {
         "step": 2,
-        "label": "밑줄 부분 문맥 파악",
-        "explanation": "밑줄: 'the \"pearl\" we are supposed to retrieve can only be found at the story's end.' pearl은 삶의 궁극적 의미나 목적을 상징하는 은유다. 이야기(삶)가 끝나야만 그 의미를 발견할 수 있다는 논지와 연결된다.",
+        "label": "밑줄 주변 문맥 확인 — pearl 의미 도출",
+        "explanation": "밑줄 바로 앞 문장(직접 근거): 'The longed-for meaning may be revealed at the very end, and we will no longer be there to receive the revelation.' → pearl = 이 'longed-for meaning'(갈망하던 의미)의 은유. 이야기의 끝에 이르러야만 발견되는 삶의 궁극적 의미.\n밑줄 구절 구조: 'can only be found at the story's end' → 끝까지 살아야만 얻을 수 있다는 조건이 핵심.\n전체 big topic 확인: 'stories are what make our lives worth living' → pearl = 이야기(삶)가 살 가치 있게 만드는 궁극적 의미·목적.",
         "key_terms": [
           "pearl"
         ]
@@ -125,7 +125,17 @@
     ]
   },
   "source": {
-    "references": [],
+    "references": [
+      {
+        "type": "book",
+        "author": "Kearney, R.",
+        "title": "On Stories",
+        "year": 2002,
+        "publisher": "Routledge",
+        "pages": "pp. 1–5",
+        "excerpt": "\"Telling <span class=\"ref-hl\">stories</span> is as basic to human beings as eating. More so, in fact, for while food makes us live, stories are what make our lives worth living.\" Kearney argues that <span class=\"ref-hl\">narrative</span> is the primary mode through which human beings make sense of existence — including its failures. The meaning we seek, symbolized as the '<span class=\"ref-hl\">pearl</span>,' can only be found at the story's end."
+      }
+    ],
     "concept_explanation": "이 글은 실패와 서사(narrative)의 관계를 탐구하는 에세이다. 핵심 주장은 스토리가 삶에 의미를 부여하며, 그 의미(\"pearl\")는 이야기가 끝에 이르러야만 발견된다는 것이다. pearl은 성경적·민담적 상징으로, 고난을 견딘 끝에 얻는 궁극적 가치를 가리킨다. 스토리를 중도에 포기하는 것은 그 의미를 영영 잃는 것이다."
   },
   "related": {
