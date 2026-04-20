@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "linguistics_2025_B05",
+    "year": 2025,
+    "number": "B-5",
+    "subject": "linguistics",
+    "linguistics_domain": "syntax",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["theta-criterion", "theta-role", "thematic relations", "ditransitive", "relative clause"],
+    "parse_source": "2025_전공B",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the examples in <B>, and follow the directions.",
+    "passage": "<A>\nIt is well-known that predicates can take different numbers of obligatory arguments. For example, a transitive predicate like hit requires two arguments―a subject and an object―and a ditransitive predicate like put requires three arguments―a subject, a direct object, and an objective predicative complement.\n\n(1) a. Bill hit the ball.\n    b. Bill put the violin on the table.\n\nOne way to encode these restrictions is to use thematic relations, where each argument receives a specific theta-role assigned by the verb. For instance, in (1a), hit assigns an agent theta-role to Bill and a theme theta-role to the ball. This thematic relation can be represented formally in a structure called a theta-grid. The theta-grid for hit is as follows:\n\n(2) Hit <Agent NP, Theme NP>\n\nTo ensure that a sentence is grammatical, two conditions must be met: (i) each argument must receive only one theta-role, and (ii) each theta-role must be assigned to only one argument. This requirement is known as the theta-criterion.\n\nObject relative clauses introduce an intriguing pattern: A relative pronoun can either appear or remain silent, as seen in the following example:\n\n(3) John met the man (who) Mary kissed.\n\nIt is assumed that the relative pronoun who originally appears in the object position of the relative clause and moves to the front of the embedded clause (i.e., SpecCP), as shown in (4a). Its silent counterpart that corresponds to the relative pronoun, marked Øwh, is assumed to follow the same process as in (4b).\n\n(4) a. John met the man [CP who [TP Mary kissed twh]].\n    b. John met the man [CP Øwh [TP Mary kissed twh]].\n\nNote: 'twh' indicates the trace of the wh-word and its silent counterpart, Øwh.\n\n<B>\n(a) *Susan put the book.\n(b) *The ball John hit it broke the window.\n\nNote: '*' indicates the ungrammaticality of the sentence.\n\nBased on <A>, explain why (a) and (b) in <B> are ungrammatical, respectively, in terms of the theta-criterion.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "(a) 분석 — ditransitive put",
+        "explanation": "put은 ditransitive predicate로 3개의 논항(subject, direct object, goal/locative)을 요구한다. (a)에는 'Susan'(subject)과 'the book'(direct object)만 있고, goal theta-role을 받을 argument(예: 'on the shelf')가 없다. theta-criterion 조건 (ii)에 따르면 each theta-role must be assigned to only one argument인데, put의 goal theta-role이 배당될 argument가 없으므로 위반이다.",
+        "key_terms": ["theta-criterion", "theta-role"]
+      },
+      {
+        "step": 2,
+        "label": "(b) 분석 — object relative clause + 'it'",
+        "explanation": "'The ball John hit it broke the window'에서 'the ball'은 관계절의 목적어로, Øwh가 object position에서 이동한 trace(twh)가 hit의 theme theta-role을 받는다. 즉 hit은 이미 John(agent)과 twh(theme)에 두 theta-role을 배당했다. 그런데 'it'이 추가 argument로 관계절에 삽입되어 있는데, 이 'it'에게 배당할 theta-role이 없다. theta-criterion 조건 (i)에 따르면 each argument must receive only one theta-role인데, 'it'는 theta-role을 받지 못하므로 위반이다.",
+        "key_terms": ["theta-criterion"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "theta-criterion",
+        "definition_en": "The requirement that (i) each argument must receive only one theta-role, and (ii) each theta-role must be assigned to only one argument.",
+        "definition_ko": "(i) 각 논항은 오직 하나의 theta-role만 받아야 하고, (ii) 각 theta-role은 오직 하나의 논항에만 배당되어야 한다는 조건.",
+        "source_author": "Chomsky",
+        "source_year": 1981,
+        "related_terms": ["theta-role", "thematic relations", "argument structure"],
+        "exam_usage": "ditransitive put의 argument 누락(조건 ii 위반)과 relative clause의 대명사 중복(조건 i 위반)으로 출제"
+      },
+      {
+        "term": "theta-role",
+        "definition_en": "A semantic role (such as Agent, Theme, Goal, Location) assigned to an argument by a predicate.",
+        "definition_ko": "술어가 논항에 배당하는 의미역(행위자, 대상, 목표, 장소 등).",
+        "source_author": "Chomsky",
+        "source_year": 1981,
+        "related_terms": ["theta-criterion", "argument structure"],
+        "exam_usage": "hit <Agent, Theme>, put <Agent, Theme, Goal>"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "In (a), 'put' is a ditransitive verb requiring three arguments, but no argument is present to receive a goal theta-role. This violates the theta-criterion condition (ii): each theta-role must be assigned to only one argument. In (b), 'hit' assigns agent and theme theta-roles to 'John' and the silent relative pronoun trace (twh), respectively. The pronoun 'it' cannot receive a theta-role, as hit has no remaining theta-role to assign. This violates condition (i): each argument must receive only one theta-role.",
+      "scoring_criteria": [
+        { "criterion": "(a): put의 goal/locative theta-role 배당 받을 argument 없음 + 조건 (ii) 위반 명시", "points": 2 },
+        { "criterion": "(b): 'it'이 theta-role 받지 못함 + 조건 (i) 위반 명시", "points": 2 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "First, (a) is ungrammatical because it violates theta-criterion condition (ii): each theta-role must be assigned to only one argument. The ditransitive predicate 'put' requires three arguments, but (a) lacks one argument which has a goal (or location) theta-role. Second, (b) is ungrammatical because it violates theta-criterion condition (i): each argument must receive only one theta-role. The transitive verb 'hit' assigns theta-roles to 'John' and the silent relative pronoun (Øwh); the argument 'it' cannot receive a theta-role."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "instructor",
+        "content": "In (a), 'put' is a ditransitive verb that requires three arguments, but only two are provided, with no argument available to receive a theta role, violating the second condition of the theta criterion. In (b), 'hit' is transitive, assigning thematic roles to 'John' and a silent relative pronoun. The pronoun 'it' cannot receive a thematic role, violating the first condition of the theta-criterion."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Radford, A.",
+        "title": "Transformational Grammar",
+        "year": 1988,
+        "publisher": "Cambridge University Press",
+        "pages": "",
+        "excerpt": "The theta-criterion: each argument bears one and only one theta-role, and each theta-role is assigned to one and only one argument."
+      }
+    ],
+    "concept_explanation": "Theta-criterion (Chomsky 1981)은 논항과 theta-role의 일대일 대응을 요구한다. 조건 (i): 각 argument는 정확히 하나의 theta-role만 받아야 한다 — argument가 theta-role 없이 남으면 위반. 조건 (ii): 각 theta-role은 정확히 하나의 argument에만 배당되어야 한다 — theta-role이 배당될 argument가 없으면 위반. 관계절에서 trace(twh)가 이미 theta-role을 받았으므로 추가 대명사 'it'은 theta-role을 받지 못한다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
