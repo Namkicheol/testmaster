@@ -49,8 +49,7 @@
         "explanation": "<A> (1) 'mother → someone'은 한 방향만 참 보존 = one-way. <A> (2) 능동/수동은 양방향 참 보존 = mutual. <B>(a) finish/stop 쌍은 (1)형에, <B>(b) not connected / disconnected 쌍은 (2)형에 사상된다.",
         "key_terms": [
           "one-way",
-          "mutual",
-          "paraphrase"
+          "mutual"
         ]
       },
       {
