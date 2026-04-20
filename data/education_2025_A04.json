@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "id": "education_2025_A04",
+    "year": 2025,
+    "number": "A-4",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 2,
+    "tags": ["inter-rater reliability", "reliability", "assessment"],
+    "parse_source": "2025_전공A",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the conversation in <A> and the passage in <B>, and follow the directions.",
+    "passage": "<A>\n(Two teachers, Mr. Lee and Ms. Kim, recently scored students' speaking assessments. They later discussed the scoring process and Mr. Lee reflected on his scoring experiences in his journals.)\n\nMr. Lee: As I was reviewing my ratings, I noticed that they were staying consistent throughout the scoring process.\nMs. Kim: Good, it's actually hard to keep the same perspective when grading multiple students. But you mean you found actual similarities in your scores for the same students over time?\nMr. Lee: Yes, exactly. I think I might have benefitted from reviewing my previous scores before re-evaluating anyone's performance to see if I'm staying consistent.\nMs. Kim: That makes sense. You know, I've noticed that we have some scoring differences between us on certain criteria.\nMr. Lee: Right. I normally give a score of 10 if students have natural flow even though they may demonstrate some errors in grammar or vocabulary. How about you?\nMs. Kim: Oh, I've constantly made efforts to adhere to our scoring criteria, and I give a perfect score only when they speak without any errors or hesitation.\nMr. Lee: All right. Now I can see why we have different scoring results and it makes me think — these different scoring results could send mixed messages to students.\nMs. Kim: I agree. Let's review our criteria and stick to following our rubric.\nMr. Lee: Sure. That would be fairer for the students.\n\n<B>\nMr. Lee's Reflective Journal\nAfter today's grading session, I reviewed my scores and luckily noticed consistency in my ratings for the same students across different sessions. However, after talking with Ms. Kim, I realized that we provided different scores for the same students. I'm concerned this could lead to some confusion if they receive different scores based on which teacher assesses them. I think it would be helpful if Ms. Kim and I could go over the rubric together to ensure a more unified scoring approach.\n\nFill in the blanks with the TWO most appropriate words.\nBased on <A> and <B>, Mr. Lee is concerned about the lack of ________ in the scoring process. His concern is not about the consistency of rating by a single rater but about the consistency of rating by different raters.",
+    "blanks": [
+      { "label": "①", "context": "lack of ___ in the scoring process (two words)" }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "발문 분석",
+        "explanation": "두 단어(TWO most appropriate words)로 빈칸을 채워야 한다. 빈칸은 'lack of ___'로, 채점 과정에서 부족한 것을 묻는다.",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "지문 근거 확인",
+        "explanation": "<A>에서 Mr. Lee는 자신의 점수 일관성(intra-rater)은 확인했지만, Ms. Kim과 동일 학생에 대해 서로 다른 점수를 부여했음을 발견한다. <B>에서도 'we provided different scores for the same students'라고 명시되어 있다. 즉, 서로 다른 채점자 간 일관성이 문제다.",
+        "key_terms": ["intra-rater", "different scores"]
+      },
+      {
+        "step": 3,
+        "label": "발문 단서 적용",
+        "explanation": "발문은 'not about the consistency of rating by a single rater but about the consistency of rating by different raters'라고 명확히 힌트를 준다. 단일 채점자 일관성(intra-rater reliability)이 아니라 복수 채점자 간 일관성(inter-rater reliability)이 부족하다는 것이다.",
+        "key_terms": ["inter-rater reliability", "intra-rater reliability"]
+      },
+      {
+        "step": 4,
+        "label": "정답 도출",
+        "explanation": "inter-rater reliability는 두 명 이상의 채점자가 동일 수행에 대해 일관된 점수를 부여하는 정도를 의미한다. Mr. Lee와 Ms. Kim이 서로 다른 기준으로 채점한 상황이 이에 해당한다.",
+        "key_terms": ["inter-rater reliability"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "inter-rater reliability",
+        "definition_en": "The degree to which the results of scoring by two or more scorers are consistent.",
+        "definition_ko": "두 명 이상의 채점자가 동일한 수행을 채점할 때 점수가 일치하는 정도.",
+        "source_author": "Brown",
+        "source_year": 2004,
+        "related_terms": ["intra-rater reliability", "reliability", "scoring consistency"],
+        "exam_usage": "서로 다른 교사가 동일 학생에게 다른 점수를 부여하는 상황에서 inter-rater reliability 부족으로 출제"
+      },
+      {
+        "term": "intra-rater reliability",
+        "definition_en": "The degree to which the results of scoring performed by a single scorer are consistent.",
+        "definition_ko": "동일 채점자가 같은 수행을 반복 채점할 때 점수가 일치하는 정도.",
+        "source_author": "Brown",
+        "source_year": 2004,
+        "related_terms": ["inter-rater reliability"],
+        "exam_usage": "Mr. Lee가 자신의 점수가 일관됨을 확인한 것이 intra-rater reliability에 해당"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        { "label": "①", "answer": "inter-rater reliability" }
+      ],
+      "essay_content": "",
+      "scoring_criteria": [
+        { "criterion": "① inter-rater reliability (두 단어 모두 정확히 기재)", "points": 2 }
+      ]
+    },
+    "variants": []
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Brown, H. D.",
+        "title": "Language Assessment: Principles and Classroom Practices",
+        "year": 2004,
+        "publisher": "Pearson Longman",
+        "pages": "",
+        "excerpt": "Inter-rater reliability: The degree to which the results of scoring by two or more scorers are consistent."
+      }
+    ],
+    "concept_explanation": "Reliability in language assessment refers to the consistency of test scores. Inter-rater reliability (채점자 간 신뢰도) measures agreement between two or more raters scoring the same performance. It is distinguished from intra-rater reliability (채점자 내 신뢰도), which refers to a single rater's consistency across scoring sessions. To improve inter-rater reliability, teachers should calibrate their scoring by reviewing rubric criteria together and conducting joint scoring sessions before independent assessment."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
