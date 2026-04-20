@@ -41,7 +41,7 @@
         "step": 4,
         "label": "확정 근거 — 조건 구별",
         "explanation": "(a) 조건 (ii) 위반: put의 goal theta-role이 배당되지 않음. theta-role에 대응하는 argument가 없는 경우.\n(b) 조건 (i) 위반: 'it'이 theta-role을 받지 못함. argument에 대응하는 theta-role이 없는 경우.\n두 조건의 방향이 다름: (ii)는 theta-role 과잉(argument 부족), (i)는 argument 과잉(theta-role 부족).",
-        "key_terms": ["theta-criterion", "theta-role"]
+        "key_terms": ["theta-role"]
       },
       {
         "step": 5,

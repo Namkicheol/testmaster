@@ -48,7 +48,7 @@
         "step": 5,
         "label": "전략 메모",
         "explanation": "출제 패턴: Mr. Lee의 자기 일관성(intra-rater) vs. 두 교사 간 불일치(inter-rater)를 대비시켜 혼동을 유도. 발문에 'not about the consistency of rating by a single rater but about the consistency of rating by different raters'라는 명시적 힌트가 있으므로 intra-를 배제하고 inter-rater reliability를 선택한다.\n함정: 'Mr. Lee가 자신의 점수가 일관됐다'는 인트라 신뢰도 예시이지 정답이 아님. 정답은 두 교사 간 불일치 → inter-rater reliability.",
-        "key_terms": ["inter-rater reliability", "intra-rater reliability"]
+        "key_terms": ["inter-rater reliability"]
       }
     ],
     "key_terms": [

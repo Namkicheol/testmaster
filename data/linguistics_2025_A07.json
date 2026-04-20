@@ -37,7 +37,7 @@
       {
         "step": 3,
         "label": "진단 테스트 2 — voice transparency",
-        "explanation": "raised subject를 포함한 문장만 수동태와 동일한 의미(truth condition)를 공유한다. ordinary subject 문장은 수동태로 바꾸면 의미가 달라진다.",
+        "explanation": "Voice transparency: raised subject를 포함한 문장만 능동태-수동태 전환 후 동일한 truth condition을 공유한다. ordinary subject 문장은 수동태로 바꾸면 주어의 의미역이 달라져 truth condition이 변한다.",
         "key_terms": ["voice transparency"]
       },
       {
@@ -136,7 +136,7 @@
         "excerpt": "Raising verbs (seem, appear, happen) differ fundamentally from control verbs (want, try, attempt) in their subject selection. The <span class=\"ref-hl\">raised subject</span> of a raising verb bears no theta-role from the matrix verb; only the embedded predicate contributes semantic content to this NP. This accounts for <span class=\"ref-hl\">voice transparency</span>: because the raised subject has no matrix theta-role, it can equivalently appear as the subject of the matrix verb's passive counterpart. The <span class=\"ref-hl\">dummy pronoun</span> test exploits the same fact — expletives, which carry no semantic content, are licensed only in positions that require no theta-role."
       }
     ],
-    "concept_explanation": "Subject Raising (주어 올리기) is a syntactic operation in which the subject of an embedded infinitival clause is moved to the matrix subject position. The matrix verb (seem, happen, appear) assigns no thematic role to this raised subject, which is why dummy pronouns (it, there) are permitted and voice transparency holds. Control verbs (want, attempt, try), by contrast, assign a thematic role (Agent or Experiencer) to the ordinary matrix subject, blocking dummy pronouns and failing voice transparency."
+    "concept_explanation": "Subject Raising (주어 올리기) is a syntactic operation in which the subject of an embedded infinitival clause is moved to the matrix subject position. The matrix verb (seem, happen, appear) assigns no thematic role to this raised subject, which is why dummy pronouns (it, there) are permitted and voice transparency holds. Control verbs (want, attempt, try), by contrast, assign a thematic role (Agent or Experiencer) to the ordinary subject, blocking dummy pronouns and failing voice transparency."
   },
   "related": {
     "enabled": true,

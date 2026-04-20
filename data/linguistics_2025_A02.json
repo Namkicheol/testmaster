@@ -71,7 +71,7 @@
       {
         "step": 5,
         "label": "전략 — 'ONE word from the passage' 풀이 원칙",
-        "explanation": "(1) 지문에 등장한 단어만 후보. 외부 지식 용어(예: 'inference', 'entailment') 도입 금지. (2) 빈칸 앞뒤 collocation 필수 일치 — 'conversational ___' + 'would occur'. (3) 지문에서 해당 개념이 이미 동일 구조로 정의된 곳(여기선 (2))을 대응쌍으로 확인. 함정: maxim이 지문에 빈번히 등장하지만 collocation과 의미가 맞지 않음.",
+        "explanation": "(1) 지문에 등장한 단어만 후보. 외부 지식 용어(예: 'inference', 'entailment') 도입 금지. (2) 빈칸 앞뒤 collocation 필수 일치 — 'conversational ___' + 'would occur'. (3) 지문에서 해당 개념이 이미 동일 구조로 정의된 곳(여기선 (2))을 대응쌍으로 확인 — 정답 implicature는 지문 (2)에서 직접 정의된 용어. 함정: maxim이 지문에 빈번히 등장하지만 collocation과 의미가 맞지 않음.",
         "key_terms": [
           "implicature",
           "maxim"
