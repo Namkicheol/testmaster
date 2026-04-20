@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "id": "education_2025_B06",
+    "year": 2025,
+    "number": "B-6",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["PBL", "project-based learning", "assessment", "process", "product"],
+    "parse_source": "2025_전공B",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passages in <A> and <B>, and follow the directions.",
+    "passage": "<A>\nProject-based learning (PBL) is a teaching method that facilitates students to use an inquiry process with an integrated goal and interrelated subsidiary tasks. One possible procedure for implementing PBL is provided below.\n\nStudents collaboratively set the goal and scope of the project. This makes students feel in control of their own projects from the beginning. Once the goal is set, students as a group actively discuss and decide upon what to include in their project. When collecting information for the project, students develop integrated language skills in meaningful ways. Students then create their projects collaboratively with their group members. Finally, students present their projects in class. When assessing student projects, the teacher evaluates students' learning progress, focusing on the process as well as the product.\n\n<B>\nReferring to the procedure as described in <A>, Ms. Park, a middle school English teacher, implemented PBL into her class over six weeks. Each week, one class session was allocated for the PBL project. When each session was over, Ms. Park briefly wrote a teacher's log to record events and observations. Some entries of her logs are provided below.\n\nWeek 1: I decided on a specific goal for the project and announced it to students. The goal was to make tourist brochures and distribute them to the local communities. I assigned students to groups of four. I also provided guidelines on the project.\n\nWeek 2: The groups explored possible destinations to include in their brochures. Students also searched the Internet for various brochures and analyzed the sections within. They found details including attractions, activities, and food.\n\nWeek 3: The groups conducted a survey on their classmates' recommendations for the destination their group decided upon. They did so by asking and responding to each other. Then they summarized the survey results.\n\nWeek 4: The students worked closely in a group to make their brochures. Upon completion, they prepared for a group presentation.\n\nWeek 5: Each group gave a ten-minute presentation. Students also prepared for distributing the brochures to the local communities.\n\nWeek 6: As the final step, I evaluated students' brochures based on a rubric, which consisted of vocabulary, grammar, and layout.\n\nIdentify the TWO weeks in <B> that do NOT follow the procedure provided in <A>. Then, explain how the identified weeks deviate from the procedure in <A>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "Week 1 이탈 분석",
+        "explanation": "<A>: 학생들이 협력하여 목표와 범위를 설정한다. <B> Week 1: Ms. Park이 직접 목표(tourist brochures)를 결정하고 학생들에게 발표했다. 학생들이 목표 설정에 참여하지 못했으므로 PBL 절차를 따르지 않는다.",
+        "key_terms": []
+      },
+      {
+        "step": 2,
+        "label": "Week 6 이탈 분석",
+        "explanation": "<A>: 교사는 과정(process)과 결과물(product) 모두에 초점을 맞춰 평가한다. <B> Week 6: Ms. Park은 루브릭(어휘, 문법, 레이아웃)을 기반으로 최종 결과물(brochures)만 평가했다. 과정 평가가 누락되었으므로 PBL 절차를 따르지 않는다.",
+        "key_terms": []
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Week 1 and Week 6 do not follow the PBL procedure. In Week 1, Ms. Park predetermined the project goal and announced it to students, whereas in <A>, students should collaboratively set the goal and scope of the project. In Week 6, Ms. Park evaluated only the final product based on a rubric, whereas in <A>, the teacher should assess both the learning process and the product.",
+      "scoring_criteria": [
+        { "criterion": "Week 1 식별", "points": 1 },
+        { "criterion": "Week 1 이탈 설명: 교사가 단독 목표 설정 vs. 학생 협력 설정", "points": 1 },
+        { "criterion": "Week 6 식별", "points": 1 },
+        { "criterion": "Week 6 이탈 설명: 결과물만 평가 vs. 과정+결과물 평가", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "Week 1 and Week 6 do not align with the PBL procedure. In Week 1, Ms. Park directly sets and announces the project goal to the students, instead of allowing them to collaboratively determine the goal and scope of the project. In Week 6, she evaluates students' learning progress based solely on the final products — brochures — without assessing both the learning process and the product."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "instructor",
+        "content": "Week 1: In <A>, students should collaboratively set the project goal, but in <B>, Ms. Park predetermined the goal and announced it to the students. Week 6: In <A>, the teacher should evaluate both the process and product, but in <B>, Ms. Park evaluated only the final product based on a rubric."
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "Project-Based Learning(PBL)의 핵심 원칙은 학생 주도성(student agency)과 과정 중심 평가다. PBL에서 목표 설정은 학생들이 협력하여 결정해야 하며(Week 1 위반), 평가는 최종 결과물뿐 아니라 탐구·협업·발표 등 전 과정을 포함해야 한다(Week 6 위반)."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
