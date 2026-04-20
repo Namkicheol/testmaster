@@ -40,9 +40,15 @@
       },
       {
         "step": 4,
-        "label": "정답 도출",
-        "explanation": "inter-rater reliability는 두 명 이상의 채점자가 동일 수행에 대해 일관된 점수를 부여하는 정도를 의미한다. Mr. Lee와 Ms. Kim이 서로 다른 기준으로 채점한 상황이 이에 해당한다.",
+        "label": "확정 근거",
+        "explanation": "inter-rater reliability는 두 명 이상의 채점자가 동일 수행에 대해 일관된 점수를 부여하는 정도를 의미한다. Mr. Lee와 Ms. Kim이 서로 다른 기준으로 채점한 상황이 이에 해당한다.\n→ 근거: <B> 'we provided different scores for the same students'\n→ 발문: 'consistency of rating by different raters' = inter-rater reliability",
         "key_terms": ["inter-rater reliability"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "출제 패턴: Mr. Lee의 자기 일관성(intra-rater) vs. 두 교사 간 불일치(inter-rater)를 대비시켜 혼동을 유도. 발문에 'not about the consistency of rating by a single rater but about the consistency of rating by different raters'라는 명시적 힌트가 있으므로 intra-를 배제하고 inter-rater reliability를 선택한다.\n함정: 'Mr. Lee가 자신의 점수가 일관됐다'는 인트라 신뢰도 예시이지 정답이 아님. 정답은 두 교사 간 불일치 → inter-rater reliability.",
+        "key_terms": ["inter-rater reliability", "intra-rater reliability"]
       }
     ],
     "key_terms": [
@@ -88,8 +94,17 @@
         "title": "Language Assessment: Principles and Classroom Practices",
         "year": 2004,
         "publisher": "Pearson Longman",
-        "pages": "",
-        "excerpt": "Inter-rater reliability: The degree to which the results of scoring by two or more scorers are consistent."
+        "pages": "pp. 20–26",
+        "excerpt": "<span class=\"ref-hl\">Inter-rater reliability</span> refers to the degree to which two or more independent raters agree in their scoring of the same performance. When different teachers apply the same rubric differently — one accepting minor errors as fluent while another requiring error-free speech for a top score — <span class=\"ref-hl\">inter-rater reliability</span> is compromised. This is distinguished from <span class=\"ref-hl\">intra-rater reliability</span>, the consistency of a single rater across multiple scoring sessions."
+      },
+      {
+        "type": "textbook",
+        "author": "Brown, H. D. & Abeywickrama, P.",
+        "title": "Language Assessment: Principles and Classroom Practices (3rd ed.)",
+        "year": 2019,
+        "publisher": "Pearson",
+        "pages": "pp. 22–35",
+        "excerpt": "Reliability requires that a test yield consistent results under consistent conditions. <span class=\"ref-hl\">Inter-rater reliability</span> is particularly important in performance assessment, where subjective judgment plays a role. To maximize <span class=\"ref-hl\">inter-rater reliability</span>, raters should be trained together, anchor papers should be established, and detailed scoring criteria should be applied uniformly. A discrepancy between raters' scores signals a need for rubric clarification and scorer calibration."
       }
     ],
     "concept_explanation": "Reliability in language assessment refers to the consistency of test scores. Inter-rater reliability (채점자 간 신뢰도) measures agreement between two or more raters scoring the same performance. It is distinguished from intra-rater reliability (채점자 내 신뢰도), which refers to a single rater's consistency across scoring sessions. To improve inter-rater reliability, teachers should calibrate their scoring by reviewing rubric criteria together and conducting joint scoring sessions before independent assessment."

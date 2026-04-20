@@ -6,7 +6,15 @@
     "subject": "general",
     "question_type": "short_answer",
     "score": 4,
-    "tags": ["play", "drama", "literary", "John Osborne", "Look Back in Anger", "sloth", "alienation"],
+    "tags": [
+      "play",
+      "drama",
+      "literary",
+      "John Osborne",
+      "Look Back in Anger",
+      "sloth",
+      "alienation"
+    ],
     "parse_source": "2025_전공B",
     "parse_confidence": "high",
     "verified": true
@@ -15,7 +23,10 @@
     "instruction": "Read the excerpt from a play and follow the directions.",
     "passage": "JIMMY: There you are: even my wife is moved. I ought to send the Bishop a subscription. Let's see. What else does he say. Dumdidumdidumdidum. Ah yes. He's upset because someone has suggested that he supports the rich against the poor. He says he denies the difference of class distinctions. \"This idea has been persistently and wickedly fostered by―the working classes!\" Well!\n\n[He looks up at both of them for reaction, but Cliff is reading, and Alison is intent on her ironing.]\n\nJIMMY: (to Cliff). Did you read that bit?\nCLIFF: Um?\n[He has lost them, and he knows it, but he won't leave it.]\n\nJIMMY: (to Alison). You don't suppose your father could have written it, do you?\nALISON: Written what?\nJIMMY: What I just read out, of course.\nALISON: Why should my father have written it?\nJIMMY: Sounds rather like Daddy, don't you think?\nALISON: Does it?\nJIMMY: Is the Bishop of Bromley his nom de plume,* do you think?\nCLIFF: Don't take any notice of him. He's being offensive. And it's so easy for him.\n\nJIMMY: (quickly). Did you read about the woman who went to the mass meeting of a certain American evangelist at Earls Court? She went forward, to declare herself for love or whatever it is, and, in the rush of converts to get to the front, she broke four ribs and got kicked in the head. She was yelling her head off in agony, but with 50,000 people putting all they'd got into \"Onward Christian Soldiers\",** nobody even knew she was there.\n\n[He looks up sharply for a response, but there isn't any.]\n\nSometimes, I wonder if there isn't something wrong with me. What about that tea?\nCLIFF: (still behind paper). What tea?\n[…]\n\nJIMMY: […] Did you read Priestley's piece this week? Why on earth I ask, I don't know. I know damned well you haven't. Why do I spend ninepence on that damned paper every week? Nobody reads it except me. Nobody can be bothered. No one can raise themselves out of their delicious sloth. You two will soon―I know it, as sure as I'm sitting here. I know you're going to drive me mad. Oh heavens, how I long for a little ordinary human enthusiasm. Just enthusiasm―that's all. I want to hear a warm, thrilling voice cry out Hallelujah! (He bangs his breast theatrically.) Hallelujah! I'm alive! I've an idea. Why don't we have a little game? Let's pretend that we're human beings, and that we're actually alive. Just for a while. What do you say? Let's pretend we're human. (He looks from one to the other.) Oh, brother, it's such a long time since I was with anyone who got enthusiastic about anything.\n\nCLIFF: What did he say?\nJIMMY: (resentful of being dragged away from his pursuit of Alison). What did who say?\nCLIFF: Mr. Priestley.\nJIMMY: What he always says, I suppose. He's like Daddy―still casting well-fed glances back to the Edwardian twilight from his comfortable, disenfranchised wilderness. What the devil have you done to those trousers?\n\n*nom de plume: pseudonym\n**Onward Christian Soldiers: well-known Protestant hymn\n\nJohn Osborne, Look Back in Anger\n\nComplete the commentary below by filling in the blank with the ONE most appropriate word from the excerpt. Then, explain how Jimmy's situation can be considered similar to that of \"the woman who went to the mass meeting.\"\n\n<Commentary>\nAlison and her family are the embodiment of aristocratic values of the upper class which her working-class husband, Jimmy, despises. Believing that being scornful or resentful is a sign of human enthusiasm or of being alive, Jimmy harshly criticizes others―specifically, Alison's father―for saturating themselves into ________ and exhibiting an unwillingness to fight against reality in anger.",
     "blanks": [
-      { "label": "①", "context": "saturating themselves into ___ (ONE word from the excerpt)" }
+      {
+        "label": "①",
+        "context": "saturating themselves into ___ (ONE word from the excerpt)"
+      }
     ]
   },
   "derivation": {
@@ -24,33 +35,80 @@
         "step": 1,
         "label": "빈칸 추론",
         "explanation": "Jimmy는 주변 사람들이 아무것도 신경 쓰지 않는다고 비판하며 'No one can raise themselves out of their delicious sloth'라고 말한다. Commentary에서 '자기 자신을 ___ 에 흠뻑 빠뜨리고 분노로 현실에 맞서길 거부한다'는 문맥에서 sloth(게으름·무기력)가 정확히 대응한다.",
-        "key_terms": ["sloth"]
+        "key_terms": [
+          "sloth"
+        ]
       },
       {
         "step": 2,
         "label": "Jimmy와 the woman의 유사점",
         "explanation": "the woman은 집회에서 고통으로 소리를 질렀지만 5만 명의 군중 속에서 아무도 그녀를 알아채지 못했다. Jimmy는 열정적인 발언과 감정 표출을 반복하지만 Alison과 Cliff는 무관심하게 반응한다. 둘 다 강렬한 감정을 표현하지만 주변에 완전히 무시당한다는 점에서 유사하다.",
         "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "Commentary: 'saturating themselves into ___' — '자신을 ___ 에 흠뻑 빠뜨리고 현실에 맞서길 거부한다'. 후보:\n- 'apathy': 지문에 없음 ✗\n- 'indifference': 지문에 없음 ✗\n- 'sloth': 지문 직접 인용 'No one can raise themselves out of their delicious sloth' ✓\n→ sloth 확정. ONE word from the excerpt 조건도 충족.",
+        "key_terms": []
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "① 빈칸 근거: 'No one can raise themselves out of their delicious sloth' — Jimmy가 Alison·Cliff를 비판할 때 사용한 단어 sloth가 Commentary에서 '현실에 맞서길 거부하는 무기력함'으로 대응.\n② 유사점 구성: the woman = 집회에서 고통으로 소리 질렀지만 5만 군중의 노래 속에 완전히 무시됨. Jimmy = 열정적 발언과 감정 표출을 반복하지만 Alison·Cliff의 무관심 속에 완전히 무시됨. 공통점: 강렬한 감정 표현 → 주변의 완전한 무시(ignored/unnoticed).",
+        "key_terms": []
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "빈칸 함정: 유사한 의미의 apathy, indifference는 지문 내 단어가 아니므로 불가. sloth는 지문에 그대로 나온 단어.\n유사점 함정: 단순히 '둘 다 무시당했다'만 쓰면 부족. the woman의 물리적 고통(broken ribs) + Jimmy의 감정적 고통(열정 무시)이라는 각각의 구체적 상황을 제시한 후 공통점('강렬한 반응 표현 → 완전히 무시됨')으로 연결해야 감점 없음.",
+        "key_terms": []
       }
     ],
     "key_terms": [],
     "vocabulary": [
-      { "word": "sloth", "pos": "n.", "definition_ko": "나태, 게으름 (7대 죄악 중 하나)", "example": "their delicious sloth" },
-      { "word": "nom de plume", "pos": "n.", "definition_ko": "필명, 가명", "example": "Is the Bishop of Bromley his nom de plume?" },
-      { "word": "disenfranchised", "pos": "adj.", "definition_ko": "권리를 박탈당한, 소외된", "example": "comfortable, disenfranchised wilderness" }
+      {
+        "word": "sloth",
+        "pos": "n.",
+        "definition_ko": "나태, 게으름 (7대 죄악 중 하나)",
+        "example": "their delicious sloth"
+      },
+      {
+        "word": "nom de plume",
+        "pos": "n.",
+        "definition_ko": "필명, 가명",
+        "example": "Is the Bishop of Bromley his nom de plume?"
+      },
+      {
+        "word": "disenfranchised",
+        "pos": "adj.",
+        "definition_ko": "권리를 박탈당한, 소외된",
+        "example": "comfortable, disenfranchised wilderness"
+      }
     ],
     "translation": "지미: 봐요, 내 아내조차 감동받았잖아요. 주교님께 성금이라도 보내야겠군. 어디 보자. 또 뭐라고 했더라. 두음두음두음. 아, 그렇군. 누군가 그가 빈자 대신 부자를 편든다고 제안했다고 화가 났대요. 계급 차별이라는 개념을 부정한다고 하는군요. '이 생각은 노동계급에 의해 집요하고 사악하게 조장되어 왔다!' 이런!\n\n[그는 두 사람의 반응을 기다리며 올려다보지만, 클리프는 신문을 읽고 있고 앨리슨은 다림질에 열중해 있다.]\n\n지미: (클리프에게) 그 부분 읽었어?\n클리프: 응?\n[그는 두 사람을 잃었다는 걸 알지만, 그래도 포기하지 않는다.]\n\n지미: (앨리슨에게) 혹시 당신 아버지가 그걸 쓴 건 아닐까?\n앨리슨: 뭘 썼다고요?\n지미: 방금 내가 읽은 거 말이야.\n앨리슨: 왜 우리 아버지가 그걸 쓰겠어요?\n지미: 아버지랑 좀 닮지 않았어?\n앨리슨: 그래요?\n지미: 브롬리 주교가 아버지의 필명인 건 아닐까?\n클리프: 신경 쓰지 마요. 그는 일부러 상처 주려는 거예요. 그게 워낙 쉬운 사람이니까.\n\n지미: (빠르게) 얼스코트에서 어느 미국 전도사 대규모 집회에 간 여자 얘기 읽었어요? 그녀는 사랑이든 뭐든 선언하러 앞으로 나갔는데, <span class=\"trans-hl\">신자들이 앞으로 몰려드는 바람에 갈비뼈 네 개가 부러지고 머리를 발로 채였대요. 그녀는 고통으로 목이 터져라 소리를 질렀지만, 5만 명이 '전진하라 그리스도 군병들'에 온 힘을 다하는 바람에 아무도 그녀가 거기 있다는 것조차 몰랐대요.</span>\n\n[그는 날카롭게 반응을 기다리며 올려다보지만 아무것도 없다.]\n\n가끔은 나한테 뭔가 문제가 있는 건 아닐까 싶어요. 차는요?\n클리프: (여전히 신문 뒤에서) 무슨 차?\n\n지미: [...] 이번 주 프리스틀리 칼럼 읽었어? 왜 물어보는지 모르겠네. 못 읽었다는 거 뻔히 아는데. 매주 그 신문에 왜 9펜스를 쓰는 건지. 나 말고는 아무도 안 읽잖아. 아무도 신경 안 써. <span class=\"trans-hl\">아무도 자신들의 달콤한 나태에서 벗어나려 하지 않아요.</span> 당신 둘이 곧― 분명히 알아요, 여기 이렇게 앉아 있는 것만큼이나 확실하게. 당신들이 나를 미치게 만들 거라는 걸. 오, 세상에, 약간의 평범한 인간적 열정이 그리워요. 그냥 열정― 그것만으로도 충분해요. 따뜻하고 떨리는 목소리가 '할렐루야!'라고 외치는 걸 듣고 싶어요. (그는 극적으로 가슴을 친다.) 할렐루야! 나는 살아 있어요! 아이디어가 생겼어요. 우리 작은 게임을 해보는 건 어때요? 우리가 인간이고 실제로 살아 있다고 가장해봐요. 잠깐만이라도요. 어때요? 인간인 척 해봐요. (그는 두 사람을 번갈아 본다.) 아, 형제여, 무언가에 열정적인 사람과 함께한 게 너무도 오래됐어요.\n\n클리프: 뭐라고 했대요?\n지미: (앨리슨을 향한 집착에서 끌려나오는 것에 분개하며) 누가 뭐라고 했다고?\n클리프: 프리스틀리 씨요.\n지미: 늘 하는 말이겠지요. 아버지랑 똑같아― 편안하고 소외된 황야에서 에드워드 왕조의 황혼을 배부르게 뒤돌아보며. 그 바지에 도대체 무슨 짓을 한 거야?"
   },
   "answer": {
     "model_answer": {
       "blank_answers": [
-        { "label": "①", "answer": "sloth" }
+        {
+          "label": "①",
+          "answer": "sloth"
+        }
       ],
       "essay_content": "Both Jimmy and the woman express intense emotion but are ignored by those around them. The woman yells in agony at the mass meeting, yet no one notices her among the crowd. Similarly, Jimmy's passionate outbursts and longing for human enthusiasm are met with indifference by Alison and Cliff, leaving him frustrated and unheard.",
       "scoring_criteria": [
-        { "criterion": "① sloth (지문 내 단어 그대로)", "points": 1 },
-        { "criterion": "the woman: 고통으로 소리 질렀지만 군중 속에서 무시됨 설명", "points": 1.5 },
-        { "criterion": "Jimmy: 열정적 발언이 Alison·Cliff의 무관심으로 무시됨 설명 + 유사점 연결", "points": 1.5 }
+        {
+          "criterion": "① sloth (지문 내 단어 그대로)",
+          "points": 1
+        },
+        {
+          "criterion": "the woman: 고통으로 소리 질렀지만 군중 속에서 무시됨 설명",
+          "points": 1.5
+        },
+        {
+          "criterion": "Jimmy: 열정적 발언이 Alison·Cliff의 무관심으로 무시됨 설명 + 유사점 연결",
+          "points": 1.5
+        }
       ]
     },
     "variants": [

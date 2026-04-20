@@ -6,7 +6,14 @@
     "subject": "general",
     "question_type": "short_answer",
     "score": 2,
-    "tags": ["novel", "literary", "J.M. Coetzee", "Foe", "particularity", "memory"],
+    "tags": [
+      "novel",
+      "literary",
+      "J.M. Coetzee",
+      "Foe",
+      "particularity",
+      "memory"
+    ],
     "parse_source": "2025_전공B",
     "parse_confidence": "high",
     "verified": true
@@ -15,7 +22,10 @@
     "instruction": "Read the excerpt from a novel and follow the directions.",
     "passage": "'Later, when I had grown freer with him, I told him of my surprise. \"Suppose,\" said I, \"that one day we are saved. Would you not regret it that you could not bring back with you some record of your years of shipwreck, so that what you have passed through shall not die from memory? […] Is it not possible to manufacture paper and ink and set down what traces remain of these memories, so that they will outlive you; or, failing paper and ink, to burn the story upon wood, or engrave it upon rock? We may lack many things on this island, but certainly time is not one of them.\"\n\n'I spoke fervently, I believe, but Cruso was unmoved. \"Nothing is forgotten,\" said he; and then: \"Nothing I have forgotten is worth the remembering.\"\n\n'\"You are mistaken!\" I cried. \"I do not wish to dispute, but you have forgotten much, and with every day that passes you forget more! There is no shame in forgetting: it is our nature to forget as it is our nature to grow old and pass away. But seen from too remote a vantage, life begins to lose its particularity. All shipwrecks become the same shipwreck, all castaways the same castaway, sunburnt, lonely, clad in the skins of the beasts he has slain. The truth that makes your story yours alone, that sets you apart from the old mariner by the fireside spinning yarns of sea-monsters and mermaids, resides in a thousand touches which today may seem of no importance, such as: When you made your needle (the needle you store in your belt), by what means did you pierce the eye? When you sewed your hat, what did you use for thread? Touches like these will one day persuade your countrymen that it is all true, every word, there was indeed once an island in the middle of the ocean where the wind blew and the gulls cried from the cliffs and a man named Cruso paced about in his apeskin clothes, scanning the horizon for a sail.\"\n\n'Cruso\\'s great head of tawny hair and his beard that was never cut glowed in the dying light. He opened and closed his hands, sinewy, rough-skinned hands, toil-hardened.\n\n'\"There is the bile of seabirds,\" I urged. \"There are cuttlefish bones. There are gulls\\' quills.\"\n\n'Cruso raised his head and cast me a look full of defiance. \"I will leave behind my terraces and walls,\" he said. \"They will be enough. They will be more than enough.\"\n\nJ. M. Coetzee, Foe\n\nComplete the commentary below by filling in the blank with the ONE most appropriate word from the excerpt.\n\n<Commentary>\nIn the conversation with Cruso, the narrator expresses her desire to leave the literary traces of life on the island in order to attribute ________ to their experiences. On the other hand, Cruso argues that leaving the marks of his own labor can serve as a testament to his time on the island.",
     "blanks": [
-      { "label": "①", "context": "in order to attribute ___ to their experiences (ONE word from the excerpt)" }
+      {
+        "label": "①",
+        "context": "in order to attribute ___ to their experiences (ONE word from the excerpt)"
+      }
     ]
   },
   "derivation": {
@@ -24,33 +34,86 @@
         "step": 1,
         "label": "빈칸 문맥 분석",
         "explanation": "Commentary: 화자(narrator)는 섬에서의 경험에 ___ 를 부여하기 위해 문학적 기록을 남기려 한다. 지문에서 화자는 기억이 희미해지면 '모든 난파가 같은 난파가 된다'며 경험의 particularity 상실을 경고한다.",
-        "key_terms": ["particularity"]
+        "key_terms": [
+          "particularity"
+        ]
       },
       {
         "step": 2,
         "label": "지문 내 단어 추출",
         "explanation": "'life begins to lose its particularity' — 화자의 핵심 논거는 기록 없이는 삶이 particualrity(개별성·특수성)를 잃는다는 것이다. 따라서 기록을 남기는 목적은 경험에 particularity를 부여하는 것이다.",
-        "key_terms": ["particularity"]
+        "key_terms": [
+          "particularity"
+        ]
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "Commentary 문맥: '경험에 ___ 를 부여하기 위해 문학적 기록을 남기려 한다'. 가능한 후보 단어를 지문에서 확인:\n- 'meaning': 지문에 직접 없음 ✗\n- 'truth': 지문 3단락에 'The truth that makes your story yours alone'이 있지만, Commentary는 경험의 uniqueness·distinctiveness를 가리킴 ✗\n- 'particularity': 지문 3단락 'life begins to lose its particularity' — 기록 없이는 삶이 particularity를 잃는다 = 기록의 목적이 particularity 부여 ✓\n→ particularity 확정.",
+        "key_terms": []
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "핵심 근거 문장: 'But seen from too remote a vantage, life begins to lose its particularity. All shipwrecks become the same shipwreck, all castaways the same castaway.'\n→ 화자의 논거: 기록이 없으면 모든 경험이 획일화되어 particularity를 잃는다. 기록의 목적 = 경험에 particularity를 부여하는 것 = Commentary의 빈칸과 1:1 대응.",
+        "key_terms": []
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "함정: Commentary의 'attribute ___ to their experiences'를 '경험에 의미를 부여한다'로 해석하여 'meaning'을 쓰는 오류. 지문 내 단어여야 하므로 meaning은 불가.\nCruso의 대비: Cruso는 terraces and walls(물리적 노동의 흔적)로 족하다고 주장 ↔ 화자는 언어적 기록이 필요하다고 주장 — 이 대비가 particularity의 의미를 부각함.",
+        "key_terms": []
       }
     ],
     "key_terms": [],
     "vocabulary": [
-      { "word": "particularity", "pos": "n.", "definition_ko": "개별성, 특수성, 고유한 세부 사항", "example": "life begins to lose its particularity" },
-      { "word": "sinewy", "pos": "adj.", "definition_ko": "힘줄이 두드러진, 근육질의", "example": "sinewy, rough-skinned hands" },
-      { "word": "tawny", "pos": "adj.", "definition_ko": "황갈색의", "example": "great head of tawny hair" },
-      { "word": "defiance", "pos": "n.", "definition_ko": "반항, 도전", "example": "a look full of defiance" },
-      { "word": "cuttlefish", "pos": "n.", "definition_ko": "갑오징어", "example": "cuttlefish bones" }
+      {
+        "word": "particularity",
+        "pos": "n.",
+        "definition_ko": "개별성, 특수성, 고유한 세부 사항",
+        "example": "life begins to lose its particularity"
+      },
+      {
+        "word": "sinewy",
+        "pos": "adj.",
+        "definition_ko": "힘줄이 두드러진, 근육질의",
+        "example": "sinewy, rough-skinned hands"
+      },
+      {
+        "word": "tawny",
+        "pos": "adj.",
+        "definition_ko": "황갈색의",
+        "example": "great head of tawny hair"
+      },
+      {
+        "word": "defiance",
+        "pos": "n.",
+        "definition_ko": "반항, 도전",
+        "example": "a look full of defiance"
+      },
+      {
+        "word": "cuttlefish",
+        "pos": "n.",
+        "definition_ko": "갑오징어",
+        "example": "cuttlefish bones"
+      }
     ],
     "translation": "\"나중에 그와 더 편해졌을 때, 나는 나의 놀라움을 그에게 털어놓았다. '가령,' 내가 말했다. '언젠가 우리가 구조된다면, 당신은 난파 생활의 기록을 가지고 돌아갈 수 없다는 것을 후회하지 않겠어요? 당신이 겪어온 것들이 기억에서 사라지지 않도록 말이에요. [...] 종이와 잉크를 만들어 이 기억들의 흔적을 적어두는 것은 불가능한가요? 종이와 잉크가 없다면 나무에 이야기를 새기거나 바위에 조각하는 것은요? 우리가 이 섬에서 많은 것을 갖지 못할지라도, 분명 시간만큼은 부족하지 않아요.'\n\n나는 열정적으로 말했다고 생각하지만, 크루소는 흔들리지 않았다. '잊힌 것은 없다'고 그는 말했다. 그리고는 '내가 잊어버린 것들 중 기억할 만한 것도 없다'고.\n\n'당신은 틀렸어요!' 나는 외쳤다. '다투고 싶지는 않지만, 당신은 많은 것을 잊었고 날이 갈수록 더 잊어가고 있어요! 잊는 것은 부끄러운 일이 아니에요. 늙어가고 사라지는 것이 우리의 본성이듯 잊는 것도 우리의 본성이니까요. <span class=\"trans-hl\">하지만 너무 멀리서 바라보면, 삶은 그 개별성을 잃기 시작해요.</span> 모든 난파가 같은 난파가 되고, 모든 표류자가 같은 표류자가 됩니다. 햇볕에 탄, 외로운, 자신이 죽인 짐승의 가죽을 걸친 표류자. 당신의 이야기를 당신만의 것으로 만드는 진실, 불가에 앉아 바다 괴물과 인어 이야기를 늘어놓는 늙은 선원과 당신을 구별 짓는 것은, 오늘날에는 별로 중요하지 않아 보이는 수천 가지 세부 사항들에 있어요. 예를 들어, 바늘을 만들었을 때 어떤 방법으로 구멍을 뚫었나요? 모자를 꿰맬 때 실 대신 무엇을 사용했나요? 이런 세부 사항들이 언젠가 당신의 동포들로 하여금 그것이 모두 사실임을, 한 마디 한 마디가 진실임을 믿게 할 거예요.'\n\n크루소의 황갈색 머리카락과 한 번도 자르지 않은 수염이 저물어가는 빛 속에서 빛났다. 그는 힘줄이 두드러진, 거친 피부의, 노동으로 단련된 손을 폈다 오므렸다 했다.\n\n'바닷새의 담즙이 있어요,' 나는 재촉했다. '갑오징어 뼈도 있고요. 갈매기 깃털도 있잖아요.'\n\n크루소는 고개를 들고 반항 가득한 눈빛으로 나를 바라봤다. <span class=\"trans-hl\">'나는 내 계단식 밭과 담벼락을 남길 것이오,' 그는 말했다. '그것으로 충분할 거요. 충분하고도 남을 거요.'</span>\""
   },
   "answer": {
     "model_answer": {
       "blank_answers": [
-        { "label": "①", "answer": "particularity" }
+        {
+          "label": "①",
+          "answer": "particularity"
+        }
       ],
       "essay_content": "",
       "scoring_criteria": [
-        { "criterion": "① particularity (지문 내 단어 그대로)", "points": 2 }
+        {
+          "criterion": "① particularity (지문 내 단어 그대로)",
+          "points": 2
+        }
       ]
     },
     "variants": []

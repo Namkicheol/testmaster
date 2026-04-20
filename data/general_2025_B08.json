@@ -6,7 +6,13 @@
     "subject": "general",
     "question_type": "short_answer",
     "score": 4,
-    "tags": ["essay", "scarcity", "abundance", "metaphor", "addiction"],
+    "tags": [
+      "essay",
+      "scarcity",
+      "abundance",
+      "metaphor",
+      "addiction"
+    ],
     "parse_source": "2025_전공B",
     "parse_confidence": "high",
     "verified": true
@@ -15,7 +21,10 @@
     "instruction": "Read the passage and follow the directions.",
     "passage": "Science teaches us that every pleasure exacts a price, and the pain that follows is longer lasting and more intense than the pleasure that gave rise to it.\n\nWith prolonged and repeated exposure to pleasurable stimuli, our capacity to tolerate pain decreases, and our threshold for experiencing pleasure increases.\n\nBy imprinting instant and permanent memory, we are unable to forget the lessons of pleasure and pain even when we want to: hippocampal tattoos to last a lifetime.\n\nThe phylogenetically uber-ancient neurological machinery for processing pleasure and pain has remained largely intact throughout evolution and across species. It is perfectly adapted for a world of ________. Without pleasure we wouldn't eat, drink, or reproduce. Without pain we wouldn't protect ourselves from injury and death. By raising our neural set point with repeated pleasures, we become endless strivers, never satisfied with what we have, always looking for more.\n\nBut herein lies the problem. Human beings, the ultimate seekers, have responded too well to the challenge of pursuing pleasure and avoiding pain. As a result, we've transformed the world from a place of scarcity to a place of overwhelming abundance.\n\nOur brains are not evolved for this world of plenty. As Dr. Tom Finucane, who studies diabetes in the setting of chronic sedentary feeding, said, \"We are cacti in the rain forest.\"\n\nThe net effect is that we now need more reward to feel pleasure, and less injury to feel pain. This recalibration is occurring not just at the level of the individual but also at the level of nations. Which invites the question: How do we survive and thrive in this new ecosystem? How do we raise our children? What new ways of thinking and acting will be required of us as denizens of the twenty-first century?\n\nWho better to teach us how to avoid compulsive overconsumption than those most vulnerable to it: those struggling with addiction. Shunned for millennia across cultures as reprobates, parasites, pariahs, and purveyors of moral turpitude, people with addiction have evolved a wisdom perfectly suited to the age we live in now.\n\nFill in the blank with the ONE most appropriate word from the passage. Then, explain what the underlined part means in the context of the passage. Do NOT copy more than FOUR consecutive words from the passage.",
     "blanks": [
-      { "label": "①", "context": "perfectly adapted for a world of ___ (ONE word from the passage)" }
+      {
+        "label": "①",
+        "context": "perfectly adapted for a world of ___ (ONE word from the passage)"
+      }
     ]
   },
   "derivation": {
@@ -24,36 +33,98 @@
         "step": 1,
         "label": "빈칸 추론",
         "explanation": "우리의 신경 시스템은 진화적으로 설계된 환경에 완벽히 적응되어 있다. 지문에서 'we've transformed the world from a place of scarcity to a place of overwhelming abundance'라고 명시한다. 즉 뇌는 'scarcity(결핍)' 환경을 위해 설계된 것이다.",
-        "key_terms": ["scarcity"]
+        "key_terms": [
+          "scarcity"
+        ]
       },
       {
         "step": 2,
         "label": "밑줄 의미 분석 — 'We are cacti in the rain forest'",
         "explanation": "선인장(cacti)은 건조한 환경(scarcity of water)에 적응한 식물로, 열대우림의 풍부한 물 환경에서는 제대로 기능하지 못한다. 이처럼 인간의 뇌는 결핍의 세계를 위해 진화했으나, 현재의 풍요로운 환경에서는 적응하지 못해 과소비와 중독에 빠진다는 은유다.",
         "key_terms": []
+      },
+      {
+        "step": 3,
+        "label": "후보 소거",
+        "explanation": "빈칸: '___의 세계를 위해 완벽하게 적응되어 있다'. 신경 시스템이 진화적으로 설계된 환경 후보:\n- 'abundance': 뇌가 지금 적응 못하는 환경 ✗\n- 'scarcity': 다음 단락 'we've transformed the world from a place of scarcity to a place of overwhelming abundance' → 뇌는 abundance 이전, 즉 scarcity 환경을 위해 설계됨 ✓\n- 'pain': 지문에 pain은 나오지만 신경 시스템의 설계 환경 맥락과 불일치 ✗",
+        "key_terms": []
+      },
+      {
+        "step": 4,
+        "label": "확정 근거",
+        "explanation": "빈칸 근거: 'we've transformed the world from a place of scarcity to a place of overwhelming abundance' + 'Our brains are not evolved for this world of plenty' — 즉 뇌는 scarcity 환경을 위해 설계됐고 abundance에는 적응 못함 → 빈칸 = scarcity.\ncacti 은유 근거: 선인장(cacti) = 건조한 환경(scarcity)에 적응한 식물 → 열대우림(rain forest = abundance)에서 기능 부전. 이 대응이 인간의 뇌(scarcity 적응) = 현대 풍요 세계(abundance)에서 기능 부전과 동일 구조.",
+        "key_terms": []
+      },
+      {
+        "step": 5,
+        "label": "전략 메모",
+        "explanation": "빈칸 함정: 바로 앞 문장들이 pleasure/pain 설명이라 'pain'을 선택하기 쉬움. 그러나 빈칸 직후 단락 'transformed the world from scarcity to abundance'가 핵심 단서. 빈칸의 'world of ___'는 뇌가 적응한 진화적 환경 = scarcity.\n은유 설명 함정: cacti 은유를 설명할 때 동물 예시나 외부 지식 추가 금지. 반드시 지문 내 scarcity ↔ abundance 대비를 근거로 인간(scarcity 적응) + 현대 환경(abundance) 구조를 서술해야 함.",
+        "key_terms": []
       }
     ],
     "key_terms": [],
     "vocabulary": [
-      { "word": "phylogenetically", "pos": "adv.", "definition_ko": "계통발생학적으로", "example": "phylogenetically uber-ancient" },
-      { "word": "recalibration", "pos": "n.", "definition_ko": "재조정, 재보정", "example": "This recalibration is occurring" },
-      { "word": "denizens", "pos": "n.", "definition_ko": "거주자, 주민", "example": "denizens of the twenty-first century" },
-      { "word": "reprobates", "pos": "n.", "definition_ko": "도덕적으로 타락한 사람", "example": "shunned as reprobates" },
-      { "word": "pariahs", "pos": "n.", "definition_ko": "사회적 배척자, 천민", "example": "parasites, pariahs" },
-      { "word": "turpitude", "pos": "n.", "definition_ko": "비열함, 타락", "example": "moral turpitude" }
+      {
+        "word": "phylogenetically",
+        "pos": "adv.",
+        "definition_ko": "계통발생학적으로",
+        "example": "phylogenetically uber-ancient"
+      },
+      {
+        "word": "recalibration",
+        "pos": "n.",
+        "definition_ko": "재조정, 재보정",
+        "example": "This recalibration is occurring"
+      },
+      {
+        "word": "denizens",
+        "pos": "n.",
+        "definition_ko": "거주자, 주민",
+        "example": "denizens of the twenty-first century"
+      },
+      {
+        "word": "reprobates",
+        "pos": "n.",
+        "definition_ko": "도덕적으로 타락한 사람",
+        "example": "shunned as reprobates"
+      },
+      {
+        "word": "pariahs",
+        "pos": "n.",
+        "definition_ko": "사회적 배척자, 천민",
+        "example": "parasites, pariahs"
+      },
+      {
+        "word": "turpitude",
+        "pos": "n.",
+        "definition_ko": "비열함, 타락",
+        "example": "moral turpitude"
+      }
     ],
     "translation": "과학은 모든 쾌락에는 대가가 따른다는 것을 가르쳐준다. 그리고 그 쾌락에서 비롯된 고통은 쾌락보다 더 오래 지속되고 더 강렬하다.\n\n즐거운 자극에 반복적으로 오랜 시간 노출되면, 고통을 견디는 능력은 감소하고 쾌락을 경험하기 위한 역치는 높아진다.\n\n순간적이고 영구적인 기억을 새겨 넣음으로써, 우리는 원할 때조차 쾌락과 고통의 교훈을 잊을 수 없다. 일생을 지속하는 해마의 문신처럼.\n\n쾌락과 고통을 처리하는 계통발생학적으로 아주 오래된 신경학적 기제는 진화 전반과 종을 넘어 대체로 온전하게 유지되어 왔다. 그것은 <span class=\"trans-hl\">결핍의 세계를 위해 완벽하게 적응되어 있다.</span> 쾌락이 없으면 우리는 먹지도 마시지도 번식하지도 않을 것이다. 고통이 없으면 부상과 죽음으로부터 스스로를 보호하지 않을 것이다. 반복되는 쾌락으로 신경의 기준점을 높임으로써, 우리는 끊임없는 추구자가 되어 가진 것에 결코 만족하지 못하고 항상 더 많은 것을 찾게 된다.\n\n그러나 여기에 문제가 있다. 인간은, 궁극적인 추구자로서, 쾌락을 추구하고 고통을 피하는 도전에 너무 잘 반응해 왔다. 그 결과 우리는 세상을 결핍의 공간에서 압도적인 풍요의 공간으로 변화시켰다.\n\n우리의 뇌는 이 풍요의 세계를 위해 진화하지 않았다. 만성적인 앉아서 먹는 환경에서 당뇨를 연구하는 톰 피누케인 박사가 말했듯이, <span class=\"trans-hl\">\"우리는 열대우림 속의 선인장이다.\"</span>\n\n그 결과 우리는 이제 쾌락을 느끼기 위해 더 많은 보상이 필요하고, 고통을 느끼기 위해 더 적은 부상이 필요하게 되었다. 이 재조정은 개인 수준뿐 아니라 국가 수준에서도 일어나고 있다. 이로써 질문이 생긴다: 우리는 이 새로운 생태계에서 어떻게 생존하고 번성할 것인가?\n\n강박적 과소비를 피하는 방법을 가르쳐 줄 사람은 그에 가장 취약한 사람들, 즉 중독과 싸우는 사람들보다 누가 더 적합하겠는가. 수천 년 동안 문화를 막론하고 타락자, 기생충, 배척자, 도덕적 타락의 조장자로 외면받아 온 중독자들은 지금 우리가 살고 있는 시대에 완벽하게 적합한 지혜를 발전시켜 왔다."
   },
   "answer": {
     "model_answer": {
       "blank_answers": [
-        { "label": "①", "answer": "scarcity" }
+        {
+          "label": "①",
+          "answer": "scarcity"
+        }
       ],
       "essay_content": "The underlined part means that humans, like cacti adapted to arid conditions, are poorly suited to the current world of abundance. Just as cacti struggle with too much water in a rainforest, humans struggle to regulate desires and behavior in an environment overflowing with resources.",
       "scoring_criteria": [
-        { "criterion": "① scarcity (지문 내 단어 그대로)", "points": 1 },
-        { "criterion": "cacti = 결핍 환경에 적응한 존재 설명", "points": 1.5 },
-        { "criterion": "인간 = 풍요 환경에서 욕구 조절 실패 설명", "points": 1.5 }
+        {
+          "criterion": "① scarcity (지문 내 단어 그대로)",
+          "points": 1
+        },
+        {
+          "criterion": "cacti = 결핍 환경에 적응한 존재 설명",
+          "points": 1.5
+        },
+        {
+          "criterion": "인간 = 풍요 환경에서 욕구 조절 실패 설명",
+          "points": 1.5
+        }
       ]
     },
     "variants": [
