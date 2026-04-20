@@ -38,14 +38,20 @@
       {
         "step": 3,
         "label": "<B> 분류 적용",
-        "explanation": "a. avid: /æv.ɪd/ → 마지막 음절 /ɪd/는 coda /d/ 있음 → closed → unattested. b. fancy: /fæn.si/ → 마지막 음절 /si/는 모음 /i/로 끝남 → open → attested ✓. c. jealous: /dʒel.əs/ → 마지막 음절 /əs/는 coda /s/ 있음 → closed → unattested. d. narrow: /næ.roʊ/ → 마지막 음절 /roʊ/는 모음 /oʊ/로 끝남 → open → attested ✓.",
-        "key_terms": ["fancy", "narrow"]
+        "explanation": "a. avid: /æv.ɪd/ → 마지막 음절 /ɪd/ — coda /d/ 있음 → 불가. b. fancy: /fæn.si/ → 마지막 음절 /si/ — 모음 /i/로 끝남 → 가능 ✓. c. jealous: /dʒel.əs/ → 마지막 음절 /əs/ — coda /s/ 있음 → 불가. d. narrow: /næ.roʊ/ → 마지막 음절 /roʊ/ — 이중모음 /oʊ/로 끝남 → 가능 ✓. 가능 이름: b(fancy), d(narrow).",
+        "key_terms": []
       },
       {
         "step": 4,
-        "label": "음운 조건 정리",
-        "explanation": "attested 조건: 2음절 형용사의 마지막 음절이 open syllable — 즉 모음으로 끝나는 경우(coda 없음). unattested 조건: 마지막 음절이 closed syllable — 즉 자음으로 끝나는 경우(coda 있음).",
+        "label": "음운 조건 정리 — attested vs. unattested",
+        "explanation": "attested 조건: 2음절 형용사의 마지막 음절이 open syllable — rhyme이 nucleus만으로 이루어진 경우(모음으로 끝남, coda 없음).\nunattested 조건: 마지막 음절이 closed syllable — rhyme이 nucleus + coda 자음을 포함한 경우(자음으로 끝남).\n이 조건은 음절 유형(open syllable / closed syllable)이지, 단순 모음/자음 개수가 아님.",
         "key_terms": ["open syllable", "closed syllable"]
+      },
+      {
+        "step": 5,
+        "label": "전략 메모 — 음절 구조 분석 원칙",
+        "explanation": "함정 주의:\n① 마지막 글자가 자음이면 closed, 모음이면 open이라고 단순화하기 쉽지만, 반드시 음운 전사([])로 확인해야 한다. 'narrow' /næ.roʊ/는 철자상 'w'로 끝나지만 발음은 /roʊ/로 이중모음 → open syllable.\n② 마지막 음절의 coda 유무가 결정적 기준. rhyme = nucleus(+coda) 구조를 파악할 것.\n③ 'open syllable' / 'closed syllable' 용어를 정확히 사용하여 답안 서술.",
+        "key_terms": []
       }
     ],
     "key_terms": [
@@ -104,8 +110,17 @@
         "title": "An Introduction to Language (11th ed.)",
         "year": 2018,
         "publisher": "Cengage Learning",
-        "pages": "",
-        "excerpt": "An open syllable ends in a vowel (nucleus only); a closed syllable ends in a consonant (nucleus + coda)."
+        "pages": "pp. 233–247 · Ch. 7",
+        "excerpt": "An <span class=\"ref-hl\">open syllable</span> ends in a vowel (nucleus only); a <span class=\"ref-hl\">closed syllable</span> ends in a consonant (nucleus + coda). Morphological processes in English are often sensitive to syllable structure: the comparative suffix -er attaches freely to open-final disyllabic adjectives but is blocked from bases whose final syllable is closed."
+      },
+      {
+        "type": "textbook",
+        "author": "Plag, I.",
+        "title": "Word-Formation in English",
+        "year": 2003,
+        "publisher": "Cambridge University Press",
+        "pages": "pp. 76–92 · Ch. 4",
+        "excerpt": "The distribution of comparative -er is morphophonologically constrained. Disyllabic adjectives with final <span class=\"ref-hl\">open syllable</span>s (ending in a vowel, such as -y, -ow) readily accept -er, while those with final <span class=\"ref-hl\">closed syllable</span>s (ending in a coda consonant, such as -ent, -ive, -id) are systematically blocked. This illustrates how syllable structure — the presence or absence of a coda — can condition the attachment of an inflectional affix."
       }
     ],
     "concept_explanation": "The comparative suffix -er in English is morphophonologically conditioned: it attaches to disyllabic adjectives only when the final syllable is an open syllable (rhyme = nucleus only, ending in a vowel). Disyllabic adjectives with a closed final syllable (rhyme = nucleus + coda, ending in a consonant) are unattested with -er. This is an example of an inflectional affix sensitive to the phonological structure of its base — specifically, syllable structure (open vs. closed syllable) rather than simple vowel/consonant count."

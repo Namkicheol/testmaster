@@ -44,13 +44,13 @@
         "step": 4,
         "label": "(4a) attempted — ordinary subject 판별",
         "explanation": "attempt는 want처럼 matrix subject('the fire fighter')가 그 행위의 직접 경험자이므로 ordinary subject. 진단 ①: dummy 'it'이 불가 (*It attempted to rain). 진단 ②: 수동태 'The man attempted to be saved by the fire fighter'는 (4a)와 의미가 다름 → voice transparency 미성립 → ordinary subject.",
-        "key_terms": ["attempted", "ordinary subject"]
+        "key_terms": ["ordinary subject"]
       },
       {
         "step": 5,
         "label": "(4b) happened — raised subject 판별",
-        "explanation": "happen은 seem처럼 matrix subject('the fire fighter')가 embedded clause에만 의미적으로 속한다 → raised subject. 진단 ①: dummy 'it'이 가능 — 'It happened to rain.' → raised subject 확인.",
-        "key_terms": ["happened", "raised subject"]
+        "explanation": "happen은 seem처럼 matrix subject('the fire fighter')가 embedded clause에만 의미적으로 속한다 → raised subject. 진단 ①: dummy 'it'이 가능 — 'It happened to rain.' → raised subject 확인. 진단 ②: 수동태 'The man happened to be saved by the fire fighter'는 (4b)와 동일한 진리 조건 → voice transparency 성립.",
+        "key_terms": ["raised subject"]
       }
     ],
     "key_terms": [
@@ -120,11 +120,20 @@
       {
         "type": "textbook",
         "author": "Radford, A.",
-        "title": "Transformational Grammar",
+        "title": "Transformational Grammar: A First Course",
         "year": 1988,
         "publisher": "Cambridge University Press",
-        "pages": "",
-        "excerpt": "A raised subject has no thematic role assigned by the matrix verb; it is semantically associated only with the embedded predicate."
+        "pages": "pp. 338–370 · Ch. 7",
+        "excerpt": "A <span class=\"ref-hl\">raised subject</span> receives no thematic role from the matrix verb; it originates as the subject of the embedded infinitival clause and is raised to the matrix subject position. In contrast, an <span class=\"ref-hl\">ordinary subject</span> — the subject of a control verb — bears a thematic role (Agent or Experiencer) assigned by the matrix verb. Diagnostics include the <span class=\"ref-hl\">dummy pronoun</span> test (expletives like there or it may appear in the raised but not ordinary subject position) and <span class=\"ref-hl\">voice transparency</span> (active–passive equivalence holds only in raising constructions)."
+      },
+      {
+        "type": "textbook",
+        "author": "Carnie, A.",
+        "title": "Syntax: A Generative Introduction (3rd ed.)",
+        "year": 2013,
+        "publisher": "Wiley-Blackwell",
+        "pages": "pp. 269–285 · Ch. 11",
+        "excerpt": "Raising verbs (seem, appear, happen) differ fundamentally from control verbs (want, try, attempt) in their subject selection. The <span class=\"ref-hl\">raised subject</span> of a raising verb bears no theta-role from the matrix verb; only the embedded predicate contributes semantic content to this NP. This accounts for <span class=\"ref-hl\">voice transparency</span>: because the raised subject has no matrix theta-role, it can equivalently appear as the subject of the matrix verb's passive counterpart. The <span class=\"ref-hl\">dummy pronoun</span> test exploits the same fact — expletives, which carry no semantic content, are licensed only in positions that require no theta-role."
       }
     ],
     "concept_explanation": "Subject Raising (주어 올리기) is a syntactic operation in which the subject of an embedded infinitival clause is moved to the matrix subject position. The matrix verb (seem, happen, appear) assigns no thematic role to this raised subject, which is why dummy pronouns (it, there) are permitted and voice transparency holds. Control verbs (want, attempt, try), by contrast, assign a thematic role (Agent or Experiencer) to the ordinary matrix subject, blocking dummy pronouns and failing voice transparency."
