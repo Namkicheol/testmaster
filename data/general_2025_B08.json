@@ -39,8 +39,8 @@
       },
       {
         "step": 2,
-        "label": "밑줄 의미 분석 — 'We are cacti in the rain forest'",
-        "explanation": "선인장(cacti)은 건조한 환경(scarcity of water)에 적응한 식물로, 열대우림의 풍부한 물 환경에서는 제대로 기능하지 못한다. 이처럼 인간의 뇌는 결핍의 세계를 위해 진화했으나, 현재의 풍요로운 환경에서는 적응하지 못해 과소비와 중독에 빠진다는 은유다.",
+        "label": "밑줄 주변 문맥 확인 — cacti 은유 도출",
+        "explanation": "밑줄 바로 앞 문장(직접 근거): 'Our brains are not evolved for this world of plenty.' → brains(인간) = 풍요(plenty) 환경에 적응 못함 = cacti in rain forest 구조와 1:1 대응.\n\ncacti 은유 분석:\n- cacti(선인장) = 건조한 환경(scarcity of water)에 적응한 식물 → 열대우림의 풍부한 물(abundance) 속에서는 기능 부전.\n- humans = 결핍(scarcity) 환경을 위해 진화한 뇌 → 현대의 압도적 풍요(abundance) 속에서 적응 못해 과소비·중독 발생.\n\n대응 구조: cacti : rain forest = humans : modern world of plenty (scarcity 적응 존재가 abundance 환경에서 겪는 부적응).",
         "key_terms": []
       },
       {

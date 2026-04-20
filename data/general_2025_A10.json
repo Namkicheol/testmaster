@@ -38,8 +38,8 @@
       },
       {
         "step": 2,
-        "label": "밑줄 부분 문맥 파악",
-        "explanation": "밑줄: 'the \"pearl\" we are supposed to retrieve can only be found at the story's end.' pearl은 삶의 궁극적 의미나 목적을 상징하는 은유다. 이야기(삶)가 끝나야만 그 의미를 발견할 수 있다는 논지와 연결된다.",
+        "label": "밑줄 주변 문맥 확인 — pearl 의미 도출",
+        "explanation": "밑줄 바로 앞 문장(직접 근거): 'The longed-for meaning may be revealed at the very end, and we will no longer be there to receive the revelation.' → pearl = 이 'longed-for meaning'(갈망하던 의미)의 은유. 이야기의 끝에 이르러야만 발견되는 삶의 궁극적 의미.\n밑줄 구절 구조: 'can only be found at the story's end' → 끝까지 살아야만 얻을 수 있다는 조건이 핵심.\n전체 big topic 확인: 'stories are what make our lives worth living' → pearl = 이야기(삶)가 살 가치 있게 만드는 궁극적 의미·목적.",
         "key_terms": [
           "pearl"
         ]
