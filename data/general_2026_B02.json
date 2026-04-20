@@ -62,7 +62,7 @@
       {
         "step": 5,
         "label": "전략 메모",
-        "explanation": "출제 패턴 / 풀이 원칙:\n① 시에서 빈칸은 지문(시)에 등장한 단어를 찾는다 — passage-bound 원칙\n② Commentary의 '변환(transforms)' 구조 파악: X → reflection/remembrance. X = 시가 다루는 핵심 감정 상태\n③ 마지막 연에 정답 단서가 집중되는 경우가 많음 — 결말 연 우선 확인\n\n함정:\n- grief, loss, mourning 등 지문에 없는 단어로 답하는 오류\n- solitude는 지문에 직접 등장하지 않으므로 passage-bound 규칙상 불가",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① 마지막 연(結末 stanza)을 먼저 확인 — 정답 단서가 집중되는 경우가 많음. 이 시의 마지막 연: 'And my own loneliness.' → loneliness가 직접 등장 → passage-bound 정답 확정.\n② Commentary의 '변환(transforms)' 구조 파악: X → reflection/remembrance. X = 시가 다루는 핵심 감정 상태\n③ 시에서 빈칸은 지문(시)에 등장한 단어를 찾는다 — passage-bound 원칙\n\n함정:\n- grief, loss, mourning 등 지문에 없는 단어로 답하는 오류\n- solitude는 지문에 직접 등장하지 않으므로 passage-bound 규칙상 불가",
         "key_terms": []
       }
     ],

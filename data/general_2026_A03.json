@@ -60,7 +60,7 @@
       {
         "step": 5,
         "label": "전략 메모",
-        "explanation": "출제 패턴 / 풀이 원칙:\n① Commentary의 빈칸은 지문 안에서 직접 찾는다 — passage-bound 원칙 적용\n② Commentary가 지문을 paraphrase하는 구조를 먼저 파악하고, 빈칸이 어느 대사/단어에 대응하는지 확인\n③ 희곡: 인물의 대사가 Commentary 분석의 핵심 근거 — 인물 간 대비(Ansel vs. 현재)를 파악\n\n함정:\n- 지문에 없는 단어를 상식적으로 채우는 오류 (barbarians, thugs 등) → 반드시 지문에서 찾을 것\n- Halie의 과장된 서술을 신뢰할 수 없는 화자 특성으로 분석 — 정답 도출에는 영향 없음",
+        "explanation": "출제 패턴 / 풀이 원칙:\n① Commentary 먼저 읽기 (밍우 방법론): commentary를 먼저 읽어 빈칸이 지칭하는 개념의 범위를 좁힌 뒤 지문에서 단어를 찾는다. 이 문제: 'heroic Ansel are being replaced by ___' → Ansel의 반대(야만적·타락한 존재)를 지문에서 직접 찾기.\n② Commentary의 빈칸은 지문 안에서 직접 찾는다 — passage-bound 원칙 적용\n③ 희곡: 인물의 대사가 Commentary 분석의 핵심 근거 — 인물 간 대비(Ansel vs. 현재)를 파악\n\n함정:\n- 지문에 없는 단어를 상식적으로 채우는 오류 (barbarians, thugs 등) → 반드시 지문에서 찾을 것\n- Halie의 과장된 서술을 신뢰할 수 없는 화자 특성으로 분석 — 정답 도출에는 영향 없음",
         "key_terms": []
       }
     ],
