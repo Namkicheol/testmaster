@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "id": "linguistics_2025_A07",
+    "year": 2025,
+    "number": "A-7",
+    "subject": "linguistics",
+    "linguistics_domain": "syntax",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["raising", "ordinary subject", "raised subject", "dummy pronoun", "voice transparency"],
+    "parse_source": "2025_전공A",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage and follow the directions.",
+    "passage": "In general, the matrix subject is semantically associated with the matrix verb, which is called an ordinary subject. In (1a), Chris experienced the feeling of wanting to convince Max. In some cases, the matrix subject does not have a direct semantic relationship with the matrix verb, but semantically it belongs solely in the embedded clause. This is called a raised subject. The meaning of (1b) is very close to that of Chris seemingly convinced Max.\n\n(1) a. Chris wanted to convince Max.\n    b. Chris seemed to convince Max.\n\nThere are diagnostic tests to distinguish one from the other, which include using meaningless dummy pronouns and voice transparency. First, a dummy pronoun, such as there or it, cannot appear in the ordinary subject position, as shown in (2a), which suggests that the subject of want is an ordinary subject. In contrast, the pronoun can appear in the raised subject position, so the appearance of there in (2b) suggests that the subject of seem is a raised subject.\n\n(2) a. *There wants to be plenty of time.\n    b. There seems to be plenty of time.\n\nThe second diagnostic test involves voice transparency between active and passive forms, and only the sentence with a raised subject can denote the same meaning with its passive counterpart. Consider the sentences (3a) and (3b), which are the passive counterparts of (1a) and (1b), respectively.\n\n(3) a. Max wanted to be convinced by Chris.\n    b. Max seemed to be convinced by Chris.\n\nNote that (3a) does not share the same truth condition with (1a) as the subject of want refers to Max in (3a) but Chris in (1a). In contrast, (3b) is logically equivalent to (1b). Thus, the test results for voice transparency demonstrate that the subject of want is an ordinary subject and that of seem is a raised subject. Now, consider the sentences (4a) and (4b).\n\n(4) a. The fire fighter attempted to save the man.\n    b. The fire fighter happened to save the man.\n\nThe two diagnostic tests can reveal that (4a) contains a(n) ① ________ subject and (4b) contains a(n) ② ________ subject.\n\nNote: '*' indicates the ungrammaticality of the sentence.\n\nFill in the blanks ① and ② with the ONE most appropriate word from the passage, in the correct order. Then, first, for the raised subject in (4), explain your answer by providing a sentence with a meaningless dummy, using the structural frame, 'to rain'. Second, for the ordinary subject in (4), explain your answer by providing a sentence, using voice transparency.",
+    "blanks": [
+      { "label": "①", "context": "(4a) contains a(n) ___ subject" },
+      { "label": "②", "context": "(4b) contains a(n) ___ subject" }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "ordinary vs. raised subject 정의 확인",
+        "explanation": "ordinary subject: matrix subject가 matrix verb와 직접 의미 관계를 가짐. raised subject: matrix subject가 matrix verb와 의미 관계 없이 embedded clause에만 의미적으로 속함.",
+        "key_terms": ["ordinary subject", "raised subject"]
+      },
+      {
+        "step": 2,
+        "label": "진단 테스트 1 — dummy pronoun",
+        "explanation": "meaningless dummy pronoun(there, it)은 ordinary subject 자리에 나타날 수 없다. raised subject 자리에는 나타날 수 있다. (2b) 'There seems to be plenty of time.'이 문법적인 것이 그 증거.",
+        "key_terms": ["dummy pronoun"]
+      },
+      {
+        "step": 3,
+        "label": "진단 테스트 2 — voice transparency",
+        "explanation": "raised subject를 포함한 문장만 수동태와 동일한 의미(truth condition)를 공유한다. ordinary subject 문장은 수동태로 바꾸면 의미가 달라진다.",
+        "key_terms": ["voice transparency"]
+      },
+      {
+        "step": 4,
+        "label": "(4a) attempted — ordinary subject 판별",
+        "explanation": "attempt는 want처럼 matrix subject('the fire fighter')가 그 행위의 직접 경험자이므로 ordinary subject. 진단 ①: dummy 'it'이 불가 (*It attempted to rain). 진단 ②: 수동태 'The man attempted to be saved by the fire fighter'는 (4a)와 의미가 다름 → voice transparency 미성립 → ordinary subject.",
+        "key_terms": ["attempted", "ordinary subject"]
+      },
+      {
+        "step": 5,
+        "label": "(4b) happened — raised subject 판별",
+        "explanation": "happen은 seem처럼 matrix subject('the fire fighter')가 embedded clause에만 의미적으로 속한다 → raised subject. 진단 ①: dummy 'it'이 가능 — 'It happened to rain.' → raised subject 확인.",
+        "key_terms": ["happened", "raised subject"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "ordinary subject",
+        "definition_en": "A matrix subject that has a direct semantic relationship with the matrix verb.",
+        "definition_ko": "모문 주어가 모문 동사와 직접적인 의미 관계를 가지는 경우.",
+        "source_author": "Radford",
+        "source_year": 1988,
+        "related_terms": ["raised subject", "control"],
+        "exam_usage": "attempt, want 등의 동사와 함께 출제 — dummy pronoun 불가, voice transparency 미성립"
+      },
+      {
+        "term": "raised subject",
+        "definition_en": "A matrix subject that belongs semantically only to the embedded clause, with no direct semantic relationship to the matrix verb.",
+        "definition_ko": "모문 주어가 모문 동사와 의미 관계 없이 내포절에만 의미적으로 속하는 경우.",
+        "source_author": "Radford",
+        "source_year": 1988,
+        "related_terms": ["ordinary subject", "Subject-to-Subject Raising"],
+        "exam_usage": "seem, happen 등의 동사와 함께 출제 — dummy pronoun 가능, voice transparency 성립"
+      },
+      {
+        "term": "dummy pronoun",
+        "definition_en": "A meaningless expletive pronoun (there, it) used to fill a subject position with no semantic content.",
+        "definition_ko": "의미 없는 허사 대명사(there, it). raised subject 진단에 사용됨.",
+        "source_author": "Radford",
+        "source_year": 1988,
+        "related_terms": ["raised subject", "expletive"],
+        "exam_usage": "raised subject 진단: dummy pronoun이 matrix subject 자리에 올 수 있으면 raised subject"
+      },
+      {
+        "term": "voice transparency",
+        "definition_en": "The property whereby the active and passive forms of a sentence denote the same truth condition.",
+        "definition_ko": "능동태와 수동태가 동일한 진리 조건을 공유하는 성질. raised subject 문장에서만 성립.",
+        "source_author": "Radford",
+        "source_year": 1988,
+        "related_terms": ["raised subject", "ordinary subject"],
+        "exam_usage": "raised subject 진단: 수동태로 바꾸어도 의미가 동일하면 raised subject"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        { "label": "①", "answer": "ordinary" },
+        { "label": "②", "answer": "raised" }
+      ],
+      "essay_content": "For the raised subject in (4b), the dummy pronoun 'it' can appear in the subject position: 'It happened to rain.' This shows the subject of happened is a raised subject. For the ordinary subject in (4a), the passive counterpart 'The man attempted to be saved by the fire fighter' does not share the same truth condition with (4a), since the subject of attempted refers to 'the fire fighter' in (4a) but 'the man' in the passive. Thus voice transparency is not established, indicating an ordinary subject.",
+      "scoring_criteria": [
+        { "criterion": "① ordinary, ② raised (순서 포함 정확히)", "points": 1 },
+        { "criterion": "raised subject 설명: dummy 'it' + 'It happened to rain' 제시", "points": 1.5 },
+        { "criterion": "ordinary subject 설명: 수동태 문장 제시 + truth condition 불일치(voice transparency 미성립) 언급", "points": 1.5 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "For the raised subject in (4b), the dummy 'it' can be licensed: 'It happened to rain yesterday.' This confirms the subject of happened is a raised subject. For the ordinary subject in (4a), voice transparency is not established. Rewriting (4a) as 'The man attempted to be saved by the fire fighter' yields a different meaning from (4a), indicating that the subject of attempted is an ordinary subject."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Radford, A.",
+        "title": "Transformational Grammar",
+        "year": 1988,
+        "publisher": "Cambridge University Press",
+        "pages": "",
+        "excerpt": "A raised subject has no thematic role assigned by the matrix verb; it is semantically associated only with the embedded predicate."
+      }
+    ],
+    "concept_explanation": "Subject Raising (주어 올리기) is a syntactic operation in which the subject of an embedded infinitival clause is moved to the matrix subject position. The matrix verb (seem, happen, appear) assigns no thematic role to this raised subject, which is why dummy pronouns (it, there) are permitted and voice transparency holds. Control verbs (want, attempt, try), by contrast, assign a thematic role (Agent or Experiencer) to the ordinary matrix subject, blocking dummy pronouns and failing voice transparency."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
