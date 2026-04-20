@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "id": "education_2025_A11",
+    "year": 2025,
+    "number": "A-11",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["lesson objectives", "reception", "production", "specific details", "argue"],
+    "parse_source": "2025_전공A",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the teaching procedure in <B>, and follow the directions.",
+    "passage": "<A>\nMs. Kim, an English teacher, is selecting lesson objectives to implement into a new lesson. The following are the lesson objectives for reception and production.\n\nLesson Objectives\nReception\nR1. Students can recognize reduced sounds of words.\nR2. Students can identify specific details from a text or discourse.\nR3. Students can distinguish between literal and implied meanings.\n\nProduction\nP1. Students can explain the sequence of an event in the right order.\nP2. Students can write a simple journal, letter, or email.\nP3. Students can argue for and against a topic in a respectful manner.\n\n<B>\n| Step | Teaching Procedure |\n|------|-------------------|\n| Step 1 | In groups, students brainstorm the pros and cons of using AI in education and create a mind map. |\n| Step 2 | Students listen to an audio clip on AI and digital tools in class and complete a worksheet.<br>Listen to the conversation carefully and follow the directions below.<br>A. Mark the sentences True or False.<br>1. Sora says that the use of AI should be prohibited in the classroom. [True/False]<br>2. Inho asks an AI chatbot to do his assignment. [True/False]<br>3. Minji compares the outputs on a topic from three different AI chatbots. [True/False]<br>B. Match the person with his or her concern.<br>Inho · · Excessive screen time<br>Minji · · False information<br>Sora · · Theft of personal data |\n| Step 3 | Students work together and write rules for the use of digital tools in class, using useful expressions for polite agreement or disagreement.<br>Class Rules for the Use of Digital Tools<br>1. e.g., Never download software to a school device without permission. |\n\nIdentify ONE lesson objective for reception and ONE for production from <A> that are achieved in each step of the teaching procedure in <B>. Then, explain how each objective is achieved with evidence from <B>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "Reception 목표 찾기 — Step 2",
+        "explanation": "Step 2에서 학생들은 AI 관련 오디오 클립을 듣고 T/F 문제와 매칭 문제를 푼다. 이는 담화에서 특정 세부 정보(specific details)를 식별하는 활동으로, R2('identify specific details from a text or discourse')에 해당한다.",
+        "key_terms": ["specific details"]
+      },
+      {
+        "step": 2,
+        "label": "Production 목표 찾기 — Step 3",
+        "explanation": "Step 3에서 학생들은 디지털 도구 사용 규칙을 함께 작성하는데, 정중한 동의·반대 표현(useful expressions for polite agreement or disagreement)을 사용한다. 이는 주제에 대해 찬반 논거를 정중하게 표현하는 P3('argue for and against a topic in a respectful manner')에 해당한다.",
+        "key_terms": ["argue"]
+      }
+    ],
+    "key_terms": [],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "R2 is achieved in Step 2, where students listen to an audio clip and complete a worksheet by marking statements True or False and matching each person with their concern, identifying specific details from the discourse. P3 is achieved in Step 3, where students collaboratively write class rules for digital tools using useful expressions for polite agreement or disagreement, arguing for and against positions in a respectful manner.",
+      "scoring_criteria": [
+        { "criterion": "Reception 목표: R2 식별", "points": 1 },
+        { "criterion": "R2 근거: Step 2, T/F + matching으로 specific details 식별 설명", "points": 1 },
+        { "criterion": "Production 목표: P3 식별", "points": 1 },
+        { "criterion": "P3 근거: Step 3, 정중한 동의/반대 표현으로 규칙 작성 설명", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "One objective for reception is R2: students identify specific details from the audio clip in Step 2 by marking statements as True or False and matching each person with their concern. One objective for production is P3: in Step 3, students argue for and against the use of digital tools in a respectful manner while discussing and writing class rules with useful expressions for polite agreement or disagreement."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "instructor",
+        "content": "R2 is applied to Step 2: students listen to the conversation to mark true or false and match each person with their concern. P3 is applied to Step 3: students write rules with useful expressions for polite agreement or disagreement about the use of digital tools."
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "언어 학습 목표는 수용(reception) 기술과 표현(production) 기술로 구분된다. 수용 기술은 읽기·듣기로, T/F 문제와 matching 문제는 담화에서 specific details를 파악하는 R2 목표를 실현한다. 표현 기술은 말하기·쓰기로, 찬반 의견을 정중하게 표현하며 규칙을 작성하는 활동은 P3 목표를 실현한다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
