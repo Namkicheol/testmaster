@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "id": "education_2025_A09",
+    "year": 2025,
+    "number": "A-9",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["speaking assessment", "authenticity", "clarity", "assessment principles"],
+    "parse_source": "2025_전공A",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the teacher's reflection log in <B>, and follow the directions.",
+    "passage": "<A>\nMr. Jeong, an English teacher, was tasked with evaluating speaking assessment items in his students' final exam. Reviewing key principles of speaking assessment, he noted the following:\n✔ Clarity: Prompts should be straightforward to avoid confusion.\n✔ Authenticity: Speaking tasks should mirror real-life communication, enabling students to demonstrate natural language use.\n✔ Integrated Skills Assessment: Tasks should assess speaking alongside other skills, such as listening comprehension, to reflect communicative performance.\n✔ Practicality: Test items should be feasible and manageable in terms of the time spent in assessment.\n\n<B>\nTeacher's Reflection Log\nAfter reviewing the items, I felt that the two items had some good and bad points. Item 1 asked students to describe a memorable experience that they had with a friend, including details such as when it happened, what they did, and why it was memorable. After observing students' responses, I realized that this item resembled a conversation topic in real-life contexts. However, I regret that I didn't set time limits for the item and it took too much time to score it, which made the assessment difficult to manage.\n\nFor Item 2, after looking at a picture of a busy street, students were asked to describe what they saw. Most of the students did very well on this task because the item clearly described what sort of response was desired. I think this item was effective in assessing pronunciation, one of the criteria for assessing speaking skills. However, next time I want to add some more items such as asking students to listen to a short audio and discuss their opinions. It might be more challenging but I believe I can assess multiple skills in the test.\n\nBased on <A>, identify the speaking assessment principles applied in Item 1 and Item 2 in <B>, respectively. Then, explain how each principle was applied in each item with evidence from <B>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "Item 1 분석",
+        "explanation": "<B>에서 Item 1은 '친구와의 기억에 남는 경험'을 묘사하는 과제다. 교사는 이 항목이 'resembled a conversation topic in real-life contexts'라고 기술한다. 이는 <A>의 Authenticity 정의('mirror real-life communication')와 일치한다.",
+        "key_terms": ["authenticity"]
+      },
+      {
+        "step": 2,
+        "label": "Item 2 분석",
+        "explanation": "<B>에서 Item 2는 'a picture of a busy street'를 보고 묘사하는 과제다. 교사는 'the item clearly described what sort of response was desired'라고 하여 학생들이 잘 수행했다고 기술한다. 이는 <A>의 Clarity 정의('prompts should be straightforward')와 일치한다.",
+        "key_terms": ["clarity"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "authenticity",
+        "definition_en": "A speaking assessment principle requiring that tasks mirror real-life communication to enable students to demonstrate natural language use.",
+        "definition_ko": "말하기 평가 원칙 중 하나로, 과제가 실생활 의사소통을 반영하여 자연스러운 언어 사용을 보여줄 수 있어야 함.",
+        "source_author": "Brown",
+        "source_year": 2004,
+        "related_terms": ["clarity", "practicality"],
+        "exam_usage": "Item 1: 실생활 대화 주제(memorable experience with friends)로 출제"
+      },
+      {
+        "term": "clarity",
+        "definition_en": "A speaking assessment principle requiring that prompts be straightforward to avoid student confusion.",
+        "definition_ko": "말하기 평가 원칙 중 하나로, 학생들의 혼란을 피하기 위해 프롬프트가 명확해야 함.",
+        "source_author": "Brown",
+        "source_year": 2004,
+        "related_terms": ["authenticity", "practicality"],
+        "exam_usage": "Item 2: 그림 프롬프트가 기대 응답을 명확히 제시함"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "Authenticity is applied to Item 1 in that the task topic about a memorable experience with friends resembles a real-life conversation context. Clarity is applied to Item 2 since the picture prompt of a busy street clearly described what sort of response was desired, enabling students to perform well.",
+      "scoring_criteria": [
+        { "criterion": "Item 1 원칙: Authenticity", "points": 1 },
+        { "criterion": "Item 1 근거: 'resembled a conversation topic in real-life contexts' 언급", "points": 1 },
+        { "criterion": "Item 2 원칙: Clarity", "points": 1 },
+        { "criterion": "Item 2 근거: 'clearly described what sort of response was desired' 언급", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "Authenticity is applied to Item 1 because the conversation topic about a memorable experience with friends reflects real-life contexts. Clarity is applied to Item 2 because the use of a prompt, 'a picture of a busy street', enables students to clearly describe what they observed."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "instructor",
+        "content": "Item 1 applies Authenticity: the teacher notes that this item 'resembled a conversation topic in real-life contexts,' highlighting its alignment with authentic communication. Item 2 applies Clarity: the teacher observes that 'the item clearly described what sort of response was desired,' indicating that clarity was successfully applied."
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "Brown (2004)의 말하기 평가 원칙 중 Authenticity(실제성)는 과제가 실생활 의사소통과 유사해야 한다는 원칙이고, Clarity(명확성)는 프롬프트가 학생들에게 명확하게 제시되어야 한다는 원칙이다. Practicality(실용성)는 평가가 시간과 자원 면에서 관리 가능해야 함을 의미하며, Item 1에서 시간 제한이 없어 채점이 어려워진 것은 Practicality가 부족한 사례다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
