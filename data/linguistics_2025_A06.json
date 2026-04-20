@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "id": "linguistics_2025_A06",
+    "year": 2025,
+    "number": "A-6",
+    "subject": "linguistics",
+    "linguistics_domain": "morphology",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["comparative suffix", "open syllable", "closed syllable", "inflectional morphology"],
+    "parse_source": "2025_전공A",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the examples in <B>, and follow the directions.",
+    "passage": "<A>\nMany inflectional affixes in English are sensitive to phonological properties of base words that they attach to. One example is the comparative affix -er that attaches to adjectives as follows:\n\n(1) Base adjectives → Suffixed comparatives\nsmart → smarter\nintelligent → *intelligenter\npretty → prettier\nattractive → *attractiver\n\nIt appears that the attested base adjectives in (1) are no longer than two syllables. Consider the following words in (2), in which the comparative affix -er attaches to disyllabic adjectives.\n\n(2) Base adjectives → Suffixed comparatives\nhappy → happier\ntiny → tinier\nbrainy → brainier\nmighty → mightier\n\nWhile the affix -er attaches to various adjectives, the words in (3) indicate that not all disyllabic adjectives can take the affix -er.\n\n(3) Base adjectives → Suffixed comparatives\nafraid → *afraider\nnaked → *nakeder\nactive → *activer\nverdant → *verdanter\n\nNote: '*' indicates unattested comparatives.\n\n<B>\na. avid   b. fancy   c. jealous   d. narrow\n\nBased on <A>, choose the TWO adjectives in <B> which the comparative affix -er can attach to. Then, based on <A> and <B>, state the phonological conditions for the attested and unattested disyllabic adjectives, respectively.",
+    "blanks": [
+      { "label": "①", "context": "TWO adjectives in <B> that take -er" },
+      { "label": "②", "context": "phonological condition for attested disyllabic adjectives" },
+      { "label": "③", "context": "phonological condition for unattested disyllabic adjectives" }
+    ]
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "attested 패턴 분석 — (2)번",
+        "explanation": "happy, tiny, brainy, mighty는 모두 -er를 취한다. 각 단어의 마지막 음절을 확인하면: hap-py /pi/, ti-ny /ni/, brain-y /ni/, might-y /ti/ — 모두 모음으로 끝나는 open syllable이다.",
+        "key_terms": ["open syllable"]
+      },
+      {
+        "step": 2,
+        "label": "unattested 패턴 분석 — (3)번",
+        "explanation": "afraid /freɪd/, naked /kɪd/, active /tɪv/, verdant /dənt/ — 각 단어의 마지막 음절이 자음으로 끝나는 closed syllable임을 확인할 수 있다. coda가 있는 syllable에는 -er가 붙지 않는다.",
+        "key_terms": ["closed syllable", "coda"]
+      },
+      {
+        "step": 3,
+        "label": "<B> 분류 적용",
+        "explanation": "a. avid: /æv.ɪd/ → 마지막 음절 /ɪd/는 coda /d/ 있음 → closed → unattested. b. fancy: /fæn.si/ → 마지막 음절 /si/는 모음 /i/로 끝남 → open → attested ✓. c. jealous: /dʒel.əs/ → 마지막 음절 /əs/는 coda /s/ 있음 → closed → unattested. d. narrow: /næ.roʊ/ → 마지막 음절 /roʊ/는 모음 /oʊ/로 끝남 → open → attested ✓.",
+        "key_terms": ["fancy", "narrow"]
+      },
+      {
+        "step": 4,
+        "label": "음운 조건 정리",
+        "explanation": "attested 조건: 2음절 형용사의 마지막 음절이 open syllable — 즉 모음으로 끝나는 경우(coda 없음). unattested 조건: 마지막 음절이 closed syllable — 즉 자음으로 끝나는 경우(coda 있음).",
+        "key_terms": ["open syllable", "closed syllable"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "open syllable",
+        "definition_en": "A syllable whose rhyme consists of only a nucleus, with no coda consonant.",
+        "definition_ko": "음절의 rhyme이 핵모음만으로 이루어진 음절. coda 자음 없음.",
+        "source_author": "Fromkin, Rodman & Hyams",
+        "source_year": 2018,
+        "related_terms": ["closed syllable", "nucleus", "coda"],
+        "exam_usage": "비교급 -er의 결합 조건으로 출제 — 마지막 음절이 open syllable이면 -er 결합 가능"
+      },
+      {
+        "term": "closed syllable",
+        "definition_en": "A syllable whose rhyme consists of a nucleus plus one or more coda consonants.",
+        "definition_ko": "음절의 rhyme이 핵모음 + coda 자음으로 이루어진 음절.",
+        "source_author": "Fromkin, Rodman & Hyams",
+        "source_year": 2018,
+        "related_terms": ["open syllable", "coda"],
+        "exam_usage": "마지막 음절이 closed syllable이면 -er 결합 불가"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [
+        { "label": "①", "answer": "b (fancy), d (narrow)" }
+      ],
+      "essay_content": "For the attested disyllabic adjectives, the last syllable is an open syllable whose rhyme consists of only a nucleus (ends in a vowel). For the unattested disyllabic adjectives, the last syllable is a closed syllable whose rhyme consists of a nucleus and a coda (ends in a consonant).",
+      "scoring_criteria": [
+        { "criterion": "① fancy, narrow 두 개 모두 선택", "points": 2 },
+        { "criterion": "attested 조건: 마지막 음절이 open syllable (모음으로 끝남, coda 없음)", "points": 1 },
+        { "criterion": "unattested 조건: 마지막 음절이 closed syllable (자음으로 끝남, coda 있음)", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "The attested disyllabic adjectives end in a vowel. The unattested disyllabic adjectives end in a consonant."
+      },
+      {
+        "label": "답안 B",
+        "source_type": "instructor",
+        "content": "When the last syllable of a disyllabic adjective is an open syllable with a rhyme composed of only a nucleus, the comparative suffix -er can be attached. When the last syllable is a closed syllable with a rhyme composed of a nucleus and a coda, the suffix -er cannot be attached."
+      }
+    ]
+  },
+  "source": {
+    "references": [
+      {
+        "type": "textbook",
+        "author": "Fromkin, Rodman & Hyams",
+        "title": "An Introduction to Language (11th ed.)",
+        "year": 2018,
+        "publisher": "Cengage Learning",
+        "pages": "",
+        "excerpt": "An open syllable ends in a vowel (nucleus only); a closed syllable ends in a consonant (nucleus + coda)."
+      }
+    ],
+    "concept_explanation": "The comparative suffix -er in English is morphophonologically conditioned: it attaches to disyllabic adjectives only when the final syllable is an open syllable (rhyme = nucleus only, ending in a vowel). Disyllabic adjectives with a closed final syllable (rhyme = nucleus + coda, ending in a consonant) are unattested with -er. This is an example of an inflectional affix sensitive to the phonological structure of its base — specifically, syllable structure (open vs. closed syllable) rather than simple vowel/consonant count."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
