@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "id": "education_2025_A08",
+    "year": 2025,
+    "number": "A-8",
+    "subject": "education",
+    "question_type": "short_answer",
+    "score": 4,
+    "tags": ["interlanguage", "deviation", "semantic deviation", "number of arguments", "SLA"],
+    "parse_source": "2025_전공A",
+    "parse_confidence": "high",
+    "verified": true
+  },
+  "problem": {
+    "instruction": "Read the passage in <A> and the conversation in <B>, and follow the directions.",
+    "passage": "<A>\nUnderstanding second language (L2) learners' interlanguage is an important step for teaching L2 learners. In analyzing interlanguage, it has been found that deviations from characteristics of the target language exist in learners' utterances. For example, deviations in early L2 learners' utterances can be categorized into several types.\n\n<Deviations in Early L2 Learners' Utterances>\n| Type | Description | Example (intended meaning in parentheses) |\n|------|-------------|-------------------------------------------|\n| Mismatched lexical class | The lexical class does not match. | It's a pink. (It's pink.) |\n| Semantic deviation | Utterances are semantically ill-formed. | What's the spaghetti? (Do you like spaghetti?) |\n| Number of arguments | Utterances contain more or fewer arguments than required. | I wore. (I wore a shirt.) |\n| Word order | Word order is violated. | I this book read. (I read this book.) |\n| … | … | … |\n\n<B>\n(Two students are carrying out a two-way spot-the-difference task in their English class.)\nS1: Now, let's get started. In your picture, are there chairs?\nS2: Yes.\nS1: How many chairs are there?\nS2: Two chairs.\nS1: There are also two chairs in my picture. Now, please ask me about my picture.\nS2: What's the pen?\nS1: I'm sorry? Do you mean, \"Do you have a pen?\"\nS2: Yes.\nS1: Okay. Then, yes, I do. Do you have a pen?\nS2: No, I do not have a pen.\nS1: Okay. Then we've found one difference. Next, your turn.\nS2: Is there a girl?\nS1: Yes, there is. What is she doing?\nS2: She is giving Mary.\nS1: Um, what is she giving Mary?\nS2: Ah, she is giving Mary a book.\nS1: Oh, in my picture, she is giving Mary an eraser.\nS2: Yeah! Finally, we got them all.\n\nNote: S = student\n\nBased on <A>, identify the TWO types of deviations found in the students' utterances in <B>. Then, explain your answers, respectively, with evidence from <B>.",
+    "blanks": []
+  },
+  "derivation": {
+    "steps": [
+      {
+        "step": 1,
+        "label": "편차 유형 표 분석",
+        "explanation": "<A>의 표에서 각 편차 유형을 정리한다. 의미적으로 잘못 형성된 발화는 Semantic deviation, 필요한 논항(argument)보다 적거나 많은 경우는 Number of arguments 편차다.",
+        "key_terms": ["semantic deviation", "interlanguage"]
+      },
+      {
+        "step": 2,
+        "label": "증거 1 — Semantic deviation",
+        "explanation": "<B>에서 S2가 'What's the pen?'이라고 발화하지만, 의도한 의미는 'Do you have a pen?'이다. 이 발화는 의미적으로 잘못 형성(semantically ill-formed)된 것으로, <A>의 Semantic deviation 정의와 일치한다.",
+        "key_terms": ["semantic deviation"]
+      },
+      {
+        "step": 3,
+        "label": "증거 2 — Number of arguments",
+        "explanation": "<B>에서 S2가 'She is giving Mary.'라고 발화한다. give는 3개의 논항(주어·간접목적어·직접목적어)이 필요한 동사인데, 직접목적어 'a book'이 누락되었다. 이는 <A>의 Number of arguments 편차 유형(fewer arguments than required)에 해당한다.",
+        "key_terms": ["number of arguments"]
+      }
+    ],
+    "key_terms": [
+      {
+        "term": "interlanguage",
+        "definition_en": "The developing linguistic system of a second language learner that differs systematically from both the L1 and the target L2.",
+        "definition_ko": "L2 학습자의 발달 중인 언어 체계. 모국어와 목표어 모두에서 체계적으로 이탈됨.",
+        "source_author": "Selinker",
+        "source_year": 1972,
+        "related_terms": ["deviation", "fossilization"],
+        "exam_usage": "학습자 발화의 편차 유형 분석 문제로 출제"
+      },
+      {
+        "term": "semantic deviation",
+        "definition_en": "A type of interlanguage deviation in which the learner's utterance is semantically ill-formed.",
+        "definition_ko": "학습자의 발화가 의미적으로 잘못 형성된 중간언어 편차 유형.",
+        "source_author": "Selinker",
+        "source_year": 1972,
+        "related_terms": ["interlanguage", "number of arguments"],
+        "exam_usage": "'What's the pen?' → 의미 부적절 발화"
+      },
+      {
+        "term": "number of arguments",
+        "definition_en": "A type of interlanguage deviation in which the learner's utterance contains more or fewer arguments than required by the verb.",
+        "definition_ko": "동사가 요구하는 것보다 논항이 많거나 적은 중간언어 편차 유형.",
+        "source_author": "Selinker",
+        "source_year": 1972,
+        "related_terms": ["interlanguage", "semantic deviation"],
+        "exam_usage": "'She is giving Mary.' → 직접목적어 논항 누락"
+      }
+    ],
+    "vocabulary": [],
+    "translation": ""
+  },
+  "answer": {
+    "model_answer": {
+      "blank_answers": [],
+      "essay_content": "S2 demonstrates Semantic deviation and Number of arguments deviation. First, S2 produces 'What's the pen?' instead of the intended 'Do you have a pen?', which is semantically ill-formed. Second, S2 says 'She is giving Mary,' omitting the required argument 'a book', which results in fewer arguments than the verb give requires.",
+      "scoring_criteria": [
+        { "criterion": "두 유형 모두 정확히 식별: Semantic deviation + Number of arguments", "points": 2 },
+        { "criterion": "Semantic deviation 근거: 'What's the pen?' 언급 + 의미 부적절 설명", "points": 1 },
+        { "criterion": "Number of arguments 근거: 'She is giving Mary.' 언급 + 논항 누락 설명", "points": 1 }
+      ]
+    },
+    "variants": [
+      {
+        "label": "답안 A",
+        "source_type": "instructor",
+        "content": "S2 shows Semantic deviation in that 'What's the pen?' does not convey the proper intended meaning in context. S2 also shows a Number of arguments deviation since 'She is giving Mary' lacks the necessary argument to complete its meaning, as clarified later by 'She is giving Mary a book.'"
+      }
+    ]
+  },
+  "source": {
+    "references": [],
+    "concept_explanation": "Interlanguage (중간언어, Selinker 1972)는 L2 학습자가 목표어를 완전히 습득하기 전 단계의 발달적 언어 체계다. 편차 유형 중 Semantic deviation은 발화 자체가 의미적으로 잘못 형성된 경우이고, Number of arguments 편차는 동사가 요구하는 논항(argument)보다 많거나 적은 논항을 사용하는 경우다. give처럼 두 개의 목적어(간접+직접)를 요구하는 동사에서 하나의 논항이 누락되면 이 유형의 편차가 발생한다."
+  },
+  "related": {
+    "enabled": true,
+    "questions": []
+  }
+}
