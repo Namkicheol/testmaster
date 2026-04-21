@@ -513,6 +513,9 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 3 | `refs/2025 최진호 영어학 Intermediate pp. 23~25.md` | 최진호 책 추론본 (비공식, 보조 참고) |
 | 3★ | `refs/TG.md` | Radford, *Transformational Grammar* — 통사론 원전 |
 | 3★ | `refs/단숲_TG 정리.md` | TG 단권화 정리본 |
+| 3★ | `refs/단숲_트포 정리.md` | 단숲 트포(TG) 정리본 |
+| 3★ | `refs/2. 정T_트포 theory 단권화.md` | 정T 트포(TG) 이론 단권화 |
+| 3★ | `refs/트포 단권화.md` | 트포(TG) 단권화 |
 | 3★ | `refs/syntax and argumentation 5th.md` | Syntax & Argumentation 원전 |
 | 3★ | `refs/movement 단권화.md` | 이동 현상 단권화 |
 | 3★ | `refs/Raising And Control .md` | Raising & Control 정리 |
@@ -550,10 +553,7 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 4 | `refs/윤도형 영교론 핸드북.md` | 윤도형 영교론 핸드북 |
 | 4 | `refs/TEACHING by PRINCIPLES.md` | Brown, *Teaching by Principles* 원전 |
 | 4 | `refs/PLLT6th.md` | Brown, *Principles of Language Learning and Teaching* (6th ed.) 원전 |
-| 4 | `refs/2. 정T_트포 theory 단권화.md` | 정T 트포 이론 단권화 |
-| 4 | `refs/단숲_트포 정리.md` | 단숲 트포 정리본 |
 | 4 | `refs/송은우 키텀 마스터 OCR2024.md` | 송은우 키워드 마스터 |
-| 4 | `refs/트포 단권화.md` | 트포 단권화 |
 | 4 | `refs/카니 서브노트pdf(루이스 합).md` | 카니 서브노트 |
 | 4 | `refs/영교론 기출 키텀(루이스).md` | 루이스 기출 키텀 |
 | 4 | `refs/메가쌤_기출분석.md` | 메가쌤 전공영어 기출 분석 |
