@@ -505,7 +505,6 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 1 | `refs/2026 강사별 답안.md` | 2026 강사별 답안 (통합) |
 | 1 | `refs/2026 기출 권두걸팀 해설서.md` | 2026 권두걸팀 답안 (상세 해설) |
 | 1 | `refs/2026년 기출 조셉신팀 모범정답.md` | 2026 조셉신팀 답안 |
-| 2 | `refs/메가쌤 전공영어 기출분석.md` | 메가쌤 전공영어 기출 분석 |
 | 2 | `refs/밍우_영교론 영역별 기출분석본.md` | 밍우 영교론 영역별 기출 분석 |
 | 2 | `refs/1. 정T_영교론 챕터별 단권화(한글 설명).md` | **정T 영교론 단권화** — 개념 정의 기준 |
 | 2 | `refs/2. 정T_영교론 챕터별 키텀 맵핑(한글 설명).md` | **정T 키텀 맵핑** — 개념 계보·연결 |
@@ -522,6 +521,7 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 4 | `refs/트포 단권화.md` | 트포 단권화 |
 | 4 | `refs/카니 서브노트pdf(루이스 합).md` | 카니 서브노트 |
 | 4 | `refs/영교론 기출 키텀(루이스).md` | 루이스 기출 키텀 |
+| 4 | `refs/메가쌤 전공영어 기출분석.md` | 메가쌤 전공영어 기출 분석 |
 
 ---
 
@@ -542,8 +542,8 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 1 | `refs/2026 강사별 답안.md` | 2026 강사별 답안 (통합) |
 | 1 | `refs/2026 기출 권두걸팀 해설서.md` | 2026 권두걸팀 답안 (상세 해설) |
 | 1 | `refs/2026년 기출 조셉신팀 모범정답.md` | 2026 조셉신팀 답안 |
-| 2 | `refs/메가쌤 전공영어 기출분석.md` | 메가쌤 전공영어 기출 분석 |
 | 2 | `refs/4. 정T_루이스 기출 Chap.1-10 키텀.md` | **정T 루이스 기출 Ch.1–10 키워드** — 도출과정 기준 |
+| 3 | `refs/메가쌤 전공영어 기출분석.md` | 메가쌤 전공영어 기출 분석 |
 | 3 | `refs/루이스기출 5판.md` | 루이스 기출문제 5판 (2024 이전 문항만) |
 
 ---
