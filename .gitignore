@@ -9,3 +9,10 @@ node_modules/
 __pycache__/
 *.pyc
 *.log
+
+# 루트 임시/미완성 파일
+/Build up 영어교육론1.md
+/Build up 영어교육론2.md
+/mg-index-preview.html
+/thumbnails-mg.html
+/자리배치표_수정.html
