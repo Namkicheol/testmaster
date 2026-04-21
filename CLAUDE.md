@@ -493,6 +493,7 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 순위 | 파일 | 용도 |
 |------|------|------|
 | 1 | `refs/역대기출답안.md` | 2014–2023 강사+합격자 모범답안 전체 |
+| 1 | `refs/모범답안_2014-2023.md` | 2014–2023 강사+합격자 모범답안 최종본 (역대기출답안 대체 가능) |
 | 1 | `refs/2024 유희태 답안.md` / `refs/2024 조셉신 답안.md` | 2024 강사 답안 |
 | 1 | `refs/2025 유희태 답안.md` | 2025 유희태팀 답안 |
 | 1 | `refs/2025 전공영어 답안 및 해설_Ver.2.md` | 2025 권두걸팀 답안 (상세 해설) |
@@ -506,6 +507,9 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 3 | `refs/윤영어학.md` | 윤 영어학 참조서 |
 | 3 | `refs/최진호 영어학 중급_OCR.md` | 최진호 영어학 중급 |
 | 3 | `refs/An Introduction to Language 10th Edition1.md` | Fromkin et al. 교재 원전 |
+| 3 | `refs/aep.md` | Yavas, *Applied English Phonology* (3rd ed.) — 음운론 원전 |
+| 3 | `refs/The Teacher's Grammar of English.md` | *The Teacher's Grammar of English* — 영어학 원전 |
+| 3 | `refs/A students grammar of the English Language.md` | *A Student's Grammar of the English Language* — 영어학 원전 |
 | 3 | `refs/2025 최진호 영어학 Intermediate pp. 23~25.md` | 최진호 책 추론본 (비공식, 보조 참고) |
 | 3★ | `refs/TG.md` | Radford, *Transformational Grammar* — 통사론 원전 |
 | 3★ | `refs/단숲_TG 정리.md` | TG 단권화 정리본 |
@@ -523,6 +527,7 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 순위 | 파일 | 용도 |
 |------|------|------|
 | 1 | `refs/역대기출답안.md` | 2014–2023 강사+합격자 모범답안 전체 |
+| 1 | `refs/모범답안_2014-2023.md` | 2014–2023 강사+합격자 모범답안 최종본 (역대기출답안 대체 가능) |
 | 1 | `refs/2024 유희태 답안.md` / `refs/2024 조셉신 답안.md` | 2024 강사 답안 |
 | 1 | `refs/2025 유희태 답안.md` | 2025 유희태팀 답안 |
 | 1 | `refs/2025 전공영어 답안 및 해설_Ver.2.md` | 2025 권두걸팀 답안 (상세 해설) |
@@ -530,6 +535,8 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 1 | `refs/2026 강사별 답안.md` | 2026 강사별 답안 (통합) |
 | 1 | `refs/2026 기출 권두걸팀 해설서.md` | 2026 권두걸팀 답안 (상세 해설) |
 | 1 | `refs/2026년 기출 조셉신팀 모범정답.md` | 2026 조셉신팀 답안 |
+| 2 | `refs/Build up 영어교육론 Ⅰ.md` | **Build-up 영어교육론 1** — 이론 배경(theoretical backgrounds) 중심 |
+| 2 | `refs/Build up 영어교육론 Ⅱ.md` | **Build-up 영어교육론 2** — 실질적 교실지도(practical classroom teaching) 중심 |
 | 2 | `refs/밍우_영교론 영역별 기출분석본.md` | 밍우 영교론 영역별 기출 분석 |
 | 2 | `refs/1. 정T_영교론 챕터별 단권화(한글 설명).md` | **정T 영교론 단권화** — 개념 정의 기준 |
 | 2 | `refs/2. 정T_영교론 챕터별 키텀 맵핑(한글 설명).md` | **정T 키텀 맵핑** — 개념 계보·연결 |
@@ -542,11 +549,14 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 3 | `refs/영교론 기출 키워드 정리.md` | 기출 키워드 + 원전 출처 대조 |
 | 4 | `refs/윤도형 영교론 핸드북.md` | 윤도형 영교론 핸드북 |
 | 4 | `refs/TEACHING by PRINCIPLES.md` | Brown, *Teaching by Principles* 원전 |
+| 4 | `refs/PLLT6th.md` | Brown, *Principles of Language Learning and Teaching* (6th ed.) 원전 |
+| 4 | `refs/2. 정T_트포 theory 단권화.md` | 정T 트포 이론 단권화 |
+| 4 | `refs/단숲_트포 정리.md` | 단숲 트포 정리본 |
 | 4 | `refs/송은우 키텀 마스터 OCR2024.md` | 송은우 키워드 마스터 |
 | 4 | `refs/트포 단권화.md` | 트포 단권화 |
 | 4 | `refs/카니 서브노트pdf(루이스 합).md` | 카니 서브노트 |
 | 4 | `refs/영교론 기출 키텀(루이스).md` | 루이스 기출 키텀 |
-| 4 | `refs/메가쌤 전공영어 기출분석.md` | 메가쌤 전공영어 기출 분석 |
+| 4 | `refs/메가쌤_기출분석.md` | 메가쌤 전공영어 기출 분석 |
 
 ---
 
@@ -558,6 +568,7 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 순위 | 파일 | 용도 |
 |------|------|------|
 | 1 | `refs/역대기출답안.md` | 2014–2023 강사+합격자 모범답안 전체 |
+| 1 | `refs/모범답안_2014-2023.md` | 2014–2023 강사+합격자 모범답안 최종본 (역대기출답안 대체 가능) |
 | 1 | `refs/❤️기출 일영문학 서술형 분석.md` | 기출 일영 서술형 도출과정 핵심 기반 (2022 이하) — MD 우선 |
 | 1 | `refs/밍우_일영문학분석집.md` | 밍우 일반영어·문학 도출과정 분석 (2022 이하) |
 | 1 | `refs/2024 유희태 답안.md` / `refs/2024 조셉신 답안.md` | 2024 강사 답안 |
@@ -568,7 +579,7 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | 1 | `refs/2026 기출 권두걸팀 해설서.md` | 2026 권두걸팀 답안 (상세 해설) |
 | 1 | `refs/2026년 기출 조셉신팀 모범정답.md` | 2026 조셉신팀 답안 |
 | 2 | `refs/4. 정T_루이스 기출 Chap.1-10 키텀.md` | **정T 루이스 기출 Ch.1–10 키워드** — 도출과정 기준 |
-| 3 | `refs/메가쌤 전공영어 기출분석.md` | 메가쌤 전공영어 기출 분석 |
+| 3 | `refs/메가쌤_기출분석.md` | 메가쌤 전공영어 기출 분석 |
 | 3 | `refs/루이스기출 5판.md` | 루이스 기출문제 5판 (2024 이전 문항만) |
 
 ---
