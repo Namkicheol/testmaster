@@ -581,6 +581,12 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 
 ## Git 워크플로우
 
-- **Claude가 직접** feature 브랜치 커밋 → main merge → push 까지 처리.
-- 사용자가 GitHub에서 별도 merge 불필요.
-- 순서: feature 브랜치 작업 → `git checkout main` → `git merge <branch>` → `git push origin main`
+**자동 처리 원칙**: Claude는 사용자에게 별도 확인 받지 않고 작업 단위가 끝나면 **자동으로 commit → merge → push**까지 진행한다.
+
+- **트리거**: 사용자가 "끝났다"·"완료"·"마무리"·"깃허브 작업"·"반영해" 등 마무리 의도를 보이면 즉시 실행. 사용자가 별도로 커밋/푸시 지시하지 않아도 실행.
+- **순서**: feature 브랜치 작업 → `git add <해당 파일>` + commit → `git checkout main` → `git merge <branch> --no-edit` → `git push origin main`
+- **커밋 단위**: 같은 주제(예: 2025·2026 일반영어 정비)는 하나의 커밋으로 묶음. 무관한 변경은 별도 커밋.
+- **파일 선택**: `git add .` / `git add -A` 금지. 이번 작업에서 명시적으로 수정한 파일만 지정해서 add.
+- **Windows worktree 주의**: filemode 변동(100755↔100644)이 노이즈로 잡히면 `git config core.fileMode false`로 해소.
+- **커밋 메시지**: 한국어 제목 1줄 + 빈 줄 + 주요 변경 사항 bullet. 마지막에 `Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>` 포함.
+- **충돌·오류 시**: 자동 진행 중단하고 사용자에게 보고. 강제 옵션(`--force`, `reset --hard`) 금지.
