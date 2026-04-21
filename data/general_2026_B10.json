@@ -33,26 +33,26 @@
       },
       {
         "step": 2,
-        "label": "이론 ↔ 지문 대응",
+        "label": "Commentary ↔ 지문 대응",
         "explanation": "'단락 1: sport is ubiquitous … negative impacts on the environment' [paraphrase]\n→ Topic sentence: 스포츠의 광범위한 혜택에도 불구하고 환경에 부정적 영향을 미침\n\n'단락 2: golf courses — landscape destruction + chemical fertilizer' [paraphrase]\n→ Supporting idea 1: 스포츠 시설 개발(골프장)이 자연 경관 파괴 및 토양 오염 유발\n\n'단락 3: plastic waste + noise emission from spectator sports' [paraphrase]\n→ Supporting idea 2: 관중 스포츠 행사에서 플라스틱 폐기물과 소음 공해 발생\n\n'단락 4: sport organizations … proactive … sustainability' [paraphrase]\n→ Concluding sentence: 스포츠 단체가 환경 정책을 적극 추진해 지속가능성을 확보해야 함",
         "key_terms": []
       },
       {
         "step": 3,
-        "label": "후보 소거",
+        "label": "후보 소거 (passage-bound 위반 ✗)",
         "explanation": "- sport은 건강에 좋다 (topic sentence 후보): ✗ (지문 단락 1에서 건강 혜택은 도입부 배경 정보에 불과. 지문 전체 주제는 '스포츠의 환경적 부정 영향'이므로 topic sentence로 부적절.)\n- 지속가능성만을 supporting idea로 사용: ✗ (지속가능성은 지문 마지막 단락의 결론에 해당. supporting idea가 아니라 concluding sentence 내용.)\n- 골프장 + 관중 스포츠를 각각 별도 단락으로 작성: ✗ (지침이 '한 단락(one paragraph)'으로 명시. 여러 단락으로 나누면 지침 위반.)",
         "key_terms": []
       },
       {
         "step": 4,
-        "label": "확정 근거",
+        "label": "확정 근거 ([content] + [form])",
         "explanation": "최종 정답: 4-sentence summary paragraph\n\n[content] Topic sentence 근거: 단락 1 마지막 문장 'the field of sport is under pressure due to its negative impacts on the environment'가 전체 주제를 제시함.\n→ 근거: \"the field of sport is under pressure due to its negative impacts on the environment\"\n\n[content] Supporting idea 1 근거: 단락 2에서 골프장 확산이 자연 경관 파괴와 화학 비료 사용으로 이어진다고 구체적으로 서술.\n→ 근거: \"Part of the natural landscape is destroyed … huge amounts of chemical fertilizer are put into the soil\"\n\n[content] Supporting idea 2 근거: 단락 3에서 관중 스포츠가 플라스틱 폐기물 및 소음 공해를 유발한다고 서술.\n→ 근거: \"Hundreds and thousands of plastic waste … noise emission from the arrival and departure of spectators\"\n\n[context_flow] Concluding sentence 근거: 단락 4에서 스포츠 단체의 선제적 환경 정책 추진과 지속가능성 보호를 촉구함.\n→ 근거: \"Sport organizations should be more proactive … This will protect the long term viability and sustainability of sport\"",
         "key_terms": []
       },
       {
         "step": 5,
-        "label": "전략 메모",
-        "explanation": "Summary 시험 전략 (밍우·❤️ 기반):\n① 결론(마지막 단락)부터 먼저 읽기 — concluding sentence에 들어갈 내용과 지문 전체 방향을 먼저 파악. 이 지문의 마지막 단락: 'Sport organizations should be more proactive to overcome these difficulties' → 결론 방향: 스포츠 단체의 선제적 환경 정책 추진으로 지속가능성 확보.\n② 결론 확인 후 도입단락 확인: 'the field of sport is under pressure due to its negative impacts on the environment' → 전체 주제 = 스포츠의 환경적 부정 영향.\n③ Topic sentence에 도입단락 배경 정보(건강 혜택 등)는 배제 — 전체 주제(환경 영향)만 포함.\n\n출제 패턴 / 풀이 원칙:\n① 지침 구조 우선 확인: topic sentence / supporting ideas 개수 / concluding sentence 여부를 먼저 파악하고 작성 틀을 고정한다.\n② 단락 수 = 요약문 구성요소 수 대응 원칙: 지문의 각 단락이 요약문의 각 구성요소(TS, SI1, SI2, CS)와 대응하는 경우가 많다. 단락별 핵심 문장을 먼저 표시한다.\n③ 4단어 연속 인용 금지 준수: 핵심 내용은 동의어·paraphrase로 재진술. 고유명사(golf courses, plastic waste 등)는 그대로 사용 가능.\n\n함정:\n- 도입부 배경 정보(스포츠의 건강 혜택)를 topic sentence로 삼는 오류 — 지문 전체 주제와 불일치\n- supporting idea를 3개 이상 나열하거나 concluding sentence를 생략하는 지침 위반\n- 지문 문장을 4단어 이상 그대로 옮기는 오류 — 채점 기준 위반\n- 지문에 없는 외부 정보(예: 기후변화, 탄소 배출)를 추가하는 오류",
+        "label": "전략 메모 (출제 패턴 + 함정)",
+        "explanation": "Summary 시험 전략:\n① 결론(마지막 단락)부터 먼저 읽기 — concluding sentence에 들어갈 내용과 지문 전체 방향을 먼저 파악. 이 지문의 마지막 단락: 'Sport organizations should be more proactive to overcome these difficulties' → 결론 방향: 스포츠 단체의 선제적 환경 정책 추진으로 지속가능성 확보.\n② 결론 확인 후 도입단락 확인: 'the field of sport is under pressure due to its negative impacts on the environment' → 전체 주제 = 스포츠의 환경적 부정 영향.\n③ Topic sentence에 도입단락 배경 정보(건강 혜택 등)는 배제 — 전체 주제(환경 영향)만 포함.\n\n출제 패턴 / 풀이 원칙:\n① 지침 구조 우선 확인: topic sentence / supporting ideas 개수 / concluding sentence 여부를 먼저 파악하고 작성 틀을 고정한다.\n② 단락 수 = 요약문 구성요소 수 대응 원칙: 지문의 각 단락이 요약문의 각 구성요소(TS, SI1, SI2, CS)와 대응하는 경우가 많다. 단락별 핵심 문장을 먼저 표시한다.\n③ 4단어 연속 인용 금지 준수: 핵심 내용은 동의어·paraphrase로 재진술. 고유명사(golf courses, plastic waste 등)는 그대로 사용 가능.\n\n함정:\n- 도입부 배경 정보(스포츠의 건강 혜택)를 topic sentence로 삼는 오류 — 지문 전체 주제와 불일치\n- supporting idea를 3개 이상 나열하거나 concluding sentence를 생략하는 지침 위반\n- 지문 문장을 4단어 이상 그대로 옮기는 오류 — 채점 기준 위반\n- 지문에 없는 외부 정보(예: 기후변화, 탄소 배출)를 추가하는 오류",
         "key_terms": []
       }
     ],

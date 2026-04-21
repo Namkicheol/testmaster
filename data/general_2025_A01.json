@@ -6,80 +6,149 @@
     "subject": "general",
     "question_type": "short_answer",
     "score": 2,
-    "tags": ["immigrant narrative", "role reversal", "Monkey Bridge", "Lan Cao", "commentary fill-in"],
+    "tags": [
+      "novel",
+      "immigrant narrative",
+      "role reversal",
+      "Monkey Bridge",
+      "Lan Cao",
+      "commentary fill-in"
+    ],
     "parse_source": "2025_A형_기출_PDF",
     "parse_confidence": "high",
     "verified": true
   },
-
   "problem": {
     "instruction": "Complete the commentary below by filling in the blank with the ONE most appropriate word from the excerpt.",
     "passage": "Every morning, we drifted from stack to stack, vendor to vendor—tables full of vendor. There were no road maps to the black market. Prell and Colgate were pocketed among vegetable stands one day and jars of medicinal herbs the next. The market was randomly organized, and only the mighty and experienced like my mother could navigate its patternless paths.\n\nBut with a sense of neither drama nor calamity, my mother's ability to navigate and decipher simply became undone in our new life. She preferred the improvisation of haggling to the conventional certainty of discount coupons, the primordial messiness and fishmongers' stink of the open-air market to the aroma-free order of individually wrapped fillets.\n\nNow, a mere three and a half years or so after her last call to the sky market, the dreadful truth was simply this: we were going through life in reverse, and I was the one who would help my mother through the hard scrutiny of ordinary suburban life. I would have to forgo the luxury of adolescent experiments and temper tantrums, so that I could scoop my mother out of harm's way and give her sanctuary. Now, when we stepped into the exterior world, I was the one who told my mother what was acceptable or unacceptable behavior.\n\n— Lan Cao, Monkey Bridge\n\n<Commentary>\nWhile shopping, the narrator realizes that her mother—a first-generation immigrant—finds it challenging to navigate through the orderliness and modernity of the new land on her own. The narrator thus accepts the necessity to [BLANK] her role from that which was played in their homeland to an unfamiliar one.",
     "blanks": [
-      { "label": "①", "context": "accepts the necessity to [①] her role from... to... — 역할의 전환을 나타내는 동사" }
+      {
+        "label": "①",
+        "context": "accepts the necessity to [①] her role from... to... — 역할의 전환을 나타내는 동사"
+      }
     ]
   },
-
   "derivation": {
     "steps": [
       {
         "step": 1,
         "label": "범위 설정 — 발문 조건 확인",
         "explanation": "ONE word from the excerpt 조건. Commentary 빈칸은 '역할을 ___ her role from X to Y' 구조. 동사원형 자리. 후보는 지문에 실제로 등장한 단어 중 이 collocation에 맞는 것으로 한정.",
-        "key_terms": ["collocation"]
+        "key_terms": [
+          "collocation"
+        ]
       },
       {
         "step": 2,
-        "label": "대응쌍 — 지문 ↔ Commentary",
+        "label": "Commentary ↔ 지문 대응",
         "explanation": "지문: 'we were going through life in reverse' → 역할이 뒤바뀐 상황을 명시.\n지문: 어머니(과거) = 시장 탐색 능력자, 나(과거) = 의존자\n지문: 나(현재) = 어머니를 안내하는 주체, 어머니(현재) = 피보호자\nCommentary: '___ her role from that which was played in their homeland to an unfamiliar one'\n→ 역할이 반전됨 = reverse",
-        "key_terms": ["reverse"]
+        "key_terms": [
+          "reverse"
+        ]
       },
       {
         "step": 3,
-        "label": "후보 검증 — 지문 내 등장 단어 필터",
+        "label": "후보 소거 (passage-bound 위반 ✗)",
         "explanation": "'shift' — 지문에 없음. ✗\n'change' — 지문에 없음. ✗\n'adapt' — 지문에 없음. ✗\n'reverse' — 지문에 명시: 'going through life in reverse'. ✓\ncollocation: 'reverse her role from X to Y' 문법적으로 적격.\n의미: 고국에서 맡던 역할(의존자)과 정반대의 역할(보호자)로의 전환. ✓",
-        "key_terms": ["reverse", "collocation"]
+        "key_terms": [
+          "reverse",
+          "collocation"
+        ]
       },
       {
         "step": 4,
-        "label": "확정 근거 — 서사적 맥락",
-        "explanation": "고국에서 어머니는 시장을 혼자 능숙하게 탐색하는 '강하고 경험 많은' 인물. 새로운 땅에서 어머니의 능력은 'undone'되고, 화자가 어머니를 'scoop out of harm's way'하며 'sanctuary'를 제공하는 역할로 역전. 'going through life in reverse'는 이 역할 역전의 직접 표현이며, Commentary가 요구하는 빈칸과 정확히 대응.",
-        "key_terms": ["reverse"]
+        "label": "확정 근거 ([content] + [form])",
+        "explanation": "[content] 고국에서 어머니는 시장을 혼자 능숙하게 탐색하는 '강하고 경험 많은' 인물. 새로운 땅에서 어머니의 능력은 'undone'되고, 화자가 어머니를 'scoop out of harm's way'하며 'sanctuary'를 제공하는 역할로 역전. 'going through life in reverse'는 이 역할 역전의 직접 표현이며, Commentary가 요구하는 빈칸과 정확히 대응.\n[form] 'reverse her role from X to Y' collocation 적격 — 동사원형 자리에 reverse(타동사)가 삽입되어 문법적으로 자연스러움.",
+        "key_terms": [
+          "reverse"
+        ]
       },
       {
         "step": 5,
-        "label": "전략 — 일반영어 commentary 빈칸 풀이 원칙",
+        "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "(1) Commentary 문장을 지문의 어느 부분과 연결되는지 먼저 확인. (2) 빈칸 앞뒤 collocation 제약 파악 (품사·전치사 연어). (3) 그 collocation에 맞는 단어를 지문에서 검색. (4) 지문에 없는 단어는 정답 불가 — 외부 지식 금지.\n함정: 'shift'는 자연스러운 표현이지만 지문에 없음. 반드시 지문 내 단어로 한정.",
-        "key_terms": ["collocation"]
+        "key_terms": [
+          "collocation"
+        ]
       }
     ],
+    "key_terms": [],
     "vocabulary": [
-      { "word": "navigate", "pos": "v", "definition_ko": "길을 찾다, 헤쳐 나가다", "example": "navigate its patternless paths" },
-      { "word": "undone", "pos": "adj", "definition_ko": "무너진, 해체된", "example": "her ability to navigate simply became undone" },
-      { "word": "improvisation", "pos": "n", "definition_ko": "즉흥, 임기응변", "example": "the improvisation of haggling" },
-      { "word": "haggling", "pos": "v/gerund", "definition_ko": "흥정하기", "example": "preferred the improvisation of haggling" },
-      { "word": "primordial", "pos": "adj", "definition_ko": "원초적인, 태고의", "example": "primordial messiness" },
-      { "word": "forgo", "pos": "v", "definition_ko": "포기하다, 단념하다", "example": "forgo the luxury of adolescent experiments" },
-      { "word": "sanctuary", "pos": "n", "definition_ko": "피난처, 안식처", "example": "give her sanctuary" },
-      { "word": "scrutiny", "pos": "n", "definition_ko": "면밀한 검토, 시험", "example": "hard scrutiny of ordinary suburban life" },
-      { "word": "reverse", "pos": "n/v/adj", "definition_ko": "역방향, 반전; 뒤집다", "example": "going through life in reverse" }
+      {
+        "word": "navigate",
+        "pos": "v",
+        "definition_ko": "길을 찾다, 헤쳐 나가다",
+        "example": "navigate its patternless paths"
+      },
+      {
+        "word": "undone",
+        "pos": "adj",
+        "definition_ko": "무너진, 해체된",
+        "example": "her ability to navigate simply became undone"
+      },
+      {
+        "word": "improvisation",
+        "pos": "n",
+        "definition_ko": "즉흥, 임기응변",
+        "example": "the improvisation of haggling"
+      },
+      {
+        "word": "haggling",
+        "pos": "v/gerund",
+        "definition_ko": "흥정하기",
+        "example": "preferred the improvisation of haggling"
+      },
+      {
+        "word": "primordial",
+        "pos": "adj",
+        "definition_ko": "원초적인, 태고의",
+        "example": "primordial messiness"
+      },
+      {
+        "word": "forgo",
+        "pos": "v",
+        "definition_ko": "포기하다, 단념하다",
+        "example": "forgo the luxury of adolescent experiments"
+      },
+      {
+        "word": "sanctuary",
+        "pos": "n",
+        "definition_ko": "피난처, 안식처",
+        "example": "give her sanctuary"
+      },
+      {
+        "word": "scrutiny",
+        "pos": "n",
+        "definition_ko": "면밀한 검토, 시험",
+        "example": "hard scrutiny of ordinary suburban life"
+      },
+      {
+        "word": "reverse",
+        "pos": "n/v/adj",
+        "definition_ko": "역방향, 반전; 뒤집다",
+        "example": "going through life in reverse"
+      }
     ],
     "translation": "매일 아침, 우리는 좌판에서 좌판으로, 행상인을 따라 떠돌았다—온갖 행상인들로 가득 찬 탁자들 사이를. 암시장에는 길잡이 같은 것이 없었다. 프렐과 콜게이트는 어느 날은 채소 가판대 사이에, 다음 날은 약초 단지들 사이에 끼어 있었다. 시장은 제멋대로 구성되어 있었고, <span class=\"trans-hl\">오직 어머니처럼 강인하고 경험 많은 사람만이 그 종잡을 수 없는 길을 헤쳐 나갈 수 있었다.</span>\n\n하지만 특별히 극적이지도, 재난처럼 느껴지지도 않는 방식으로, <span class=\"trans-hl\">어머니의 그 탐색 능력과 판단력은 새로운 삶 속에서 그냥 사그라져버렸다.</span> 어머니는 할인 쿠폰의 틀에 박힌 확실성보다 흥정의 즉흥성을, 개별 포장된 필레의 냄새 없는 질서보다 노천 시장의 원초적인 어수선함과 생선 장수 냄새를 더 좋아했다.\n\n이제, 하늘 시장에 마지막으로 다녀온 지 겨우 3년 반쯤 지난 지금, 섬뜩한 사실은 이것이었다: <span class=\"trans-hl\">우리는 삶을 거꾸로 살아가고 있었고, 평범한 교외 생활이라는 혹독한 시험대에서 어머니를 도와줄 사람은 바로 나였다.</span> 나는 어머니를 위험에서 건져내어 안식처를 마련해드리기 위해, 사춘기 특유의 실험과 투정 부리는 사치를 포기해야만 했다. 이제, <span class=\"trans-hl\">우리가 바깥세상으로 나설 때, 어떤 행동이 받아들여지고 어떤 행동이 그렇지 않은지를 어머니에게 알려주는 것은 나였다.</span>\n\n— 란 카오, 『원숭이 다리』"
   },
-
   "answer": {
     "model_answer": {
       "blank_answers": [
-        { "label": "①", "answer": "reverse" }
+        {
+          "label": "①",
+          "answer": "reverse"
+        }
       ],
       "essay_content": "",
       "scoring_criteria": [
-        { "criterion": "① reverse", "points": 2 }
+        {
+          "criterion": "① reverse",
+          "points": 2
+        }
       ]
     },
     "variants": []
   },
-
   "source": {
     "references": [
       {
@@ -94,7 +163,6 @@
     ],
     "concept_explanation": "란 카오(Lan Cao)의 『원숭이 다리(Monkey Bridge)』는 베트남 이민 1.5세대 화자가 미국에서 어머니와 역할이 바뀌는 과정을 그린 소설. 고국에서 강인한 탐색자였던 어머니가 새 나라의 일상에 적응하지 못하면서, 화자(딸)가 보호자 역할을 맡게 됨.\n\n핵심 어휘 관계:\n· homeland: 어머니 = 능동적 탐색자 / 딸 = 의존자\n· new land: 어머니 = 피보호자 / 딸 = 안내자·보호자\n→ 'going through life in reverse' = 역할 역전 요약 표현\n\nCommentary 빈칸 전략: 지문의 핵심 표현('in reverse')에서 직접 어휘를 가져오는 passage-bound fill-in 유형."
   },
-
   "related": {
     "enabled": false,
     "questions": []

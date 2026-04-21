@@ -30,7 +30,7 @@
     "steps": [
       {
         "step": 1,
-        "label": "빈칸 추론 — 지문 내 단어 찾기",
+        "label": "범위 설정 — 발문 조건 확인",
         "explanation": "빈칸: 'Without stories, we would be ___.' 스토리가 삶에 의미를 부여한다는 글의 논지에서, 스토리 없이는 아무것도 없는 상태가 된다. 지문 3단락에서 'there is nothing left to tell'이 핵심 단어 'nothing'을 제공한다.",
         "key_terms": [
           "nothing"
@@ -38,7 +38,7 @@
       },
       {
         "step": 2,
-        "label": "밑줄 주변 문맥 확인 — pearl 의미 도출",
+        "label": "밑줄 설명 도출 — pearl",
         "explanation": "밑줄 바로 앞 문장(직접 근거): 'The longed-for meaning may be revealed at the very end, and we will no longer be there to receive the revelation.' → pearl = 이 'longed-for meaning'(갈망하던 의미)의 은유. 이야기의 끝에 이르러야만 발견되는 삶의 궁극적 의미.\n밑줄 구절 구조: 'can only be found at the story's end' → 끝까지 살아야만 얻을 수 있다는 조건이 핵심.\n전체 big topic 확인: 'stories are what make our lives worth living' → pearl = 이야기(삶)가 살 가치 있게 만드는 궁극적 의미·목적.",
         "key_terms": [
           "pearl"
@@ -46,19 +46,19 @@
       },
       {
         "step": 3,
-        "label": "밑줄 의미 서술 구성",
-        "explanation": "pearl은 삶의 고난과 실패를 견뎌낸 끝에 얻을 수 있는 궁극적 의미를 상징한다. 이야기를 도중에 포기하면 그 의미는 영원히 발견되지 않는다. 4단어 초과 연속 인용 금지 규칙에 따라 지문 구절을 그대로 쓰지 않는다.",
+        "label": "후보 소거 (passage-bound 위반 ✗)",
+        "explanation": "빈칸 후보:\n- 'lost' — 지문에 없음 ✗\n- 'meaningless' — 지문에 없음 ✗\n- 'empty' — 지문에 없음 ✗\n- 'nothing' — 3단락 'there is nothing left to tell'에 직접 등장 ✓\n→ 'nothing' 확정. 'Without stories, we would be nothing'은 4단락 'only a story can redeem our lives' 논지와 일치.\n\npearl 서술 구성 원칙: 지문 구절 4단어 초과 연속 인용 금지 — 재작성. pearl = 삶의 고난과 실패를 견뎌낸 끝에 얻을 수 있는 궁극적 의미의 상징.",
         "key_terms": []
       },
       {
         "step": 4,
-        "label": "확정 근거",
-        "explanation": "빈칸 근거: 3단락 'it's frustrating―profoundly, viscerally so―to quit a story before the end' + 4단락 'only a story can redeem our lives'. 스토리 없이는 삶이 구원받지 못하고 아무것도 남지 않는다 → 'nothing'.\n→ 지문 내 단어: 3단락 'there is nothing left to tell'에서 nothing이 직접 등장.\npearl 근거: 3단락 마지막 문장 'the \"pearl\" ... can only be found at the story's end' — pearl은 삶의 끝에야 발견될 수 있는 궁극적 의미·목적의 은유.",
+        "label": "확정 근거 ([content] + [form])",
+        "explanation": "[content] 빈칸 근거: 3단락 'it's frustrating―profoundly, viscerally so―to quit a story before the end' + 4단락 'only a story can redeem our lives' — 스토리 없이는 삶이 구원받지 못하고 아무것도 남지 않는다.\npearl 근거: 3단락 마지막 문장의 pearl은 '갈망하던 의미(longed-for meaning)'의 은유로서, 이야기(삶)의 끝에 이르러야만 발견되는 궁극적 의미·목적.\n[form] 빈칸 위치: 'we would be ___' — be동사 보어 자리, 명사/대명사/형용사 허용. 'nothing'은 대명사로 삽입 시 문법·의미 모두 적격.",
         "key_terms": []
       },
       {
         "step": 5,
-        "label": "전략 메모",
+        "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "빈칸 함정: 'lost'나 'meaningless'처럼 지문 밖의 단어를 선택하면 오답. 지문 3단락의 'nothing'이 유일한 정답 단어.\npearl 설명 함정: pearl을 '아름다운 결과물'이나 '보상'으로 단순화하면 감점. 반드시 '삶의 궁극적 의미 또는 목적'으로 서술하고, '이야기(삶)가 끝에 이르러야만 발견 가능하다'는 조건을 포함해야 한다.\n4단어 초과 인용 금지: 'can only be found at' 등 연속 인용 주의.",
         "key_terms": []
       }

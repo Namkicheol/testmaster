@@ -26,32 +26,32 @@
     "steps": [
       {
         "step": 1,
-        "label": "주제문 파악",
-        "explanation": "자기 자신을 먼저 생각하는 것(putting oneself first)이 이기적으로 보일 수 있지만 실제로는 여러 이점을 가져온다는 것이 글의 핵심 주장이다.",
+        "label": "범위 설정 — 발문 조건 확인",
+        "explanation": "발문 조건: one paragraph + topic sentence + two supporting ideas + concluding sentence + 4단어 초과 연속 인용 금지. 즉 총 4개 요소를 한 단락에 압축하되 지문 문장을 그대로 베끼지 않는 패러프레이즈 요약이 요구됨.",
         "key_terms": []
       },
       {
         "step": 2,
-        "label": "지지 아이디어 1 — 거절과 스트레스 감소",
-        "explanation": "마지못해 요청을 수락하는 대신 거절함으로써 감정적 균형을 유지하고 더 좋은 관계를 형성할 수 있다. (쇼핑 예시)",
+        "label": "Topic ↔ Supporting ideas 추출 (Conclusion-first)",
+        "explanation": "Conclusion-first 접근: 마지막 문단 'putting yourself first can often benefit everyone involved' + 'selfishness may also become an act of selflessness' → 결론 방향 확정 = 자기 우선은 궁극적으로 모두에게 이로움.\n\nTopic sentence: 자기 자신을 먼저 생각하는 것(putting oneself first)이 이기적으로 보일 수 있지만 실제로는 여러 이점을 가져온다는 것이 글의 핵심 주장.\n\nSupporting idea 1 — 거절과 스트레스 감소 (쇼핑 예시): 마지못해 요청을 수락하는 대신 거절함으로써 감정적 균형을 유지하고 더 좋은 상호작용을 만들 수 있다.\n\nSupporting idea 2 — 행복의 공유 (부모-자녀 예시): 연구에 따르면 자신의 필요를 우선시하는 사람들이 더 행복하며, 그 행복을 주변 사람들과 공유할 수 있다.",
         "key_terms": []
       },
       {
         "step": 3,
-        "label": "지지 아이디어 2 — 행복의 공유",
-        "explanation": "연구에 따르면 자신의 필요를 우선시하는 사람들이 더 행복하며, 그 행복을 주변 사람들과 공유할 수 있다. (부모-자녀 예시)",
+        "label": "후보 소거 (일화·예시 제외)",
+        "explanation": "요약 포함 후보 검토:\n- 도입부 '무례해 보일까 두려워한다'(fear of appearing rude) → 문제 제기일 뿐 핵심 근거 아님 ✗ 생략.\n- 쇼핑 일화 구체 묘사(갈비뼈·짜증 등 세부 예시 묘사) → anecdote는 요약 대상 아님 ✗ 일반화해 반영.\n- 'bubble bath' 등 개별 예시 단어 → passage-bound 세부, 요약엔 부적합 ✗ 생략.\n- Topic(자기 우선의 이점) + SI1(거절→스트레스 감소) + SI2(행복 공유) + Conclusion(거절 두려워 말라) ✓ 채택.",
         "key_terms": []
       },
       {
         "step": 4,
-        "label": "결론",
-        "explanation": "장기적으로 자기 자신을 먼저 생각하는 것이 모두에게 이익이 될 수 있으므로, 어려운 요청에 거절하는 것을 두려워하지 말아야 한다.",
+        "label": "확정 근거 ([topic] + [support] + [conclusion])",
+        "explanation": "[topic] 'it actually leads to multiple benefits' — 자기 우선이 여러 이점으로 이어진다는 주장.\n[support 1] 'A total disregard ... put up with a grumpy, stressed-out shopping companion!' — 거절이 스트레스 감소와 더 나은 관계로 이어짐.\n[support 2] 'when people put themselves first they feel happier ... share that happiness with others' — 자기 우선이 본인과 주변의 행복 증가로 이어짐.\n[conclusion] 'putting yourself first can often benefit everyone involved ... don't be afraid to just say no' — 장기적으로 모두에게 이익이 되므로 거절을 두려워 말라.",
         "key_terms": []
       },
       {
         "step": 5,
-        "label": "전략 메모",
-        "explanation": "Summary 시험 전략 (밍우·❤️ 기반):\n① 결론(마지막 문단)부터 먼저 읽기 — 요약의 핵심 방향과 concluding sentence에 들어갈 내용을 먼저 파악. 이 지문의 마지막 문단: 'selfishness may―in many cases―also become an act of selflessness. Therefore, don't be afraid to just say no.' → 결론 방향: 자기 우선이 궁극적으로 모두에게 이로움 + 실천 제안(say no).\n② 결론 문장에는 '이기심=이타심' 역설 + 실천적 제안('거절하는 것을 두려워하지 말라')을 포함.\n③ Supporting ideas: introduction의 정의·문제 제기는 요약하지 않음. 각 본론 문단의 핵심 포인트만 추출.\n\n기본 지침 준수:\n- 한 단락(one paragraph) — 단락 분리 금지.\n- 순서: topic sentence → SI1 → SI2 → concluding sentence.\n- 4단어 초과 연속 인용 금지.\n\n함정:\n- Topic sentence를 '이타심이 문제다'로 잡으면 오류 — 전체 주제는 '자기 우선의 이점'.\n- Supporting idea 3개 이상 나열하거나 concluding sentence 생략 시 지침 위반.",
+        "label": "전략 메모 (출제 패턴 + 함정)",
+        "explanation": "Summary 시험 전략:\n① 결론(마지막 문단)부터 먼저 읽기 — 요약의 핵심 방향과 concluding sentence에 들어갈 내용을 먼저 파악. 이 지문의 마지막 문단: 'selfishness may―in many cases―also become an act of selflessness. Therefore, don't be afraid to just say no.' → 결론 방향: 자기 우선이 궁극적으로 모두에게 이로움 + 실천 제안(say no).\n② 결론 문장에는 '이기심=이타심' 역설 + 실천적 제안('거절하는 것을 두려워하지 말라')을 포함.\n③ Supporting ideas: introduction의 정의·문제 제기는 요약하지 않음. 각 본론 문단의 핵심 포인트만 추출.\n\n기본 지침 준수:\n- 한 단락(one paragraph) — 단락 분리 금지.\n- 순서: topic sentence → SI1 → SI2 → concluding sentence.\n- 4단어 초과 연속 인용 금지.\n\n함정:\n- Topic sentence를 '이타심이 문제다'로 잡으면 오류 — 전체 주제는 '자기 우선의 이점'.\n- Supporting idea 3개 이상 나열하거나 concluding sentence 생략 시 지침 위반.",
         "key_terms": []
       }
     ],

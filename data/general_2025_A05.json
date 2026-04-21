@@ -31,7 +31,7 @@
     "steps": [
       {
         "step": 1,
-        "label": "빈칸 확인 — poem에서 단어 추출",
+        "label": "범위 설정 — 발문 조건 확인",
         "explanation": "Commentary의 빈칸: 'the child will experience various ___ in the process of molding selfhood.' 시에서 자아를 형성하는 과정의 시련을 나타내는 단어를 찾는다. 14–15행 'nature's give-and-take―the small, the scorching / Ordeals which fire one's irresolute clay.'에서 'ordeals'(시련)가 정확히 대응한다.",
         "key_terms": [
           "ordeals"
@@ -39,7 +39,7 @@
       },
       {
         "step": 2,
-        "label": "'give-and-take' 위치 확인 + 시 전체 구조",
+        "label": "밑줄 설명 도출 — give-and-take",
         "explanation": "13–15행: 'About nature's give-and-take―the small, the scorching / Ordeals which fire one's irresolute clay.' → give-and-take는 자연의 상호교환 원칙. 발문 조건: 'the speaker assumes a parent's voice' → 부모의 관점으로만 해석.\n시 전체 흐름 확인: 1행 'It is eighteen years ago' → 18년간의 양육 회상. 19–20행(마지막) 'selfhood begins with a walking away, / And love is proved in the letting go.' → 이 두 줄이 give/take 은유의 핵심 근거.",
         "key_terms": [
           "give-and-take",
@@ -48,23 +48,23 @@
       },
       {
         "step": 3,
-        "label": "'give'의 은유적 의미 도출",
-        "explanation": "부모의 관점에서 'give': 시의 1행 'It is eighteen years ago'부터 이어지는 18년간의 양육 — 첫 축구 경기를 지켜보고, 멀어지는 아이를 기억하는 화자의 헌신이 'give'(부모가 자녀에게 베푸는 사랑과 돌봄)에 해당.\n근거 구절: 'I watched you play / Your first game of football' → 수년간 자녀와 함께하며 쏟아온 돌봄의 구체적 표현.\n→ 'give' = the parent's act of nurturing and offering love to the child.",
+        "label": "후보 소거 (passage-bound 위반 ✗)",
+        "explanation": "빈칸 후보 단어:\n- 'trials' — 시에 없음 ✗\n- 'pains' — 시에 없음 ✗\n- 'tests' — 시에 없음 ✗\n- 'ordeals' — 14–15행 'Ordeals which fire one's irresolute clay'에 직접 등장 ✓\n→ 'ordeals' 확정. 'molding selfhood' 문맥이 'fire one's irresolute clay'(점토를 달구어 빚다)와 1:1 대응.\n\n'give' 은유 후보:\n- '물질적 제공' — 시에 근거 없음 ✗\n- '양육과 사랑의 베풂' — 1행 이하 18년의 양육 서사 + 'I watched you play / Your first game of football' ✓\n→ 'give' = the parent's act of nurturing and offering love to the child.",
         "key_terms": [
           "nurturing"
         ]
       },
       {
         "step": 4,
-        "label": "'take'의 은유적 의미 도출",
-        "explanation": "부모의 관점에서 'take': 자녀를 보내주며 치러야 하는 이별의 고통(대가).\n가장 명확한 근거: 20행 'love is proved in the letting go' — 사랑이 '보내줌'으로 증명된다는 역설은, letting go가 부모가 감수해야 할 고통(cost)임을 함축. 이 고통이 바로 'take'(부모가 받아들여야 하는 상실과 이별).\n추가 근거: 16행 'I have had worse partings, but none that so / Gnaws at my mind still' → 이별이 여전히 마음을 갉아먹는 고통임을 직접 표현.\n→ 'take' = the emotional pain and loss of parting that the parent must accept as the child walks away.",
+        "label": "확정 근거 ([content] + [form])",
+        "explanation": "[content] 'take'의 은유 — 부모의 관점에서 자녀를 보내주며 치러야 하는 이별의 고통(대가). 20행 'love is proved in the letting go'는 letting go가 부모가 감수해야 할 고통임을 역설적으로 표현. 16행 'I have had worse partings, but none that so / Gnaws at my mind still' → 이별이 여전히 마음을 갉아먹는 고통임을 직접 진술.\n→ 'take' = the emotional pain and loss of parting that the parent must accept as the child walks away.\n[form] 'ordeals' — 복수 명사, 'various ___' 한정사 뒤 복수 자리와 일치. 'give'/'take'는 명사 자리이며 시의 'give-and-take' 합성 명사 구조에서 직접 추출.",
         "key_terms": [
           "parting"
         ]
       },
       {
         "step": 5,
-        "label": "전략 메모",
+        "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "빈칸 함정: Commentary 문맥 'various ___ in the process of molding selfhood'와 지문 14–15행 'Ordeals which fire one's irresolute clay'가 정확히 대응. 다른 단어(trials, pains, tests 등)를 쓰면 '지문 내 단어'가 아니므로 오답.\ngive/take 함정: 발문이 'speaker assumes a parent's voice'라고 명시 → 일반적 주고받기 해석 금지. give = 부모가 자녀에게 베푸는 양육과 사랑 / take = 자녀가 떠남으로 인해 부모가 감수하는 이별의 고통. 두 답을 혼동하지 않도록 방향을 명확히 구분.",
         "key_terms": []
       }
