@@ -39,8 +39,8 @@ const SUBJECT_TAG_CLASS = {
 
 function isLiterary(meta) {
   if (!meta.tags?.length) return false;
-  const litTypes = ['novel', 'play', 'poem', 'poetry', 'drama', 'fiction', 'essay'];
-  return litTypes.some(t => meta.tags.some(tag => tag.toLowerCase().includes(t)));
+  const litTypes = ['novel', 'fiction', 'play', 'drama', 'poem', 'poetry'];
+  return litTypes.some(t => meta.tags.some(tag => tag.toLowerCase() === t));
 }
 
 function getSubjectKo(meta) {
@@ -245,19 +245,13 @@ function renderMeta(meta) {
   }
 
   // 소설/희곡/시 태그
-  const literaryTypes = ['novel','play','poem','essay'];
   let literaryTag = '';
-  if (meta.subject === 'general' && meta.tags) {
-    const hasLit = literaryTypes.some(t =>
-      meta.tags.some(tag => tag.toLowerCase().includes(t)) ||
-      (meta.tags.includes('drama') || meta.tags.includes('poetry'))
-    );
-    if (hasLit) {
-      const litLabel = meta.tags.includes('drama') || meta.tags.some(t => t.includes('play')) ? '희곡'
-        : meta.tags.some(t => t.includes('poem') || t.includes('poetry')) ? '시'
-        : '소설';
-      literaryTag = `<span class="tag tag-novel">${litLabel}</span>`;
-    }
+  if (meta.subject === 'general' && isLiterary(meta)) {
+    const lc = meta.tags.map(t => t.toLowerCase());
+    const litLabel = (lc.includes('play') || lc.includes('drama')) ? '희곡'
+      : (lc.includes('poem') || lc.includes('poetry')) ? '시'
+      : '소설';
+    literaryTag = `<span class="tag tag-novel">${litLabel}</span>`;
   }
 
   const essayTag = isEssay ? `<span class="tag tag-essay">서술형</span>` : '';
