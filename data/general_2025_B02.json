@@ -50,19 +50,28 @@
         "step": 3,
         "label": "후보 소거 (passage-bound 위반 ✗)",
         "explanation": "Commentary 문맥: '경험에 ___ 를 부여하기 위해 문학적 기록을 남기려 한다'. 가능한 후보 단어를 지문에서 확인:\n- 'meaning': 지문에 직접 없음 ✗\n- 'truth': 지문 3단락에 'The truth that makes your story yours alone'이 있지만, Commentary는 경험의 uniqueness·distinctiveness를 가리킴 ✗\n- 'particularity': 지문 3단락 'life begins to lose its particularity' — 기록 없이는 삶이 particularity를 잃는다 = 기록의 목적이 particularity 부여 ✓\n→ particularity 확정.",
-        "key_terms": []
+        "key_terms": [
+          "particularity",
+          "truth"
+        ]
       },
       {
         "step": 4,
         "label": "확정 근거 ([content] + [form])",
         "explanation": "[content] 핵심 근거 문장: 'But seen from too remote a vantage, life begins to lose its particularity. All shipwrecks become the same shipwreck, all castaways the same castaway.' → 화자의 논거: 기록이 없으면 모든 경험이 획일화되어 particularity를 잃는다. 기록의 목적 = 경험에 particularity를 부여하는 것 = Commentary의 빈칸과 1:1 대응.\n[form] 'attribute ___ to their experiences' — attribute + N + to의 직접목적어 자리, 불가산 추상명사 허용. 'particularity'는 불가산 추상명사로 문법·의미 모두 적격.",
-        "key_terms": []
+        "key_terms": [
+          "particularity",
+          "shipwreck"
+        ]
       },
       {
         "step": 5,
         "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "함정: Commentary의 'attribute ___ to their experiences'를 '경험에 의미를 부여한다'로 해석하여 'meaning'을 쓰는 오류. 지문 내 단어여야 하므로 meaning은 불가.\nCruso의 대비: Cruso는 terraces and walls(물리적 노동의 흔적)로 족하다고 주장 ↔ 화자는 언어적 기록이 필요하다고 주장 — 이 대비가 particularity의 의미를 부각함.",
-        "key_terms": []
+        "key_terms": [
+          "meaning",
+          "particularity"
+        ]
       }
     ],
     "key_terms": [],

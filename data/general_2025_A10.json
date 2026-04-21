@@ -48,19 +48,28 @@
         "step": 3,
         "label": "후보 소거 (passage-bound 위반 ✗)",
         "explanation": "빈칸 후보:\n- 'lost' — 지문에 없음 ✗\n- 'meaningless' — 지문에 없음 ✗\n- 'empty' — 지문에 없음 ✗\n- 'nothing' — 3단락 'there is nothing left to tell'에 직접 등장 ✓\n→ 'nothing' 확정. 'Without stories, we would be nothing'은 4단락 'only a story can redeem our lives' 논지와 일치.\n\npearl 서술 구성 원칙: 지문 구절 4단어 초과 연속 인용 금지 — 재작성. pearl = 삶의 고난과 실패를 견뎌낸 끝에 얻을 수 있는 궁극적 의미의 상징.",
-        "key_terms": []
+        "key_terms": [
+          "nothing"
+        ]
       },
       {
         "step": 4,
         "label": "확정 근거 ([content] + [form])",
         "explanation": "[content] 빈칸 근거: 3단락 'it's frustrating―profoundly, viscerally so―to quit a story before the end' + 4단락 'only a story can redeem our lives' — 스토리 없이는 삶이 구원받지 못하고 아무것도 남지 않는다.\npearl 근거: 3단락 마지막 문장의 pearl은 '갈망하던 의미(longed-for meaning)'의 은유로서, 이야기(삶)의 끝에 이르러야만 발견되는 궁극적 의미·목적.\n[form] 빈칸 위치: 'we would be ___' — be동사 보어 자리, 명사/대명사/형용사 허용. 'nothing'은 대명사로 삽입 시 문법·의미 모두 적격.",
-        "key_terms": []
+        "key_terms": [
+          "pearl",
+          "nothing",
+          "longed-for meaning"
+        ]
       },
       {
         "step": 5,
         "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "빈칸 함정: 'lost'나 'meaningless'처럼 지문 밖의 단어를 선택하면 오답. 지문 3단락의 'nothing'이 유일한 정답 단어.\npearl 설명 함정: pearl을 '아름다운 결과물'이나 '보상'으로 단순화하면 감점. 반드시 '삶의 궁극적 의미 또는 목적'으로 서술하고, '이야기(삶)가 끝에 이르러야만 발견 가능하다'는 조건을 포함해야 한다.\n4단어 초과 인용 금지: 'can only be found at' 등 연속 인용 주의.",
-        "key_terms": []
+        "key_terms": [
+          "nothing",
+          "pearl"
+        ]
       }
     ],
     "key_terms": [],

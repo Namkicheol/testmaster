@@ -66,7 +66,11 @@
         "step": 5,
         "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "빈칸 함정: Commentary 문맥 'various ___ in the process of molding selfhood'와 지문 14–15행 'Ordeals which fire one's irresolute clay'가 정확히 대응. 다른 단어(trials, pains, tests 등)를 쓰면 '지문 내 단어'가 아니므로 오답.\ngive/take 함정: 발문이 'speaker assumes a parent's voice'라고 명시 → 일반적 주고받기 해석 금지. give = 부모가 자녀에게 베푸는 양육과 사랑 / take = 자녀가 떠남으로 인해 부모가 감수하는 이별의 고통. 두 답을 혼동하지 않도록 방향을 명확히 구분.",
-        "key_terms": []
+        "key_terms": [
+          "ordeals",
+          "give",
+          "take"
+        ]
       }
     ],
     "key_terms": [],

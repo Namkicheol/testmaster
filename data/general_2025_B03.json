@@ -43,25 +43,33 @@
         "step": 2,
         "label": "밑줄 설명 도출 — Jimmy ↔ the woman 유사점",
         "explanation": "공통 구조 먼저 확인: '강렬한 감정 표출 → 주변의 완전한 무시(unheard)'.\n\nthe woman: 집회에서 고통으로 '목이 터져라 소리를 질렀지만'(yelling her head off in agony) → '5만 명이 노래를 부르는 바람에 아무도 그녀가 거기 있다는 것조차 몰랐다'(nobody even knew she was there). = 강렬한 신체적 표현 → 군중 속 완전한 무시.\n\nJimmy: 신문 기사를 읽으며 반응을 구하고('He looks up at both of them for reaction'), 열정적인 발언을 반복하며 인간적 열정을 갈망하지만('I long for a little ordinary human enthusiasm') → Alison과 Cliff는 무관심하게 각자 할 일만 한다(Cliff: 신문 읽기, Alison: 다림질). = 강렬한 감정·언어적 표현 → 무관심 속 완전한 무시.",
-        "key_terms": []
+        "key_terms": [
+          "unheard"
+        ]
       },
       {
         "step": 3,
         "label": "후보 소거 (passage-bound 위반 ✗)",
         "explanation": "Commentary: 'saturating themselves into ___' — '자신을 ___ 에 흠뻑 빠뜨리고 현실에 맞서길 거부한다'. 후보:\n- 'apathy': 지문에 없음 ✗\n- 'indifference': 지문에 없음 ✗\n- 'sloth': 지문 직접 인용 'No one can raise themselves out of their delicious sloth' ✓\n→ sloth 확정. ONE word from the excerpt 조건도 충족.",
-        "key_terms": []
+        "key_terms": [
+          "sloth"
+        ]
       },
       {
         "step": 4,
         "label": "확정 근거 ([content] + [form])",
         "explanation": "① 빈칸 근거: 'No one can raise themselves out of their delicious sloth' — Jimmy가 Alison·Cliff를 비판할 때 사용한 단어 sloth가 Commentary에서 '현실에 맞서길 거부하는 무기력함'으로 대응.\n② 유사점 구성: the woman = 집회에서 고통으로 소리 질렀지만 5만 군중의 노래 속에 완전히 무시됨. Jimmy = 열정적 발언과 감정 표출을 반복하지만 Alison·Cliff의 무관심 속에 완전히 무시됨. 공통점: 강렬한 감정 표현 → 주변의 완전한 무시(ignored/unnoticed).",
-        "key_terms": []
+        "key_terms": [
+          "sloth"
+        ]
       },
       {
         "step": 5,
         "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "빈칸 함정: 유사한 의미의 apathy, indifference는 지문 내 단어가 아니므로 불가. sloth는 지문에 그대로 나온 단어.\n유사점 함정: 단순히 '둘 다 무시당했다'만 쓰면 부족. the woman의 물리적 고통(broken ribs) + Jimmy의 감정적 고통(열정 무시)이라는 각각의 구체적 상황을 제시한 후 공통점('강렬한 반응 표현 → 완전히 무시됨')으로 연결해야 감점 없음.",
-        "key_terms": []
+        "key_terms": [
+          "sloth"
+        ]
       }
     ],
     "key_terms": [],

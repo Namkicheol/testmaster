@@ -41,25 +41,38 @@
         "step": 2,
         "label": "밑줄 설명 도출 — cacti 은유",
         "explanation": "밑줄 바로 앞 문장(직접 근거): 'Our brains are not evolved for this world of plenty.' → brains(인간) = 풍요(plenty) 환경에 적응 못함 = cacti in rain forest 구조와 1:1 대응.\n\ncacti 은유 분석:\n- cacti(선인장) = 건조한 환경(scarcity of water)에 적응한 식물 → 열대우림의 풍부한 물(abundance) 속에서는 기능 부전.\n- humans = 결핍(scarcity) 환경을 위해 진화한 뇌 → 현대의 압도적 풍요(abundance) 속에서 적응 못해 과소비·중독 발생.\n\n대응 구조: cacti : rain forest = humans : modern world of plenty (scarcity 적응 존재가 abundance 환경에서 겪는 부적응).",
-        "key_terms": []
+        "key_terms": [
+          "cacti",
+          "scarcity",
+          "plenty"
+        ]
       },
       {
         "step": 3,
         "label": "후보 소거 (passage-bound 위반 ✗)",
         "explanation": "빈칸: '___의 세계를 위해 완벽하게 적응되어 있다'. 신경 시스템이 진화적으로 설계된 환경 후보:\n- 'abundance': 뇌가 지금 적응 못하는 환경 ✗\n- 'scarcity': 다음 단락 'we've transformed the world from a place of scarcity to a place of overwhelming abundance' → 뇌는 abundance 이전, 즉 scarcity 환경을 위해 설계됨 ✓\n- 'pain': 지문에 pain은 나오지만 신경 시스템의 설계 환경 맥락과 불일치 ✗",
-        "key_terms": []
+        "key_terms": [
+          "scarcity",
+          "abundance"
+        ]
       },
       {
         "step": 4,
         "label": "확정 근거 ([content] + [form])",
         "explanation": "빈칸 근거: 'we've transformed the world from a place of scarcity to a place of overwhelming abundance' + 'Our brains are not evolved for this world of plenty' — 즉 뇌는 scarcity 환경을 위해 설계됐고 abundance에는 적응 못함 → 빈칸 = scarcity.\ncacti 은유 근거: 선인장(cacti) = 건조한 환경(scarcity)에 적응한 식물 → 열대우림(rain forest = abundance)에서 기능 부전. 이 대응이 인간의 뇌(scarcity 적응) = 현대 풍요 세계(abundance)에서 기능 부전과 동일 구조.",
-        "key_terms": []
+        "key_terms": [
+          "scarcity",
+          "abundance"
+        ]
       },
       {
         "step": 5,
         "label": "전략 메모 (출제 패턴 + 함정)",
         "explanation": "빈칸 함정: 바로 앞 문장들이 pleasure/pain 설명이라 'pain'을 선택하기 쉬움. 그러나 빈칸 직후 단락 'transformed the world from scarcity to abundance'가 핵심 단서. 빈칸의 'world of ___'는 뇌가 적응한 진화적 환경 = scarcity.\n은유 설명 함정: cacti 은유를 설명할 때 동물 예시나 외부 지식 추가 금지. 반드시 지문 내 scarcity ↔ abundance 대비를 근거로 인간(scarcity 적응) + 현대 환경(abundance) 구조를 서술해야 함.",
-        "key_terms": []
+        "key_terms": [
+          "scarcity",
+          "cacti"
+        ]
       }
     ],
     "key_terms": [],
