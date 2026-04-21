@@ -484,7 +484,7 @@ Second, [Supporting idea 2 paraphrase]. Thus/In conclusion, [Conclusion paraphra
 | `refs/` | MD 변환본 — Grep 검색 최적 | Grep + Read |
 | `references/` | PDF 원본 — 그림·표 포함 | Read 툴로 직접 (Grep 불가) |
 
-> 모두 **gitignored** — 로컬 전용. GitHub에 올라가지 않음.
+> `references/`(PDF 원본)는 **gitignored** — 로컬 전용. `refs/`(MD 변환본)는 GitHub에 함께 업로드.
 
 ---
 
